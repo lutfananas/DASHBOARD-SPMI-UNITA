@@ -1,0 +1,1656 @@
+MANUAL MUTU
+                                 Dokumen Mutu
+                       Universitas     Kode Dok.        :   SPMI/PPM/DM/MNL/2024
+                      Tulungagung      Tanggal          :   10/01/2024
+                   Sistem Penjaminan   Revisi           :   -
+                      Mutu Internal    Halaman          :
+
+
+
+
+                            MANUAL MUTU
+   SISTEM PENJAMINA MUTU INTERNAL (SPMI)
+                  UNIVERSITAS TULUNGAGUNG
+
+
+
+
+                                       Penangungjawab
+    Proses                                                          Tanda     Tanggal
+                              Nama                    Jabatan
+                                                                    Tangan
+  1. Perumus       Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+
+ 2. Pemeriksa       Eni Minarni, S.E., Ak, M.Ak    Ka. Bag. Monev            10/01/2024
+
+3. Persetujuan     Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+
+ 4. Penetapan          Dr. Muharsono, M.Si             Rektor                10/01/2024
+
+5. Pengendalian    Anang Sugeng ., S.AP., M.Si.       Ka. PPM                10/01/2024
+TIM PENYUSUN
+Tim penyusun Manual Mutu Universitas Tulungagung menjalankan tugas
+berdasarkan   Keputusan   Rektor   Universitas   Tulungagung    Nomor:
+A/002.I/KEP/UNITA/I/2024 Tanggal 5 Januari 2024 dengan susunan
+keanggotaan sebagai berikut:
+
+
+
+
+                                                  Penanggung Jawab
+                                                  Dr. Muharsono. M.Si.
+
+                                                              Ketua
+                                        Anang Sugeng C., S.Ap., M.Si.
+
+                                                            Sekertaris
+                                        Lutfan Anas Zahir, S.Si., M.Pd.
+
+                                                               Anggota
+                               Prof. Dr. Dwi Ima Herminingsih, M.Hum.
+                                          Danang Wijanarko, S.T., M.T.
+                                     Chusnatul Ulaela Sajali, S.P.,M.P.
+                                          Aulia Rahman Hakim, Sh.,Mh.
+                                                  Eni Minarni, Se.,M.Ak.
+
+                                                        Administrator
+                                                   Yeni Setyowati, S.P.
+                          KATA PENGANTAR
+
+
+      Puji kepada Tuhan yang Maha Esa dengan partisipasi pimpinan dan
+civitas akademika, Universitas Tulungagung telah dapat menyelesaikan
+dokumen Manual Mutu Sistem Penjaminan Mutu Internal (SPMI).
+Keberadaan Manual Mutu ini merupakan pengembangan dari manual
+Akademik Universitas Tulungagung 2020 dan disesuaikan dengan
+Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun 2020
+tentang Standar Nasional Pendidikan Tinggi, Peraturan Menteri Pendidikan
+Dan Kebudayaan Nomor 5 Tahun 2020 tentang Akreditasi Program Studi
+Dan Perguruan Tinggi, Peraturan Menteri Pendidikan, Kebudayaan, Riset,
+dan Teknologi Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan
+Tinggi. Manual Mutu ini menjadi acuan utama dalam Penetapan,
+Pelaksanaan, Evaluasi, Pengendalian, dan Peningkatan Standar Mutu
+Pengelolaan Penjaminan Mutu di lingkungan Universitas Tulungagung.
+      Kami menyampaikan terima kasih yang pada semua pihak internal
+dan eksternal Universitas Tulungagung yang telah membantu penyusunan
+dokumen Manual Mutu Universitas Tulungagung ini. Kritik, saran, dan
+masukan kami tetap diharapkan untuk membuat lebih sempurna dokumen
+ini. Kami berharap bahwa Manual Mutu ini digunakan oleh pihak-pihak yang
+disebutkan dalam dokumen SPMI ini, sehingga kita mampu mengakselerasi
+perwujudan Budaya Mutu di Universitas Tulungagung untuk mewujudkan
+visi Universitas Tulungagung.
+
+
+                                 Tulungagung, 10 Januari 2024
+                                 Pusat Penjaminan Mutu
+                                 Ketua
+
+
+
+                                 Anang Sugeng Cahyono, S.AP., M.Si.
+                                                                                 2024
+
+                                                                           MANUAL MUTU
+
+
+                                    BAB I
+                                PENDAHULUAN
+
+1. Visi, Misi, Tujuan Perguruan Tinggi
+   Visi Universitas Tulungagung :
+   “Mewujudkan Perguruan Tinggi yang Berkualitas dan Mampu Berkompetisi
+   Berskala Nasional Dan Internasional.”
+   Misi Universitas Tulungagung:
+   1.   Peningkatan      Penyelenggaraan        pendidikan,   penelitian   dan
+        pengabdian     kepada      masyarakat     yang   berkualitas   menuju
+        terbentuknya lulusan mandiri.
+   2.   Peningkatan kualitas Sumber Daya Manusia yang meliputi tenaga
+        pendidik dan tenaga kependidikan
+   3.   Peningkatan sarana dan prasarana akademik yang mendukung
+        proses belajar mengajar
+   Tujuan Universitas Tulungagung:
+   1.   Berkembangnya potensi mahasiswa agar menjadi manusia yang
+        beriman dan bertakwa kepada Tuhan yang Maha Esa dan berakhlak
+        mulia, sehat, berilmu, cakap, kreatif, mandiri, terampil, kompeten,
+        dan berbudaya untuk kepentingan bangsa.
+   2.   Dihasilkan lulusan yang menguasai cabang ilmu pengetahuan dan/
+        atau teknologi     untuk memenuhi kepentingan nasional dan
+        peningkatan daya saing bangsa.
+   3.   Dihasilkannya ilmu pengetahuan dan teknologi melalui penelitian
+        yang memperhatikan dan menerapkan nilai Humaniora agar
+        bermanfaat bagi kemajuan bangsa, serta kemajuan peradaban dan
+        kesejahteraan umat manusia; dan
+   4.   Terwujudnya Pengabdian kepada Masyarakat berbasis penalaran
+        dan   karya   penelitian    yang   bermanfaat     dalam   memajukan
+        kesejahteraan umum dan mencerdaskan kehidupan bangsa.
+                                                                                   2024
+
+                                                                           MANUAL MUTU
+
+
+
+
+  Sasaran Strategis Universitas Tulungagung:
+  1.      Terimplementasikan regulasi pendidikan sesuai dengan SN-DIKTI
+          dan kebijakan pemerintah;
+  2.      Peningkatan kemampuan ilmiah dengan lebih mengembangkan
+          program pendidikan akademik, profesional dan pengembangan
+          program penelitian universitas.
+  3.      Terbangun integrasi dosen dan mahasiswa dalam kegiatan
+          penelitian dan PkM;
+  4.      Memiliki kualitas dan kuantitas kegiatan penelitian berupa publikasi
+          hasil penelitian atau PkM pada jurnal terakreditasi nasional dan
+          internasional
+  5.      Menghasilkan produk unggulan berbasis Teknologi Tepat Guna
+          yang berdampak untuk kesejahteraan masyarakat.
+  6.      Terjalinnya kerjasama nasional dan internasional yang berorientasi
+          pada output berkelanjutan
+  7.      Memiliki jiwa Entrepreneur University (EU) kewirausahaan.
+  8.      Terselenggaranya      kegiatan     peningkatan   dan    pengembangan
+          sertifikasi akademik dan non – akademik bagi mahasiswa sebagai
+          penunjang SKPI
+  9.      Mengusulkan peningkatan peringkat akreditasi Program Studi;
+
+
+2. Tujuan Manual Mutu PPM UNI
+  Manual Mutu Universitas Tulungagung bertujuan untuk:
+  1) Menggariskan         kegiatan   utama    atau   proses     Penjamunan Mutu
+       UNITA yaitu perencanaan, pelaksanaan,         evaluasi     dan   tindakan
+       perbaikan dalam peningkatan penjaminan mutu akademik.
+  2) Menjelaskan hubungan berbagai aktivitas yang terkait dalam proses
+       proses PPEPP Penjaminan Mutu.
+                                                                                         2024
+
+                                                                                  MANUAL MUTU
+
+   3) Mencerminkan            komitmen     PPM UNITA dalam        peningkatan     mutu
+        secara berkelanjutan dalam bentuk tertulis, sehingga dapat dipahami
+        oleh semua pihak         yang terlibat dalam proses pendidikan sehingga
+        terwujudnya pendidikan tinggi yang bermutu serta kemampuan iptek
+        dan inovasi untuk mendukung daya saing bangsa.
+3. Luas Lingkup Cakupan Manual SPMI UNITA
+        Manual         mutu   PPM    UNITA      merupakan     panduan    pelaksanaan
+   manajemen mutu PPM UNITA dan merupakan persyaratan sistem
+   manajemen mutu yang harus dipenuhi oleh semua lembaga penjamin mutu
+   di UNITA dan unit pendukung (supporting unit).
+        Manual Mutu LPM ini berlaku kepada semua pihak yang terlibat dalam
+   implementasi siklus PPEPP di lingkunngan Universitas Tulungagung.
+   Lingkup manual mutu PPM UNITA meliputi penjaminan mutu akademik
+   baik aspek tridharma (pendidikan, penelitian, pengabdian masyarakat) dan
+   pendukung akademik, yaitu tata kelola, kerjasama, mahasiswa, dosen,
+   tenaga kependidikan, keuangan, sarana prasarana, dan sistem informasi.
+4. Definisi Istilah
+   Definisi istilah dalam Manual SPMI Universitas Tulungagung diperlukan
+   untuk memudahkan dan menyamakan persepsi tentang istilah-istilah yang
+   digunakan dalam Manual SPMI. Definisi istilah dalam Manual SPMI, antara
+   lain :
+   1)       Mutu   :    Keseluruhan      karakteristik   produk   yang   menunjukkan
+            kemampuannya dalam memenuhi permintaan atau persyaratan yang
+            ditetapkan stakeholder, baik yang tersurat (dalam bentuk pedoman)
+            maupun yang tersirat.
+   2)       Penjaminan Mutu : Proses penetapan dan pemenuhan standar mutu
+            pengelolaan perguruan tinggi secara konsisten dan berkelanjutan
+            sehingga pihak-pihak yang berkepentingan memperoleh kepuasan
+   3)       Sistem Penjaminan Mutu Internal (SPMI) : Kegiatan sistemik
+            penjaminan        mutu   penyelenggaraan       pendidikan    tinggi   yang
+                                                                              2024
+
+                                                                      MANUAL MUTU
+
+     diselenggarakan oleh perguruan tinggi (internally driven), dalam
+     rangka pengawasan penyelenggaraan pendidikan tinggi secara
+     berkelanjutan (Continuous Improvement).
+4)   Kebijakan : Pernyataan tertulis yang menjelaskan pemikiran, sikap,
+     pandangan dari institusi tentang suatu hal.
+5)   Kebijakan SPMI : Dokumen tertulis yang berisi garis besar penjelasan
+     tentang bagaimana SPMI di Universitas Tulungagung ditetapkan,
+     dilaksanakan / dipenuhi, dievaluasi, dikendalikan dan dikembangkan /
+     ditingkatkan dalam penyelenggaraan pelayanan pendidikan sehingga
+     budaya mutu dapat tercapai.
+6)   Manual SPMI : Dokumen tertulis yang berisi petunjuk praktis
+     mengenai     panduan       bagaimana    penetapan,     pelaksanaan   /
+     pemenuhan,     evaluasi,     pengendalian     dan    pengembangan    /
+     peningkatan standar SPMI diimplementasikan.
+7)   Standar SPMI : Dokumen tertulis yang berisi kriteria, patokan, ukuran,
+     spesifikasi tentang sesuatu yang harus dicapai atau dipenuhi.
+8)   Merancang Standar : Olah pikir untuk menghasilkan standar tentang
+     hal yang dibutuhkan dalam standar.
+9)   Merumuskan Standar : Menuliskan isi setiap standar dalam bentuk
+     pernyataan    dengan    menggunakan         rumus   ABCD    (Audience,
+     Behaviour, Competence dan Degree)
+10) Menetapkan Standar : Tindakan berupa persetujuan dan pengesahan
+     standar sehingga standar dinyatakan berlaku.
+11) Melaksanakan Standar : Mengerjakan, mematuhi, dan memenuhi
+     ukuran, spesifikasi, aturan sebagaimana dinyatakan dalam isi standar.
+12) Standar Operasional Prosedur (SOP) : Uraian tentang urutan atau
+     langkah - langkah untuk mencapai standar yang telah ditetapkan yang
+     ditulis secara sistematis, kronologis, logis dan koheren.
+                                                                                      2024
+
+                                                                              MANUAL MUTU
+
+13) Formulir (Borang) : Dokumen tertulis yang berfungsi untuk mencatat /
+    merekam kegiatan yang harus dilaksanakan untuk memenuhi isi
+    standar dan Standar Operasional Prosedur (SOP)
+14) Monitoring : Tindakan mengamati suatu proses atau kegiatan
+    penyelenggaraan pendidikan untuk mengetahui apakah proses atau
+    kegiatan penyelenggaraan pendidikan berjalan sesuai dengan apa
+    yang seharusnya dilaksanakan sesuai isi standar SPMI yang telah
+    ditetapkan.
+15) Evaluasi : Tindahan mengecek atau mengaudit secara detil semua
+    aspek penyelenggaraan pendidikan yang dilakukan secara berkala
+    dengan      tujuan   untuk      mencocokkan          apakah    semua     aspek
+    penyelenggaraan pendidikan telah berjalan sesuai dengan isi standar
+    yang telah ditetapkan.
+16) Evaluasi standar : Tindakan menilai isi standar didasarkan pada hasil
+    pelaksanaan isi standar pada waktu sebelumnya dan perkembangan
+    situasi   dan    kondisi     institusi,   tuntutan    kebutuhan     pemangku
+    kepentingan      institusi dan masyarakat pada                umumnya,   serta
+    relevansinya dengan visi dan misi UNITA.
+17) Pengembangan         atau     peningkatan      standar    :     Upaya    untuk
+    mengevaluasi dan memperbaiki mutu dari isi standar SPMI yang
+    dilakukan secara periodik berdasarkan siklus standar secara
+    berkelanjutan.
+18) Siklus Standar : Durasi atau masa berlakunya standar SPMI dengan
+    aspek yang telah diatur di dalamnya
+19) Dampak : Menggambarkan apakah yang dilakukan menghasilkan
+    perubahan dari kondisi awal ke kondisi baru seperti yang telah
+    ditetapkan sebelumnya.
+20) Audit Internal : kegiatan pemeriksaan kepatuhan yang secara internal
+    berfungsi     mengukur      dan    mengevaluasi       SPMI     di   Universitas
+    Tulungagung dengan cara menyediakan analisis, penilaian dan
+                                                                                  2024
+
+                                                                          MANUAL MUTU
+
+       rekomendasi yang berhubungan dengan kegiatan-kegiatan SPMI
+       yang dilakukan oleh Universitas Tulungagung untuk memeriksa
+       apakah seluruh standar telah dicapai atau dipenuhi oleh setiap unit
+       kerja di Universitas Tulungagung.
+  21) Rekomendasi : Tindakan memberikan perbaikan yang dirumuskan
+       berdasarkan hasil proses audit mutu internal. Hasil tersebut
+       dikomunikasikan kepada unit yang diaudit untuk ditindaklanjuti
+5. Analisi Resiko dan Peluang
+     Analisis lingkungan internal dan eksternal PPM UNITA yang dapat
+  mempengaruhi implementasi SPMI dalam mewujudkan good governance
+  dan budaya mutu di lingkungan.
+     Analisis risiko dari lingkungan internal dari penjaminan mutu UNITA
+  dapat dilihat dari aspek: (1) kebijakan dan tata kelola; (2) penjaminan mutu
+  akademik; (3) penjaminan mutu non akademik. Sementara analisis peluang
+  dari lingkungan eksternal dapat dilihat dari aspek: (1) regulasi dan
+  kebijakan Pemerintah; (2) Perkembangan lembaga Akreditasi Nasional; (3)
+  Perkembangan Lembaga Akreditasi Internasional.
+  1) Analisa Resiko Eksternal
+     Tabel 1. Identifikasi Risiko Internal
+
+      No.       Aspek         Potensi Risiko           Mitigasi Risiko
+
+       1    Kebijakan dan    1. Risiko           Perencanaan          kebijakan
+            Tata Kelola         Kebijakan        berdasarkan               pada
+                             2. Risiko           pencapaian target kinerja
+                                Kepatuhan
+                                                 yang telah ditentukan guna
+                             3. Risiko
+                                Operasional      mendukung         pencapaian
+                             4. Risiko           target kinerja yang lebih
+                                Reputasi         efektif dan efisien.
+                                                                        2024
+
+                                                                MANUAL MUTU
+
+ 2   Penjaminan         1. Risiko          Peningkatan kualitas dan
+     Mutu Akademik         Kebijakan       kapasitas           dalam
+                        2. Risiko          penjaminan mutu akademik
+                           Kepatuhan
+                                           sebagai   early   warning
+                        3. Risiko
+                           Operasional     system.
+                        4. Risiko
+                           Reputasi
+
+
+ 3   Penjaminan         1. Risiko          Sinergitas bersama SPI
+     Mutu     Non          Kebijakan       dalam peningkatan kualitas
+     Akademik           2. Risiko          dan     kapasitas   dalam
+                           Kepatuhan
+                                           penjaminan     mutu   non
+                        3. Risiko
+                           Operasional     akademik sebagai early
+                        4. Risiko          warning system.
+                           Reputasi
+
+
+KEKUATAN
+
+1)   Status Perguruan Tinggi Swasta, UNITA memiliki kemandirian
+     dalam kebijakan dan pengelolaan pendidikan.
+2)   UNITA sudah memiliki dokumen SPMI terkait kebijakan SPMI,
+     manual SPMI, standar SPMI dan Formulir SPMI.
+3)   UNITA sudah memiliki standar mutu UNITA yang tertuang dalam
+     SK       Rektor       Universitas       Tulungagung      Nomor:
+     A/002.H/KEP/UNITA/I/2024 tentang Standar Mutu Universitas
+     Tulungagung yang melampaui SN - DIKTI.
+4)   UNITA sudah menetapkan model inovasi sistem penjaminan
+     mutu memenuhi siklus PPEPP.
+5)   UNITA memiliki dosen profesional yang dapat mendukung
+     optimalisasi Revenue Generating Unit (RGU).
+6)   UNITA telah melakukan AMI secara berkala dengan lingkup audit
+     kategori risiko tinggi dan ditetapkan oleh Rektor.
+                                                                           2024
+
+                                                                   MANUAL MUTU
+
+7)   Tersedianya    auditor   internal   dalam   jumlah   besar   untuk
+     mendukung pelaksanaan Audit Mutu Internal (AMI).
+8)   Tersedianya Instruksi Kerja untuk auditor, verifikator, dan auditee
+     dalam pelaksanaan AMI dan Permintaan Tindakan Koreksi.
+9)   Terlaksananya AMI secara mandiri di tingkat Fakultas untuk
+     Program Studi di dalamnya.
+10) UNITA memiliki sistem informasi dan data yang efektif dan
+     akuntabel dalam mendukung penjaminan mutu pendidikan.
+11) UNITA telah mempunyai organ penjaminan mutu non akademik,
+     yaitu Satuan Pengawas Internal (SPI)
+12) Sudah terlaksana proses audit pengelolaan keuangan dan
+     sarana prasarana
+13) Sudah tersedia sistem pelaporan akuntabilitas kinerja melalui
+     SIAKAD yang di monitoring secara berkala sesuai standar
+
+
+KELEMAHAN
+
+1)   Belum semua semua pimpinan fakultas dan program studi, serta
+     supporting units mempunyai kesadaran SPMI dan menciptakan
+     budaya mutu.
+2)   Sebagian auditor internal sedang menjadi jabatan struktural
+     manajemen.
+3)   Terdapat ketidakmerataan antara jumlah auditor dalam fakultas
+     dengan jumlah unit yang akan diaudit.
+4)   Keterbaharuan kebijakan menuntut perubahan ruang lingkup AMI
+     pada setiap tahunnya sehingga memerlukan penyamaan persepsi
+     antara auditor dan auditee.
+5)   Ketepatan waktu pengumpulan instrumen dan hasil audit masih
+     rendah.
+                                                                         2024
+
+                                                                 MANUAL MUTU
+
+6)   Pergantian personalia jaminan mutu di tingkat UNITA, Fakultas,
+     dan
+     Program Studi.
+7)   Belum semua pengelola PS dan Ka. PS memahami perubahan
+     kebijakan dan instrumen akreditasi.
+8)   Belum optimalnya peran UPPS dalam melakukan pemantauan
+     dan evaluasi ketercapaian butir IKU dan IKT dan implementasi
+     siklus PPEPP secara berkelanjutan.
+9)   Kerjasama institusional tidak berjalan maksimal.
+10) Kontribusi Revenue Generating Unit (RGU) UNITA masih rendah.
+11) Belum terdapatnya sistem informasi audit internal dalam menjamin
+     mutu akademik secara berkelanjutan.
+12) Belum adanya mekanisme early warninng system di UNITA dan
+     UPPS dalam upaya memantau kesiapan menjadi program studi
+     unggul.
+13) Sinkronisasi data dan informasi untuk mendukung penjaminan
+     mutu pendidikan belum berjalan optimal.
+14) Belum optimal koordinasi terkait tindak lanjut evaluasi penjaminan
+     mutu non akademik dengan lembaga penjaminan mutu non
+     akademik di UNITA.
+15) Pemanfaatan sarana dan prasarana pendidikan belum optimal
+     untuk mendukung penjaminan mutu pendidikan.
+                                                                              2024
+
+                                                                       MANUAL MUTU
+
+  2) Analisis Resiko Eksternal
+     Tabel 2. Identifikasi Risiko Eksternal
+      No.      Aspek         Potensi Risiko          Mitigasi Risiko
+      1     Regulasi dan    1. Risiko           Efektifitas dalam menyikapi
+            Kebijakan          Kebijakan        perubahan kebijakan di
+            Pemerintah      2. Risiko           tingkat universitas dan
+                               Kepatuhan
+            Kebijakan                           nasional     dengan   tetap
+                            3. Risiko
+                               Operasional      memperhatikan
+                            4. Risiko           perencanaan kinerja yang
+                               Reputasi         telah ditentukan.
+      2     Perkembangan    1. Risiko           Peningkatan kualitas dan
+            Lembaga            Kebijakan        kapasitas enjaminan mutu
+            Akreditasi      2. Risiko           internal agar efektif dalam
+                               Kepatuhan
+            Nasional                            menyikapi        perubahan
+                            3. Risiko
+                               Operasional      perkembangan      Lembaga
+                            4. Risiko           Akreditasi Nasional.
+                               Reputasi
+      3     Perkembangan    1. Risiko           Peningkatan kualitas dan
+            Lembaga            Kebijakan        kapasitas penjaminan mutu
+            Akreditasi      2. Risiko           internal agar efektif dalam
+                               Kepatuhan
+            Internasional                       menyikapi         perubahan
+                            3. Risiko
+                               Operasional      perkembangan       Lembaga
+                            4. Risiko           Akreditasi Internasional.
+                               Reputasi
+
+
+
+6. Sistem Penjaminan Mutu Internal Universitas Tulungagung
+  a) Kebijakan     Sistem    Penjaminan       Mutu   Internal   Universitas
+     Tulungagung
+          Pada tahun 2011, UNITA menggunakan Sistem Penjaminan Mutu
+     (SPM) secara internal dengan nama Sistem Penjaminan Mutu dengan
+     standar mutu akademik Direktorat Jenderal Pendidikan Tinggi (Dikti).
+     Mulai tahun 2011, sistem penjaminan mutu di UNITA menggunakan
+                                                                          2024
+
+                                                                  MANUAL MUTU
+
+nama SPMI menggunakan standar akreditasi nasional dari BAN-PT
+untuk AIPT dan APS. Pada tahun 2014, SPMI di UNITA ditingkatkan
+untuk memenuhi Standar Mutu UNITA yang mengadopsi dari Standar
+Nasional Pendidikan Tinggi, standar akreditasi nasional dari BAN-PT
+untuk APT dan APS dengan 7 Kriteria StandarAkreditasi dari turunan
+(Pendidikan, Penelitian, dan PkM).
+   UNITA melakukan penjaminan mutu pendidikan tinggi sebagai
+pertanggungjawaban kepada stakeholders untuk mengembangkan
+mutu pendidikan UNITA secara berkelanjutan. Dengan demikian, mutu
+penyelenggaraan pendidikan di UNITA diakui tidak saja secara internal,
+namun juga secara eksternal oleh Badan Akreditasi Nasional Perguruan
+Tinggi (BAN-PT), Lembaga Akreditasi Mandiri (LAM) dan Lembaga
+Akreditasi dan Sertifikasi Internasional.
+   Pada penerapan SPMI, UNITA memastikan bahwa budaya mutu
+dipahami dan dilaksanakan semua pihak, serta dikendalikan. Dengan
+SPMI ini, UNITA akan mampu menetapkan dan mewujudkan visinya
+melalui pelaksanaan misinya (aspek deduktif), mampu memenuhi
+kebutuhan/memuaskan stakeholders (aspek induktif) yaitu kebutuhan
+masyarakat, dunia kerja dan profesional. Untuk itu UNITA menyusun
+dokumen SPMI terdiri dari dokumen induk dan dokumen operasional.
+   Kebijakan Sistem Penjaminan Mutu Internal (SPMI) Universitas
+Unita (UNITA) disusun dan ditetapkan dengan tujuan sebagai berikut:
+1) Menggariskan kegiatan utama (core business) yaitu tri dharma
+   pendidikan tinggi, baik yang terkait langsung ataupun tidak langsung
+   dengan layanan pendidikan di UNITA, baik dalam perencanaan,
+   pelaksanaan, evaluasi ataupun tindakan perbaikan untuk menjamin
+   adanya perbaikan berkelanjutan dalam memenuhi persyaratan
+   pelanggan;
+2) Menjelaskan hubungan berbagai aktivitas yang terkait dalam proses
+   di atas;
+                                                                                2024
+
+                                                                        MANUAL MUTU
+
+  3) Mencerminkan komitmen UNITA dalam peningkatan mutu secara
+     berkelanjutan dalam bentuk tertulis, sehingga dapat dipahami oleh
+     semua pihak yang terlibat dalam proses layanan tri dharma dan
+     penunjangnya di UNITA;
+  4) Menggariskan     perencanaan     dan     implementasi      SPMI    yang
+     terintegrasi di unit-unit kerja di lingkungan UNITA.
+
+  Komitmen penerapan SPMI yang efektif dengan mengacu pada standar
+  mutu berbasis risiko dengan daya saing nasional dan internasional
+  untuk menciptakan budaya dan peningkatan mutu berkelanjutan
+  dengan Siklus PPEPP
+b) Landasan Hukum Manajemen Mutu UNITA
+  1) Undang–Undang Republik Indonesia No. 20 Tahun 2003 tentang
+     Sistem Pendidikan Nasional;
+  2) Undang–Undang       Republik    Indonesia   No.    12     Tahun    2012
+     tentang Pendidikan Tinggi;
+  3) Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014
+     tentang Penyelenggaraan Pendidikan Tinggi dan Pengelolaan
+     Perguruan Tinggi;
+  4) Permenristekdikti    No.   62    Tahun      2016       tentang    Sistem
+     Penjaminan Mutu Pendidikan Tinggi;
+  5) Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun
+     2020 tentang Standar Nasional Pendidikan Tinggi
+  6) Peraturan Menteri Pendidikan Dan Kebudayaan Nomor 5 Tahun
+     2020 tentang Akreditasi Program Studi Dan Perguruan Tinggi;
+  7) Peraturan Badan Akreditasi Nasional Perguruan Tinggi Nomor 16
+     Tahun 2023 Tentang Implementasi Mekanisme Automasi Pada
+     Akreditasi Program Studi
+  8) STATUTA Universitas Tulungagung;
+  9) RENSTRA Universitas Tulungagung.
+                                                                                                            2024
+
+                                                                                                 MANUAL MUTU
+
+c) Strategi dan Implementasi Manajemen Mutu UNITA
+  1) Strategi dan Siklus Manajemen Mutu UNITA
+     Untuk menjalankan SPMI, UNITA menerapkan langkah-langkah
+     yang disebut “siklus penjaminan mutu” yaitu PPEPP, singkatan dari:
+     Penetapan, Pelaksanaan, Evaluasi, Pengendalian, dan Peningkatan
+     seperti pada bagan berikut:
+
+
+
+
+                                                       Evaluasi:
+                                                       Audit Mutu Internal (AMI)
+                           Pengendalian:               1.     Pusat Penjaminan Mutu (Tingkat Universitas)
+          Rapat Tinjauan Manajemen (RTM)               2.     Gugus Penjaminan Mutu (Tingkat Fakultas)
+
+
+
+
+     Proses Pelaksanaan PPEPP mencangkup Penyusunan organisasi
+     penjaminan mutu, Penyusunan sistem (kebijakan SPMI, standar
+     SPMI, manual SPMI, SOP, IK, formulir), Sistem dijalankan
+     (sosialisasi dan menjadi acuan kerja), Melakukan Audit Internal Mutu
+     (satu siklus penjaminan mutu) dan Tindak Lanjut.
+  2) Implementasi Manajemen Mutu UB
+     Implementasi SPMI UNITA memerlukan panduan atau petunjuk
+  praktis berupa Manual SPMI sebagai pedoman bagaimana Standar
+  SPMI     ditetapkan,              dilaksanakan/dipenuhi,         dikendalikan                   dan
+  dikembangkan/ditingkatkan                mutunya   secara       berkelanjutan                  oleh
+                                                                             2024
+
+                                                                      MANUAL MUTU
+
+seluruh penyelenggara perguruan tinggi di UNITA yang dilengkapi
+dengan    Standard     Operating   Procedure    (SOP)     dan    Formulir.
+Implementasi SPMI tersebut melalui suatu tahapan penetapan,
+pelaksanaan/pemenuhan,        pengendalian      dan      pengembangan/
+peningkatan yang secara berkelanjutan dengan menggunakan model
+PDCA (Plan, Do, Check, Action) yang mengacu pada Visi, Misi dan
+Tujuan UB, Renstra UB serta Kebijakan SPMI UNITA dalam waktu satu
+siklus, yaitu satu tahun atau satu kalender akademik dan diikuti oleh
+siklus yang sama pada tahun-tahun berikutnya.
+
+3) Lingkup Manajemen Mutu UB
+   Kebijakan SPMI UNITA disusun dan ditetapkan untuk ruang lingkup
+penyediaan jasa layanan tri dharma perguruan tinggi yang mencakup
+pendidikan   vokasi,    sarjana    dan   pascasarjana,   penelitian   dan
+pengabdian    kepada      masyarakat,     dengan      didukung    layanan
+penunjangnya. Penyelenggara layanan tri dharma perguruan tinggi di
+UNITA terdiri dari fakultas, departemen, program studi dan unit
+pendukung (supporting units). Supporting units adalah unit selain
+fakultas dan program studi yang tercantum dalam OTK UNITA, terdiri
+dari direktorat, lembaga, unit pelaksana teknis (UPT) dan divisi, Satuan
+Pengawas Internal (SPI)
+4) Manajemen Mutu Berbasis Risiko di UB
+   Salah satu tujuan SPMI UNITA adalah pencapaian visi-misi melalui
+pemenuhan standar mutu dengan cara perbaikan berkelanjutan
+(continous improvement), menggunakan manajemen mutu berbasis
+risiko. Yang dimaksud manajemen mutu berbasis risiko adalah
+penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan
+(PPEPP) Standar Mutu Berbasis Risiko.
+                                                                                2024
+
+                                                                        MANUAL MUTU
+
+7. Manual Penetapan Mutu
+  1) Struktur Organisasi Penjaminan Mutu UB
+     Secara umum, organisasi penjaminan mutu di UNITA adalah unit kerja
+     fungsional yang berada langsung di bawah naungan Rektor Universitas
+     Tulungagung, sehingga dalam menjalankan tugas dan fungsi (tusi)
+     selalu melibatkan pejabat struktural. Dalam hal ini, antara unit
+     penjaminan mutu di universitas (Pusat Penjaminan Mutu (PPM) Pusat
+     dan, fakultas/program (Gugus Penjaminan Mutu GPM) terdapat
+     hubungan koordinasi, serta masing-masing bertanggung jawab
+     terhadap pimpinan unit kerja.
+
+
+
+
+     Untuk mencapai keberhasilan misi, PPM UNITA mengembangkan
+     struktur     organisasi   yang   terdiri   dari ketua, sekretaris, Staff
+     Administasi, Kepala Bagian Pengembangan SPMI, Kepala Bagian Audit
+     dan Monevin dan Gugus Penjaminan Mutu Lembaga dan Fakultas
+     pada masing – masing Program Studi. Susunan organisasi PPM ini
+     ditetapkan       berdasarkan      SK       Rektor      Unita     Nomor
+     A/001.D/KEP/UNITA/I/2024         tentang     Pengangkatan       Pejabat
+     Penjaminan Mutu Universitas Tulungagung.
+                                                                      2024
+
+                                                                 MANUAL MUTU
+
+2) Dokumen SPMI Universitas Tulungagung
+   Sistem Dokumentasi SPMI UNITA mengacu pada 9 kriteria Penjaminan
+Mutu yang tertuang dalam    4 Dokumen Mutu Utama dan terintegrasi
+dengan dokumen induk Universitas. Dokumen induk Universitas menjadi
+acuan dalam penyusunan dokumen mutu.
+
+Tabel 3. Daftar Jenis Dokumen SPMI UNITA dan Strukturnya
+
+   No      Jenis Dokumen Mutu       UNITA        Fak.       PS
+                                Dokumen Induk
+
+    1     Visi, Misi, Tujuan, dan      √           √         √
+          Sasaran Organisasi
+    2     RIP                          √
+    3     Statuta                      √
+    4     Pedoman Pendidikan           √           √
+    5     Renstra dan Renop            √           √         √
+          Dokumen      Anggaran
+    6     Penerimaan          dan      √           √
+          Belanja
+    7     Struktur Organisasi dan      √           √
+          Tata Kerja
+    8     Pernyataan          dan      √           √
+          Kebijakan Mutu
+    9     Standar Mutu                 √           √
+   10     Manual Mutu                  √           √
+   11     Manual Prosedur                          √
+   12     Formulir Mutu                √
+   13     Dokumen Kurikulum            √           √         √
+                                                                             2024
+
+                                                                     MANUAL MUTU
+
+3) Tahapan dan Penetapan Standar Mutu
+  Penetapan Standar Mutu dilakukan melalui langkah-langkah sebagai
+  berikut:
+  a) Kriteria, indikator, target dan cara pengukuran diatur dari Instrumen
+     Akreditasi Perguruan Tinggi versi 3.0 (IAPT 3.0) yang merupakan
+     lampiran dari Peraturan Badan Akreditasi Nasional Perguruan Tinggi
+     Nomor 3 tahun 2019 tentang Instrumen Akreditasi Perguruan Tinggi,
+     yang meliputi 24 standar serta diperbarui pada “Permendikbudristek
+     53 Tahun 2023 tentang Penjaminan Mutu” yang memperbarui 3
+     Standar utama Pendidikan, Penelitian, dan PkM. Sehingga
+     Universitas Tulungagung memiliki 3 Standar Utama dan 9 Standar
+     Tambahan sesuai Kriteria sebagai berikut :
+      i) Standar Utama Sesuai SN – Dikti
+             -   Standar Pendidikan
+                 a. Standar Luaran Pendidikan/ Kompetensi Lulusan
+                 b. Standar Proses Pendidikan
+                    1. Standar Proses Pembelajaran
+                    2. Standar Penilaian
+                    3. Standar Pengelolaan
+                 c. Standar Masukan Pendidikan
+                    1. Standar Isi
+                    2. Standar dosen dan dan tenaga kependidikan
+                    3. Standar Sarana dan Prasarana
+                    4. Standar Pembiayaan
+             -   Standar Penelitian
+                 a. Standar luaran penelitian
+                 b. Standar proses penelitian
+                 c. Standar masukan penelitian
+             -   Standar PkM
+                 a. Standar luaran PkM
+                                                                             2024
+
+                                                                     MANUAL MUTU
+
+                b. Standar proses PkM
+                c. Standar masukan PkM
+      ii) Standar Tambahan Sesuai Kriteria
+          -     Standar Visi Misi Tujuan dan Strategi
+          -     Standar Tata Pamong dan Tata Kelola
+          -     Standar Mahasiswa
+          -     Standar Sumber Daya Manusia
+          -     Standar Keuangan, Sarana, dan Prasarana
+          -     Standar Luaran dan Capaian Tri Dharma
+          -     Standar Merdeka Belajar Kampus Merdeka
+          -     Standar Kerjasama
+          -     Standar Kesejahteraan
+  b) Kriteria, indikator, target dan cara pengukuran dikaitkan dengan
+     proses bisnis (PPEPP) yang dilakukan oleh semua unit terkait yang
+     terdapat pada SOTK UNITA.
+  c) Semua unit yang terkait melakukan analisis potensi risiko yang
+     mungkin terjadi dan mitigasi / cara penanganan risiko tersebut di
+     setiap kriteria, di mana risiko bisa dibagi menjadi risiko kebijakan,
+     risiko kepatuhan, risiko operasional dan risiko reputasi.
+  d) Pengumpulan dokumen dan data dukung untuk pelengkap semua
+     kriteria
+  e) Draft Standar Mutu UNITA diserahkan ke Senat Akademik
+     Universitas untuk direview.
+  f) Draft Standar Mutu UNITA yang sudah direview diajukan ke
+     Rektor untuk disyahkan menjadi Surat Keputusan Rektor.
+4) Indikator Kinerja Penjaminan Mutu UNITA
+  Indikator Kinerja Penjaminan Mutu UNITA didasarkan pada hasil Audit
+  Internal Mutu pada semua ruang lingkup AMI dan Hasil Rapat Tinjauan
+  Manajemen UNITA, yang nantinya akan digunakan sebagai proses
+                                                                          2024
+
+                                                                  MANUAL MUTU
+
+  peningkatan mutu, seperti penetapan standar baru, indikator kinerja
+  baru, strategi dan program prioritas dan unggulan UNITA.
+5) Indikator Kinerja Penjaminan Mutu UNITA
+  Indikator Kinerja Penjaminan Mutu UNITA didasarkan pada hasil Audit
+  Mutu Internal pada semua ruang lingkup AMI dan Hasil Rapat Tinjauan
+  Manajemen UNITA, yang nantinya akan digunakan sebagai proses
+  peningkatan mutu, seperti penetapan standar baru, indikator kinerja
+  baru, strategi dan program prioritas dan unggulan UNITA.
+6) Potensi dan Mitigasi Risiko Tahapan Penetapan
+  Potensi risiko yang dapat terjadi pada tahapan penetapan dalam proses
+  PPM antara lain:
+  a) Risiko Kebijakan.
+  b) Risiko Kepatuhan.
+  c) Risiko Operasional.
+  d) Risiko Reputasi.
+  Potensi risiko diatas mungkin bisa terjadi karena tahapan penetapan
+  berkaitan dengan dokumen Induk (SOTK PPM, Standar mutu UNITA
+  dan renstra) dan dokumen operasional (Manual Mutu PPM, SOP, IK,
+  Formulir, dan Program Kerja PPM) sebagai acuan / prosedur untuk
+  tahapan proses bisnis selanjutnya.
+  Mitigasi risiko yang dapat dilakukan pada tahapan penetapan dalam
+  proses pelaksanaan SPMI antara lain:
+  a) Penyediaan dokumen induk dan dokumen operasional.
+  b) Koordinasi Internal dengan unit terkait dengan PPM.
+  c) Sosialisasi dokumen induk dan dokumen operasional.
+  d) Penguatan SPMI.
+  e) Sosialisasi kebijakan dan pedoman selain dokumen induk dan
+      operasional PPM (contoh: Peraturan Rektor, Peraturan Menteri,
+      Peraturan BAN-PT, dll).
+  f) Pelatihan untuk peningkatan kualitas SDM di PPM.
+                                                                                 2024
+
+                                                                         MANUAL MUTU
+
+     g) Koordinasi eksternal (contoh: benchmarking PPM ke universitas
+        lain, BAN-PT, LAM).
+8. Manual Pelaksanaan Mutu
+  1) Definisi Manual Pelaksanaan Standar Mutu UNITA
+     Manual Pelaksanaan Standar Mutu UNITA merupakan dokumen yang
+     berisi tentang teknis pelaksanaan dari Penetapan Standar Mutu secara
+     detail menggambarkan bagaimana penetapan Standar Mutu dapat
+     dilaksanakan, untuk menjadi pedoman bagi semua unit kerja secara
+     operasional. Manual ini mencakup pelaksanaan mulai dari Visi, Misi,
+     Tujuan dan Sasaran UNITA hingga penyelenggaraan tata kelola,
+     pendidikan, penelitian, pengabdian dan pendukung untuk mencapai
+     luaran atau output.
+  2) Tujuan Pelaksanaan Standar Mutu UNITA
+     Pelaksanaan standar mutu bertujuan untuk memastikan kegiatan- kegiatan
+     yang ada di unit kerja dilaksanakan sesuai dengan perencanaan penetapan
+     yang telah dirumuskan. Secara lebih detail, tahapan pelaksanaan standar
+     mutu juga bertujuan untuk menyelenggarakan manajemen tata kelola
+     organisasi, pendidikan, penelitian, pengabdian dan pendukung yang relevan
+     sesuai dengan Standar Mutu UNITA.
+  3) Lingkup Pelaksanaan Standar Mutu UNITA
+     Adapun ruang lingkup pelaksanaan Standar Mutu adalah :
+     1. Pelaksanaan Kontrak Kinerja, Perjanjian Kerja dan Program Kerja;
+     2. Pelaksanaan kelengkapan data dan informasi pada SIAKAD;
+     3. Pelaksanaan Peraturan Rektor yang berkaitan dengan tata pamong,
+        tata kelola dan kerjasama;
+     4. Pelaksanaan RIP;
+     5. Pelaksanaan Renstra;
+     6. Pelaksanaan Rencana Anggaran dan Belanja;
+     7. Pelaksanaan Dokumen Kebijakan Penjaminan Mutu;
+     8. Pelaksanaan Peraturan Rektor mengenai OTK dan kode etik;
+                                                                             2024
+
+                                                                     MANUAL MUTU
+
+  9. Pelaksanaan       aspek    pengelolaan     pendidikan,    penelitian,
+     pengabdian, dan kerjasama;
+  10. Pelaksanaan    Standar    Operasional    Prosedur   dalam    aspek
+     pengelolaan a) pendidikan; b) pengembangan suasana akademik
+     dan otonomi keilmuan; c) kemahasiswaan; d) penelitian; e) PkM; f)
+     SDM; g) keuangan; h) sarana dan prasarana; i) sistem informasi; j)
+     sistem penjaminan mutu; dan k) kerjasama;
+  11. Pelaksanaan Peraturan Rektor mengenai kebijakan IKU dan IKT;
+  12. Pelaksanaan kegiatan Akreditasi
+  13. Pelaksanaan kegiatan SDM dalam mencapai target/capaian
+     sasaran kinerja tenaga pendidik dan tenaga kependidikan;
+4) Potensi dan Mitigasi Risiko Tahapan Pelaksanaan
+  Pelaksanaan standar mutu UNITA memiliki potensi risiko sehingga perlu
+  adanya upaya mitigasi. Potensi dan mitigasi itu dapat dijelaskan sebagai
+  berikut:
+  1. Risiko kebijakan terkait engan proses dan mekanisme pelaksanaan
+     kebijakan di unit kerja;
+  2. Risiko Kepatuhan terkait dengan realisasi pada tingkat pelaksana;
+  3. Risiko Operasional terkait dengan teknis pelaksanaan kebijakan
+     yang telah ditetapkan;
+  4. Risiko Reputasi terkait dengan akibat dari pelaksanaan kebijakan
+     yang akan memberi pengaruh pada reputasi UNITA di tingkat
+     nasional maupun internasional.
+5) Penanggungjawab Pelaksana Standar Mutu UNITA
+  1. Wakil Rektor II mendapatkan tugas dari Rektor untuk melaksanakan
+     Tata    Pamong,    Tata Kelola     dan   Kerjasama di Universitas
+     Tulungagung;
+  2. Ketua Lembaga Penjaminan Mutu menerima tanggung jawab
+     pelaksanaan tugas dari Rektor UNITA untuk melaksanakan
+     penjaminan mutu Universitas Tulungagung di bidang akademik
+                                                                       2024
+
+                                                              MANUAL MUTU
+
+   dengan mendasarkan pada Standar Mutu UNITA yang telah
+   ditetapkan oleh Rektor UNITA;
+3. Ketua Satuan Pengawas Internal menerima tanggung jawab
+   pelaksanaan tugas dari Rektor UNITA untuk melaksanakan
+   penjaminan mutu Universitas Tulungagung di bidang non akademik
+   dengan mendasarkan pada Standar Mutu UNITA yang telah
+   ditetapkan oleh Rektor UNITA;
+4. Wakil Rektor III menerima tanggung jawab pelaksanaan tugas dari
+   Rektor UNITA untuk melaksanakan pengembangan              bidang
+   kemahasiswaan,      pelaksanaan pengembangan karir mahasiswa
+   dan alumni serta kewirausahaan;
+5. Wakil Rektor II menerima tanggung jawab pelaksanaan tugas dari
+   Rektor UNITA untuk melaksanakan administrasi UNITA yang
+   menyelenggarakan kegiatan pelayanan administrasi umum, hukum
+   dan tata laksana, sistem dan teknologi informasi, dan kehumasan
+   dan protokoler;
+6. Wakil Rektor II menerima tanggung jawab pelaksanaan tugas dari
+   Rektor UNITA untuk melaksanakan pengembangan tenaga pendidik
+   dan tenaga kependidikan;
+7. Ketua Lembaga Penelitian dan Pengabdian Masyarakat dan Kepala
+   UPT Inkubator Bisnis menerima     tanggung     jawab pelaksanaan
+   tugas dari Rektor UNITA untuk melaksanakan pengembangan
+   penelitian dan pengabdian kepada masyarakat;
+8. Ketua Biro Administasi Keuangan menerima tanggung jawab
+   pelaksanaan tugas dari Rektor UNITA untuk melaksanakan sistem
+   akuntabilitas kinerja di UNITA;
+9. Dekan Fakulta dan Ketua Program Studi menerima tanggung jawab
+   pelaksanaan tugas dari Rektor UNITA untuk menyelenggarakan dan
+   mengelola pendidikan akademik dan/atau   pendidikan       profesi
+                                                                           2024
+
+                                                                     MANUAL MUTU
+
+  dalam 1 (satu) rumpun disiplin ilmu pengetahuan dan teknologi
+  serta keahlian terapan.
+10. Ka. Bagian Pengembangan SPMI menerima tanggung jawab
+  pelaksanaan tugas dari Ketua PPM untuk melakukan perencanaan
+  kebijakan dan anggaran akreditasi pendidikan, melaksanakan
+  penyelenggaraan dan pengembangan akreditasi          pendidikan,
+  melakukan     koordinasi   penyelenggaraan     dan pengembangan
+  akreditasi   pendidikan,   melakukan    monitoring     dan   evaluasi
+  penyelenggaraan dan pengembangan akreditasi pendidikan.
+11. Ka. Bagian Pengembangan SPMI untuk melakukan perencanaan
+  kebijakan dan anggaran pemeringkatan,        melaksanakan
+  penyelenggaraan dan pengembangan pemeringkatan, melakukan
+  koordinasi penyelenggaraan dan pengembangan pemeringkatan,
+  melakukan     monitoring   dan    evaluasi   penyelenggaraan       dan
+  pengembangan pemeringkatan.
+12. Kepala Pusat SPMI menerima tanggung jawab pelaksanaan
+  tugas dari Rektor untuk melaksanakan kebijakan, program, dan
+  kegiatan dalam bidang sistem penjaminan mutu internal.
+13. Ka. Bagian Audit dan Monevin AMI menerima tanggung jawab
+  pelaksanaan tugas dari Deputi Akreditasi     Organisasi        untuk
+  melaksanakan kebijakan, program, dan kegiatan dalam bidang
+  audit internal mutu.
+14. Kepala PPM menerima tanggung jawab pelaksanaan tugas dari
+  Rektor untuk melaksanakan kebijakan, program, dan kegiatan
+  dalam bidang akreditasi nasional.
+15. Kepala PPM menerima tanggung jawab pelaksanaan tugas dari
+  Rektor untuk melaksanakan kebijakan, program, dan kegiatan
+  dalam bidang reputasi nasional.
+                                                                            2024
+
+                                                                    MANUAL MUTU
+
+9. Manual Pengendalian Standar Mutu
+  1) Definisi Manual Pengendalian Standar Mutu UNITA
+     Manual pengendalian standar mutu PPM UNITA adalah serangkaian
+     aktivitas monitoring dan evaluasi terhadap proses perencanaan,
+     pelaksanaan dan evaluasi sesuai standar mutu yang ditetapkan melalui
+     Audit Mutu Internal (AMI).
+  2) Tujuan Pengendalian Standar Mutu UNITA
+     Tujuan pengendalian standar mutu adalah untuk memastikan program
+     dilaksanakan sesuai dengan standar mutu yang ditetapkan.
+  3) Lingkup Pengendalian Standar Mutu UNITA
+     a) Manajemen
+        Lingkup evaluasi standar mutu pada aspek manajemen adalah
+        meliput Permintaan Tindakan Koreksi (PTK), hasil AIM, hasil
+        monitoring dan evaluasi IKU, hasil survey kepuasan, dan Hasil
+        Rapat Tinjauan Manajemen
+     b) Sumber Daya Manusia
+        Lingkup evaluasi standar mutu pada aspek sumber daya manusia
+        adalah Rapat Tinjauan Manajemen (RTM) dan Rencana Tindak
+        Lanjut (RTL) sebagai pengendalian
+  4) Potensi dan Mitigasi Risiko Tahapan Evaluasi
+     a) Manajemen
+        1. Potensi Risiko:
+           -   Risiko Kebijakan;
+           -   Risiko Kepatuhan;
+           -   Risiko Operasional;
+           -   Risiko Reputasi.
+        2. Mitigasi Risiko:
+           -   Melakukan sinkronisasi peraturan internal terkait
+               pelaksanaan pengendalian;
+           -   Menyusun SOP terkait pengendalian penjaminan mutu;
+                                                                             2024
+
+                                                                     MANUAL MUTU
+
+        -   Melakukan monitoring pelaksanaan pengendalian secara
+            berkala;
+        -   Melakukan koordinasi secara berkala di seluruh unit terkait
+            tindak lanjut hasil audit internal;
+  b) Sumber Daya Manusia
+     1. Potensi Risiko:
+        -   Risiko kebijakan : kebijakan mutasi tenaga kependidikan
+            yang tidak sesuai dengan kapasitas dan kemampuan
+        -   Risiko Kepatuhan : sumber daya manusia yang tidak taat
+            pada peraturan
+        -   Risiko Operasional : tidak berjalannya sistem yang ada, baik
+            secara internal (ketidakmampuan) maupun eksternal
+        -   Risiko Reputasi : menurunnya kepercayaan terhadap
+            sumber daya manusia, baik dosen maupun tenaga
+            kependidikan
+     2. Mitigasi Risiko:
+        -   Penerapan SOP terkait;
+        -   Publikasi hasil survei tahun sebelumnya untuk ditindaklanjuti.
+5) Langkah-langkah Pengendalian Standar Mutu UNITA
+  a) Manajemen
+     Langkah-langkah       pelaksanaan      standar   mutu   pada   aspek
+     manajemen adalah sebagai berikut:
+     1. Melakukan tindak lanjut atas Permintaan Tindakan Koreksi
+        (PTK);
+     2. Melakukan diseminasi hasil AMI supporting units;
+     3. Melakukan diseminasi hasil monitoring dan evaluasi IKU;
+     4. Melakukan diseminasi hasil survey kepuasan;
+     5. Menyusun Tinjauan Manajemen;
+     6. Melakukan analisa dan kajian Early Warning System dari Monev.
+                                                                              2024
+
+                                                                      MANUAL MUTU
+
+  b) Sumber Daya Manusia
+     Langkah-langka pelaksanaan standar mutu pada aspek sumber
+     daya manusia adalah sebagai berikut:
+     1. Melaksanakan rapat Tinjauan Manajemen (TM) sebagai metode
+         untuk      melihat    evaluasi   standar   dan   evaluasi   tenaga
+         kependidikan; dan
+     2. Menyusun        Tinjauan    Manajemen       PPM   sebagai    bentuk
+         pengendalian atas pengembangan teknis dan adminstratif, serta
+         kondisi capaian standar sumber daya manusia dan evaluasi
+         tenaga kependidikan
+6) Penanggungjawab Pengendalian Standar Mutu UNITA
+  a. Rektor
+  b. Wakil Rektor I, II, III
+  c. Pusat Penjaminan Mutu (PPM)
+  d. Kepala Biro Administasi Akademik
+  e. Kepala Biro Administrasi Keuangan
+  f. Kepala Biro Administrasi Umum
+  g. Kepala Biro Administrasi Kemahasiswaan
+7) Mekanisme Rapat Tinjauan Manajemen
+  a. Rapat Tinjauan Manajemen di PPM dilaksanakan di setiap akhir
+     tahun
+  b. Lingkup rapat tinjauan manajemen di PPM meliputi:
+     -   Hasil analisis dan kajian dari monev setiap standar
+     -   Hasil analisis dan dan kajian serta diseminasi Audit Mutu
+         Internal
+     -   Survey Kepuasan layanan
+  c. Rapat Tinjauan Manajemen PPM dihadiri oleh Struktur Pusat
+     PenjaminanMutu dan Gugus Penjaminan Mutu
+                                                                           2024
+
+                                                                   MANUAL MUTU
+
+  d. Rapat Tinjauan Manajemen akan dikaji hasil analisisa, kajian, early
+     warnig system dari temuan atau ketidaksesuaian dengan target
+     indikator dari setiap standar yang ditetapkan
+  e. Pada Rapat Tinjauan manajemn akan dikaji akar masalah dan
+     menetapkan rencana tindak lanjut sebagai dasar penyusunan
+     program kerja PPM
+  f. Laporan Rapat Tinjauan Manajemen akan disampaikan ke Rektor
+     sebagai bagian pertanggungjawaban LPM.
+8) Mekanisme Pengendalian Risiko
+  a. Permintaan tindakan koreksi dari temuan hasil audit, evaluasi dan
+     survey kepuasan
+  b. Rapat Tinjauan Manajemen di PPM
+9) Mekanisme Pengendalian dan Mitigasi Risiko Kebijakan
+  Pengendalian resiko kebijakan ini dilakukan dengan SOP dan pedoman
+  atau panduan dari setiap proses penetapan pada proses PPM.
+  Pengendalian resiko kebijakan ini merupakan tanggung jawab dari
+  Ketua PPM dan Kepala Bagian Penanggungjawab sesuai scope masing
+  – masing Program.
+10) Mekanisme Pengendalian dan Mitigasi Risiko Kepatuhan
+  Pengendalian resiko kebijakan ini dilakukan dengan SOP dan pedoman
+  atau panduan dari setiap proses penetapan pada proses kegiatan PPM.
+  Pengendalian resiko kebijakan ini merupakan tanggung jawab
+  merupakan tanggung jawab dari Ketua PPM dan Kepala Bagian
+  Penanggungjawab sesuai scope masing – masing Program.
+11) Mekanisme Pengendalian Risiko Reputasi
+  Pengendalian resiko kebijakan ini dilakukan dengan SOP dan pedoman
+  atau panduan di setiap PPEPP di proses kerja PPM. Pengendalian
+  resiko kebijakan ini merupakan tanggung jawab dari ketua PPM, Deputi
+  Akreditasi Pendidikan Kepala Bagian Penanggungjawab sesuai scope
+  masing – masing Program.
+                                                                               2024
+
+                                                                       MANUAL MUTU
+
+
+
+10. Manual Peningkatan Standar Mutu
+  a. Definisi Manual Peningkatan Standar Mutu UNITA
+     Manual Peningkatan Standar Mutu UNITA merupakan dokumen yang
+     berisi tentang petunjuk teknis, cara, langkah peningkatan standar di
+     lingkungan   Universitas   Tulungagung.     Manual    ini   merangkum
+     peningkatan isi standar mutu untuk menjadi pedoman pencapaian
+     perbaikan mutu standar di tingkat Internal dan Eksternal yang dilakukan
+     secara periodik dengan mendasarkan pada siklus berkelanjutan dan
+     hasil evaluasi pelaksanaan standar yang telah ditetapkan sebelumnya.
+     Peningkatan mutu dilakukan dengan memperhatikan perkembangan
+     situasi dan kondisi yang berlangsung pada tingkat lokal, nasional,
+     regional dan internasional dan mempertimbangkan juga relevansinya
+     dengan visi dan misi Universitas Tulungagung.
+  b. Tujuan Peningkatan Standar Mutu UNITA
+     Peningkatan standar mutu dilakukan untuk meningkatkan capaian
+     kinerja Universitas Tulungagung dalam pelaksanaan renstra yang telah
+     ditetapkan yang dapat dijabarkan sebagai berikut:
+     -   Untuk    meningkatkan      Standar     Mutu      UNITA      secara
+         berkesinambungan pada setiap akhir siklus setiap standar mutu
+         Universitas Tulungagung.
+     -   Untuk mendapatkan informasi menyeluruh tentang kelebihan
+         dan kekurangan Standar Mutu UNITA di Universitas Tulungagung.
+     -   Untuk melakukan diversifikasi Standar Mutu UNITA.
+  c. Lingkup Peningkatan Standar Mutu UNITA
+     Lingkup peningkatan Standar Mutu UNITA meliputi:
+     -   Peningkatan standar mutu layanan manajemen.
+     -   Peningkatan standar mutu layanan pendidikan, penelitian dan
+         pengabdian masyarakat.
+     -   Peningkatan standar mutu layanan penunjang.
+                                                                              2024
+
+                                                                      MANUAL MUTU
+
+d. Potensi dan Mitigasi risiko Tahapan Evaluasi
+   Pelaksanaan peningkatan standar mutu UNITA memiliki potensi risiko
+   sehingga perlu adanya upaya mitigasi. Potensi dan mitgasi itu dapat
+   dijelaskan sebagai berikut:
+   -   Risiko   kebijakan    terkait   dengan   proses   dan    mekanisme
+       penetapan kebijakan di tingkat pimpinan Universitas.
+   -   Risiko Kepatuhan terkait dengan realisasi pada tingkat pelaksana.
+   -   Risiko Operasional terkait dengan teknis pelaksanaan kebijakan
+       yang telah ditetapkan.
+   -   Risiko Reputasi terkait dengan akibat dari pelaksanaan kebijakan
+       yang akan memberi pengaruh pada reputasi UNITA di tingkat
+       nasional maupun internasional.
+e. Langkah-langkah Peningkatan Standar Mutu UNITA
+   -   peningkatan standar Mutu Unita diawali dengan Penetapan Standar
+       Mutu yang akan menjadi acuan dalam pelaksanaan setiap kegiatan
+       yang berlangsung di lingkungan Universitas Tulungagung.
+   -   Langkah selanjutnya adalah menetapkan Indikator kinerja baru yang
+       akan     menjadi     panduan    ketercapaian   kinerja   Universitas
+       Tulungagung.
+   -   Penetapan Pengembangan Strategi dilakukan sebagai kelanjutan
+       dari adanya standar mutu dan indikator kinerja yang menghasilkan
+       strategi peningkatan mutu Universitas Tulungagung.
+   -   Langkah terakhir adalah dilakukannya penetapan program prioritas
+       dan unggulan. Dengan adanya program prioritas dan unggulan ini,
+       Universitas Tulungagung memberikan upaya peningkatan mutu
+       yang terarah dan terukur.
+f. Penanggungjawab Peningkatan Standar Mutu UNITA
+   -   Ketua PPM menerima tanggung jawab pelaksanaan tugas dari
+       Rektor UNITA untuk melaksanakan penjaminan mutu Universitas
+                                                                              2024
+
+                                                                      MANUAL MUTU
+
+    Tulungagung dengan mendasarkan pada Standar Mutu UNITA yang
+    telah ditetapkan oleh Rektor UNITA.
+-   Ketua PPM bertanggungjawab atas akreditasi organisasi di tingkat
+    nasional maupun internasional.
+-   Ketua PPM         menerima      tanggung    jawab    pelaksanaan tugas
+    penjaminan mutu dari Rektor terkait akreditasi organisasi di tingkat
+    nasional maupun internasional.
+-   Ketua PPM menerima             tanggung    jawab    pelaksanaan   tugas
+    penjaminan mutu dari Rektor terkait peringkat UNITA di tingkat
+    nasional maupun internasional.
+-   Ketua PPM menerima tanggung jawab pelaksanaan tugas dari
+    Rektor      terkait   dengan    pelaksanaan   sistem penjaminan mutu
+    Internal.
+-   Ketua Pusat AMI menerima tanggung jawab pelaksanaan tugas dari
+    Ketua PPM terkait dengan pelaksanaan Audit Mutu di tingkat Internal
+    UNITA.
+-   Ketua PPM menerima tanggung jawab pelaksanaan tugas dari
+    Rektor terkait dengan akreditasi pendidikan secara nasional dari
+    setiap program studi di lingkungan UNITA.
+-   Ketua PPM menerima tanggung jawab pelaksanaan tugas dari
+    Rektor terkait dengan akreditasi pendidikan secara internasional dari
+    setiap program studi di lingkungan UNITA.
+-   Ketua PPM menerima tanggung jawab pelaksanaan tugas dari
+    Rektor terkait dengan peringkat UNITA di tingkat nasional.
+-   Ketua PPMmenerima tanggung jawab pelaksanaan tugas dari
+    Rektor terkait dengan peringkat UNITA di tingkat internasional.
+                                                                                                                2024
+
+                                                                                                     MANUAL MUTU
+
+
+
+
+11. Pemetaan Sistem Kerja dan Kebutuhan Dokumen
+  a) Implementasi Siklus PPEPP
+
+
+                                 Tabel 4. Pemetaan Sistem Kerja dan Kebutuhan Dokumen
+
+   SIKLUS        SIKLUS                  PENANGGUNG                                                    DOKUMEN
+                              PROSES                        PELAKSANA             POTENSI RISIKO        DUKUNG
+    PPEPP        OSDAT                      JAWAB                        WAKTU
+                                                                                                          DAN
+Perencanaan/   Organisasi   Penetapan    Rektor UNITA   -    PPM        1 Kali     -    Risiko         PEDOMAN
+                                                                                                    SK Rektor tentang
+Penetapan                   struktur                    -    SPI        dalam 5         Kebijakan   Sistem Organisasi
+                            organisasi                                  tahun      -    Risiko      dan Tata Kerja
+                            Penjaminan                                                  Kepatuhan
+                            Mutu UNITA
+                            dan Uraian
+                            Tugas
+
+
+                            Penetapan    Dekan          GPM             1 Kali     -    Risiko      SK Dekan
+                            unit                                        dalam 5         Kebijakan   Struktur
+                            penjaminan                                  tahun      -    Risiko      Organisasi dan
+                            mutu di                                                     Kepatuhan   Tat Kerja
+                            Fakultas                                                                Fakultas
+                                                                                                           2024
+
+                                                                                                MANUAL MUTU
+
+
+
+
+                                                                                                  DOKUMEN
+                SIKLUS                  PENANGGUNG                               POTENSI           DUKUNG
+SIKLUS PPEPP                                           PELAKSANA    WAKTU
+                OSDAT      PROSES          JAWAB                                  RISIKO             DAN
+                                                                                                  PEDOMAN
+
+               Sistem    Penetapan      Rektor UNITA   PPM         1 Kali    -   Risiko        SK Pernyataan
+                         dokumen                                   dalam 2       Kebijakan     dan Kebijakan
+                         SPMI tingkat                              tahun     -   Risiko        Mutu, SK
+                         Universitas                                             Kepatuhan     Rektor tentang
+                                                                             -   Risiko        Manual Mutu,
+                                                                                 Operasional   SPMI, SK
+                                                                                               Rektor tentang
+                                                                                               Standar Mutu,
+                                                                                               SK Rektor
+                                                                                               tentang
+                                                                                               Formulir Mutu,
+                                                                                               SK Rektor
+                                                                                               tentang Luaran
+                                                                                               dan Capaian
+                                                                                               Tri Dharma, SK
+                                                                                               Rektor tentang
+                                                                                               Instruksi Kerja
+                                                                                     2024
+
+                                                                          MANUAL MUTU
+
+
+
+
+Penetapan     PPM            Dekan dan       1 Kali    -   Risiko        SK Pernyataan
+dokumen                      GPM             dalam 2       Kebijakan     dan Kebijakan
+SPMI                                         tahun     -   Risiko        Mutu, SK Rektor
+tingkat                                                    Kepatuha      tentang Manual
+Fakultas                                                   Risiko        Mutu, SPMI, SK
+                                                           Operasional   Rektor tentang
+                                                                         Standar Mutu, SK
+                                                                         Rektor tentang
+                                                                         Formulir Mutu,
+                                                                         SK Rektor tentang
+                                                                         Manual Prosedur,
+                                                                         SK Rektor tentang
+                                                                         Luaran dan
+                                                                         Capaian Tri
+                                                                         Dharma, SK
+                                                                         Rektor tentang
+                                                                         Instruksi Kerja
+Pelaksanaan   Rektor UNITA   Wakil Rektor,   1 Kali    -   Risiko        Renstra UNITA
+Renstra                      Dekan           dalam 5       Kebijakan
+UNITA                                        tahun     -   Risiko
+                                                           Kepatuhan
+                                                       -   Risiko
+                                                           Operasion
+                                                       -   Risiko
+                                                           Reputasi
+                                                                                            2024
+
+                                                                                 MANUAL MUTU
+
+
+
+
+Pelaksanaan   Pelaksanaa   Ketua PPM   -   Ketua       1 Kali    -   Risiko      Renstra UNITA
+              Renstra                      PPM         dalam 5       Kebijakan
+                                       -   Ka. Bag.    tahun     -   Risiko
+                                           Pengemba              -   Kepatuha
+                                           ngan                      n
+                                           SPMI                  -   Risiko
+                                       -   Ka. Bag.                  Operasion
+                                           Audit dan                 al
+                                           Monevin               -   Risiko
+                                                                     Reputasi
+                                                                                 2024
+
+                                                                      MANUAL MUTU
+
+
+
+
+Pelaksanaan Rektor UNITA    Wakil Rektor,   1 Kali    -   Risiko      Standar Mutu
+Perjanjian                  Dekan           dalam 1       Kebijakan   Tata Pamong dan
+Kinerja UNITA                               tahun     -   Risiko      Tata Kelola,
+                                                          Kepatuhan
+                                                      -   Risiko
+                                                          Operasional
+
+
+
+
+Pemutakhiran - Ka. Biro     - Operator PD   2 kali    -   Risiko      Standar Mutu
+Data PDDikti   Administrasi   DIKTI         dalam 1       Kebijakan   Sumber Daya
+               dan          - Tim SI        tahun     -   Risiko      Manusia
+               Akademik                                   Kepatuhan
+             - Ka. Bag.                               -   Risiko
+               Badan                                      Operasional
+               Kepegawaian                            -   Risiko
+                                                          Reputasi
+                                                                              2024
+
+                                                                    MANUAL MUTU
+
+
+
+
+Pemutakhiran Wakil Rektor I   Tim SI   2 kali    -   Risiko      Standar Mutu
+data SIAKAD                            dalam 1       Kebijakan   Sumber Daya
+                                       tahun     -   Risiko      Manusia
+                                                     Kepatuhan
+                                                 -   Risiko
+                                                     Operasional
+                                                 -   Risiko
+                                                     Reputasi
+Peningkatan   PPM             PPM      1 Kali    -   Risiko        Standar Mutu
+Kapasitas                              dalam 1       Kebijakan     Sumber Daya
+GPM                                    tahun     -   Risiko        Manusia
+                                                     Kepatuhan
+
+Fasilitasi    PPM             PPM      2 Kali    -   Risiko        Dokumen Mutu
+persiapan                              dalam 1       Kebijakan
+                                                                   (Kebijakan,
+akreditasi                             tahun     -   Risiko
+                                                                   Manual, Standar,
+                                                     Kepatuhan
+                                                                   dan Formulir)
+                                                 -   Risiko
+                                                     Operasional
+                                                 -   Risiko
+                                                     Reputasi
+                                                                                 2024
+
+                                                                      MANUAL MUTU
+
+
+
+
+Pengelolaan   Ketua Program   Ketua Tim   1x / Tahun -   Risiko      Monev Pendidikan
+Pendidikan    Studi           Kurikulum                  Kebijakan
+                              Prodi                  -   Risiko
+                                                         Kepatuhan
+                                                         Risiko
+                                                         Operasion
+                                                     -   Risiko
+                                                         Reputasi
+
+
+Pengelolaan   Ketua LPPM      LPPM        1x / Tahun -   Risiko      Monev Peneltiian
+Penelitian    Ketua PPM       PPM                        Kebijakan
+                                                     -   Risiko
+                                                         Kepatuhan
+                                                     -   Risiko
+                                                         Operasion
+                                                     -   Risiko
+                                                         Reputasi
+
+
+Pengelolaan   Ketua LPPM      LPPM        1x / Tahun -   Risiko      Monev PkM
+Pengabdian    Ketua PPM       PPM                        Kebijakan
+Masyarakat                                           -   Risiko
+                                                         Kepatuhan
+                                                     -   Risiko
+                                                         Operasion
+                                                     -   Risiko
+                                                         Reputasi
+                                                                                                          2024
+
+                                                                                              MANUAL MUTU
+
+
+
+
+Evaluasi   Audit   Monev          PPM, Ka. Bag.   PPM, Ka.        1x / Tahun -   Risiko      Monev Evaluasi
+                   Capaian        Audit dan       Bag. Audit                     Kebijakan   dan Capaian tri
+                   Renstra        Monev           dan Monev                  -   Risiko      Dharma
+                                  Dan GPM         dan GPM                        Kepatuhan
+                                                                             -   Risiko
+                                                                                 Operasion
+                                                                             -   Risiko
+                                                                                 Reputasi
+
+
+                   Monev Visi     PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev VMTS
+                   Misi Tujuan    Audit dan       Audit dan                      Kebijakan
+                   dan Strategi   Monev, Dekan,   Monev, Dekan,              -   Risiko
+                                  Ka. Prodi       Ka. Prodi                      Kepatuhan
+                                  dan GPM         dan GPM                    -   Risiko
+                                                                                 Operasion
+                                                                             -   Risiko
+                                                                                 Reputasi
+
+
+                   Monev Tata     PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev TPTK
+                   Pamong Tata    Audit dan       Audit dan                      Kebijakan
+                   kelola dan     Monev, Dekan,   Monev, Dekan,              -   Risiko
+                   kerjasama      Ka. Prodi       Ka. Prodi                      Kepatuhan
+                                  dan GPM         dan GPM                    -   Risiko
+                                                                                 Operasion
+                                                                             -   Risiko
+                                                                                 Reputasi
+                                                                                     2024
+
+                                                                         MANUAL MUTU
+
+
+
+
+Monev         PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev Mahasiswa
+Mahasiswa     Audit dan       Audit dan                      Kebijakan
+              Monev, Dekan,   Monev, Dekan,              -   Risiko
+              Ka. Prodi       Ka. Prodi                      Kepatuhan
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Monev         PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev SDM
+Sumber Daya   Audit dan       Audit dan                      Kebijakan
+Manusia       Monev, Dekan,   Monev, Dekan,              -   Risiko
+              Ka. Prodi       Ka. Prodi                      Kepatuhan
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Monev         PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev Keuangan
+Keuangan      Audit dan       Audit dan                      Kebijakan   dan Monev
+sarana dan    Monev, Dekan,   Monev, Dekan,              -   Risiko      Sarana dan
+Prasarana     Ka. Prodi       Ka. Prodi                      Kepatuhan   Prasarana
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+                                                                                    2024
+
+                                                                          MANUAL MUTU
+
+
+
+
+Monev        PPM, Ka. Bag.    PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev Kerjasama
+Kerjasama    Audit dan        Audit dan                      Kebijakan
+             Monev, Dekan,    Monev, Dekan,              -   Risiko
+             Ka. Prodi        Ka. Prodi                      Kepatuhan
+             dan GPM          dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Monev MBKM PPM, Ka. Bag.      PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev MBKM
+           Audit dan          Audit dan                      Kebijakan
+           Monev, Dekan,      Monev, Dekan,              -   Risiko
+           Ka. Prodi          Ka. Prodi                      Kepatuhan
+           dan GPM            dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Monev         PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      Monev
+Kesejahteraan Audit dan       Audit dan                      Kebijakan   Kesejahteraan
+              Monev, Dekan,   Monev, Dekan,              -   Risiko
+              Ka. Prodi       Ka. Prodi                      Kepatuhan
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+                                                                                                              2024
+
+                                                                                                   MANUAL MUTU
+
+
+
+
+                        Monev Proses    PPM, Ka. Bag.   PPM, Ka. Bag.   2x / Tahun -   Risiko      Monev Proses
+                        Pembelajaran    Audit dan       Audit dan                      Kebijakan   Pembelajaran
+                                        Monev, Dekan,   Monev, Dekan,              -   Risiko
+                                        Ka. Prodi       Ka. Prodi                      Kepatuhan
+                                        dan GPM         dan GPM                    -   Risiko
+                                                                                       Operasion
+                                                                                   -   Risiko
+                                                                                       Reputasi
+
+
+                        Monev           PPM, Ka. Bag.   PPM, Ka. Bag.   2x / Tahun -   Risiko      Monev Pelayanan
+                        Pelayanan       Audit dan       Audit dan                      Kebijakan   kepada
+                        kepada          Monev, Dekan,   Monev, Dekan,              -   Risiko      Mahasiswa
+                        Mahasiswa       Ka. Prodi       Ka. Prodi                      Kepatuhan
+                                        dan GPM         dan GPM                    -   Risiko
+                                                                                       Operasion
+                                                                                   -   Risiko
+                                                                                       Reputasi
+
+
+Pengendalian   Tindak   Analisis        Ketua PPM       Ka. PPM         1 kali     -   Risiko      RTM dan RTL
+               Lanjut   Kajian                          Ka. GPM         dalam 1        Kebijakan   Capaian Renstra
+                        Capaian                                         tahun      -   Risiko
+                                                        Dekan
+                        Standar dan                                                    Kepatuhan
+                        Indikator                       Kaprodi
+                                                                                   -   Risiko
+                        Kinerja                                                        Operasion
+                        sebagai Early
+                                                                                   -   Risiko
+                        Waning
+                                                                                       Reputasi
+                        System
+                                                                                       2024
+
+                                                                            MANUAL MUTU
+
+
+
+
+Diseminasi       PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI Visi   Audit dan       Audit dan                      Kebijakan   VMTS
+Misi Tujuan      Monev, Dekan,   Monev, Dekan,              -   Risiko
+dan Strategi     Ka. Prodi       Ka. Prodi                      Kepatuhan
+                 dan GPM         dan GPM                    -   Risiko
+                                                                Operasion
+                                                            -   Risiko
+                                                                Reputasi
+
+
+Diseminasi     PPM, Ka. Bag.     PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI Tata Audit dan         Audit dan                      Kebijakan   TPTK
+Pamong Tata Monev, Dekan,        Monev, Dekan,              -   Risiko
+kelola dan     Ka. Prodi         Ka. Prodi                      Kepatuhan
+kerjasama      dan GPM           dan GPM                    -   Risiko
+                                                                Operasion
+                                                            -   Risiko
+                                                                Reputasi
+
+
+Diseminasi       PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI        Audit dan       Audit dan                      Kebijakan   Mahasiswa
+Mahasiswa        Monev, Dekan,   Monev, Dekan,              -   Risiko
+                 Ka. Prodi       Ka. Prodi                      Kepatuhan
+                 dan GPM         dan GPM                    -   Risiko
+                                                                Operasion
+                                                            -   Risiko
+                                                                Reputasi
+                                                                                    2024
+
+                                                                         MANUAL MUTU
+
+
+
+
+Diseminasi    PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI     Audit dan       Audit dan                      Kebijakan   SDM
+Sumber Daya   Monev, Dekan,   Monev, Dekan,              -   Risiko
+Manusia       Ka. Prodi       Ka. Prodi                      Kepatuhan
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Diseminasi    PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI     Audit dan       Audit dan                      Kebijakan   Keuangan dan
+Keuangan      Monev, Dekan,   Monev, Dekan,              -   Risiko      RTL dari RTM
+sarana dan    Ka. Prodi       Ka. Prodi                      Kepatuhan   Sarana dan
+Prasarana     dan GPM         dan GPM                    -   Risiko      Prasarana
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+
+
+Diseminasi    PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI     Audit dan       Audit dan                      Kebijakan   Kerjasama
+Kerjasama     Monev, Dekan,   Monev, Dekan,              -   Risiko
+              Ka. Prodi       Ka. Prodi                      Kepatuhan
+              dan GPM         dan GPM                    -   Risiko
+                                                             Operasion
+                                                         -   Risiko
+                                                             Reputasi
+                                                                                     2024
+
+                                                                           MANUAL MUTU
+
+
+
+
+Diseminasi     PPM, Ka. Bag.   PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI      Audit dan       Audit dan                      Kebijakan   MBKM
+MBKM           Monev, Dekan,   Monev, Dekan,              -   Risiko
+               Ka. Prodi       Ka. Prodi                      Kepatuhan
+               dan GPM         dan GPM                    -   Risiko
+                                                              Operasion
+                                                          -   Risiko
+                                                              Reputasi
+
+
+Diseminasi    PPM, Ka. Bag.    PPM, Ka. Bag.   1x / Tahun -   Risiko      RTL dari RTM
+hasil AMI     Audit dan        Audit dan                      Kebijakan   Kesejahteraan
+Kesejahteraan Monev, Dekan,    Monev, Dekan,              -   Risiko
+              Ka. Prodi        Ka. Prodi                      Kepatuhan
+              dan GPM          dan GPM                    -   Risiko
+                                                              Operasion
+                                                          -   Risiko
+                                                              Reputasi
+
+
+Diseminasi     PPM, Ka. Bag.   PPM, Ka. Bag.   2x / Tahun -   Risiko      RTL dari RTM
+hasil AMI      Audit dan       Audit dan                      Kebijakan   Proses
+Proses         Monev, Dekan,   Monev, Dekan,              -   Risiko      Pembelajaran
+Pembelajaran   Ka. Prodi       Ka. Prodi                      Kepatuhan
+               dan GPM         dan GPM                    -   Risiko
+                                                              Operasion
+                                                          -   Risiko
+                                                              Reputasi
+                                                                                                               2024
+
+                                                                                                 MANUAL MUTU
+
+
+
+
+                       Diseminasi     PPM, Ka. Bag.   PPM, Ka. Bag.   2x / Tahun -   Risiko      RTL dari RTM
+                       hasil AMI      Audit dan       Audit dan                      Kebijakan   Pelayanan kepada
+                       Pelayanan      Monev, Dekan,   Monev, Dekan,              -   Risiko      Mahasiswa
+                       kepada         Ka. Prodi       Ka. Prodi                      Kepatuhan
+                       Mahasiswa      dan GPM         dan GPM                    -   Risiko
+                                                                                     Operasion
+                                                                                 -   Risiko
+                                                                                     Reputasi
+
+
+Peningkatan   Tindak   Penetapan    Ketua PPM         PPM dan GPM     Periodik   -   Risiko      Dokumen Standar
+              Lanjut   Standar Mutu                   UNITA           sesuai         Kebijakan   Mutu
+                       UNITA                                          Program    -   Risiko
+                                                                      Kerja          Kepatuhan
+                                                                                 -   Risiko
+                                                                                     Operasion
+                                                                                 -   Risiko
+                                                                                     Reputasi
+
+
+                       Penetapan      Ketua PPM       -   PPM         Periodik   -   Risiko      Dokumen Standar
+                       Indikator                      -   Dekan       sesuai         Kebijakan   Mutu dan
+                       Kinerja Baru                   -   Kaprodi     Program    -   Risiko      Formir Mutu
+                                                      -   Ka. Bag.    Kerja          Kepatuhan
+                                                          Pengamban              -   Risiko
+                                                          gan SPMI                   Operasion
+                                                      -   GPM
+                                                                                 -   Risiko
+                                                                                     Reputasi
+                                                                                 2024
+
+                                                                       MANUAL MUTU
+
+
+
+
+Penetapan       Ketua PPM   -   PPM         Periodik   -   Risiko      Dokumen Standar
+program                     -   Dekan       sesuai         Kebijakan   Mutu
+Prioritas dan               -   Kaprodi     Program    -   Risiko
+Unggulan                    -   Ka. Bag.    Kerja          Kepatuhan
+                                Pengamban              -   Risiko
+                                gan SPMI                   Operasion
+                            -   GPM
+                                                       -   Risiko
+                                                           Reputasi
+                                                                               2024
+                                                                    MANUAL MUTU
+
+
+
+
+12. Kebutuhan Dokumen, Formulir, dan SOP
+Kebutuhan dokumen di PPM disesuaikan dengan SK Rektor Unita Nomor :
+A/094.A/KEP/UNITA/XII/2022    Tentang    Struktur   Organisasi   Universitas
+Tulungagung dan SK Rektor Unita Nomor : A/061.A/KEP/UNITA/XII/2020
+Tentang Uraian Tugas di Lingkungan Universitas. Secara umum kebutuhan
+SOP pada PPM sesuai dengan bidang tugas yang ada dalam Susunan
+Organisasi PPM, yaitu: SPMI, AMI, Akreditasi dan Pengembangan Mutu
+Universitas. Mengacu kepada klasifikasi dokumen SPMI UNITA, maka PPM
+memiliki beberapa jenis dokumen penjaminan mutu, yaitu:
+      1. Pernyataan dan Kebijakan Mutu
+      2. Manual Mutu
+      3. Standar Mutu
+      4. Formulir Mutu
+      5. Manual Prosedur Fakultas Ekonomi
+      6. Manual Prosedur Fakultas Pertanian
+      7. Manual Prosedur Fakultas Hukum
+      8. Manual Prosedur Fakultas Ilmu Sosial dan Ilmu Politik
+      9. Manual Prosedur Fakultas Teknik
+      10. Pengaturan pengelolaan SPMI Institusi
+      11. Pengaturan organisasi pengelola SPMI Institusi
+      12. Pengaturan terkait pelaksanaan standar dalam SPMI Institusi
+      13. Pengaturan terkait evaluasi pelaksanaan standar
+      14. Pengaturan terkait pengendalian pelaksanaan standar
+      15. Pengaturan terkait peningkatan standar dalam SPMI Institusi
+                                                                               2024
+                                                                    MANUAL MUTU
+
+
+13. Referensi
+   a) Undang–Undang RepUNITAlik Indonesia No. 20 Tahun 2003 tentang
+      Sistem Pendidikan Nasional;
+   b) Undang–Undang       RepUNITAlik   Indonesia No.     12    Tahun   2012
+      tentang Pendidikan Tinggi;
+   c) Peraturan Pemerintah RepUNITAlik Indonesia No. 4 Tahun 2014
+      tentang   Penyelenggaraan     Pendidikan   Tinggi   dan   Pengelolaan
+      Perguruan Tinggi;
+   d) Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun 2020
+      tentang Standar Nasional Pendidikan Tinggi
+   e) Peraturan Menteri Pendidikan Dan Kebudayaan Nomor 5 Tahun 2020
+      tentang Akreditasi Program Studi Dan Perguruan Tinggi;
+   f) Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi
+      Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi
+   g) Peraturan Badan Akreditasi Nasional Perguruan Tinggi Nomor 16
+      Tahun 2023 Tentang Implementasi Mekanisme Automasi Pada
+      Akreditasi Program Studi
+   h) STATUTA Universitas Tulungagung;
+   i) RENSTRA Universitas Tulungagung.
+

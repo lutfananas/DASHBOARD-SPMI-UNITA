@@ -1,0 +1,897 @@
+     1→     1→                                         KEPUTUSAN
+     2→     2→                        REKTOR UNIVERSITAS TULUNGAGUNG
+     3→     3→                              NO. : A/002.I/KEP/UNITA/ I /2024
+     4→     4→                                           TENTANG
+     5→     5→                         PERNYATAAN DAN KEBIJAKAN MUTU
+     6→     6→                              UNIVERSITAS TULUNGAGUNG
+     7→     7→
+     8→     8→Menimbang       : a. bahwa dalam rangka meningkatkan pengelolaan Universitas Tulungagung,
+     9→     9→                    maka dipandang perlu memberlakukan Pernyataan dan Kebijakan Mutu di
+    10→    10→                    lingkungan Universitas Tulungagagug
+    11→    11→                    b. bahwa berdasar hal tersebut maka perlu diterbitkan Surat Keputusan Rektor.
+    12→    12→
+    13→    13→Mengingat       : 1. Undang–Undang Republik Indonesia No. 20 Tahun 2003 tentang Sistem
+    14→    14→                      Pendidikan Nasional;
+    15→    15→                    2. Undang–Undang Republik Indonesia No. 12 Tahun 2012 tentang
+    16→    16→                      Pendidikan Tinggi;
+    17→    17→                    3. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang
+    18→    18→                      Penyelenggaraan Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi;
+    19→    19→                    4. Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun 2020 tentang
+    20→    20→                       Standar Nasional Pendidikan Tinggi
+    21→    21→                    5. Peraturan Menteri Pendidikan Dan Kebudayaan Nomor 5 Tahun 2020 tentang
+    22→    22→                       Akreditasi Program Studi Dan Perguruan Tinggi;
+    23→    23→                    6. Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 53
+    24→    24→                       Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi
+    25→    25→                    7. Peraturan Badan Akreditasi Nasional Perguruan Tinggi Nomor 16 Tahun 2023
+    26→    26→                       Tentang Implementasi Mekanisme Automasi Pada Akreditasi Program Studi
+    27→    27→                    8. STATUTA Universitas Tulungagung;
+    28→    28→                 9. RENSTRA Universitas Tulungagung.
+    29→    29→Memperhatikan   : -
+    30→    30→                                       MEMUTUSKAN
+    31→    31→Menetapkan      :
+    32→    32→
+    33→    33→Pertama         :    Pemberlakuan Pernyataan dan Kebijakan Mutu di lingkungan
+    34→    34→                     Universitas Tulungagung sebagaimana terlampir dalam keputusan ini.
+    35→    35→
+    36→    36→                                                                            Kedua……………….
+    37→    37→Kedua              :   Keputusan ini berlaku sejak tanggal ditetapkan.
+    38→    38→Ketiga             :   Apabila dikemudian hari ternyata terdapat kekeliruan dalam penetapannya,
+    39→    39→                       maka akan diadakan perubahan sebagaimana mestinya.
+    40→    40→
+    41→    41→
+    42→    42→
+    43→    43→
+    44→    44→                                                                 Ditetapkan di : Tulungagung
+    45→    45→                                                                 Pada tanggal : 5 Januari 2024
+    46→    46→                                                                    Universitas Tulungagung
+    47→    47→                                                                             Rektor
+    48→    48→
+    49→    49→
+    50→    50→
+    51→    51→
+    52→    52→                                                                         Dr. Muharsono, M.Si
+    53→    53→                                                                          NIDN. 0714046001
+    54→    54→
+    55→    55→
+    56→    56→
+    57→    57→
+    58→    58→Tembusan disampaikan kepada :
+    59→    59→1. Yth. Wakil Rektor I, II dan III
+    60→    60→2.       Dekan FE, FISIP, FP, FH, FT dan Prodi D3 Kebidanan;
+    61→    61→3.       Ka. LPPM, Ka. PPM
+    62→    62→4.       Ka. BAA, BAU, BAKU dan BAK
+    63→    63→5.       UPT Sistem Informasi dan UPT Perpustakaan
+    64→    64→                                  Dokumen Mutu
+    65→    65→                        Universitas     Kode Dok.        :   SPMI/PPM/DM/KBJ/2024
+    66→    66→                       Tulungagung      Tanggal          :   10/01/2024
+    67→    67→                    Sistem Penjaminan   Revisi           :   -
+    68→    68→                       Mutu Internal    Halaman          :
+    69→    69→
+    70→    70→
+    71→    71→
+    72→    72→
+    73→    73→                  PERNYATAAN DAN KEBIJAKAN
+    74→    74→   SISTEM PENJAMINA MUTU INTERNAL (SPMI)
+    75→    75→                  UNIVERSITAS TULUNGAGUNG
+    76→    76→
+    77→    77→
+    78→    78→
+    79→    79→
+    80→    80→                                        Penangungjawab
+    81→    81→    Proses                                                           Tanda     Tanggal
+    82→    82→                               Nama                    Jabatan
+    83→    83→                                                                     Tangan
+    84→    84→  1. Perumus        Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+    85→    85→
+    86→    86→ 2. Pemeriksa        Eni Minarni, S.E., Ak, M.Ak    Ka. Bag. Monev            10/01/2024
+    87→    87→
+    88→    88→3. Persetujuan      Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+    89→    89→
+    90→    90→ 4. Penetapan           Dr. Muharsono, M.Si             Rektor                10/01/2024
+    91→    91→
+    92→    92→5. Pengendalian     Anang Sugeng ., S.AP., M.Si.       Ka. PPM                10/01/2024
+    93→    93→TIM PENYUSUN
+    94→    94→Tim penyusun Kebijakan Mutu Universitas Tulungagung menjalankan tugas
+    95→    95→berdasarkan   Keputusan    Rektor   Universitas   Tulungagung     Nomor :
+    96→    96→A/002.I/KEP/UNITA/I/2024   Tanggal 5 Januari 2024 dengan susunan
+    97→    97→keanggotaan sebagai berikut:
+    98→    98→
+    99→    99→
+   100→   100→
+   101→   101→
+   102→   102→                                                   Penanggung Jawab
+   103→   103→                                                   Dr. Muharsono. M.Si.
+   104→   104→
+   105→   105→                                                               Ketua
+   106→   106→                                         Anang Sugeng C., S.Ap., M.Si.
+   107→   107→
+   108→   108→                                                             Sekertaris
+   109→   109→                                         Lutfan Anas Zahir, S.Si., M.Pd.
+   110→   110→
+   111→   111→                                                                Anggota
+   112→   112→                                Prof. Dr. Dwi Ima Herminingsih, M.Hum.
+   113→   113→                                           Danang Wijanarko, S.T., M.T.
+   114→   114→                                      Chusnatul Ulaela Sajali, S.P.,M.P.
+   115→   115→                                           Aulia Rahman Hakim, Sh.,Mh.
+   116→   116→                                                   Eni Minarni, Se.,M.Ak.
+   117→   117→
+   118→   118→                                                         Administrator
+   119→   119→                                                    Yeni Setyowati, S.P.
+   120→   120→                         KATA PENGANTAR
+   121→   121→
+   122→   122→
+   123→   123→      Puji kepada Tuhan yang Maha Esa dengan partisipasi pimpinan dan
+   124→   124→civitas akademika, Universitas Tulungagung telah dapat menyelesaikan
+   125→   125→dokumen Kebijakan Mutu Sistem Penjaminan Mutu Internal (SPMI).
+   126→   126→Keberadaan Kebijakan Mutu ini merupakan pengembangan dari Kebijakan
+   127→   127→Akademik Universitas Tulungagung 2020 dan disesuaikan dengan
+   128→   128→Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun 2020
+   129→   129→tentang Standar Nasional Pendidikan Tinggi, Peraturan Menteri Pendidikan
+   130→   130→Dan Kebudayaan Nomor 5 Tahun 2020 tentang Akreditasi Program Studi
+   131→   131→Dan Perguruan Tinggi, Peraturan Menteri Pendidikan, Kebudayaan, Riset,
+   132→   132→dan Teknologi Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan
+   133→   133→Tinggi. Kebijakan Mutu ini menjadi acuan utama dalam penyusunan
+   134→   134→Standar Mutu, Manual Mutu, Formulir Mutu dan Pengelolaan Penjaminan
+   135→   135→Mutu di lingkungan Universitas Tulungagung.
+   136→   136→      Kami menyampaikan terima kasih yang pada semua pihak internal
+   137→   137→dan eksternal Universitas Tulungagung yang telah membantu penyusunan
+   138→   138→dokumen Kebijakan Mutu Universitas Tulungagung ini. Kritik, saran, dan
+   139→   139→masukan kami tetap diharapkan untuk membuat lebih sempurna dokumen
+   140→   140→ini. Kami berharap bahwa Kebijakan Mutu ini digunakan oleh pihak-pihak
+   141→   141→yang disebutkan dalam dokumen SPMI ini, sehingga kita mampu
+   142→   142→mengakselerasi perwujudan Budaya Mutu di Universitas Tulungagung
+   143→   143→untuk mewujudkan visi Universitas Tulungagung.
+   144→   144→
+   145→   145→
+   146→   146→                               Tulungagung, 10 Januari 2024
+   147→   147→                               Pusat Penjaminan Mutu
+   148→   148→                               Ketua
+   149→   149→
+   150→   150→
+   151→   151→
+   152→   152→                               Anang Sugeng Cahyono, S.AP., M.Si.
+   153→   153→                                                                                 2024
+   154→   154→
+   155→   155→                                                 PERNYATAAN DAN KEBIJAKAN MUTU
+   156→   156→
+   157→   157→
+   158→   158→1. Visi, Misi, Tujuan Perguruan Tinggi
+   159→   159→   Visi Universitas Tulungagung :
+   160→   160→   “Mewujudkan Perguruan Tinggi yang Berkualitas dan Mampu Berkompetisi
+   161→   161→   Berskala Nasional Dan Internasional.”
+   162→   162→   Misi Universitas Tulungagung:
+   163→   163→   1.   Peningkatan      Penyelenggaraan        pendidikan,   penelitian   dan
+   164→   164→        pengabdian     kepada      masyarakat     yang   berkualitas   menuju
+   165→   165→        terbentuknya lulusan mandiri.
+   166→   166→   2.   Peningkatan kualitas Sumber Daya Manusia yang meliputi tenaga
+   167→   167→        pendidik dan tenaga kependidikan
+   168→   168→   3.   Peningkatan sarana dan prasarana akademik yang mendukung
+   169→   169→        proses belajar mengajar
+   170→   170→   Tujuan Universitas Tulungagung:
+   171→   171→   1.   Berkembangnya potensi mahasiswa agar menjadi manusia yang
+   172→   172→        beriman dan bertakwa kepada Tuhan yang Maha Esa dan berakhlak
+   173→   173→        mulia, sehat, berilmu, cakap, kreatif, mandiri, terampil, kompeten,
+   174→   174→        dan berbudaya untuk kepentingan bangsa.
+   175→   175→   2.   Dihasilkan lulusan yang menguasai cabang ilmu pengetahuan dan/
+   176→   176→        atau teknologi     untuk memenuhi kepentingan nasional dan
+   177→   177→        peningkatan daya saing bangsa.
+   178→   178→   3.   Dihasilkannya ilmu pengetahuan dan teknologi melalui penelitian
+   179→   179→        yang memperhatikan dan menerapkan nilai Humaniora agar
+   180→   180→        bermanfaat bagi kemajuan bangsa, serta kemajuan peradaban dan
+   181→   181→        kesejahteraan umat manusia; dan
+   182→   182→   4.   Terwujudnya Pengabdian kepada Masyarakat berbasis penalaran
+   183→   183→        dan   karya   penelitian    yang   bermanfaat     dalam   memajukan
+   184→   184→        kesejahteraan umum dan mencerdaskan kehidupan bangsa.
+   185→   185→                                                                                 2024
+   186→   186→
+   187→   187→                                                 PERNYATAAN DAN KEBIJAKAN MUTU
+   188→   188→
+   189→   189→  Sasaran Strategis Universitas Tulungagung:
+   190→   190→  1.      Terimplementasikan regulasi pendidikan sesuai dengan SN-DIKTI
+   191→   191→          dan kebijakan pemerintah;
+   192→   192→  2.      Peningkatan kemampuan ilmiah dengan lebih mengembangkan
+   193→   193→          program pendidikan akademik, profesional dan pengembangan
+   194→   194→          program penelitian universitas.
+   195→   195→  3.      Terbangun integrasi dosen dan mahasiswa dalam kegiatan
+   196→   196→          penelitian dan PkM;
+   197→   197→  4.      Memiliki kualitas dan kuantitas kegiatan penelitian berupa publikasi
+   198→   198→          hasil penelitian atau PkM pada jurnal terakreditasi nasional dan
+   199→   199→          internasional
+   200→   200→  5.      Menghasilkan produk unggulan berbasis Teknologi Tepat Guna
+   201→   201→          yang berdampak untuk kesejahteraan masyarakat.
+   202→   202→  6.      Terjalinnya kerjasama nasional dan internasional yang berorientasi
+   203→   203→          pada output berkelanjutan
+   204→   204→  7.      Memiliki jiwa Entrepreneur University (EU) kewirausahaan.
+   205→   205→  8.      Terselenggaranya      kegiatan    peningkatan   dan   pengembangan
+   206→   206→          sertifikasi akademik dan non – akademik bagi mahasiswa sebagai
+   207→   207→          penunjang SKPI
+   208→   208→  9.      Mengusulkan peningkatan peringkat akreditasi Program Studi;
+   209→   209→
+   210→   210→
+   211→   211→2. Latar Belakang Perguruan Tinggi Menjalankan SPMI
+   212→   212→       Universitas Tulungagung dalam menjalankan Sistem Penjaminan Mutu
+   213→   213→  Internal (SPMI) didasarkan pada kebutuhan untuk memastikan bahwa
+   214→   214→  pendidikan tinggi yang diberikan kepada mahasiswa memenuhi standar
+   215→   215→  kualitas yang telah ditetapkan. Di tengah persaingan global dan tuntutan
+   216→   216→  masyarakat akan lulusan yang kompeten dan siap kerja, perguruan tinggi
+   217→   217→  dituntut untuk terus meningkatkan mutu akademik, manajerial, serta
+   218→   218→  layanan pendukung lainnya. Implementasi SPMI membantu perguruan
+   219→   219→  tinggi dalam menilai, mengukur, dan memperbaiki berbagai aspek
+   220→   220→                                                                                     2024
+   221→   221→
+   222→   222→                                                 PERNYATAAN DAN KEBIJAKAN MUTU
+   223→   223→
+   224→   224→  operasional, mulai dari kurikulum, proses pembelajaran, hingga kinerja
+   225→   225→  dosen dan staf.
+   226→   226→     Sistem Penjaminan Mutu Internal Universitas (SPMI) Tulungagung
+   227→   227→  memiliki tujuan secara sistematis dan berkelanjutan meningkatkan kualitas
+   228→   228→  pendidikan, sehingga mampu menghasilkan lulusan yang berdaya saing
+   229→   229→  tinggi serta berkontribusi positif terhadap pembangunan nasional dan
+   230→   230→  internasional. SPMI juga memungkinkan perguruan tinggi untuk lebih
+   231→   231→  responsif terhadap perubahan dan perkembangan kebutuhan dunia kerja
+   232→   232→  serta teknologi, dengan cara melakukan evaluasi dan perbaikan
+   233→   233→  berkelanjutan. Melalui penerapan SPMI, perguruan tinggi tidak hanya
+   234→   234→  menjaga kualitas internal mereka, tetapi juga membangun kepercayaan
+   235→   235→  dari    masyarakat     dan    berbagai pemangku       kepentingan,      termasuk
+   236→   236→  pemerintah, industri, dan calon mahasiswa.
+   237→   237→3. Tujuan Dokumen Kebijakan SPMI
+   238→   238→  Tujuan dari dokumen kebijakan Sistem Penjaminan Mutu Internal (SPMI)
+   239→   239→  Universitas Tulunaggung untuk memberikan pedoman yang jelas dan
+   240→   240→  terstruktur bagi perguruan tinggi dalam menjalankan dan mengelola sistem
+   241→   241→  penjaminan mutu di lingkungan akademik. Dokumen ini bertujuan untuk
+   242→   242→  menetapkan standar, prosedur, dan mekanisme yang diperlukan guna
+   243→   243→  memastikan bahwa semua proses pendidikan, penelitian, dan pengabdian
+   244→   244→  kepada masyarakat dilaksanakan sesuai dengan standar kualitas yang
+   245→   245→  telah    ditetapkan.    Adanya   kebijakan    ini,   perguruan   tinggi    dapat
+   246→   246→  mengidentifikasi area-area yang memerlukan perbaikan dan mengambil
+   247→   247→  langkah-langkah        yang   tepat   untuk   meningkatkan       mutu     secara
+   248→   248→  berkelanjutan.
+   249→   249→     Selain memberikan panduan operasional, dokumen kebijakan SPMI
+   250→   250→  juga bertujuan untuk memperkuat akuntabilitas dan transparansi dalam
+   251→   251→  pengelolaan perguruan tinggi. Dokumen ini menguraikan tanggung jawab
+   252→   252→  dan peran masing-masing pihak dalam implementasi SPMI, termasuk
+   253→   253→  pimpinan perguruan tinggi, dosen, staf administrasi, dan mahasiswa.
+   254→   254→                                                                               2024
+   255→   255→
+   256→   256→                                              PERNYATAAN DAN KEBIJAKAN MUTU
+   257→   257→
+   258→   258→  Dengan jelasnya pembagian tugas dan tanggung jawab, setiap individu dan
+   259→   259→  unit kerja di perguruan tinggi dapat lebih memahami kontribusi mereka
+   260→   260→  dalam mencapai tujuan mutu yang diinginkan, serta merasa lebih terlibat
+   261→   261→  dan bertanggung jawab dalam upaya peningkatan mutu.
+   262→   262→     Dokumen kebijakan SPMI juga memiliki fungsi berfungsi sebagai alat
+   263→   263→  untuk mendorong budaya peningkatan mutu yang berkelanjutan di seluruh
+   264→   264→  lingkungan Universitas Tulungagung. Dengan adanya kebijakan yang
+   265→   265→  tertulis dan terstruktur, perguruan tinggi dapat menciptakan budaya yang
+   266→   266→  mendukung inovasi, evaluasi, dan perbaikan berkelanjutan dalam semua
+   267→   267→  aspek operasional. Hal ini akan mendorong seluruh civitas akademika
+   268→   268→  untuk selalu berupaya meningkatkan kualitas pendidikan dan layanan yang
+   269→   269→  diberikan, serta beradaptasi dengan perubahan dan perkembangan yang
+   270→   270→  terjadi di dunia pendidikan tinggi untuk meningkatkan reputasi dan
+   271→   271→  kepercayaan masyarakat terhadap perguruan tinggi.
+   272→   272→     Komitmen     yang    kuat   terhadap   penjaminan   mutu   Universitas
+   273→   273→  Tulungagung dapat membangun citra yang positif di mata publik,
+   274→   274→  pemerintah, dan berbagai pemangku kepentingan. Kepercayaan ini akan
+   275→   275→  memberikan dampak positif berupa meningkatnya minat calon mahasiswa,
+   276→   276→  kemitraan dengan industri, serta peluang pendanaan dan kerjasama dalam
+   277→   277→  penelitian dan pengembangan, sehingga demikian, kebijakan SPMI tidak
+   278→   278→  hanya berfungsi sebagai pedoman internal, tetapi juga sebagai alat
+   279→   279→  strategis untuk meningkatkan daya saing dan kontribusi perguruan tinggi di
+   280→   280→  tingkat nasional dan internasional.
+   281→   281→4. Luas Lingkup dan Keberlakukan Kebijakan SPMI
+   282→   282→     Universitas Tulungagung memastikan tercapainya tujuan dan sasaran
+   283→   283→  dan SPMI sesuai dengan Permendikbudristek No. 53 Tahun 2023 Tentang
+   284→   284→  Penjaminan Mutu Pendidikan Tinggi, maka SPMI Universitas Tulungagung
+   285→   285→  diterapkan pada semua aspek yaitu:
+   286→   286→  a. Aspek akademik, meliputi pendidikan, penelitian, pengabdian kepada
+   287→   287→     masyarakat, dan layanan kemahasiswaan ; dan
+   288→   288→                                                                                        2024
+   289→   289→
+   290→   290→                                                      PERNYATAAN DAN KEBIJAKAN MUTU
+   291→   291→
+   292→   292→   b. Aspek non-akademik, antara lain sumber daya manusia, keuangan,
+   293→   293→       sarana dan prasarana, dan kerjasama.
+   294→   294→       Dokumen Kebijakan SPMI ini akan menetapkan lingkup standar mutu
+   295→   295→   Universitas Tulungagung untuk aspek akademik dan non-akademik yang
+   296→   296→   terdiri dari:
+   297→   297→   a. Standar Nasional Pendidikan Tinggi; dan
+   298→   298→   b. Standar        Pendidikan     Tinggi    yang    ditetapkan   oleh   Universitas
+   299→   299→       Tulungagung
+   300→   300→   Tingkat capaian setiap standar akan merujuk pada:
+   301→   301→   a. Deskripsi standar dalam Permendikbud No. 3 Tahun 2020 tentang
+   302→   302→       Standar Nasional Pendidikan Tinggi dengan tingkat capaian memenuhi
+   303→   303→       atau melampaui standar;
+   304→   304→   b. Visi, Misi dan Tujuan Universitas Tulungagung yang dirumuskan pada
+   305→   305→       tingkat capaian Indikator Kinerja Utama Rencana Strategis Universitas
+   306→   306→       Tulungagung.
+   307→   307→5. Definisi atau Istilah dalam dokumen SPMI
+   308→   308→   a. Mutu         pendidikan     tinggi     adalah   tingkat   kesesuaian    antara
+   309→   309→       penyelenggaraan pendidikan tinggi dengan standar pendidikan tinggi
+   310→   310→       yang terdiri atas Standar Nasional Pendidikan Tinggi dan Standar
+   311→   311→       Pendidikan Tinggi yang ditetapkan oleh Perguruan Tinggi.
+   312→   312→   b. Sistem Penjaminan Mutu Perguruan Tinggi adalah kegiatan sistemik
+   313→   313→       untuk meningkatkan mutu pendidikan tinggi secara berencana dan
+   314→   314→       berkelanjutan.
+   315→   315→   c. Sistem Penjaminan Mutu Internal adalah kegiatan sistem penjaminan
+   316→   316→       mutu pendidikan tinggi oleh setiap perguruan tinggi secara otonom
+   317→   317→       untuk mengendalikan dan meningkatkan penyelenggaraan pendidikan
+   318→   318→       tinggi secara berencana dan berkelanjutan.
+   319→   319→   d. Sistem Penjaminan Mutu Eksternal adalah kegiatan penilaian melalui
+   320→   320→       akreditasi untuk menentukan kelayakan dan tingkat pencapaian mutu
+   321→   321→       program studi dan perguruan tinggi. Pangkalan Data Pendidikan Tinggi
+   322→   322→                                                                              2024
+   323→   323→
+   324→   324→                                                PERNYATAAN DAN KEBIJAKAN MUTU
+   325→   325→
+   326→   326→     adalah kumpulan data penyelenggaraan pendidikan tinggi seluruh
+   327→   327→     perguruan tinggi yang terintegrasi secara nasional.
+   328→   328→e. Kebijakan SPMI adalah dokumen tertulis berisi garis besar penjelasan
+   329→   329→     tentang bagaimana suatu perguruan tinggi memahami, merancang, dan
+   330→   330→     melaksanakan SPMI dalam menyelenggarakan pelayanan pendidikan
+   331→   331→     tinggi kepada masyarakat sehingga terwujud budaya mutu pada
+   332→   332→     perguruan tinggi tersebut.
+   333→   333→f. Manual SPMI adalah dokumentasi tertulis berisi petunjuk praktis
+   334→   334→     mengenai cara, langkah, atau prosedur tentang bagaimana SPMI
+   335→   335→     dilaksanakan,    dievaluasi,    dan    ditingkatkan   mutunya   secara
+   336→   336→     berkelanjutan.
+   337→   337→g. Standar SPMI adalah dokumen tertulis berisi berbagai kriteria, ukuran,
+   338→   338→     patokan, atau spesifikasi dari seluruh kegiatan penyelenggaraan
+   339→   339→     pendidikan tinggi suatu perguruan tinggi untuk mewujudkan visi dan
+   340→   340→     misinya, agar dapat dinilai bermutu sesuai dengan ketentuan
+   341→   341→     perundang-undangan sehingga memuaskan kepentingan internal dan
+   342→   342→     eksternal PT.
+   343→   343→h. Formulir/Borang/Proforma adalah dokumen tertulis yang berfungsi
+   344→   344→     untuk mencatat, merekam, hal atau informasi atau kegiatan tertentu
+   345→   345→     sebagai bagian yang tak terpisahkan dari standar mutu, manual mutu
+   346→   346→     atau prosedur mutu.
+   347→   347→i.   Prosedur Mutu adalah dokumen tertulis berupa prosedur operasional
+   348→   348→     standar    (SOP)      yang     berfungsi   sebagai    pedoman    untuk
+   349→   349→     mengimplementasikan suatu standar.
+   350→   350→j.   Evaluasi Diri adalah kegiatan setiap unit dalam universitas secara
+   351→   351→     periodik untuk memeriksa, menganalisis, dan menilai kinerjanya sendiri
+   352→   352→     selama kurun waktu tertentu untuk mengetahui kelemahan dan
+   353→   353→     kekurangannya.
+   354→   354→k. Audit Mutu Internal (AMI) adalah kegiatan yang independen, obyektif,
+   355→   355→     terencana secara sistemik, dan berdasarkan serangkaian bukti
+   356→   356→                                                                                    2024
+   357→   357→
+   358→   358→                                                  PERNYATAAN DAN KEBIJAKAN MUTU
+   359→   359→
+   360→   360→     dilakukan   oleh   auditor     internal    universitas    untuk   memeriksa
+   361→   361→     pelaksanaan SPMI dan mengevaluasi apakah seluruh standar SPMI
+   362→   362→     telah dicapai/dipenuhi oleh setiap unit di lingkungan universitas.
+   363→   363→l.   Unit Pengelola Program Studi adalah unit yang merencanakan seluruh
+   364→   364→     upaya pengembangan prodi berbasis evaluasi diri yang dilakukan
+   365→   365→     secara komprehensif, terstruktur, dan sistematis. UPPS berada di
+   366→   366→     program sarjana terapan, program profesi, fakultas, dan pascasarjana.
+   367→   367→m. Lembaga Penjaminan Mutu adalah lembaga yang merencanakan,
+   368→   368→     menerapkan,     mengendalikan        dan     mengembangkan        SPMI    di
+   369→   369→     fakultas/pascasarjana/ program vokasi/program profesi.
+   370→   370→n. Gugus      Penjaminan     Mutu     adalah     unsur   yang     merencanakan,
+   371→   371→     menerapkan, mengendalikan dan mengembangkan SPMI di Program
+   372→   372→     Studi. GKM terdiri atas minimal satu orang dosen prodi dan sekretaris
+   373→   373→     jurusan/dosen yang ditunjuk.
+   374→   374→o. Tim Evaluasi adalah tim yang dibentuk dengan SK Rektor untuk
+   375→   375→     melaksanakan evaluasi pada setiap tahapan kegiatan Penetapan,
+   376→   376→     Pelaksanaan, Evaluasi, Pengendalian dan Peningkatan (PPEPP).
+   377→   377→p. Pembelajaran adalah proses interaksi mahasiswa dengan dosen dan
+   378→   378→     sumber belajar pada suatu lingkungan belajar.
+   379→   379→q. Penelitian adalah kegiatan yang dilakukan menurut kaidah dan metode
+   380→   380→     ilmiah secara sistematis untuk memperoleh informasi, data, dan
+   381→   381→     keterangan yang berkaitan dengan pemahaman dan/atau pengujian
+   382→   382→     suatu cabang ilmu pengetahuan dan teknologi.
+   383→   383→r. Publikasi Ilmiah adalah hasil karya pemikiran seseorang atau
+   384→   384→     sekelompok orang, setelah melalui penelahaaan ilmiah disebarluaskan
+   385→   385→     dalam bentuk karya tulis ilmiah, antara lain berupa : jurnal, buku,
+   386→   386→     prosiding, laporan penelitian, makalah, dan poster ilmiah.
+   387→   387→s. Pengabdian Kepada Masyarakat adalah kegiatan sivitas akademika
+   388→   388→     yang   memanfaatkan      Ilmu     Pengetahuan       dan    Teknologi   untuk
+   389→   389→                                                                              2024
+   390→   390→
+   391→   391→                                             PERNYATAAN DAN KEBIJAKAN MUTU
+   392→   392→
+   393→   393→     memajukan kesejahteraan masyarakat dan mencerdaskan kehidupan
+   394→   394→     bangsa.
+   395→   395→6. Garis Besar Kebijakan SPMI pada Perguruan Tinggi
+   396→   396→  a. Tujuan SPMI
+   397→   397→     Sistem Penjaminan mutu internal Universitas Tulungagung berupaya
+   398→   398→     untuk menjamin pemenuhan standar nasional pendidikan tinggi (SN
+   399→   399→     Dikti) secara sistematik dan berkelanjutan, sehingga akan tumbuh dan
+   400→   400→     berkembang budaya mutu di Universitas Tulungagung. Berikut ini tujuan
+   401→   401→     SPMI Universitas Tulungagung:
+   402→   402→     1) Memastikan terselenggaranya standar nasional pendidikan tinggi di
+   403→   403→        Universitas Tulungagung.
+   404→   404→     2) Memastikan terselenggaranya Tridharma perguruan tinggi sesuai
+   405→   405→        dengan visi, misi, dan tujuan Universitas Tulungagung.
+   406→   406→     3) Memastikan terpenuhinya kebutuhan pemangku kepentingan untuk:
+   407→   407→        a) Mendorong     semua unit di Universitas Tulungagung bekerja
+   408→   408→           mencapai tujuan mengacu pada standar secara berkelanjutan
+   409→   409→           sehingga menghasilkan mutu penyelenggaraan pendidikan
+   410→   410→           tinggi.
+   411→   411→        b) Memberikan layanan akademik kepada dosen dan mahasiswa
+   412→   412→           mengacu pada standar pendidikan tinggi.
+   413→   413→        c) Adanya transparansi dan akuntabilitas kepada masyarakat
+   414→   414→           khususnya orang tua mahasiswa terkait penyelenggaraan
+   415→   415→           pendidikan tinggi sesuai dengan standar.
+   416→   416→  b. Prinsip dan Asas Pelaksanaan SPMI
+   417→   417→     Prinsip SPMI adalah sebagai berikut.
+   418→   418→     a) Otonom
+   419→   419→        SPMI dikembangkan dan diimplementasikan secara otonom atau
+   420→   420→        mandiri oleh setiap perguruan tinggi, baik pada aras Unit Pengelola
+   421→   421→        Program Studi maupun pada aras perguruan tinggi.
+   422→   422→     b) Terstandar
+   423→   423→                                                                          2024
+   424→   424→
+   425→   425→                                         PERNYATAAN DAN KEBIJAKAN MUTU
+   426→   426→
+   427→   427→   SPMI menggunakan Standar Dikti yang terdiri atas SN Dikti yang
+   428→   428→   ditetapkan oleh Menteri dan Standar Dikti yang ditetapkan oleh
+   429→   429→   setiap perguruan tinggi.
+   430→   430→c) Akurasi
+   431→   431→   SPMI menggunakan data dan informasi yang akurat pada PD Dikti.
+   432→   432→d) Terencana dan Berkelanjutan SPMI diimplementasikan dengan
+   433→   433→   menggunakan 5 (lima) langkah penjaminan mutu, yaitu PPEPP
+   434→   434→   Standar Dikti yang membentuk suatu siklus.
+   435→   435→e) Terdokumentasi
+   436→   436→   Setiap langkah PPEPP dalam SPMI harus ditulis dalam suatu
+   437→   437→   dokumen, dan didokumentasikan secara sistematis.
+   438→   438→Asas dan prinsip yang digunakan dalam kebijakan SPMI adalah sebagai
+   439→   439→berikut.
+   440→   440→1) Asas akuntabilitas yaitu bahwa dalam pelaksanaan kebijakan SPMI
+   441→   441→   harus dapat dipertanggungjawabkan secara ilmiah, terbuka, dan
+   442→   442→   senantiasa mengacu pada perkembangan keilmuan yang mutakhir
+   443→   443→   dan dinamis.
+   444→   444→2) Asas transparansi yaitu bahwa kebijakan SPMI dilaksanakan secara
+   445→   445→   terbuka didasarkan pada tatanan dan aturan yang jelas yang
+   446→   446→   senantiasa     berorientasi   pada   rasa   saling   percaya   untuk
+   447→   447→   terselenggaranya suasana akademik yang kondusif dan menjamin
+   448→   448→   terwujudnya sinergisme.
+   449→   449→3) Asas kualitas yaitu bahwa kebijakan SPMI dilaksanakan dengan
+   450→   450→   senantiasa mengedepankan kualitas input, proses, dan output.
+   451→   451→4) Asas kebersamaan yaitu bahwa kebijakan SPMI dilaksanakan
+   452→   452→   secara terpadu, terstruktur, sistematik, komprehensif dan terarah,
+   453→   453→   dengan berbasis pada visi, misi, dan tujuan kelembagaan.
+   454→   454→5) Asas hukum yaitu bahwa semua pihak yang terlibat secara langsung
+   455→   455→   maupu tidak langsung dalam pelaksanaan kebijakan SPMI taat pada
+   456→   456→   hukum yang berlaku yang penegakannya dijamin oleh negara.
+   457→   457→                                                                           2024
+   458→   458→
+   459→   459→                                           PERNYATAAN DAN KEBIJAKAN MUTU
+   460→   460→
+   461→   461→  6) Asas manfaat yaitu bahwa kebijakan SPMI dilaksanakan untuk
+   462→   462→     memberikan manfaat yang sebesar-besarnya bagi segenap sivitas
+   463→   463→     akademika, institusi, bangsa dan negara.
+   464→   464→  7) Asas kesetaraan yaitu bahwa kebijakan SPMI dilaksanakan atas
+   465→   465→     dasar persamaan hak untuk menjamin terciptanya lingkungan
+   466→   466→     akademik yang egaliter.
+   467→   467→  8) Asas kemandirian yaitu bahwa pelaksanaan kebijakan SPMI
+   468→   468→     senantiasa   didasarkan    pada      kemampuan   institusi   dengan
+   469→   469→     mengandalkan segenap potensi dan sumber daya yang ada untuk
+   470→   470→     mengoptimalkan kemampuan institusi yang terus berkembang
+   471→   471→     secara sistematik dan terstruktur.
+   472→   472→c. Manajemen SPMI (PPEPP)
+   473→   473→  a) Siklus PPEPP
+   474→   474→     Manajemen SPMI dalam mendorong perbaikan dan peningkatan
+   475→   475→     mutu secara berkelanjutan adalah dengan menerapkan setiap
+   476→   476→     standar mutu dengan mengikuti tahapan PPEPP yaitu Penetapan,
+   477→   477→     Pelaksanaan, Evaluasi, Pengendalian dan Peningkatan. Tahapan
+   478→   478→     PPEPP berdasarkan pada Permendikbudristek No. 53 tahun 2023
+   479→   479→     tentang Sistem Penjaminan Mutu seperti pada gambar berikut:
+   480→   480→
+   481→   481→
+   482→   482→
+   483→   483→
+   484→   484→          Gambar 1. Siklus PPEPP pada Pelaksanaan Standar PT
+   485→   485→                                                                     2024
+   486→   486→
+   487→   487→                                     PERNYATAAN DAN KEBIJAKAN MUTU
+   488→   488→
+   489→   489→
+   490→   490→
+   491→   491→a) Penetapan (P) standar mutu, yaitu kegiatan perumusan dan
+   492→   492→  penetapan standar atau ukuran yang terdiri atas Standar
+   493→   493→  Nasional Pendidikan Tinggi dan Standar Pendidikan Tinggi yang
+   494→   494→  ditetapkan di Universitas Tulungagung. Penetapan berisi
+   495→   495→  Langkah- langkah perencanaan SPMI yang tertuang dalam 4
+   496→   496→  Dokumen SPMI yaitu, Kebijakan SPMI, Manual SPMI, Standar
+   497→   497→  SPMI, dan Formulir SPMI.
+   498→   498→b) Pelaksanaan (P) standar mutu, yaitu pengimplementasian
+   499→   499→  standar atau ukuran yang terdiri atas Standar Nasional
+   500→   500→  Pendidikan Tinggi dan Standar Pendidikan Tinggi yang
+   501→   501→  ditetapkan di Universitas Tulungagung, dilaksanakan semua
+   502→   502→  pihak yaitu, seluruh jajaran manajemen dan seluruh sivitas
+   503→   503→  akademika.
+   504→   504→c) Evaluasi (E) pelaksanaan standar mutu, menganalisa hasil
+   505→   505→  luaran pelaksanaan standar mutu dengan standar atau ukuran
+   506→   506→  yang terdiri atas Standar Nasional Pendidikan Tinggi dan Standar
+   507→   507→  Pendidikan Tinggi yang ditetapkan di Universitas Tulunaggung.
+   508→   508→  Evaluasi dilakukan melalui 2 cara yaitu:
+   509→   509→   i.    Evaluasi diagnostik dan formatif dilakukan dengan cara
+   510→   510→         evaluasi diri dan monitoring secara rutin oleh pejabat
+   511→   511→         struktural. Hasil Evaluasi didapatkan melalui rapat rutin
+   512→   512→         yang dilakukan oleh Program Studi, Fakultas, lembaga,
+   513→   513→         dan/atau Universitas.
+   514→   514→   ii.   Evaluasi bersifat sumatif dilakukan melalui proses audit
+   515→   515→         mutu internal (AMI) terhadap setiap unit pelaksanaan
+   516→   516→         standar. Audit dilakukan oleh Pusat Penjaminan Mutu
+   517→   517→         (PPM) UBD dan hasilnya ditindaklanjuti melalui Rapat
+   518→   518→         Tinjauan Manajemen (RTM)
+   519→   519→                                                                           2024
+   520→   520→
+   521→   521→                                         PERNYATAAN DAN KEBIJAKAN MUTU
+   522→   522→
+   523→   523→   d) Pengendalian (P) standar mutu, yaitu kegiatan tindak lanjut atas
+   524→   524→      hasil evaluasi pelaksanaan standar mutu dengan standar atau
+   525→   525→      ukuran yang terdiri atas Standar Nasional Pendidikan Tinggi dan
+   526→   526→      Standar Pendidikan Tinggi yang ditetapkan di Universitas
+   527→   527→      Tulunaggung. Hasil evaluasi meliputi evaluasi diri, audit internal
+   528→   528→      maupun hasil akreditasi.
+   529→   529→      Tabel 1. Alternatif langkah pengendalian
+   530→   530→          Kemungkinan       Alternatif Langkah Pemngendalian
+   531→   531→           Kesimpulan
+   532→   532→            Evaluasi
+   533→   533→       Mencapai Standar UNITA mempertahankan pencapaian
+   534→   534→       dalam SPMI          standar dan berupaya meningkatkan
+   535→   535→                           standar dalam SPMI
+   536→   536→       Melampaui Standar UNITA mempertahankan pelampauan
+   537→   537→       dalam SPMI          dan berupaya lebih meningkatkan
+   538→   538→                           standar dalam SPMI
+   539→   539→       Belum     mencapai UNITA melakukan tindakan koreksi
+   540→   540→       Standar dalam SPMI pelaksanaan agar standar dalam SPMI
+   541→   541→                           dapat dicapai
+   542→   542→       Menyimpang     dari UNITA melakukan tindakan koreksi
+   543→   543→       Standar dalam SPMI pelaksanaan       agar  pelaksanaan
+   544→   544→                           standar kembali pada standar yang
+   545→   545→                           telah ditetapkan
+   546→   546→
+   547→   547→   e) Peningkatan (P) standar mutu yaitu, kegiatan meningkatkan isi
+   548→   548→      atau luas lingkup atas standar mutu dengan standar atau ukuran
+   549→   549→      yang terdiri atas Standar Nasional Pendidikan Tinggi dan Standar
+   550→   550→      Pendidikan Tinggi yang ditetapkan di Universitas Tulunaggung
+   551→   551→      yang berdasarkan hasil evaluasi. Peningkatan merupakan kunci
+   552→   552→      dari prinsip Kaizen.
+   553→   553→b) Audit Mutu Internal
+   554→   554→   AMI adalah Tahapan pengujian yang sistematis, independen dan
+   555→   555→   terdokumentasi untuk memastikan implementasi kegiatan Tridharma
+   556→   556→   di perguruan tinggi sesuai dengan prosedur dan hasil dari proses
+   557→   557→                                                                     2024
+   558→   558→
+   559→   559→                                      PERNYATAAN DAN KEBIJAKAN MUTU
+   560→   560→
+   561→   561→AMI telah sesuai dengan standar yang ditetapkan untuk mencapai
+   562→   562→tujuan Universitas Tulungagung
+   563→   563→Tujuan dari pelaksanaan AMI adalah
+   564→   564→a) Memastikan kesesuaian SPMI dengan standar dan regulasi yang
+   565→   565→   ada.
+   566→   566→b) Memastikan terlaksananya Sistem Penjaminan Mutu sesuai
+   567→   567→   dengan tujuan dan sasaran Universitas Tulunaggung
+   568→   568→c) Melakukan evaluasi pelaksanaan sistem penjaminan mutu di
+   569→   569→   Universitas Tulunaggung.
+   570→   570→d) Mengidentifikasi peluang peningkatan sistem penjaminan mutu
+   571→   571→   di Universitas Tulunaggung
+   572→   572→Manfaat dari pelaksanaan AMI adalah:
+   573→   573→a) Memverifikasi kesesuaian regulasi pelaksanaan tridharma
+   574→   574→   perguruan tinggi dengan tujuan pendidikan tinggi, standar dikti
+   575→   575→   dan nilai-nilai yang ditetapkan oleh perguruan tinggi.
+   576→   576→b) Memonitoring tercapainya tujuan sesuai dengan standar
+   577→   577→c) Memastikan akuntabilitas implementasi standar
+   578→   578→d) Menjadi bahan pertimbangan bagi perguruan tinggi untuk
+   579→   579→   meminimalisir risiko terkait risiko kualitas, hukum, keuangan,
+   580→   580→   strategi, kepatuhan, operasional, dan reputasi.
+   581→   581→Implementasi AMI di Universitas Tulunaggung dilakukan melalui
+   582→   582→beberapa tahap yaitu:
+   583→   583→a) LPM menetapkan kebijakan AMI
+   584→   584→b) AMI dijalankan sesuai dengan pedoman AMI yang telah
+   585→   585→   ditetapkan
+   586→   586→c) AMI dijalankan sesuai dengan standar operasional prosedur
+   587→   587→   (SOP) audit yang dikeluarkan oleh PPM
+   588→   588→d) Auditee Menyusun evaluasi diri sesuai dengan pelaksanaan
+   589→   589→   standar di masing-masing unit Auditor melakukan audit
+   590→   590→   kesesuaian pada masing- masing unit
+   591→   591→                                                                           2024
+   592→   592→
+   593→   593→                                           PERNYATAAN DAN KEBIJAKAN MUTU
+   594→   594→
+   595→   595→     e) Hasil AMI wajib ditindaklanjuti dan dibahas dalam Rapat Tinjauan
+   596→   596→        Manajemen
+   597→   597→  c) Rapat Tinjauan Manajemen
+   598→   598→        Rapat Tinjauan Manajemen merupakan langkah tindak lanjut dari
+   599→   599→     proses AMI sebagai bentuk evaluasi formal yang dilakukan oleh
+   600→   600→     manajemen puncak terhadap penerapan sistem mutu, dalam rangka
+   601→   601→     merumuskan tindakan koreksi dan prioritas peningkatan yang dipilih
+   602→   602→     oleh manajemen sesuai dengan aspek-aspek yang relevan dari unit
+   603→   603→     yang bersangkutan. Rapat Tinjauan Manajemen di Universitas
+   604→   604→     Tulunaggung dijalankan oleh manajemen Universitas Tulunaggung
+   605→   605→     secara berkala untuk mengevaluasi sistem penjamin mutu dan
+   606→   606→     sistem kinerja pelayanan institusi guna menjamin keberlanjutan,
+   607→   607→     kesesuaian, kecukupan, serta efektivitas sistem penjamin mutu dan
+   608→   608→     sistem pelayanan Universitas Tulunaggung sesuai dengan waktu
+   609→   609→     yang telah direncanakan. RTM harus mengagendakan 7 unsur yaitu:
+   610→   610→     a) Hasil Audit Mutu Internal.
+   611→   611→     b) Umpan balik dari Stakeholder.
+   612→   612→     c) Pencapaian sasaran mutu atau indikator kinerja.
+   613→   613→     d) Tindak Lanjut dari permintaan koreksi dari tindakan koreksi.
+   614→   614→     e) Status tindak lanjut dari hasil RTM periode sebelumnya.
+   615→   615→     f) Perubahan yang dapat mempengaruhi peningkatan sistem mutu.
+   616→   616→     g) Rekomendasi peningkatan.
+   617→   617→d. Strategi dalam Melaksanakan SPMI
+   618→   618→  Dalam rangka pencapaian sasaran kebijakan SPMI di Universitas
+   619→   619→  Tulungagung maka diterapkan strategi-strategi sebagai berikut :
+   620→   620→  1) Mengkaji visi, misi, dan tujuan Universitas Tulungagung.
+   621→   621→  2) Mengkaji dasar hukum terkait sistem penjaminan mutu perguruan
+   622→   622→     tinggi dan standar nasional pendidikan tinggi.
+   623→   623→  3) Menetapkan sistem penjaminan mutu internal (SPMI) Universitas
+   624→   624→     Tulungagung.
+   625→   625→                                                                        2024
+   626→   626→
+   627→   627→                                               PERNYATAAN DAN KEBIJAKAN MUTU
+   628→   628→
+   629→   629→   4) Membentuk dan menjalankan organisasi penjaminan mutu dan
+   630→   630→      mekanisme kerjanya di lingkungan Universitas Tulungagung.
+   631→   631→   5) Meningkatkan komitmen pimpinan dan seluruh sivitas akademika di
+   632→   632→      dalam menerapkan sistem penjaminan mutu internal.
+   633→   633→   6) Benchmarking mutu pendidikan tinggi secara berkelanjutan dengan
+   634→   634→   7) perguruan tinggi lain yang mengacu pada standar nasional
+   635→   635→      pendidikan (SNP) dan standar lain yang relevan.
+   636→   636→   8) Menjalankan PPEPP secara konsisten.
+   637→   637→   9) Memanfaatkan teknologi informasi dalam pengelolaan SPMI
+   638→   638→      Universitas Tulungagung
+   639→   639→e) Struktur Organisasi dan Tata Kelola
+   640→   640→   a) Struktur Organisasi Pusat Penjaminan Mutu Universitas
+   641→   641→      Tulungagung
+   642→   642→
+   643→   643→
+   644→   644→
+   645→   645→
+   646→   646→      SK Rektor No: A/001.D/KEP/UNITA/I/2024
+   647→   647→                                                                               2024
+   648→   648→
+   649→   649→                                           PERNYATAAN DAN KEBIJAKAN MUTU
+   650→   650→
+   651→   651→2. Tata Kelola Pusat Penjaminan Mutu
+   652→   652→  a) Ketua Pusat Penjaminan Mutu
+   653→   653→     i. Wewenang
+   654→   654→        -   Memberikan masukan kepada Rektor tentang Kebijakan
+   655→   655→            Sistem     Penjaminan    Mutu        Internal   di   Universitas
+   656→   656→            Tulungagung.
+   657→   657→        -   Mengajukan Struktur Organisasi Lembaga Penjaminan
+   658→   658→            Mutu kepada Rektor.
+   659→   659→        -   Menentukan      kebijakan      dan      langkah      operasional
+   660→   660→            implementasi Sistem Penjaminan Mutu Internal.
+   661→   661→        -   Melakukan monitoring dan evaluasi ke semua unit di
+   662→   662→            Universitas Tulungagung terhadap implementasi sistem
+   663→   663→            penjaminan mutu.
+   664→   664→        -   Menetapkan          Agenda       pengajuan           pengakuan
+   665→   665→            mutu/Akreditasi/sertifikasi dari lembaga eksternal.
+   666→   666→        -   Mengajukan rencana anggaran dan belanja kegiatan
+   667→   667→            Lembaga Penjaminan Mutu.
+   668→   668→     ii. Tanggungjawab
+   669→   669→        -   Menjamin terlaksananya Sistem Penjaminan Mutu
+   670→   670→            Internal di Universitas Tulungagung
+   671→   671→        -   Menyusun Struktur Organisasi dan Tata Kelola Pusat
+   672→   672→            Penjaminan Mutu.
+   673→   673→        -   Menyusun rencana program kerja dan anggaran Pusat
+   674→   674→            Penjaminan Mutu.
+   675→   675→        -   Melakukan pengembangan Sistem Penjaminan Mutu
+   676→   676→            Internal   sesuai   tuntutan    Sistem      Penjaminan     Mutu
+   677→   677→            Eksternal.
+   678→   678→        -   Melaporkan pelaksanaan dan capaian Sistem Penjaminan
+   679→   679→            Mutu Internal kepada Rektor.
+   680→   680→                                                                           2024
+   681→   681→
+   682→   682→                                        PERNYATAAN DAN KEBIJAKAN MUTU
+   683→   683→
+   684→   684→        -   Menyusun        agenda        pangajuan          pengakuan
+   685→   685→            mutu/Akreditasi/sertifikasi dari Lembaga eksternal.
+   686→   686→        -   Bertanggung jawab atas ketersediaan dokumen SPMI.
+   687→   687→        -   Berkoordinasi    dengan      seluruh      unit   Universitas
+   688→   688→            Tulungagung untuk sosialisasi, monitoring dan evaluasi
+   689→   689→            implementasi sistem penjaminan mutu.
+   690→   690→        -   Menjamin proses Penetapan, Pelaksanaan, Evalusasi,
+   691→   691→            Pengendalian dan Peningkatan Standar SPMI berjalan.
+   692→   692→        -   Membuat Laporan pelaksanaan SPMI Kepada Rektor
+   693→   693→b) Sekretaris
+   694→   694→  i. Wewenang
+   695→   695→        -   Merencanakan kebutuhan dokumen mutu untuk unit kerja;
+   696→   696→        -   Mengatur penyimpanan dokumen mutu;
+   697→   697→        -   Mengendalikan keluar-masuk dokumen mutu;
+   698→   698→        -   Mengatur penghapusan dokumen mutu;
+   699→   699→  ii. Tanggungjawab
+   700→   700→        -   Mengelola surat masuk dan surat keluar LPM;
+   701→   701→        -   Memfasilitasi rapat-rapat LPMI;
+   702→   702→        -   Aktif bekerjasama dengan pihak terkait;
+   703→   703→        -   Membantu Ketua LPM dalam hal administrasi LPM;
+   704→   704→        -   Menyusun standar pengelolaan dokumen mutu di LPM;
+   705→   705→        -   Menyusun SOP pengendalian dokumen mutu;
+   706→   706→        -   Memfasilitasi kebutuhan dokumen mutu seluruh unit kerja;
+   707→   707→c) Ka. Bag. Pengembangan SPMI
+   708→   708→   i.       Wewenang
+   709→   709→            Menetapkan standar mutu terkait Tridharma perguruan
+   710→   710→            tinggi yaitu: Standar Pendidikan, Standar Penelitian,
+   711→   711→            Standar Pengabdian kepada Masyarakat, dan standar
+   712→   712→            tamabahan lainnya.
+   713→   713→                                                                          2024
+   714→   714→
+   715→   715→                                        PERNYATAAN DAN KEBIJAKAN MUTU
+   716→   716→
+   717→   717→   ii. Tanggungjawab
+   718→   718→     -   Menyusun      Standar     Pendidikan,    Standar   Penelitian,
+   719→   719→         Standar Pengabdian kepada Masyarakat, dan Standar
+   720→   720→         lainnya
+   721→   721→     -   Melakukan peninjauan secara berkala Standar Pendidikan,
+   722→   722→         Standar     Penelitian,     Standar     Pengabdian    kepada
+   723→   723→         Masyarakat, dan Standar lainnya
+   724→   724→     -   Menyusun formulir pelaksanaan standar mutu.
+   725→   725→     -   Melakukan     sosialisasi    Standar    Pendidikan,   Standar
+   726→   726→         Penelitian, Standar Pengabdian kepada Masyarakat, dan
+   727→   727→         Standar lainnya
+   728→   728→     -   Memastikan seluruh unit terkait melaksanakan Standar
+   729→   729→         Pendidikan, Standar Penelitian, Standar Pengabdian
+   730→   730→         kepada Masyarakat, dan Standar lainnya
+   731→   731→     -   Bertanggung jawab kepada ketua Pusat Penjaminan Mutu
+   732→   732→d) Ka. Bag. Audit dan Monevin
+   733→   733→  i. Wewenang
+   734→   734→     -   Menetapkan Instrumen Monitoring dan Evaluasi.
+   735→   735→     -   Menetapkan jadwal Monitoring dan Evaluasi.
+   736→   736→     -   Menetapkan     metode pengukuan dan            analisis hasil
+   737→   737→         Monitoring dan Evaluasi.
+   738→   738→  ii. Tanggungjawab
+   739→   739→     -   Menyusun instrumen monitoring dan evaluasi.
+   740→   740→     -   Menyusun jadwal monitoring dan evaluasi.
+   741→   741→     -   Melakukan analisis ketercapaian standar mutu.
+   742→   742→     -   Menyusun laporan Monitoring dan Evaluasi.
+   743→   743→     -   Menyelenggarakan Rapat Tinjauan Manajemen.
+   744→   744→     -   Bertanggung jawab kepada Ketua Pusat Penjaminan Mutu.
+   745→   745→                                                                 2024
+   746→   746→
+   747→   747→                                     PERNYATAAN DAN KEBIJAKAN MUTU
+   748→   748→
+   749→   749→e) GPM
+   750→   750→  i. Wewenang
+   751→   751→    -   Mengendalikan dan mengawasi pelaksanaan sesuai SOP;
+   752→   752→  ii. Tanggungjawab
+   753→   753→    -   Menyusun evaluasi diri unit kerja;
+   754→   754→    -   Menyusun standar mutu, prosedur kerja (SOP), instruksi
+   755→   755→        kerja dan formulir;
+   756→   756→    -   Menyusun standar akademik spesifikasi program studi;
+   757→   757→    -   Mengevaluasi pemenuhan standar akademik;
+   758→   758→    -   Melakukan tindakan perbaikan dan peningkatan standar;
+   759→   759→    -   Melakukan perbaikan proses pembelajaran dan
+   760→   760→        peningkatan standar akademik secara berkesinambungan;
+   761→   761→    -   Mengikuti rapat-rapat pejaminan mutu;
+   762→   762→    -   Kerjasama pihak terkait;
+   763→   763→    -   Membuat laporan dalam bidangnya.
+   764→   764→f) Administrasi
+   765→   765→  i. Wewenang
+   766→   766→    -   Mengupdate data borang akreditasi fakultas
+   767→   767→  ii. Tanggungjawab
+   768→   768→    -   Membantu Tim Penjaminan Mutu Universitas dan Fakultas
+   769→   769→        untuk melakukan evaluasi perkuliahan awal dan akhir
+   770→   770→        semester
+   771→   771→    -   Menyiapkan dan melengkapi dokumen yang digunakan
+   772→   772→        data pendukung untuk akreditasi
+   773→   773→    -   Merekap dan membuat raport hasil evaluasi emonev PBM
+   774→   774→        akhir semester
+   775→   775→    -   Membantu membuat proposal kegiatan dalam
+   776→   776→        penyelenggaraan kegiatan penjaminan mutu
+   777→   777→    -   Membantu penyelesaian SPJ kegiatan yang dilaksanakan
+   778→   778→        Tim Penjaminan Mutu
+   779→   779→                                                                                   2024
+   780→   780→
+   781→   781→                                                    PERNYATAAN DAN KEBIJAKAN MUTU
+   782→   782→
+   783→   783→             -    Membantu melaksanakan tugas administrasi lain dari
+   784→   784→                  atasan
+   785→   785→             -    Melaksanakan program penjaminan mutu sesuai dengan
+   786→   786→                  ketentuan yang diberlakukan oleh Tim Penjaminan Mutu
+   787→   787→             -    Melaksanakan tugas kedinasan lain
+   788→   788→             -    Melaporkan pelaksanaan tugas
+   789→   789→f) Daftar Standar dan Manual SPMI
+   790→   790→  Standar SPMI yang dimiliki oleh Universitas Tulungagung terdapat 33
+   791→   791→  standar terdiri dari 8 Standar Pendidikan, 8 Standar Penelitian, 8
+   792→   792→  Standar Pengabdian kepada Masyarakat, dan 9 Standar Pendukung
+   793→   793→  sebagai IKT. Standar yang dimiliki oleh Universitas Tulungagung
+   794→   794→  mengacu pada standar nasional pendidikan tinggi yang kedalaman dan
+   795→   795→  luas lingkupnya melampaui SN Dikti. Berikut rincian dari standar dan
+   796→   796→  manual mutu yang dimiliki oleh Universitas Tulungagung :
+   797→   797→  1) Standar Universitas Tulungagung mengacu Standar Nasional
+   798→   798→     Pendidikan Tinggi:
+   799→   799→
+   800→   800→
+   801→   801→
+   802→   802→
+   803→   803→     Permendikbudristek No. 53 Tahun 2023
+   804→   804→
+   805→   805→
+   806→   806→  2) Standar        Tambahan           sebagai   pelampauan   Standar   Nasional
+   807→   807→     Pendidikan Tinggi Universitas Tulungagung sebagai berikut:
+   808→   808→        i.       Standar Visi, Misi, Tujuan, Strategi
+   809→   809→       ii.       Standar Tata Pamong dan Tata Kelola
+   810→   810→      iii.       Standar Mahasiswa
+   811→   811→      iv.        Standar Sumber Daya Manusia
+   812→   812→       v.        Standar Keuangan, Sarana, dan Prasarana
+   813→   813→                                                                              2024
+   814→   814→
+   815→   815→                                                PERNYATAAN DAN KEBIJAKAN MUTU
+   816→   816→
+   817→   817→            vi.    Standar Kerjasama
+   818→   818→           vii.    Standar Merdeka Belajar Kampus Merdeka
+   819→   819→           viii.   Standar Luaran dan Capaian Tri Dharma
+   820→   820→            ix.    Standar Pelayanan Kepada Mahasiswa
+   821→   821→      3) Manual Mutu Universitas Tulungagung
+   822→   822→           Pada dokumen manual mutu Universitas Tulungagung dibagi
+   823→   823→           menjadi beberapa sub dokumen pada setiap masing – masing
+   824→   824→           program studi, sehingga manual mutu Universitas Tulungagung
+   825→   825→           merupakan kompilasi berbagai kegiatan manual mutu dari masing –
+   826→   826→           masing program studi. Selain itu, setiap program studi juga
+   827→   827→           memimliki manual prosedur yang disusun oleh setiap Gugus
+   828→   828→           Penjaminan Mutu.
+   829→   829→  g) Indikator kinerja Utama dan Target Capaian
+   830→   830→      Sebagai komitmen perguruan tinggi Universitas Tulungagung memiliki
+   831→   831→      Indikator Kinerja Utama (IKU) yang tertuang didalam Rencana Strategis
+   832→   832→      Universitas Tulungagung. Cakupan IKU berfokus pada beberapa hal
+   833→   833→      sebagai berikut:
+   834→   834→    iii.    Lulusan Mahasiswa
+   835→   835→    iv.     Pengalaman Mahasiswa
+   836→   836→     v.     Dosen berkegiatan di luar kampus
+   837→   837→    vi.     Praktisi Mengajar di dalam kampus
+   838→   838→    vii.    Rekognisi hasil Tridharma dosen (Mahasiswa dan Masyarakat)
+   839→   839→   viii.    Kerjasama Mitra
+   840→   840→    ix.     Proses Pembelajaran
+   841→   841→     x.     Standarisasi Program Studi (Akreditasi)
+   842→   842→7. Informasi Singkat tentang dokumen SPMI lainnya
+   843→   843→  Upaya untuk mencapai pelaksanaan SPMI di Universitas Tulungagung
+   844→   844→  sesuai dengan budaya mutu secara efektif maka disusunlah dokumen
+   845→   845→  SPMI sebagai berikut :
+   846→   846→  a) Manual Mutu
+   847→   847→                                                                          2024
+   848→   848→
+   849→   849→                                              PERNYATAAN DAN KEBIJAKAN MUTU
+   850→   850→
+   851→   851→     Manual Mutu berisi pedoman teknis tentang tahapan Penetapan
+   852→   852→     Pelaksanaan Evaluasi Pengendalian Peningkatan (PPEPP) setiap
+   853→   853→     standar mutu Universitas Tulungagung.
+   854→   854→  b) Dokumen Standar Mutu
+   855→   855→     Dokumen standar mutu menguraikan tentang penetapan standar,
+   856→   856→     pernyataan dan indikator pencapaian dan strategi pencapaian setiap
+   857→   857→     standar mutu Universitas Tulungagung.
+   858→   858→  c) Formulir Mutu
+   859→   859→     Formulir atau dokumen lainnya yang mendukung pelaksanaan manual
+   860→   860→     mutu setiap standar mutu Universitas Tulungagung.
+   861→   861→  d) Standar Operasional Prosedur (SOP)
+   862→   862→     Dokumen yang berisi prosedur       sebagai pedoman pernyataan isi
+   863→   863→     standar yang dijalankan oleh pihak pelaksana isi standar.
+   864→   864→8. Hubungan Kebijakan SPMI dengan Dokumen Perguruan Tinggi
+   865→   865→  Universitas Tulungagung selain memiliki dokumen SPMI juga memiliki
+   866→   866→  statuta dan renstra. Keberadaan statuta dan renstra menjadi landasan
+   867→   867→  filosofis kebijakan mutu, organisasi SPMI dan perumusan standar mutu.
+   868→   868→  Renstra dibuat untuk membantu Universitas Tulungagung menyusun
+   869→   869→  rencana operasional dan anggaran tahunan dalam pelaksanaan tridharma
+   870→   870→  pendidikan tinggi.
+   871→   871→  Renstra memuat sasaran Universitas Tulungagung yang akan dicapai
+   872→   872→  dalam 5 tahun kedepan, yang diturunkan kedalam indikator ketercapaian
+   873→   873→  dari masing-masing standar mutu yang ada.
+   874→   874→9. Referensi
+   875→   875→  a) Undang–Undang Republik Indonesia No. 20 Tahun 2003 tentang
+   876→   876→     Sistem Pendidikan Nasional;
+   877→   877→  b) Undang–Undang Republik Indonesia No. 12 Tahun 2012 tentang
+   878→   878→     Pendidikan Tinggi;
+   879→   879→                                                                         2024
+   880→   880→
+   881→   881→                                         PERNYATAAN DAN KEBIJAKAN MUTU
+   882→   882→
+   883→   883→c) Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014
+   884→   884→  tentang   Penyelenggaraan   Pendidikan   Tinggi   dan    Pengelolaan
+   885→   885→  Perguruan Tinggi;
+   886→   886→d) Peraturan Menteri Pendidikan dan Kebudayaan Nomor 3 Tahun 2020
+   887→   887→  tentang Standar Nasional Pendidikan Tinggi
+   888→   888→e) Peraturan Menteri Pendidikan Dan Kebudayaan Nomor 5 Tahun 2020
+   889→   889→  tentang Akreditasi Program Studi Dan Perguruan Tinggi;
+   890→   890→f) Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi
+   891→   891→  Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi
+   892→   892→g) Peraturan Badan Akreditasi Nasional Perguruan Tinggi Nomor 16
+   893→   893→  Tahun 2023 Tentang Implementasi Mekanisme Automasi Pada
+   894→   894→  Akreditasi Program Studi
+   895→   895→h) STATUTA Universitas Tulungagung;
+   896→   896→i) RENSTRA Universitas Tulungagung.
+   897→   897→
