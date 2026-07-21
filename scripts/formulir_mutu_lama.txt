@@ -1,0 +1,2021 @@
+                         2024
+                FORMULIR MUTU
+
+
+
+
+FORMULIR MUTU
+                                                                                         2024
+                                                                            FORMULIR MUTU
+
+                                  Dokumen Mutu
+                       Universitas      Kode Dok.       :   SPMI/PPM/DM/FORM/2024
+                      Tulungagung       Tanggal         :   10/01/2024
+                   Sistem Penjaminan    Revisi          :   -
+                      Mutu Internal     Halaman         :
+
+
+
+
+                            FORMULIR MUTU
+     SISTEM PENJAMINA MUTU INTERNAL (SPMI)
+                  UNIVERSITAS TULUNGAGUNG
+
+
+
+
+                                       Penangungjawab
+    Proses                                                         Tanda     Tanggal
+                              Nama                   Jabatan
+                                                                   Tangan
+  1. Perumus      Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+
+ 2. Pemeriksa       Eni Minarni, S.E., Ak, M.Ak   Ka. Bag. Monev            10/01/2024
+
+3. Persetujuan    Anang Sugeng C., S.AP., M.Si.      Ka. PPM                10/01/2024
+
+ 4. Penetapan          Dr. Muharsono, M.Si            Rektor                10/01/2024
+
+5. Pengendalian    Anang Sugeng ., S.AP., M.Si.      Ka. PPM                10/01/2024
+                                                                                    2024
+                                                                       FORMULIR MUTU
+
+TIM PENYUSUN
+Tim penyusun Formulir Mutu Universitas Tulungagung menjalankan tugas
+berdasarkan   Keputusan        Rektor    Universitas    Tulungagung      Nomor:
+A/002.I/KEP/UNITA/I/2024 Tanggal 5 Januari 2024 dengan susunan
+keanggotaan sebagai berikut:
+
+
+
+
+                                                           Penanggung Jawab
+                                                           Dr. Muharsono. M.Si.
+
+                                                                       Ketua
+                                                 Anang Sugeng C., S.Ap., M.Si.
+
+                                                                     Sekertaris
+                                                 Lutfan Anas Zahir, S.Si., M.Pd.
+
+                                                                        Anggota
+                                        Prof. Dr. Dwi Ima Herminingsih, M.Hum.
+                                                   Danang Wijanarko, S.T., M.T.
+                                              Chusnatul Ulaela Sajali, S.P.,M.P.
+                                                   Aulia Rahman Hakim, Sh.,Mh.
+                                                           Eni Minarni, Se.,M.Ak.
+
+                                                                 Administrator
+                                                            Yeni Setyowati, S.P.
+                                                                           2024
+                                                               FORMULIR MUTU
+
+                           KATA PENGANTAR
+
+
+      Puji kepada Tuhan yang Maha Esa dengan partisipasi pimpinan dan
+civitas akademika, Universitas Tulungagung telah dapat menyelesaikan
+dokumen Formulir Mutu Sistem Penjaminan Mutu Internal (SPMI). Keberadaan
+Formulir Mutu ini merupakan penunjang dari Standar Akademik Universitas
+Tulungagung 2020 dan disesuaikan dengan Peraturan Menteri Pendidikan dan
+Kebudayaan Nomor 3 Tahun 2020 tentang Standar Nasional Pendidikan
+Tinggi, Peraturan Menteri Pendidikan Dan Kebudayaan Nomor 5 Tahun 2020
+tentang Akreditasi Program Studi Dan Perguruan Tinggi, Peraturan Menteri
+Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 53 Tahun 2023 tentang
+Penjaminan Mutu Pendidikan Tinggi. Formulir Mutu ini menjadi acuan utama
+dalam Penetapan, Pelaksanaan, Evaluasi, Pengendalian, dan Peningkatan
+Standar Mutu Pengelolaan Penjaminan Mutu di lingkungan Universitas
+Tulungagung.
+      Kami menyampaikan terima kasih yang pada semua pihak internal dan
+eksternal Universitas Tulungagung yang telah membantu penyusunan
+dokumen Formulir Mutu Universitas Tulungagung ini. Kritik, saran, dan
+masukan kami tetap diharapkan untuk membuat lebih sempurna dokumen ini.
+Kami berharap bahwa Formulir Mutu ini digunakan oleh pihak-pihak yang
+disebutkan dalam dokumen SPMI ini, sehingga kita mampu mengakselerasi
+perwujudan Budaya Mutu di Universitas Tulungagung untuk mewujudkan visi
+Universitas Tulungagung.
+
+
+                               Tulungagung, 10 Januari 2024
+                               Pusat Penjaminan Mutu
+                               Ketua
+
+
+
+                                Anang Sugeng Cahyono, S.AP., M.Si.
+                                                                                 2024
+                                                                       FORMULIR MUTU
+
+1. Visi, Misi, Tujuan Perguruan Tinggi
+   Visi Universitas Tulungagung :
+   “Mewujudkan Perguruan Tinggi yang Berkualitas dan Mampu Berkompetisi
+   Berskala Nasional Dan Internasional.”
+   Misi Universitas Tulungagung:
+   a.   Peningkatan      Penyelenggaraan        pendidikan,   penelitian   dan
+        pengabdian     kepada      masyarakat     yang   berkualitas    menuju
+        terbentuknya lulusan mandiri.
+   b.   Peningkatan kualitas Sumber Daya Manusia yang meliputi tenaga
+        pendidik dan tenaga kependidikan
+   c.   Peningkatan sarana dan prasarana akademik yang mendukung
+        proses belajar mengajar
+   Tujuan Universitas Tulungagung:
+   a.   Berkembangnya potensi mahasiswa agar menjadi manusia yang
+        beriman dan bertakwa kepada Tuhan yang Maha Esa dan berakhlak
+        mulia, sehat, berilmu, cakap, kreatif, mandiri, terampil, kompeten,
+        dan berbudaya untuk kepentingan bangsa.
+   b.   Dihasilkan lulusan yang menguasai cabang ilmu pengetahuan dan/
+        atau teknologi     untuk memenuhi kepentingan nasional dan
+        peningkatan daya saing bangsa.
+   c.   Dihasilkannya ilmu pengetahuan dan teknologi melalui penelitian
+        yang memperhatikan dan menerapkan nilai Humaniora agar
+        bermanfaat bagi kemajuan bangsa, serta kemajuan peradaban dan
+        kesejahteraan umat manusia; dan
+   d.   Terwujudnya Pengabdian kepada Masyarakat berbasis penalaran
+        dan   karya   penelitian    yang   bermanfaat     dalam   memajukan
+        kesejahteraan umum dan mencerdaskan kehidupan bangsa.
+                                                                                  2024
+                                                                     FORMULIR MUTU
+
+  Sasaran Strategis Universitas Tulungagung:
+  1.      Terimplementasikan regulasi pendidikan sesuai dengan SN-DIKTI
+          dan kebijakan pemerintah;
+  2.      Peningkatan kemampuan ilmiah dengan lebih mengembangkan
+          program pendidikan akademik, profesional dan pengembangan
+          program penelitian universitas.
+  3.      Terbangun integrasi dosen dan mahasiswa dalam kegiatan
+          penelitian dan PkM;
+  4.      Memiliki kualitas dan kuantitas kegiatan penelitian berupa publikasi
+          hasil penelitian atau PkM pada jurnal terakreditasi nasional dan
+          internasional
+  5.      Menghasilkan produk unggulan berbasis Teknologi Tepat Guna
+          yang berdampak untuk kesejahteraan masyarakat.
+  6.      Terjalinnya kerjasama nasional dan internasional yang berorientasi
+          pada output berkelanjutan
+  7.      Memiliki jiwa Entrepreneur University (EU) kewirausahaan.
+  8.      Terselenggaranya      kegiatan    peningkatan    dan   pengembangan
+          sertifikasi akademik dan non – akademik bagi mahasiswa sebagai
+          penunjang SKPI
+  9.      Mengusulkan peningkatan peringkat akreditasi Program Studi;
+
+
+2. Rasional
+  Formulir Mutu di Universitas Tulungagung berfungsi sebagai alat penting
+  dalam sistem penjaminan mutu internal yang bertujuan untuk menjamin
+  kualitas pendidikan yang diselenggarakan. Rasional di balik penggunaan
+  formulir mutu ini adalah untuk menyediakan kerangka kerja yang sistematis
+  dalam     merencanakan,       melaksanakan,    dan      mengevaluasi   proses
+  pembelajaran di setiap mata kuliah. Dengan adanya formulir ini, dosen
+  diharapkan dapat menyusun Rencana Pembelajaran Semester (RPS) yang
+  jelas dan terstruktur, mencakup tujuan pembelajaran, strategi pengajaran,
+                                                                           2024
+                                                              FORMULIR MUTU
+
+serta metode evaluasi yang tepat. Ini tidak hanya meningkatkan kualitas
+pembelajaran, tetapi juga memastikan bahwa setiap komponen RPS
+selaras dengan standar nasional dan internasional yang berlaku. Formulir
+mutu juga mendorong akuntabilitas dan transparansi dalam penyampaian
+materi ajar, sehingga semua pihak yang terlibat—termasuk mahasiswa,
+dosen, dan pimpinan fakultas—dapat berkontribusi terhadap perbaikan
+berkelanjutan. Dengan mendokumentasikan setiap elemen yang terkait
+dengan proses pendidikan, formulir ini memungkinkan evaluasi yang lebih
+mudah dan objektif terhadap kinerja pengajaran serta pencapaian belajar
+mahasiswa. Pada gilirannya, hal ini berkontribusi terhadap pengembangan
+budaya mutu di lingkungan universitas tulungagung, di mana semua
+individu berkomitmen untuk meningkatkan standar pendidikan demi
+menghasilkan lulusan yang kompeten, inovatif, dan siap bersaing di dunia
+kerja.
+                                           2024
+                                  FORMULIR MUTU
+
+
+
+
+        FORMULIR MUTU
+
+SISTEM PENJAMINAN MUTU INTERNAL
+
+             (SPMI)
+                                                                                                                                  2024
+                                                                                                               FORMULIR MUTU
+
+1. Formulir Mutu Monitoring Evaluasi Proses Pembelajaran
+                                                                                                            Rata – Rata   Rata – Rata
+ No                                           Daftar Pertanyaan
+                                                                                                              UPPS        Universitas
+ 1    Efektifitas perkuliahan dilaksanakan dengan metode Hybrid Learning
+      (Lectures are held using the Hybrid Learning method)
+ 2    Efektifitas perkuliahan dilaksanakan dengan metode Luring (Lectures are held using the offline
+      method)
+ 3    Efektifitas perkuliahan dilaksanakan dengan metode Daring (Lectures are held using the online
+      method)
+ 4    Dosen menyampaikan RPS pada pertemuan pertama (The lecturer delivers Module Course at
+      the first meeting)
+ 5    Dosen melakukan tahapan perkuliahan (pendahuluan, isi, dan penutup) pada setiap pertemuan
+      (The lecturer carry out the stages of the lecture (introduction, main content, and closing) at each
+      meeting)
+ 6    Dosen menggunakan metode pembelajaran yang efektif pada setiap pertemuan (The lecturer
+      used effective learning methods in every meeting)
+
+ 7    Dosen menggunakan media pembelajaran pada setiap pertemuan
+      (The lecturer uses learning medias at every meeting)
+ 8    Dosen menggunakan sumber belajar sesuai dengan RPS (The lecturers uses learning resources
+      in accordance with the lesson plan)
+ 9    Dosen menguasai materi perkuliahan (The lecturer masters the lecture material)
+
+ 10   Dosen mengaitkan materi yang diajarkan sesuai dengan konteks (The lecturer presents the
+      relation of the material taught with the context)
+ 11   Dosen mengintegrasikan berbagai teori dari disiplin ilmu lain ke dalam topik pembelajaran. (The
+      lecturer integrates various theories from other disciplines into the topic of learning)
+
+ 12   Dosen merespon setiap pertanyaan mahasiswa (The lecturer responds to every student's
+      question)
+ 13   Dosen merespon setiap pertanyaan mahasiswa (The lecturer responds to every student's
+      question)
+ 14   Dosen menggunakan hasil penelitian (artikel ilmiah, buku, dll) sebagai rujukan dalam
+      pembelajaran (The lecturers uses research results (scientific articles, books, etc.) as a reference
+      in the lesson)
+ 15   Dosen menerapkan hasil penelitiannya ke dalam topik pembelajaran
+      (The lecturer employs his/her research results in the lessons)
+ 16   Dosen memberikan materi penelitian atau studi kasus topik pembelajaran (The lecturer provides
+      research material or case studies related to the learning topic).
+ 17   Dosen menggunakan hasil pengabdiannya kepada masyarakat untuk memperkaya materi
+      perkuliahan (The lecturer uses the results of his/her community service to enrich lecture
+      materials)
+ 18   Dosen mengelola kelas pada setiap pertemuan (The lecturer\'s classroom management )
+
+ 19   Dosen memotivasi keaktifan mahasiswa dalam setiap pembelajaran (The lecturer motivates the
+      students to participate actively in the classroom )
+
+ 20   Dosen melibatkan mahasiswa dalam kegiatan akademik (pengajaran, penelitian, pengabdian)
+      (The lecturer involves the students in academic activities on (teaching, research, community
+      service)
+ 21   Dosen melaksanakan pembelajaran dengan waktu yang proporsional pada setiap pertemuan
+      (The lecturer carries out time management for the lessons)
+
+ 22   Dosen mengakui keterbatasannya dalam pembelajaran (The lecturer acknowledges his/her
+      limitations during the lesson)
+ 23   Dosen menerima kritik dan saran tentang proses pembelajaran (The lecturer receives criticism
+      and suggestions about the learning process)
+
+ 24   Dosen memberikan umpan balik terhadap setiap hasil pekerjaan mahasiswa (The lecturer
+      provides feedback to every student's work)
+ 25   Dosen melakukan penilaian perkuliahan (The lecturer conducts the lecture assessments)
+                                                                     2024
+                                                            FORMULIR MUTU
+
+2. Formulir Mutu Monitoring Evaluasi Pelayanan Program Studi
+ NO    ASPEK YANG DINILAI                                  SKOR
+ 1.    Kesiapan memberikan pelayanan
+       Keramahan dalam memberikan
+ 2.    pelayanan
+       Kesopanan dalam memberikan
+ 3.    pelayanan
+ 4.    Kecepatan memberikan pelayanan
+       Kedisiplinan dalam memberikan
+ 5.    pelayanan pada mahasiswa
+       Ketepatan dalam memberikan
+ 6.    pelayanan pada mahasiswa
+       Fakultas / Prodi memiliki bagan alur
+       prosedur alur kegiatan akademik (KRS, Skripsi/LTA
+ 7.    dll.)
+       Kemudahan proses registrasi ketika
+ 8.    menjadi mahasiswa baru
+       Memberikan informasi sistem
+       perkuliahan dalam bentuk buku panduan
+ 9.    perkuliahan
+       Memberikan informasi akademik dan
+       pelayanan non akademik dalam bentuk
+ 10.   website (online)
+       Kenyamanan dalam pelaksanaan Ujian
+       (UTS&UAS) (Kursi sudah tertata rapi dan bernomor
+ 11.   ujian)
+       Kemudahan mahasiswa dalam
+ 12.   mengakses nilai
+       Kemudahan pelayanan akademik
+ 13.   (KRS, Skripsi/LTA dll.)
+       Kemudahan pelayanan administrasi
+ 14.   (surat-surat dll)
+ 15.   Kemudahan pelayanan keuangan
+       Pelaksanaan bimbingan kemahasiswaan
+ 16.   selama semester ini bagi mahasiswa
+       Kenyamanan ruang pelayanan
+ 17.   Fakultas/Prodi
+ 18.   Kantor Fakultas / Prodi tertata rapi dan bersih
+                                                                     2024
+                                                            FORMULIR MUTU
+
+3. Formulir Mutu Monitoring Evaluasi Pelayanan BAA
+
+ No                     Daftar Pertanyaan                  Skor
+  1   Kesiapan memberikan pelayanan
+  2   Keramahan dalam memberikan pelayanan
+  3   Kesopanan dalam memberikan pelayanan
+  4   Kecepatan memberikan pelayanan
+  5   Kedisiplinan dalam memberikan pelayanan pada
+      mahasiswa
+  6   Ketepatan dalam memberikan pelayanan pada
+      mahasiswa
+  7   BAA memiliki bagan alur prosedur pelayanan
+  8   Kemudahan Prosedur pelayanan di BAA
+  9   Respon dalam memberikan tanggapan yang cepat dan
+      baik terhadap saran
+ 10   Prosedur penyampaian informasi jelas
+ 11   BAA memberikan perlakuan yang adil kepada setiap
+      pengguna
+ 12   Sistem Informasi yang ada di BAA bekerja dengan
+      handal
+ 13   Kemudahan prosedur pendaftaran mahasiswa baru
+ 14   Pelayanan dalam pelaksanaan seleksi mahasiswa baru
+      (Pelaksanaan ujian tulis, pengumuman hasil)
+ 15   Kesesuaian pelaksanaan kegiatan akademik dengan
+      kalender akademik
+ 16   Pelayanan penerbitan KTM
+ 17   Pelayanan Jaket Almamater
+ 18   Kemudahan akses Sistem Informasi Akademik
+      (SIAKAD)
+ 19   Pelayanan pelaporan data mahasiswa / PDDikti
+ 20   Kenyamanan ruang pelayanan BAA
+ 21   Kantor BAA tertata rapi dan bersih
+                                                           2024
+                                                  FORMULIR MUTU
+
+4. Formulir Mutu Monitoring Evaluasi BAKeu
+NO        ASPEK YANG DINILAI                     SKOR
+1.  Kesiapan memberikan pelayanan
+    Keramahan dalam memberikan
+2.  pelayanan
+    Kesopanan dalam memberikan
+3.  pelayanan
+4.  Kecepatan memberikan pelayanan
+    Kedisiplinan dalam memberikan
+5.  pelayanan pada mahasiswa
+    Ketepatan dalam memberikan
+6.  pelayanan pada mahasiswa
+    Biro Keuangan memiliki bagan alur prosedur
+7.  pembayaran SPP dll.
+8.  Kemudahan dalam pembayaran SPP dll
+    Prosedur penyampaian informasi jelas
+9.  dan mudah dimengerti
+    Kenyamanan ruang pelayanan
+10. keuangan
+    Kantor Keuangam tertata rapi dan
+11. bersih
+                                                       2024
+                                              FORMULIR MUTU
+
+5. Formulir Mutu Monitoring Evaluasi BAU
+ NO          ASPEK YANG DINILAI               Skor
+ 1.    Kondisi ruang perkuliahan
+       Fasilitas pendingin/penyejuk ruangan
+ 2.    (AC)
+       Ketersediaan alat pendukung (LCD,
+ 3.    Komputer, papan tulis, dll.)
+ 4.    Kebersihan ruang kuliah
+ 5.    Ruang Laboratorium Komputer
+       Kecanggihan/keterbaruan laboratorium
+ 6.    komputer
+ 7.    Fasilitas Wifi Gratis/Hot Spot
+ 8.    Fasilitas UKM Seni Tari
+ 9.    Fasilitas UKM Olah raga
+ 10.   Fasilitas UKM Broadcash Radio
+ 11.   Fasilitas UKM Mapala
+ 12.   Fasilitas UKM Paduan Suara
+ 13.   Fasilitas UKM Kewirausahaan
+ 14.   Kelengkapan barang di IT Mart
+ 15.   Fasilitas Ibadah
+ 16.   Taman/ Hall/ Ruang publik
+       Tempat tunggu mahasiswa di
+ 17.   lingkungan kampus
+ 18.   Penyediaan Area parkir
+ 19.   Ruang/gedung dan fasilitas kantin
+ 20.   Kebersihan kantin
+       Gedung/ruang dan fasilitas kamar
+ 21.   mandi/Toilet
+ 22.   Kebersihan kamar madi/Toilet
+                                                               2024
+                                                      FORMULIR MUTU
+
+6. Formulir Mutu Monitoring Evaluasi BAK
+ NO       ASPEK YANG DINILAI                       Skor
+ 1  Kesiapan memberikan pelayanan
+    Keramahan dalam memberikan
+ 2  pelayanan
+    Kesopanan dalam memberikan
+ 3  pelayanan
+ 4  Kecepatan memberikan pelayanan
+    Kedisiplinan dalam memberikan
+ 5  pelayanan pada mahasiswa
+    Ketepatan dalam memberikan
+ 6  pelayanan pada mahasiswa
+    Bidang kemahasiswaan memiliki bagan
+ 7  alur pelayanan kepada mahasiswa
+ 8  Penyelenggaraan WKK
+ 9  Kejelasan informasi beasiswa
+    Kemudahan dalam mendapatkan
+ 10 beasiswa
+    Kejelasan informasi tentang kegiatan
+ 11 ilmiah
+ 12 Kejelasan informasi tentang UKM
+    Kemudahan ikut menjadi anggota UKM
+    (Seni tari, Olah raga, Mapala, Paduan Suara,
+ 13 Kewirausahaan, Broadcash radio)
+    Kejelasan informasi tentang lowongan
+ 14 kerja/magang, dll
+    Kenyamanan ruang pelayanan
+ 15 kemahasiswaan
+    Kantor Bidang Kemahasiswaan tertata
+ 16 rapid an bersih
+                                                                        2024
+                                                               FORMULIR MUTU
+
+7. Formulir Mutu Monitoring Evaluasi Perpustakaan
+
+ NO        ASPEK YANG DINILAI                           Skor
+ 1    Kesiapan memberikan pelayanan
+      Keramahan dalam memberikan
+ 2    pelayanan
+      Kesopanan dalam memberikan
+ 3    pelayanan
+ 4    Kecepatan memberikan pelayanan
+      Kedisiplinan dalam memberikan
+ 5    pelayanan pada mahasiswa
+      Ketepatan dalam memberikan
+ 6    pelayanan pada mahasiswa
+      Perpustakaan memiliki bagan alur
+ 7    prosedur pelayanan perpustakaan
+      (peminjaman dll)
+      Prosedur peminjaman dan
+      pengembalian di bagian pelayanan perpustakaan
+ 8    mudah dipahami oleh
+      pemakai perpustakaan
+      Koleksi yang ada di perpustakaan
+      Universitas Tulungagung cukup aktual dan sesuai
+ 9
+      dengan cakupan program studi yang ada
+      Informasi atau pencarian buku dapat dilakukan
+ 10
+      dengan mudah dan cepat
+ 11   Tempat pelayanan buku cukup efektif
+ 12   Kenyamanan ruang baca perpustakaan
+ 13   Ruang perpustakaan bersih dan rapi
+                                                                                2024
+                                                                 FORMULIR MUTU
+
+8. Formulir Mutu Monitoring Evaluasi MBKM
+                                                                Nilai
+  No.                     Indikator                     1   2    3      4   5
+
+
+
+        Pemahaman       Mahasiswa       tentang
+   1
+        pelaksanaan kegiatan MBKM
+
+        Arahan dari Fakultas tentang kegiatan MBKM
+   2
+        bisa dipaham
+
+        Kegiatan MBKM sesuai dengan Capaian
+   3    Pembelajaran Lulusan (CPL) Program Studi
+        saya.
+
+        Dosen Pembimbing Lapangan (DPL) telah
+   4    memberikan penjelasan sebelum berangkat
+        ke lokasi MBKM
+
+        Kesesuaian tugas dari DPL dengan situasi
+   5
+        di tempat MBKM.
+
+        DPL telah membantu saya memahami tugas-
+   6
+        tugas MBKM.
+
+        DPL saya selalu siap menjawab
+   7    pertanyaan-pertanyaan terkait dengan
+        kegiatan MBKM
+
+        Saya (Mahasiswa) selalu berhati-hati
+   8    terhadap bahaya dan resiko di dalam
+        melakukan kegiatan MBKM
+
+        Saya selalu berperan aktif di dalam
+   9
+        kegiatan MBKM
+
+        Aktivitas-aktivitas   selama      MBKM sangat
+        membantu saya memahami lebih baik lagi
+   10
+        tentang teori yang telah dipelajari selama
+        perkuliahan
+                                                             2024
+                                                    FORMULIR MUTU
+
+     Tugas yang dikerjakan selama MBKM, apakah
+11
+     sesuai dengan rencana proposal MBKM.
+
+     Beban kerja yang diberikan oleh Mitra selama
+12
+     MBKM.
+
+     Sikap Mitra (Pimpinan     dan   Staf)
+13
+     terhadap Mahasiswa
+                                                                        2024
+                                                               FORMULIR MUTU
+
+9. Formulir Mutu Monitoring Evaluasi Kesejahteraan
+
+                                                     Pengukuran
+           Instrument Pengukuran                     Performance
+                                                4     3    2       1
+ Instrument Mahasiswa
+
+ Program Studi mensosialisasikan Dokumen
+ Standar Mahasiswa dan Kesejahteraan
+
+ Reliability Dosen, tenaga kependidikan, dan
+ pengelola dalam memberikan pelayanan telah
+ handal dan sesuai dengan standar
+
+ Responsiveness Dosen, tenaga kependidikan,
+ dan pengelola dalam membantu mahasiswa
+ dilaksanakan dengan cepat, tepat, dan
+ tanggap
+
+ Dosen, tenaga kependidikan, dan pengelola
+ untuk memberi Assurance / kepastian
+ kebenaran pelayanan yang diberikan sesuai
+ dengan ketentuan.
+
+
+ Contoh: Dosen memeberikan sumber belajar
+ dengan sumber resmi jurnal/ buku
+
+ Program Studi memberikan
+ kesediaan/kepedulian (Emphaty) melalui
+ dosen, tenaga kependidikan, dan pengelola
+ untuk memberi perhatian kepada mahasiswa
+ melalui pembimbingan akademik, peran dosen
+ wali, konsultasi administrasi dll.
+
+ Program Studi memfasilitasi kecukupan sarana
+ dan prasarana pendukung proses akademik
+ dan non-akademik serta dapat digunakan
+ dengan mudah/ accesable (Tangiable)
+                                                         2024
+                                                FORMULIR MUTU
+
+Mahasiswa Menerima bantuan UKT sesuai
+dengan ketentuan yang berlaku
+Program Studi mengalokasikan dana
+sebagai reward prestasi kepada mahasiswa
+dan bantuan pengembangan kompetensi
+Program Studi menyalurkan bantuan dana
+sosial kepada mahasiswa sesuai ketentutan
+Universitas menyediakan UKK
+Instrument Dosen
+Program Studi mensosialisasikan Dokumen
+Standar Kesejahteraan
+Program Studi menyiapkan dana
+pengembangan kualitas pegawai melalui
+seminar/ workshop dll
+Program Studi menyalurkan bantuan dana
+sosial kepada pegawai sesuai ketentutan
+Universitas menyediakan UKK
+Pelaporan kinerja bulanan dosen di laporkan
+secara optimal bagi dosen termasuk gajji
+mengajar
+updating data system dilakukan secara berkala
+Pengajuan surat pejabat bagi Dosen DPK telah
+di proses sesuai dengan ketentuan yang
+berlaku
+Pengajuan dana untuk pelaksanaan
+kegiatan diajukan dan diverifikasi sesuai
+ketentuan
+Program Studi secara optimal telah menyiapkan
+kesiapan dana pensiun/ hari tua
+Program Studi memberikan hak cuti sesuai
+dengan ketentuan yang berlaku
+Program Studi menyiapkan dan memberikan
+klaim asuranasi
+                                                                            2024
+                                                               FORMULIR MUTU
+
+Program Studi memberikan fasilitas
+Kesejahteraan Pegawai refreshing bagi
+Pegawai, PTT yang dilaksanakan setiap tahun.
+
+
+Sub Formulir Capaian Pelaksanaan Kesejahteraan
+
+ No             Indikator Capaian              Sub Indikator       Satuan
+  1   Ketersediaan pedoman penggajian    Gaji pokok
+                                         Gaji Golongan
+                                         Gaji DPK
+  2   Ketersediaan Pedoman Pemberian     Pemberian Transport
+      Insentif                           Pemberian Lembur
+                                         Pemberian Insentif
+                                         Prestasi
+  3   Ketersediaan dokumen kesejahteraan Dana purna tugas
+      batas usia Purna                   Dana hari tua /
+                                         pension
+                                         Dana kunjungan
+  4   Kesejahteraan cuti dan izin        Kebijakan tidak
+                                         menjalankan tugas
+                                         jangka waktu
+                                         tertentu
+  5   Kesediaan dokumen kesejahteraan    Jaminan
+      perlindungan rasa aman             keselamatan,
+                                         kecelakaan,
+                                         ketenagakerjan
+                                         keselamatan,
+  6   Ketersediaan dokumen kesejahteraan Kebebasan
+      bebas berpendapat                  berpendapat
+                                                                                  2024
+                                                                  FORMULIR MUTU
+
+10. Formulir Mutu Monitoring Pendidikan
+     Pernyataan Isi Standar
+     (Standart Kompetensi                           Indikator
+           Lulusan)
+  Program Studi                   Mahasiswa yang terserap dalam dunia kerja
+  menghasilkan lulusan
+                                  Mahasiswa yang menjadi usahawan
+  bermutu baik sesuai
+  dengan KKNI                     Rata-rata Indeks Prestasi Kumulatif (IPK)
+                                  lulusan
+                                  Rata – rata masa studi program studi < 4,5
+                                  Tahun
+                                  Rata – rata masa tunggu lulusan kerja < 6
+                                  Bulan
+     Pernyataan Isi Standar
+                                                    Indikator
+         (Standart Isi)
+  Program studi memiliki          Terdapat dokumen yang menjabarkan
+  dokumen kurikulum yang          kompetensi lulusan secara lengkap
+  dimutakhirkan secara periodik   (kompetensi utama, pendukung, dan
+  dan berorientasi ke depan       kompetensi lain), serta berorientasi ke depan
+  sesuai dengan visi, misi,       sesuai dengan visi, misi, tujuan dan sasaran
+  tujuan dan sasaran program      program studi (Target Min. 1 Dokumen)
+  studi
+                                  Terdapat dokumen yang berisi matriks/peta
+                                  kurikulum (standar kompetensi dan mata
+                                  kuliah) (Target Min. 1 Dokumen)
+                                  Terdapat dokumen yang berisi mata kuliah
+                                  dan praktikum, lengkap dengan silabus
+                                  mata kuliah yang selalu dimutakhirkan
+                                  (Target Min. 1 Dokumen)
+                                  Terdapat kegiatan tinjauan kurikulum
+                                  dengan melibatkan/mempertimbangkan
+                                  masukan dari pemangku kepentingan
+                                  internal dan Eksternal (Target Min. 1
+                                  Kegiatan)
+  Program studi menentukan        Adanya dokumen yang berisi kriteria
+  Dosen pembimbing akademik       penentuan dosen pembimbing akademik,
+  bagi Setiap mahasiswa dan       pembimbing PKL, dan Pembimbing tugas
+  Melakukan proses                akhir, serta mekanisme monitoring
+                                                                                 2024
+                                                                  FORMULIR MUTU
+
+Pengendalian pembimbingan        proses pembimbingan akademik
+akademik dan pembimbing          dan tugas akhir (Target Min. 1
+tugas akhir bagi setiap          Dokumen)
+mahasiswa setiap semester,
+dan melakukan proses             Rata-rata jumlah mahasiswa bimbingan
+pengendaliannya                  akademik per dosen (Target
+                                 Min. 20 mahasiswa/dosen)
+                                 Rata-rata jumlah mahasiswa bimbingan
+                                 tugas akhir per dosen (Target Min. 10
+                                 Mahasiswa/Dosen/Semester)
+                                 Rata-rata jumlah pertemuan
+                                 mahasiswa per dosen pembimbing
+                                 akademik per semester (Target
+                                 Min. 3 kali/semester)
+                                 Rata-rata jumlah pertemuan bimbingan
+                                 tugas akhir per dosen per semester
+                                 (Target Min. 10 kali/semester)
+Program studi                    Adanya dokumen yang berisi kriteria
+                                 penentuan dosen penguji ujian/sidang skripsi
+                                 dan monitoring
+Menentukan dosen penguji         pelaksanaan ujian/sidang skripsi (Target Min.
+skripsi dan melakukan            1 Dokumen)
+Proses pengendalian
+pelaksanaan Ujian akhir sidang
+skripsi mahasiswa
+                                 Jumlah lulusan sebagai ketua penguji
+                                 ujian/sidang skeipsi (Target Min. 4
+                                 lulusan/semester)
+                                 Jumlah lulusan sebagai anggota penguji
+                                 ujian/sidang skripsi (Target Min. 8 lulusan/
+                                 semester)
+     Pernyataan Standar
+                                                   Indikator
+      (Standart Proses)
+Program studi                    Persentase mata kuliah dan praktikum yang
+Menyelenggarakan                 dilengkapi dengan buku referensi yang
+perencanaan proses               mutahir dan bahan ajar
+pembelajaran sesuai dengan       (handout/modul/penuntun praktikum) (Target
+KKNI                             100%
+                                                                             2024
+                                                                 FORMULIR MUTU
+
+                               Persentase mata kuliah yang dilengkapi
+                               dengan Rencana Pembelajaran Semester
+                               (RPS)
+                               Adanya kegiatan peninjauan dan
+                               penyesuaian RPS secara berkala dengan
+                               perkembangan ilmu pengetahuan dan
+                               teknologi (Target Min. 1/ tahun)
+Program studi                  Jumlah mahasiswa per kelas (Target Max. 40
+menyelenggarakan/              orang)
+melaksanakan proses
+Pembelajaran dengan baik
+                               Persentase mata kuliah yan diselenggarakan
+                               sistem e-learning (blended system) (Target
+                               20%)
+                               Program studi melakukan monitoring
+                               kehadiran mahasiswa, kehadiran dosen, dan
+                               kesesuaian materi kuliah yang diajarkan
+                               dengan silabus setiap semester (Target 1
+                               kali/Semester)
+                               Program studi melakukan penjaminan mutu
+                               soal ujian dan kesesuaiannya dengan isi
+                               silabus sehingga menghasilkan soal ujian
+                               yang bermutu baik dan dapat mengukur
+                               kompetensi yang dirumuskan (Taget 1 kali
+                               pengecekan/Semester)
+Program studi wajib            Persentase kegiatan perkuliahan dan
+menerapkan beban belajar       praktikum dilaksanakan secara penuh (16
+mahasiswa sesuai aturan yang   kali pertemuan termasuk ujian tengah
+berlaku                        semester dan ujian akhir semester) dan
+                               sesuai dengan beban kreditnya (100%)
+                               Persentase praktikum mahasiswa yang
+                               menggunakan fasilitas laboratorium yang
+                               dimiliki oleh Universitas Tulungagung
+      Pernyataan Standar
+   (Standart Penilaian Hasil                    Indikator
+         Pendidikan)
+Program studi                  Persentase dosen yang melakukan penilaian
+menyelenggarakan penilaian     dengan teknik observasi, partisipasi, unjuk
+proses dan hasil belajar       kerja, tes tertulis, tes
+mahasiswa mencakup
+                               lisan, dan angket.(Target 100%)
+                                                                                 2024
+                                                                 FORMULIR MUTU
+
+prinsip penilaian, teknik dan
+instrumen penilaian,
+mekanisme dan prosedur
+penilaian, pelaksanaan
+penilaian, pelaporan penilaian,
+dan kelulusan mahasiswa
+                                  Persentase dosen yang memberikan umpan
+                                  balik dan kesempatan untuk
+                                  mempertanyakan hasil penilaian kepada
+                                  mahasiswa (Target 100%)
+                                  Persentase dosen yang melakukan prosedur
+                                  penilaian mencakup tahap perencanaan,
+                                  kegiatan pemberian tugas atau soal,
+                                  observasi kinerja, pengembalian hasil
+                                  observasi, dan pemberian nilai akhir (Target
+                                  100%)
+                                  Persentase dosen pengampu mata kuliah
+                                  yang memasukan nilai tepat waktu untuk
+                                  mata kuliah pada semester berjalan
+                                  dalam jangka waktu maksimal sepuluh hari
+                                  kerja setelah pelaksanaan ujian
+                                  (Target 100%)
+      Pernyataan Standar
+ (Standart Dosen dan Tenaga                        Indikator
+        Kependidikan)
+Dosen wajib memiliki kualifikasi Persentase dosen harus berkualifikasi
+akademik                         akademik paling rendah lulusan magister
+                                 atau magister terapan yang relevan dengan
+dan kompetensi pendidik,         program studi, dan dapat menggunakan
+serta memiliki kemampuan         dosen bersertifikat profesi yang relevan
+untuk menyelenggarakan           dengan program studi dan berkualifikasi
+                                 paling rendah setara dengan jenjang 8
+pendidikan dalam rangka          (delapan) KKNI (Target 100%)
+pemenuhan capaian
+pembelajaran lulusan
+Dosen wajib                       Persentase dosen yang memiliki beban kerja
+                                  paling sedikit 40 Jam/Minggu atau 12-16
+Melakukan penghitungan            sks/semester (Target 100%)
+Beban
+Kerja Dosen (BKD) secara
+periodik dan teratur
+                                                                               2024
+                                                                 FORMULIR MUTU
+
+Dosen tetap wajib memiliki      Persentase dosen yang memiliki sertifikat
+keahlian di                     keahlian/ kompetensi yang sesuai dengan
+                                disiplin ilmu di prodinya (Target 75%)
+bidang ilmu yang sesuai
+dengan disiplin ilmu pada
+program studinya
+                                jumlah dosen tetap yang ditugaskan secara
+                                penuh waktu untuk menjalankan proses
+                                pembelajaran pada setiap program studi
+                                (Target
+                                Min. 5)
+Tenaga Kependidikan             Persentase tenaga kependidikan yang
+                                memiliki kualifikasi akademik paling rendah
+wajib memiliki kualifikasi      lulusan Sarjana S-1 yang dinyatakan dengan
+akademik dan kompetensi         ijazah sesuai
+serta memiliki kemampuan        dengan kualifikasi tugas pokok dan fungsinya
+untuk menyelenggarakan
+administrasi pendidikan dalam   (Target 75%)
+rangka layanan pendidikan
+                                Persentase tenaga kependidikan yang
+                                memiliki sertifikat keahlian khusus sesuai
+                                dengan bidang tugas dan keahliannya
+                                (Target 50%)
+                                Persentase tenaga kependidikan yang
+                                mengikuti pelatihan dalam bidangnya
+                                minimal satu kali dalam setahun. (75%)
+Program Studi Didukung          Tersedianya dokumen yang berisi program
+dengan sumberdaya dosen         pengembangan dosen untuk meningkatkan
+tetap yang mencukupi            kualifikasi dan kompetensi yang sesuai
+                                dengan kebutuhan bidang di program studi
+dan memenuhi kualifikasi        (Target Min.1 doc)
+pendidikan minimal sesuai
+bidang
+                                Persentase dosen tetap dengan pendidikan
+                                terakhir S2 dan S3 yang bidang keahliannya
+                                sesuai (Target 90% tiap prodi)
+                                Jumlah dosen tetap yang berpendidikan S3
+                                yang bidang keahliannya sesuai dengan
+                                                                                2024
+                                                                FORMULIR MUTU
+
+                               kompetensi program studi sesuai standar
+                               BAN – PT (Target Min. 1 orang tiap
+                               prodi)
+                               Persentase dosen tetap yang memiliki
+                               jabatan lector kepala dan guru besar yang
+                               bidang keahliannya sesuai dengan
+                               kompetensi program studi sesuai standar
+                               BAN – PT (Target Min.50%)
+                               Jumlah dosen yang mengikuti sabbatical
+                               leave, post doc, atau kerja sama penelitian di
+                               luar negeri (Target Min. 1 Dosen)
+                               Persentase dosen tetap yang menjadi
+                               anggota masyarakat bidang ilmu (akademik
+                               dan profesi) tingkat nasional/
+                               internasional sesuai standar BAN-PT. (Target
+                               75%)
+Program studi memiliki program Jumlah tenaga ahli/pakar sebagai pembicara
+untuk mengundang tenaga ahli/ dalam seminar/pelatihan, pembicara tamu,
+pakar sebagai pembicara        dsb, dari luar universitas Tulungagung .
+dalam atau luar
+                               (Target Min. 2 tenaga ahli/tahun)
+negeri pada seminar, pelatihan
+atau sebagai dosen
+tamu dalam proses
+pembelajaran.
+Universitas Tulungagung        Persentase dosen yang membuat laporan
+memiliki mekanisme             kinerja dosen (100%)
+monitoring dan evaluasi
+kinerja dosen dalam bidang
+tridarma dan
+mendokumentasikan
+rekam jejaknya yang mampu
+telusur.
+Program studi dukung           Tersedianya dokumen di program studi yang
+                               berisi perencanaan dan program
+dengan tenaga kependidikan
+yang mencukupi dan             pengembangan untuk meningkatkan
+                               kompetensi tenaga kependidikan (melalui
+                                                                              2024
+                                                               FORMULIR MUTU
+
+pendidikan/ kompetensi yang    pemberian kesempatan belajar/pelatihan,
+sesuai.                        pemberian fasilitas, dan jenjang karir)
+                               (Target Min. 1 doc)
+                               Tersedianya tenaga pustakawan dengan
+                               latar belakang pendidikan minimal S1 (Target
+                               Min.1 orang)
+                               Tersedianya tenaga teknisi/laboran yang
+                               kompeten/kualifikasi yang sesuai di
+                               laboratorium (Target Min. 1 orang/labor)
+                               Tersedianya tenaga administrasi yang
+                               kompeten/ kualifikasi yang sesuai dengan
+                               kebutuhan program studi (Target Min. 1
+                               orang/prodi)
+      Pernyataan Standar
+     (Standart Sarana dan                       Indikator
+          Prasarana)
+Unit pengelola menyediakan     Kecukupan, aksesibilitas dan mutu sarana
+sarana dan prasarana yang      prasarana untuk menjamin pencapaian
+mutakhir serta aksesibiltas    capaian pembelajaran dan meningkatkan
+yang cukup untuk menjamin      suasana akademik
+pencapaian capaian
+pembelajaran dan
+meningkatkan suasana
+akademik
+Luas minimal 42 , memiliki     Kapasitas ruang kelas dan sarana
+sirkulasi udara yang baik,     pembelajaran interaktif dan sesuai
+memiliki penerangan yang
+cukup, memiliki kelengkapan
+sarana dengan rasio
+mahasiswa 1: 30.
+Minimal 50 judul sesuai dengan Bahan pustaka berupa buku teks
+bidang ilmu program studi
+Rasio Dosen : Mahasiswa, 1 :   Meningkatan jumlah dosen dan penerimaan
+10                             mahasiswa baru setiap tahun
+Laboratorium yang mumpuni      Sarana Laboratorium memiliki sarana
+dan menunjang proses           dengan jenis keragaman peralatan
+pembelajran
+                                                                             2024
+                                                               FORMULIR MUTU
+
+WAN dapat diakses dengan       Sarana IT dan Sistem Informasi meliputi
+jaringan luas                  Sistem Informasi untuk eearning, e-library,
+                               serta sistem informasi akademik.
+Tingkat kepuasan sarana dan    Indek kepuasan civitas akademika terhadap
+prasarana mahasiswa diukur     layanan sarana dan prasarana
+dan ditingkatkan
+                               (range 1 - 4)
+Memiliki system pengamanan     System pengamanan laboratorium dan ruang
+yang baik                      kelas dengan CCTV
+Unit pengelola melaksanakan   Hasil audit sarana dan prasarana
+Evaluasi Sarana dan Prasarana pembelajaran
+setiap periodic untuk
+meningkatkan kualitas mutu
+sarana dan prasarana
+Sarana Perpusatakaan yang      Luas minimal +100    memiliki penerangan
+memadai                        yang cukup untuk membaca, memiliki
+                               kelengkapan sarana dengan rasio
+                               mahasiswa 1 :
+                               40.
+     Pernyataan Standar
+                                               Indikator
+   (Standart Pengelolaan)
+Program studi wajib melakukan Persentase program studi yang melakukan
+perencanaan, pelaksanaan,     kegiatan penyusunan kurikulum
+pengendalian, pemantauan
+                              (Target 100%)
+dan evaluasi, serta pelaporan
+kegiatan pembelajaran.
+                               Persentase program studi yangmenyusun
+                               rencana pembelajarandalam setiap
+                               mata kuliah (Target 100%)
+                               Persentase program studi yang
+                               menyelenggarakan program pembelajaran
+                               sesuai standar isi, standar proses, standar
+                               penilaian yang
+                               telah ditetapkan dalam rangka mencapai
+                               capaian pembelajaran lulusan (Target 100%)
+                               Persentase program studi yangmelakukan
+                               kegiatan pemantauan danevaluasi secara
+                               periodik dalam rangkamenjaga dan
+                                                                                 2024
+                                                                 FORMULIR MUTU
+
+                               meningkatkan mutuproses
+                               pembelajaran.(Target 100%)
+                               Persentase program studi yang melaporkan
+                               hasil programpembelajaran secara
+                               periodik(persemester) sebagai sumber data
+                               dan informasi dalam pengambilan keputusan
+                               perbaikan dan pengembangan mutu
+                               pembelajaran (Target 100%)
+                               Persentase dosen yang
+                               Melakukan proses input nilai secara on-line
+                               melalui Sistem Informasi Akademik
+                               (Sisformik) (Target 100%)
+      Pernyataan Standar
+                                                   Indikator
+    (Standart Pembiayaan)
+Unit Pengelola memiliki Dana   Rata-rata DOP (Dana Operasional
+operasional yang daapt         Pendidikan) pendidikan per mahasiswa per
+mengakomodir kebutuhan         tahun (dalam juta rupiah)
+mahasiswa setiap tahun
+Unit pengelola memiliki alokaso Rata-rata   dana    penelitian   dosen (DPD)
+dana penelitian untuk Dosen     per tahun
+Unit pengelola memiliki alokaso Rata-rata dana PkM dosen (DPkMD) per
+dana                            tahun dalam 3 tahun terakhir.
+PkM untuk Dosen
+Unit Penegelola memiliki       Realisasi investasi SDM, sarana dan
+kebijakan prosedur rencana     prasarana memenuhi seluruh kebutuhan
+pengembangan dosen dan         penyelenggaraan program pendidikan,
+tenga kependidikan serta       penelitian dan PkM serta memenuhi standar
+pengembangan sarana dan        perguruan tinggi terkait pendidikan, penelitian
+prasarana                      dan PkM
+Realisasi Investasi Memenuhi Realisasi investasi (SDM, sarana dan
+standar perguruan tinggi terkait prasarana) yang mendukung
+pendidikan, penelitian dan       penyelenggaraan tridharma.
+PkM.
+                                                                              2024
+                                                                  FORMULIR MUTU
+
+11. Formulir Kuesioner Penelitian
+         Pernyataan Standar
+  No        Hasil Capaian                         Indikator
+            Standar Hasil
+   1   Penelitian yang           Terdapat kode etik dalam
+       Dilakukan Universitas
+       Tulungagung sesuai        Penelitian yang didalamnya terdapat
+       dengan kode etik          indikator tertentu
+       penelitian                Persentase penelitian yang disusun telah
+                                 sesuai
+
+                                  dengan kode etik penelitian
+   2   Penelitian harus memiliki Persentase penelitian yang telah
+       kegunaan dan               melibatkan minimal 1 rang mahasiswa
+       relevansi dengan           Jumlah penelitian      yang memperoleh
+       pendidikan dan ilmu        HAKI atau nilai komersial setiap tahun
+       pengetahuan
+  3    Penelitian     yang        Jumlah artikel penelitian yang
+       dilakukan dipublikasikan terpublikasi dalam jurnal internasional
+       dalam bentuk artikel       dalam satu tahun
+       ilmiah (prosiding, jurnal) Jumlah artikel penelitian yang
+                                  terpublikasi
+                                  dalam jurnal nasional terakreditasi dalam
+                                  satu tahun
+                                  Jumlah      penelitian    yang disajikan
+                                  dalam seminar nasional maupun
+                                  internasional dalam satu tahun
+         Pernyataan Standar
+  No                                              Indikator
+           (Isi Penelitian)
+  1    Penelitian dilaksanakan      Persentase     Penelitian dilaksanakan
+       sesuai roadmap               sesuai dengan roadmap Peneltiian
+       penelitian      LPPM
+       Universitas
+       Tulungagung
+  2    Penelitian      yang         Jumlah penelitian yang terpublikasi
+       dilakukan berkualitas        Internasional Jumlah penelitian yang
+                                    terpublikasi nasional
+                                                                          2024
+                                                            FORMULIR MUTU
+
+            Pernyataan Standar
+No          (Proses Penelitian)                          Indikator
+   Perencanaan penelitian dilakukan di Terdapat road map dan jadwal penelitian
+ 1 awal tahun                          di program Studi Teknik Sipil mengacu pada
+                                       roadmap Universitas
+   Pelaksanaan penelitian sesuai       Jumlah
+   dengan roadmap dan jadwal           keterlambatan tahapan penelitian
+ 2
+                                       Terdapat kegiatan
+                                       monitoring penelitian
+   Monitoring dan evaluasi penelitian  Terdapat evaluasi
+ 3
+                                       Pelaksanaan penelitian di akhir periode
+            Pernyataan Standar
+No                                                       Indikator
+        (Standar Penilian peneliti)
+   Penelitian dilakukan secara         Persentase penelitian yang memberikan
+   transparan                          proposal penelitian yang didalamnya
+                                       terdapat tujuan serta anggaran penelitian
+ 1
+                                       Persentase penelitian yang memiliki
+                                       kesesuaian antara tujuan dan hasil
+                                       penelitian
+   Penilaian penelitian Dilakukan oleh Terdapat kegiatan review/ seminar hasil
+ 2 pihak lain yang mempunyai           penelitian
+   kompetensi
+            Pernyataan Standar
+No                                                       Indikator
+             (Standar Peneliti)
+   Peneliti memiliki professionalisme  Persentas penelitia yang memiliki
+   sehingga memiliki kesesuaian antara kesesuian bidang keilmuan dengan peneliti
+ 1
+   bidang keilmuan dengan tema
+   penelitian.
+   Peneliti mendapatkan penghargaan Jumlah penelitian yang mendapatkan
+ 2
+   atas penelitian                     penghargaan nasional
+   Sumberdaya dosen yang               Jumlah dosen yang mengikuti kerjasama
+ 3 mencukupi dan memenuhi kualifikasi penelitian dengan pihak lain
+   pendidikan
+   Peneliti    wajib     memiliki      Persentase      dosen
+   kemampuan tingkat penguasaan        yang telah mengikuti pelatihan metodologi
+ 4 metodologi penelitian yang sesuai penelitian
+   dengan bidang keilmuan, objek
+   penelitian, serta tingkat kerumitan
+                                                                            2024
+                                                              FORMULIR MUTU
+
+   dan tingkat kedalaman penelitian
+   dalam melaksanakan penelitian
+   Peneliti memperoleh prestasi dalam Jumlah penelitian
+   mendapatkan penghargaan hibah,      yang mendapatkan dana hibah penelitian
+5 pendanaan program dan
+   kegiatan penelitian dari tingkat
+   nasional dan internasional
+            Pernyataan Standar
+No
+    (Sarana dan Prasarana Penelitian)                    Indikator
+   Sarana dan prasarana tersedia       Persentase     penelitian
+ 1 untuk mendukung kegiatan            yang sepenuhnya menggunakan         sarana
+   penelitian.                         dan prasarana milik Universitas Tulungagung
+   Kontrak penelitian antara peneliti Pesentase       penelitian yang memiliki
+ 2 dengan penyandang dana penelitian kontrak penelitian dan terdokumentasi di
+   didokumentasikan                    LPPM
+            Pernyataan Standar
+No
+         (Pengelolaan Penelitian)                        Indikator
+   Program Studi Teknik Sipil memiliki Terdapat rencana induk dalam penelitian
+   rencana induk pengembangan
+ 1 penelitian
+   Program Studi Teknik Sipil memiliki Terdapat SOP monitoring dan
+   SOP monitoring dan evaluasi         evaluasi pelaksanaan penelitian
+ 2
+   terhadap pelaksanaan penelitian.    Terdapat     dokumen      kriteria  penilaian
+                                       pelaksanaan penelitian
+     Pernyataan Standar (Pendanaan
+No                                                       Indikator
+       dan Pembiayaan Penelitian)
+   Penelitian yang dilakukan diberikan Rata-rata dana penelitian dosen
+ 1 dengan dana yang memadai            Persentase penggunaan dana Penelitian dan
+                                       Pengabdian kepada Masyarakat
+   Pendanaan yang berasal dari         Jumlah penelitian yang
+ 2 kerjasama kegiatan penelitian       mendapatkan pendanaan dari pihak lain
+   dengan instansi lain.
+                                                                              2024
+                                                                  FORMULIR MUTU
+
+
+
+12. Formulir Kuesioner PkM
+  No         Pernyataan Standar                       Indikator
+                  (Hasil PkM)
+   1   Penyelesaian masalah          Harus memiliki program PkM yang
+       yang dihadapi                 dapat menyelesaikan masalah yang
+       masyarakat dengan             dihadapi masyarakat berbasis
+       memanfaatkan keahlian         integrasi.
+       sivitas akademik yang         Program Studi harus memiliki > 50 mitra/
+       relevan                       Desa yang mendapatkan manfaat dari
+                                     program PkM
+                                     Harus memiliki > 10 institusi mitra kerjasama
+                                     program PkM baik internal maupun
+                                     eksternal yang memiliki bukti sahih,
+                                     memenuhi 3 aspek dan menunjukkan
+                                     peningkatan hasil setiap tahun.
+                                     Dosen harus memiliki minimal 1 judul PkM
+                                     dalam 1 tahun agar program PkM
+                                     terlaksana dengan baik. (RB)
+       Pemanfaatan teknologi tepat   Terdapat >10 teknologi tepat guna yang
+   2   guna                          dapat bermanfaat bagi masyarakat setiap
+                                     tahun
+       Pengembangan ilmu             PkM mengahasilkan publikasi ilmiah
+   3   pengetahuan dan teknologi     nasional dan internasional
+       Bahan ajar untuk pengayaan    Program PkM menghasilkan bahan ajar
+   4   sumber belajar perkuliahan    terintegrasi.
+   5   Modul pelatihan               Program PkM menghasilkan modul pelatihan
+                                     Memiliki aturan atau pedoman penulisan
+                                     laporan
+                                     dan penulisan artikel publikasi ilmiah
+                                     Pemetaan dosen pendaming masyarakat
+                                     harus sesuai dengan potensi yang dimiliki
+                                     dosen (sesuai dengan konsentrasi dan atau
+   6   Tata Laksana Hasil PkM        bidang keahlian dosen serta
+                                     pengembangan)
+                                     Memiliki bank data riset yang dapat ditindak
+                                     lanjuti untuk peneltiian
+                                                                            2024
+                                                                FORMULIR MUTU
+
+               Pernyataan
+No              Standar                             Indikator
+                (Isi PkM)
+1    Isi pengabdian kepada            Jumlah penghargaan nasional/
+     masyarakat harus mencakup        internasional
+     aplikasi penelitian dan/atau     Jumlah publikasi dalam bentuk jurnal,
+     pengembangan teknologi           poster, pengajuan paten/HKI, karya
+     tepat guna bagi masyarakat       tulis ilmiah populer dan laporan
+     yang harus memuat prinsip        pengabdian
+     kemanfaatan, kemutakhiran,       Jumlah pengabdian yang memuat
+     dan             mengantisipasi   inovasi dan berguna     bagi masyarakat
+     kebutuhan masa depan             Jumlah teknologi tepat guna yang
+                                      dapat dimanfaatkan
+                                      Jumlah     kegiatan    pengabdian
+                                      kepada masyarakat yang sesuai jadwal
+No         Pernyataan Standar                         Indikator
+               (Proses PkM)
+ 1   Proses pengabdian kepada         Jumlah proposal yang masuk ke Unit
+     masyarakat merupakan             LPPM
+     kriteria minimal tentang         Jumlah kegiatan pengabdian kepada
+     kegiatan pengabdian              masyarakat
+     kepada masyarakat yang           Jumlah    kegiatan    pengabdian
+     terdiri atas perencanaan,        kepada
+     pelaksanaan,                     masyarakat yang melibatkan mahasiswa
+                                      Jumlah laporan kemajuan kegiatan
+                                      pengabdian
+                                      kepada masyarakat yang disahkan
+                                      pimpinan
+                                      Jumlah laporan akhir kegiatan
+                                      pengabdian
+                                      kepada masyarakat yang disahkan
+                                      pimpinan
+                                      Jumlah dokumen hasil monitoring dan
+                                      evaluasi kegiatan
+                                      Jumlah hasil kegiatan pengabdian
+                                      kepada
+                                                                           2024
+                                                             FORMULIR MUTU
+
+                                     masyarakat yang masuk dalam jurnal
+                                     atau prosiding
+No       Pernyataan Standar                         Indikator
+            (Penilaian PkM)
+1  Penilaian pengabdian kepada       Tingkat kepuasan masyarakat
+   masyarakat           merupakan
+   kriteria minimal tentang proses
+   dan hasil pengabdian kepada
+   masyarakat
+          Pernyataan Standar
+No                                          Indikator
+                (Peneliti)
+1  Pelaksanan pengabdian             Jumlah       pelaksana   yang  memiliki
+   kepada masyakat adalah            kualifikasi sesuai dengan kriteria yang
+   dosen                             dipersyaratkan penyandang dana
+                                     Persentase kegiatan pengabdian
+                                     kepada masyarakat yang sesuai
+                                     dengan keahlian pelaksana
+        Pernyataan Standar
+No          (Sarana dan                    Indikator
+          Prasarana PkM)
+1    Tersedianya     sarana     dan Persentase kegiatan pengabdian
+     prasarana pengabdian kepada kepada masyarakat yang menggunakan
+     masyarakat yang diperlukan Fasilitas Universitas Tulungagung
+     untuk    menunjang      proses
+     pengabdian             kepada
+     masyarakat dalam rangka
+     memenuhi hasil pengabdian
+     kepada masyarakat
+              Pernyataan
+No              Standar                             Indikator
+             (Pengelolaan
+              Penelitian)
+1    Pengelola pengabdian           Terdapat dokumen rencana strategis
+     kepada masyarakat              pengabdian kepada masyarakat
+     merupakan kriteria minimal     Universitas Tulungagung
+     tentang perencanaan            Terdapat dokumen rencana operasional
+     pelaksanaan, pengendalian,     Unit
+     pemantauan dan                 LPPM
+                                                                       2024
+                                                             FORMULIR MUTU
+
+     evaluasi, serta pelaporan    Terdapat dokumen yang berisi kriteria
+     kegiatan pengabdian          dan prosedur penilaian pengabdian
+     kepada masyarakat            kepada masyarakat
+                                  Terdapat panduan tentang kriteria
+                                  pelaksana
+                                  pengabdian kepada masyarakat dengan
+                                  mengacu kepada standar hasil, isi, dan
+                                  standar proses pengabdian kepada
+                                  masyarakat
+         Pernyataan Standar
+No   (Pendanaan dan Pembiayaan                   Indikator
+             Penelitian)
+1    Pendanaan      dan           Ketersediaan dana internal untuk
+     pembiayaan pengabdian        pengabdian kepada masyarakat
+     kepada masyarakat            Kerjasama pengabdian kepada
+     merupakan kriteria minimal   masyarakat dengan pihak luar
+     sumber dan mekanisme
+     pendanaan dan pembiayaan
+     pengabdian kepada
+     masyarakat
+                                                                         2024
+                                                             FORMULIR MUTU
+
+13. Formulir Monitorng dan Evaluasi Sarana dan Prasarana
+                                                   Kondisi
+ No                 Sarana                             Kurang Baik/
+                                        Baik/terawat                   Jumlah
+                                                       Tidak Terawat
+
+  1   Gedung Rektorat
+
+  2   Gedung Perpustakaan Universitas
+
+  3   Ruang Yayasan Univ.Tulungagung
+
+  4   Ruang Rektor
+
+  5   Ruang Wakil Rektor I
+
+  6   Ruang Wakil Rektor II
+
+  7   Ruang Wakil Rektor III
+
+  8   Ruang LPPM
+
+  9   Ruang Pusat Penjaminan Mutu
+
+ 10   Ruang Administrasi Akademik
+
+ 11   Ruang Administrasi Umum,
+
+ 12   Ruang Administrasi Keuangan
+
+ 13   Ruang Kemahasiswaan
+
+ 14   Ruang Kantor Fakultas
+
+ 15   Ruang Program Studi
+
+ 16   Ruang kelas/ kuliah
+
+ 17   Ruang Dosen
+
+ 18   Ruang Perpustakaan
+
+ 19   Auditorium
+
+ 20   Auditorium Graha Krida Wiyata
+
+ 21   Ruang Laboratorium Peradilan
+      Semu
+                                                 2024
+                                        FORMULIR MUTU
+
+22   Ruang Laboratorium Akuntansi
+
+23   Ruang Laboratorium
+     Kewirausahaan
+
+24   Poliklinik
+
+25   Ruang Lembaga Bantuan Hukum
+
+26   Musholla
+
+27   Gedung Laboratorium Teknik Sipil
+
+28   Laboratorium Komputer
+
+29   Laboratorium Bahasa
+
+30   Gedung Lab.Tanah
+
+31   Ruang Senat dan BEM Mahasiswa
+     Prodi
+
+32   Ruang UKM MAPALA
+
+32   Gedung IT Mart
+
+33   Toilet Dosen dan Mahasiswa
+
+34   Lapangan Bola Basket
+
+35   Lapangan Tenis
+
+36   Lapangan Untuk Pencak Silat
+
+37   Laboratorium Teknik Sipil
+
+38   Laboratorium Teknik Elektro
+
+39   Studio Music
+
+     Prasarana
+
+39   Laptop
+
+40   Media Banner gedung graha
+
+..   …
+
+..   ….
+                                                                            2024
+                                                                FORMULIR MUTU
+
+
+14. Formulir Monitorng dan Evaluasi Mahasiswa
+ No.                  INDIKATOR                  Hasil Rata-rata Kepuasan
+                        PMB
+  1    Prosedur PMB
+  2    Instrumen Penerimaan Mhs Baru
+  3    Ketentuan Pelaksanaan Tes
+  4    Regristrasi Mahasiswa Baru
+                        WKK
+  1    Keikutsertaan Mahasiswa
+  2    Pemahaman Terhadap Materi Kegiatan
+       WKK
+       SENAT MAHASISWA (BEM) DAN UNIT
+       KEGIATAN MAHASISWA (UKM)
+  1    Kepemilikan Program Kerja
+  2    Implementasi Program Kerja BEM
+  3    Laporan Pertanggungjawaban Program
+       kerja BEM
+                   TRACER STUDY
+  1    Kepemilikan dokumen Tracer study
+  2    Umpan balik responden
+  3    Konsistensi dan keberlanjutan Pelaporan
+
+
+       Tracer Study
+  4    Peran Unit Pusat Karir
+                                                                         2024
+                                                              FORMULIR MUTU
+
+15. Formulir Monitorng dan Evaluasi Keuangan
+
+                                         Dana (Rupiah)        Jumlah
+  No         Jenis Penggunaan                                 (Rupiah)
+                                    TS-2       TS-1      TS
+   .
+
+   1                   2             3          4        5       6
+
+   1     Dana operasional proses
+         pembelajaran
+
+   2     Dana penelitian
+
+   3     Dana pengabdian kepada
+         masyarakat
+
+   4     Investasi prasarana
+
+   5     Investasi sarana
+
+   6     Investasi SDM
+
+   7     Lain-lain, sebutkan: ...
+
+Jumlah
+
+   1     Dana Penelitian
+
+   2     Dana PkM
+
+Jumlah
+                                                                     2024
+                                                            FORMULIR MUTU
+
+16. Formulir Monitorng dan Evaluasi Tata Pamong dan Tata Kelola
+No Indikator                                       Nilai
+      Apakah sistem tata pamong di
+      Universitas Tulungagung sudah
+ 1    berjalan dengan baik dan
+      transparan?
+      Apakah pimpinan universitas
+      mendukung pengembangan
+ 2    akademik dan non-akademik
+      mahasiswa?
+      Apakah tata kelola keuangan
+ 3    universitas sudah dikelola dengan
+      transparan dan akuntabel?
+      Apakah pihak universitas
+      memberikan pelayanan yang optimal
+ 4    terhadap keluhan dan kebutuhan
+      mahasiswa?
+      Apakah proses pengambilan
+      keputusan di Universitas
+ 5    Tulungagung melibatkan berbagai
+      pihak terkait?
+      Apakah sarana dan prasarana
+      universitas sudah cukup memadai
+ 6    untuk mendukung kegiatan
+      akademik?
+      Apakah universitas telah memiliki visi
+ 7    dan misi yang jelas dan mendukung
+      tujuan pendidikan nasional?
+      Apakah tata kelola sumber daya
+ 8    manusia di universitas berjalan
+      dengan profesional dan kompeten?
+      Apakah Universitas Tulungagung
+      memberikan akses yang adil dan
+ 9    merata terhadap seluruh
+      mahasiswa?
+      Apakah komunikasi antara
+      mahasiswa dan pihak pengelola
+ 10   universitas sudah berjalan dengan
+      baik?
+      Apakah universitas menyediakan
+      informasi yang cukup terkait
+ 11   peraturan dan kebijakan kepada
+      mahasiswa?
+      Apakah pihak universitas
+      memberikan kesempatan bagi
+ 12   mahasiswa untuk memberikan
+      masukan?
+                                                     2024
+                                            FORMULIR MUTU
+
+     Apakah dosen dan staf di universitas
+13   bersikap terbuka terhadap saran dari
+     mahasiswa?
+     Apakah sistem administrasi di
+14   universitas sudah mudah diakses
+     dan dipahami oleh mahasiswa?
+     Apakah universitas telah
+     menerapkan kebijakan untuk
+15   menjaga keberlanjutan lingkungan di
+     kampus?
+     Apakah universitas mendukung
+16   pengembangan kegiatan organisasi
+     mahasiswa?
+     Apakah proses penilaian akademik
+17   mahasiswa dilakukan secara
+     transparan dan objektif?
+     Apakah universitas memiliki
+     kebijakan yang mendukung
+18   keberagaman dan inklusivitas di
+     lingkungan kampus?
+     Apakah unit layanan mahasiswa di
+19   universitas sudah memberikan
+     pelayanan yang baik dan responsif?
+     Apakah universitas melakukan
+20   evaluasi rutin terhadap efektivitas
+     tata kelola yang ada?
+                                                                         2024
+                                                                FORMULIR MUTU
+
+17. Formulir Monitorng dan Evaluasi Visi dan Misi
+                                                        Nilai
+   No               Pernyataan
+                                             1      2           3    4
+          Saya memahami visi dan misi
+    1     Universitas Tulungagung
+          dengan jelas.
+          Visi universitas relevan dengan
+          perkembangan ilmu
+    2
+          pengetahuan dan tuntutan
+          zaman.
+          Misi universitas mencerminkan
+          komitmen untuk menghasilkan
+    3
+          lulusan yang kompeten dan
+          siap bersaing secara global.
+          Visi dan misi universitas sesuai
+    4     dengan kebutuhan masyarakat
+          dan dunia kerja saat ini.
+          Pihak universitas secara rutin
+          menyosialisasikan visi dan misi
+    5
+          kepada mahasiswa, dosen, dan
+          tenaga kependidikan.
+          Saya merasa bahwa seluruh
+          kegiatan akademik di
+    6
+          universitas selaras dengan visi
+          dan misi yang telah ditetapkan.
+          Pimpinan universitas
+          menunjukkan komitmen yang
+    7
+          kuat dalam mewujudkan visi
+          dan misi universitas.
+          Kegiatan penelitian dan
+          pengabdian masyarakat di
+    8     universitas mendukung
+          tercapainya visi dan misi
+          universitas.
+          Mahasiswa turut aktif dalam
+          kegiatan yang mendukung
+    9
+          pencapaian visi dan misi
+          universitas.
+          Saya merasa bangga dengan
+   10     visi dan misi yang dimiliki oleh
+          Universitas Tulungagung.
+                                                 2024
+                                        FORMULIR MUTU
+
+     Misi universitas mendukung
+11   pengembangan keahlian dan
+     karakter lulusan.
+     Visi dan misi universitas
+12   terintegrasi dalam kurikulum
+     dan proses pembelajaran.
+     Mahasiswa diberi kesempatan
+     untuk memahami dan
+13
+     mengaplikasikan nilai-nilai yang
+     terdapat dalam visi dan misi.
+     Universitas melibatkan
+14   mahasiswa dalam perumusan
+     atau evaluasi visi dan misi.
+     Saya merasa terinspirasi oleh
+     visi dan misi universitas untuk
+15
+     mencapai prestasi akademik
+     dan non-akademik yang tinggi.
+                                                                 2024
+                                                        FORMULIR MUTU
+
+18. Formulir Monitorng dan Evaluasi Seminar/ Workshop
+                                                                       2024
+                                                              FORMULIR MUTU
+
+19. Formulis Monitoring dan Evaluasi SDM
+
+  Tabel Monitoring dan Evaluasi Dosen
+    No      Aspek penilaian        Hasil Monitoring dan Evaluasi
+    1    Evaluasi
+         Kinerja penunjang
+
+    2    Evaluasi Kinerja
+         Kepangkatan Dosen
+
+  Tabel Monitoring dan Evaluasi SDM Tenaga Kependidikan
+
+
+    No      Aspek Penilaian       Hasil Monitoring dan Evaluasi
+    Tenaga Pustakawan
+     1   Evaluasi Kompetensi
+     …
+   Tenaga Laboran
+     1   Evaluasi Kompetensi
+     …
+            Tenaga IT
+     1   Evaluasi Kompetensi
+     …
+   Tenaga Administrasi
+     1   Evaluasi Kompetensi
+     …
+                                                                                             2024
+                                                                                    FORMULIR MUTU
+
+20. Formulir Monitorng dan Evaluasi DP3
+
+                           DAFTAR PENILAIAN PELAKSANAAN PEKERJAAN
+                                         DOSEN TETAP
+                                  UNIVERSITAS TULUNGAGUNG
+
+                                 JANGKA WAKTU PENILAIAN BULAN JANUARI s.d. DESEMBER 20..
+  1   YANG DINILAI
+      a. Nama
+      b. NIK / NIDN
+      c. JAFA/Pangkat, Golongan Ruang
+      d. Jabatan / Pekerjaan
+      e. Unit Organisasi
+  2   PEJABAT PENILAI
+      a. Nama                           Dr. Muharsono, M.Si.
+      b. NUPN                           0714046001
+      c. JAFA/Pangkat, Golongan Ruang   Lektor
+      d. Jabatan / Pekerjaan            Rektor
+      e. Unit Organisasi                Universitas Tulungagung
+  3   ATASAN PEJABAT PENILAI
+      a. Nama                           Drs. H. Alvin Halim, MM
+      b. NIK / NIDN                     -
+      c. JAFA/Pangkat, Golongan Ruang   -
+      d. Jabatan / Pekerjaan            Ketua Yayasan
+      e. Unit Organisasi                Universitas Tulungagung
+  4   PENILAIAN
+                                                     NILAI
+           UNSUR YANG DINILAI
+                                        ANGKA           SEBUTAN           KETERANGAN
+      a. Kesetiaan
+      b. Prestasi Kerja
+      c. Tanggung Jawab
+      d. Ketaatan
+      e. Kejujuran
+      f. Kerjasama
+      g. Prakarsa
+      h. Kepemimpinan
+      i. JUMLAH
+      NILAI RATA-RATA
+                                        RAHASIA
+                                                                                       24
+                                                                                                               2024
+                                                                                                  FORMULIR MUTU
+
+21. Formulir Berita Acara Ujian Semester
+
+
+FORMULIR BERITA ACARA UJIAN TENGAH SEMESTER DAN AKHIR SEMESTER
+
+
+                JURUSAN/PROGRAM STUDI………………………………………………………………………......
+                       SEMESTER GANJIL/GENAP/PADAT* TAHUN AKADEMIK 20.../20...
+
+
+   1. Bahwa pada hari ini, ………......….. tanggal…….....……… telah dilaksanakan Ujian Tengah/Akhir*
+      Semester Ganjil/Genap* Tahun Akademik 20..../20.... untuk mata kuliah .…………...........................
+      dengan pengajar ……….…………………..........................
+   2. Jumlah seluruh mahasiswa yang mengontrak mata kuliah adalah sebanyak           orang. Yang
+      mengikuti Ujian Tengah/Akhir* Semester adalah sebanyak          orang. Yang tidak mengikuti Ujian
+      Tengah/Akhir* Semester adalah sebanyak          orang dengan rincian sebagai berikut:
+       a.                  orang izin
+       b.                  orang sakit
+       c.                  orang alpha / tanpa keterangan
+   3. SifatUjian adalah :
+       a. Open Book
+       b. Close Book
+   4. Catatan kejadian yang terjadi pada saat Ujian berlangsung :
+                                                                                2024
+                                                                      FORMULIR MUTU
+
+22. Formulir Berita Acara Kontrak Perkuliahan
+
+
+                         KONTRAK PERKULIAHAN
+Mata Kuliah :
+Kode Mata Kuliah :
+Pengajar :
+Semester :
+Hari Pertemuan / Jam :
+Tempat Perkuliahan :
+
+
+1. Manfaat Mata Kuliah
+    Bagian ini menjelaskan mengapa mahasiswa perlu mengambil mata kuliah
+    ini, apa kegunaan mata kuliah ini untuk pengembangan pribadi, bagaimana
+    hubungan mata kuliah ini dengan tujuan program studi atau jurusan.
+2. Deskripsi Perkuliahan
+    Bagian ini menyajikan pernyataan yang mengandung ruang lingkup materi
+    dan garis-garis besar atau pokok bahasan yang terdapat dalam mata kuliah
+    tersebut.
+3. Kompetensi Dasar
+    Bagian ini menjelaskan tentang hasil belajar yang akan dicapai pada akhir
+    perkuliahan. Mahasiswa perlu tahu kompetensi apa yang akan dapat dia
+    ketahui dan lakukan setelah mengambil mata kuliah tersebut. Perumusan
+    tujuan mata kuliah secara jelas akan membantu mahasiswa dan dosen untuk
+    mengevaluasi sejauh mana tujuan tersebut telah tercapai. Perumusan tujuan
+    dilakukan dalam bentuk kompetensi untuk berbagai level menurut taksonomi
+    Bloom, atau taksonomi yang lain.
+4. Organisasi Materi
+    Bagian ini menjelaskan organisasi urutan materi, dapat ditampilkan dalam
+    bentuk diagram (peta materi), disertai penjelasan mengapa disusun seperti
+    itu
+5. Strategi Perkuliahan
+    Bagian ini menjelaskan prosedur kerja atau kegiatan yang akan dilakukan
+    dalam perkuliahan. Kombinasi berbagai metode belajar-mengajar dapat
+    digunakan untuk mencapai hasil belajar yang maksimal.
+                                                                                    2024
+                                                                         FORMULIR MUTU
+
+
+
+6. Materi/Bacaan Perkuliahan
+    Bagian ini menyajikan buku teks, artikel atau bahan bacaan lain yang
+    menjadi acuan dan bahan bacaan wajib bagi mahasiswa.
+7. Tugas
+    Pada bagian ini disebutkan tentang tugas-tugas individual aau kelompok
+    yang harus dilakukan mahasiswaberikut jadwal aau batas waktu
+    penyelesaian tugas. Disebutkan pula tujuan dari masing-masing tugas dan
+    apa yang diharapkan dilakukan mahasiswa. Di samping itu informasi tentang
+    tes semester dan evaluasi lainnya juga perlu disertakan.
+
+
+8. Kriteria Penilaian
+    Bagian ini menjelaskan kriteria penilaian prestasi belajar mahasiswa. Contoh:
+    Hasil pembelajaran akan dinilai dengan menggunakan kriteria
+    sesuai dengan peraturan akademik yang berlaku di UNITA, yaitu:
+
+       Skala Nilai       Huruf Mutu       Angka Mutu         Sebutan Mutu
+        81 – 100             A                4           Memuaskan
+       75 – 80,99           AB               3.5          Sangat Baik
+       70 – 74,99            B               3.0          Baik
+       65 – 69,99           BC                3           Cukup Baik
+       55 – 64,99            C               2.5          Cukup
+       40 – 54,99            D                1           Kurang
+        0 – 39,99            E                0           Tidak Lulus
+
+
+    Aspek-aspek yang dinilai dalam penentuan Nilai Akhir, meliputi:
+
+    Ujian tengah semester                   30%
+    Ujian akhir semester                    30%
+    Ujian harian, Tugas-tugas, dll          40%
+
+
+9. Jadwal perkuliahan:
+    Bagian ini memuat jadwal perkuliahan berupa tanggal pertemuan, topik yang
+    akan dibahas, dan bahan bacaan yang relevan dengan setiap pokok bahasan. Di
+    samping itu sebaiknya dicantumkan pula batas akhir untuk penyerahan tugas-
+    tugas yang akan dilakukan
+                                                                           2024
+                                                            FORMULIR MUTU
+
+     Pertemuan ke:         Topik Bahasan                Bacaan/Bab
+          1
+          2
+          3
+          4
+          dst
+
+
+Form Penilaian
+
+  No     Hadir (10%) Quiz (15%) UTS (30%)   UAS (30%)    NILAI     GRADE
+
+ 1
+ 2
+ 3
+ 4
+ …
+ Dst
+
+Note: Prosentase komponen disesuaikan dengan kontrak kuliah oleh
+masing-masing dosen pengampu.
+                                                                                                                               2024
+                                                                                                                   FORMULIR MUTU
+23. Formulir Berita Acara Kontrak Perkuliahan
+
+
+
+                      UNIVERSITAS TULUNGAGUNG
+                      FAKULTAS ……………………
+                      PROGRAM STUDI …………………
+
+                                       RENCANA PEMBELAJARAN SEMESTER (RPS)
+
+                                                                         Bobot
+             Nama Mata Kuliah        Kode Mata Kuliah                                              Semester       Tanggal Penyusunan
+                                                                         (sks)
+
+ Otorisasi                                 Nama Koordinator             Koordinator Bidang
+                                             Pengembang                 Keahlian (jika Ada)                  Ketua Program Studi
+                                                RPS
+
+                                                tanda tangan               Tanda tangan                         Tanda tangan
+                                                Nama Terang                Nama Terang                          Nama Terang
+
+ Capaian           CPL-PRODI (Capaian Pembelajaran Lulusan Program Studi) yang Dibebankan pada Mata Kuliah
+ Pembelajaran (CP)
+                    CPL-1
+
+                      CPL-2
+
+                      CPL-3
+
+                        dst
+                                                                       2024
+                                                              FORMULIR MUTU
+                    CPMK (Capaian Pembelajaran Mata Kuliah)
+                    CPMK1
+                    CPMK2
+                    CPMK3
+                      dst
+
+
+
+
+Diskripsi Singkat
+Mata Kuliah
+
+
+Bahan Kajian /
+Materi
+Pembelajaran
+
+
+
+
+Daftar Referensi    Utama:
+                    1.
+                                                                                                                                             2024
+                                                                                                                               FORMULIR MUTU
+                    Pendukung:
+                    1.
+Nama Dosen
+Pengampu
+Mata kuliah
+prasyarat
+(Jika ada)
+
+
+            Sub-CPMK                           Bentuk dan                                                              Penilaian
+           (Kemampuan       Bahan Kajian         Metode
+Minggu                                         Pembelajar       Estimasi     Pengalaman Belajar
+              akhir yg         (Materi                                                                  Kriteria &
+   ke-                                         an [Media &       Waktu          Mahasiswa                                 Indikator    Bobot (%)
+           direncanakan     Pembelajaran)                                                                 Bentuk
+                 )                               Sumber
+                                                 Belajar]
+ (1)            (2)                (3)            (4)               (5)               (6)                  (7)              (8)         (9)
+Contoh Mampu              Kajian Pustaka     Bentuk:          TM:          • Mengkaji dan            Kriteria:       • Ketepatan
+       merumuskan         mengidentifikasi                                   mensarikan artikel      Ketepatan,        sistematikan
+  3                                          Kuliah           1x(2x50”)      journal yang                                                5
+       permasalahan       permasalahan,                                                              kesesuaian        dan
+       penelitian dan     perumusan          Aktifitas di                    download dari           dan               mensarikan
+       menyusun           masalah dan        kelas:                          internet. (Tugas-3)     sistematika       artikel
+       hipotesa           hipotesis                           PT:                                                      journal;
+                                             • Metode:                     • Merumuskan              Bentuk non-
+       penelitian dg      deskriptif,                         1x(2x60”)
+                                               Diskusi                       masalah dan             test:           • Ketepatan
+       memperhatikan      komparatif,
+                                               kelompok                      hipotesis deskriptif,                     dan
+       dan menerapkan     asosiatif dan                                                              • Ringkasan
+                                               dan                           komparatif,                               kesesuaian
+       nilai humaniora    komparatif-                                                                  artikel
+                                               Discovery      BM:                                                      merumuskan
+                          asosiatif.                                         asosiatif dan             journal dan
+                                               Learning                                                                masalah dan
+                                                              1x(2x60”)      komparatif-asosiatif      road map
+                                                                                                                       hipotesis
+                                             • Media:                        secara daring             nya;
+                                                                                                                       deskriptif,
+                                               Komputer                      dengan aplikasi e-
+                                                                                                                       komparatif,
+                                               dan LCD                       Learning (Tugas-3). • Rumusan
+                                                                                                   masalah dan         asosiatif dan
+                                               Projector
+                                                                                                   hipotesis           komparatif-
+                                               atau gadget
+                                               dan internet                                        penelitian;         asosiatif;
+Catatan:
+1. Capaian Pembelajaran Lulusan PRODI (CPL-PRODI) adalah kemampuan yang
+    dimiliki oleh setiap lulusan PRODI yang merupakan internalisasi dari sikap,
+    penguasaan pengetahuan dan ketrampilan sesuai dengan jenjang prodinya yang
+    diperoleh melalui proses pembelajaran.
+2. CPL yang dibebankan pada mata kuliah adalah beberapa capaian
+    pembelajaran lulusan program studi (CPL-PRODI) yang digunakan untuk
+    pembentukan/pengembangan sebuah mata kuliah yang terdiri dari aspek sikap,
+    ketrampulan umum, ketrampilan khusus dan pengetahuan.
+3. CP Mata kuliah (CPMK) adalah kemampuan yang dijabarkan secara spesifik dari
+    CPL yang dibebankan pada mata kuliah, dan bersifat spesifik terhadap bahan
+    kajian atau materi pembelajaran mata kuliah tersebut.
+4. Sub-CP Mata kuliah (Sub-CPMK) adalah kemampuan yang dijabarkan secara
+    spesifik dari CPMK yang dapat diukur atau diamati dan merupakan
+    kemampuan akhir yang direncanakan pada tiap tahap pembelajaran, dan bersifat
+    spesifik terhadap materi pembelajaran mata kuliah tersebut.
+5. Materi Pembelajaran adalah rincian atau uraian dari bahan kajian yg dapat
+    disajikan dalam bentuk beberapa pokok dan sub-pokok bahasan.
+6. Bentuk pembelajaran: Kuliah, Responsi, Tutorial, Seminar atau yang setara,
+    Praktikum, Praktik Studio, Praktik Bengkel, Praktik Lapangan, Penelitian,
+    Pengabdian Kepada Masyarakat dan/atau bentuk pembelajaran lain yang
+    setara.
+7. Metode Pembelajaran: Small Group Discussion, Role-Play & Simulation,
+    Discovery Learning, Self-Directed Learning, Cooperative Learning,
+    Collaborative Learning, Contextual Learning, Project Based Learning, dan
+    metode lainnya yg setara.
+8. TM=Tatap Muka, PT=Penugasan Terstuktur, BM=Belajar Mandiri.
+9. Kriteria Penilaian adalah patokan yang digunakan sebagai ukuran atau tolok
+    ukur ketercapaian pembelajaran dalam penilaian berdasarkan indikator-
+    indikator yang telah ditetapkan. Kriteria penilaian merupakan pedoman bagi
+    penilai agar penilaian konsisten dan tidak bias. Kriteria dapat berupa kuantitatif
+    ataupun kualitatif.
+10. Indikator penilaian kemampuan dalam proses maupun hasil belajar
+    mahasiswa adalah pernyataan spesifik dan terukur yang mengidentifikasi
+    kemampuan atau kinerja hasil belajar mahasiswa yang disertai bukti-bukti
+11. Bentuk penilaian: tes dan non-tes.
+12. Bobot penilaian adalah prosentasi penilaian terhadap setiap pencapaian sub-
+    CPMK yang besarnya proposional dengan tingkat kesulitan pencapaian sub-
+    CPMK tsb., dan totalnya 100%.
+24. Formulir Evaluasi Proposal Penelitian
+25. Formulir Evaluasi Seminar Hasil Penelitian
+26. Formulir Laporan Akhir Penelitian
+27. Formulir Proposal PkM
+28. Formulir Seminar Hasil PkM
+29. Formulir Laporan Akhir PkM
+30. Formulir Bimbingan Skripsi
+   KARTU KONSULTASI PROPOSAL TUGAS AKHIR (Pembimbing)
+    Nama Mahasiswa               :    …
+    NPM                          :    …
+
+    Judul Skripsi/Laporan*)      :    …
+
+    Jumlah SKS                   :    … IPK : …
+    Pembimbing I                 :    …
+    Pembimbing II                :    …
+
+
+                                                       Menyetujui:
+                                                       Kepala Program Studi
+                                                       Fakultas
+                                                       ………………….
+                                                       NIDN.
+                                                       ……………………………
+
+            Tanggal
+                                     Saran/Perbaikan              Paraf
+    No     Bimbingan
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+
+Catatan:
+1. Kartu ini bertujuan untuk memonitor hasil revisi proposal tugas akhir
+   yang sudah dinyatakan diterima oleh Jurusan
+2. Kartu ini harus diisi oleh dosen pembimbing saat pembimbingan
+3. Syarat untuk memulai melaksanakan tugas akhir adalah minimal 4x
+   bimbingan proposal tugas akhir
+4. Mengumpulkan proposal skripsi yang sudah direvisi oleh pembimbing .
+5. Nilai akhir proposal tugas akhir adalah rerata nilai yang diberikan oleh
+   penguji.
+31. Formulir Evaluasi Kerjasama
+                                                        Skor
+
+                    Indi kator
+ No                                             4   3          2   1
+  1   Perjanjian kerjasama telah dilakukan
+      dengan mudah
+  2   Rerespons saran kerja sama dengan cepat
+  3   Proses penandatanganan kerja sama
+      dilakukan dengan cepat
+  4   Kerjasama telah diimplementasikan
+      dengan kegiatan
+  5   Implementasinya sesuai dengan naskah
+      Kerjasama
+  6   Saya senang dengan kerja sama yang
+      telah kami lakukan
+  7   Kami masih akan melanjutkan kerja sama
+      ini
+
