@@ -1,32 +1,28 @@
 // ============================================================
-// MAIN SCRIPT: GENERATE KEBIJAKAN MUTU SPMI UNITA 2025
+// MAIN SCRIPT: GENERATE MANUAL MUTU SPMI UNITA 2025
 // ============================================================
 
 const path = require("path");
 const fs = require("fs");
 
 // Load all section modules
-const core = require("./generate_kebijakan_mutu.js");
+const core = require("./manual_mutu_core.js");
 const {
   Document, Packer, Paragraph, TextRun, Header, Footer, PageNumber,
   AlignmentType, HeadingLevel, NumberFormat, PageBreak, BorderStyle, fs: fsCore,
   FONT, P, c,
 } = core;
 
-const { buildSKRektor, buildHeaderDokumen } = core;
-const { buildTimPenyusun, buildKataPengantar } = require("./section_01_intro.js");
-const { buildBabI, buildBabII } = require("./section_02_bab1_2.js");
-const { buildBabIII, buildBabIV } = require("./section_03_bab3_4.js");
-const { buildBabV } = require("./section_04_bab5.js");
-const { buildBabVI, buildBabVII } = require("./section_05_bab6_7.js");
-const { buildBabVIII, buildBabIX } = require("./section_06_bab8_9.js");
-const { buildBabX, buildBabXI } = require("./section_07_bab10_11.js");
-const { buildBabXII, buildBabXIII, buildBabXIV, buildBabXV, buildReferensi } = require("./section_08_bab12_15.js");
+const { buildHeader: buildHeaderDokumen } = core;
+const { buildKataPengantar, buildBabI, buildBabII } = require("./manual_mutu_sec1.js");
+const { buildBabIII, buildBabIV, buildBabV } = require("./manual_mutu_sec2.js");
+const { buildBabVI, buildBabVII, buildBabVIII } = require("./manual_mutu_sec3.js");
+const { buildBabIX, buildBabX, buildReferensi } = require("./manual_mutu_sec4.js");
 
 // ============================================================
-// HEADER & FOOTER
+// HEADER & FOOTER (untuk halaman, berbeda dari header dokumen)
 // ============================================================
-function buildHeader() {
+function buildPageHeader() {
   return new Header({
     children: [
       new Paragraph({
@@ -35,7 +31,7 @@ function buildHeader() {
         border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: "000000", space: 1 } },
         children: [
           new TextRun({
-            text: "PERNYATAAN DAN KEBIJAKAN MUTU SPMI - UNIVERSITAS TULUNGAGUNG - 2025",
+            text: "MANUAL MUTU SPMI - UNIVERSITAS TULUNGAGUNG - 2025",
             size: 18, font: FONT, bold: true, color: c(P.primary),
           }),
         ],
@@ -44,7 +40,7 @@ function buildHeader() {
   });
 }
 
-function buildFooter() {
+function buildPageFooter() {
   return new Footer({
     children: [
       new Paragraph({
@@ -54,7 +50,7 @@ function buildFooter() {
         children: [
           new TextRun({ text: "Halaman ", size: 18, font: FONT, color: c(P.primary) }),
           new TextRun({ children: [PageNumber.CURRENT], size: 18, font: FONT, color: c(P.primary) }),
-          new TextRun({ text: "  |  Kode Dok: SPMI/PPM/DM/KBJ/2025", size: 18, font: FONT, color: c(P.primary) }),
+          new TextRun({ text: "  |  Kode Dok: SPMI/PPM/DM/MNL/2025", size: 18, font: FONT, color: c(P.primary) }),
         ],
       }),
     ],
@@ -64,12 +60,10 @@ function buildFooter() {
 // ============================================================
 // DOCUMENT ASSEMBLY
 // ============================================================
-console.log("Menyusun dokumen Kebijakan Mutu SPMI UNITA 2025...");
+console.log("Menyusun dokumen Manual Mutu SPMI UNITA 2025...");
 
 const allChildren = [
-  ...buildSKRektor(),
   ...buildHeaderDokumen(),
-  ...buildTimPenyusun(),
   ...buildKataPengantar(),
   ...buildBabI(),
   ...buildBabII(),
@@ -81,11 +75,6 @@ const allChildren = [
   ...buildBabVIII(),
   ...buildBabIX(),
   ...buildBabX(),
-  ...buildBabXI(),
-  ...buildBabXII(),
-  ...buildBabXIII(),
-  ...buildBabXIV(),
-  ...buildBabXV(),
   ...buildReferensi(),
 ];
 
@@ -96,20 +85,20 @@ console.log(`Total paragraph/table: ${allChildren.length}`);
 // ============================================================
 const doc = new Document({
   creator: "Pusat Penjaminan Mutu Universitas Tulungagung",
-  title: "Pernyataan dan Kebijakan Mutu SPMI Universitas Tulungagung 2025",
-  description: "Dokumen Kebijakan Mutu SPMI UNITA 2025 berdasarkan Permendiktisaintek No. 39 Tahun 2025",
-  subject: "Sistem Penjaminan Mutu Internal (SPMI)",
+  title: "Manual Mutu SPMI Universitas Tulungagung 2025",
+  description: "Dokumen Manual Mutu SPMI UNITA 2025 berdasarkan Permendiktisaintek No. 39 Tahun 2025",
+  subject: "Sistem Penjaminan Mutu Internal (SPMI) - Manual Mutu",
   
   styles: {
     default: {
       document: {
         run: {
           font: FONT,
-          size: 24, // 12pt
+          size: 24,
           color: c(P.body),
         },
         paragraph: {
-          spacing: { line: 312 }, // 1.3x mandatory
+          spacing: { line: 312 },
         },
       },
       heading1: {
@@ -135,8 +124,8 @@ const doc = new Document({
         pageNumbers: { start: 1, formatType: NumberFormat.DECIMAL },
       },
     },
-    headers: { default: buildHeader() },
-    footers: { default: buildFooter() },
+    headers: { default: buildPageHeader() },
+    footers: { default: buildPageFooter() },
     children: allChildren,
   }],
 });
@@ -144,7 +133,7 @@ const doc = new Document({
 // ============================================================
 // SAVE
 // ============================================================
-const outputPath = "/home/z/my-project/download/KEBIJAKAN_MUTU_SPMI_UNITA_2025.docx";
+const outputPath = "/home/z/my-project/download/MANUAL_MUTU_SPMI_UNITA_2025.docx";
 
 Packer.toBuffer(doc).then(buf => {
   fs.writeFileSync(outputPath, buf);
