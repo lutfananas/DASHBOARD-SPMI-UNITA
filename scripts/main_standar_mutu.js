@@ -15,8 +15,9 @@ const {
 } = core;
 
 const { buildHeaderUmum, buildKataPengantar, buildBabI, buildBabII } = require("./standar_mutu_intro.js");
-const { STANDAR_PENDIDIKAN, STANDAR_PENELITIAN } = require("./standar_mutu_data1.js");
-const { STANDAR_PKM, STANDAR_TAMBAHAN } = require("./standar_mutu_data2.js");
+const { STANDAR_PENDIDIKAN } = require("./standar_mutu_data1.js");
+const { STANDAR_PENELITIAN } = require("./standar_mutu_data2.js");
+const { STANDAR_PKM, STANDAR_TAMBAHAN } = require("./standar_mutu_data3.js");
 
 // ============================================================
 // HEADER & FOOTER (page)
