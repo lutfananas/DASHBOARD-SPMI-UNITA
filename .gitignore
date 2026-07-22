@@ -51,4 +51,12 @@ prompt
 
 server.log
 # Skills directory
-/skills/
+/skills/upload/
+scripts/*.js
+download/
+*.pdf
+AMI_2025_extracted/
+tool-results/
+skills/
+.zscripts/
+tool-results/
