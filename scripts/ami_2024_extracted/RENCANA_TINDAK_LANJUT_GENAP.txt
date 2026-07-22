@@ -1,0 +1,578 @@
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+LEMBAR PENGESAHAN
+20 SEPTEMBER 2024
+RESULTS NOTE
+PUSAT PENJAMINAN MUTU
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Kode Dokumen : SPMI/PPM/MONEV/RTL1/2023
+UNIVERSITAS
+TULUNGAGUNG
+Tanggal : 20 SEPTEMBER 2024
+RENCANA Revisi : -
+TINDAK LANJUT
+2023 - 2 Halaman : 10
+RENCANA TINDAK LANJUT
+PERIODE 2023 - 2
+Penanggungjawab
+Proses
+Tanda
+Nama Jabatan
+Tangan
+Ka. Bag.
+Perumus Dra. Dwi Iriani Margayaningsih, M.AP
+Pengembangan SPMI
+Kabag. Audit dan
+Pemeriksa Eni Minarni, SE., M.Ak.
+Monev-in
+Ketua
+Persetujuan Dr. Anang Sugeng Cahoyono, S.AP., S.H., M.Si.
+Pusat Penjaminan Mutu
+Penetapan Dr. Muharsono., M.Si. Rektor
+Pengendalian Dr. Ir. Bambang Tri Kurnianto, Dipl.Inv., M.MA Wakil Rektor I
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+RENCANA TINDAK LANJUT
+20 SEPTEMBER 2024
+RESULTS NOTE
+RASIONAL
+Audit Mutu Internal (AMI) merupakan bagian integral dari sistem penjaminan mutu internal yang
+bertujuan untuk memastikan bahwa seluruh kegiatan di lingkungan perguruan tinggi telah berjalan
+sesuai dengan standar yang ditetapkan, serta mendukung pencapaian visi dan misi institusi. Monitoring
+dan Evaluasi Internal (MONEVIN) berperan sebagai instrumen operasional dalam mendeteksi
+kesenjangan antara rencana dan pelaksanaan kegiatan, sekaligus memberikan masukan berbasis data
+untuk perbaikan dan pengambilan keputusan strategis.
+Penyusunan Rencana Tindak Lanjut (RTL) hasil MONEVIN AMI menjadi penting karena merupakan
+bukti nyata komitmen institusi dalam menindaklanjuti setiap temuan audit mutu, serta sebagai bentuk
+pertanggungjawaban terhadap implementasi Sistem Penjaminan Mutu Internal (SPMI). Rencana ini
+tidak hanya memuat langkah-langkah korektif dan preventif atas berbagai temuan, tetapi juga menjadi
+pedoman tindak lanjut yang terukur, terencana, dan dapat dievaluasi secara berkala.
+Keterkaitan dengan Permendikbudristek Nomor 53 Tahun 2023
+Permendikbudristek Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi
+mengamanatkan bahwa perguruan tinggi wajib menyelenggarakan sistem penjaminan mutu secara
+berkelanjutan melalui pelaksanaan SPMI. Pada Pasal 12 ayat (3), disebutkan bahwa pelaksanaan
+SPMI mencakup kegiatan perencanaan, pelaksanaan, evaluasi, pengendalian, dan peningkatan
+standar pendidikan tinggi — dikenal dengan siklus PPEPP.
+Dalam konteks ini, Rencana Tindak Lanjut hasil MONEVIN AMI merupakan implementasi langsung
+dari tahapan “Evaluasi dan Peningkatan” dalam siklus PPEPP. Dokumen ini menjadi dasar institusi
+untuk:
+• Mengintegrasikan hasil evaluasi mutu ke dalam perencanaan dan kebijakan kelembagaan,
+• Menjamin keterukuran tindak lanjut atas temuan audit,
+• Mendokumentasikan proses peningkatan mutu secara sistematis, serta
+• Memenuhi akuntabilitas eksternal dalam rangka akreditasi atau audit eksternal.
+Melalui dokumen RTL ini, Universitas Tulungagung tidak hanya meneguhkan komitmen terhadap mutu
+internal, tetapi juga melaksanakan amanat regulasi nasional secara konsisten, sejalan dengan
+paradigma outcome-based education dan continuous quality improvement yang menjadi prinsip dasar
+pendidikan tinggi masa kini.
+DASAR HUKUM
+Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi;
+Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 3 Tahun 2020
+tentang Standar Nasional Pendidikan Tinggi;
+Permendikbud 5 tahun 2020 tentang Akreditasi Program Studi dan Perguruan Tinggi;
+SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring &
+Evaluasi Internal (Monev-In) Tri Dharma Perguruan Tinggi dan Unit Kerja Universitas
+Tulungagung
+SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+Penjaminan Mutu Universitas Tulungagung
+Renstra Universitas Tulungagung Tahun 2023 – 2027
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+METODE AMI
+20 SEPTEMBER 2024
+RESULTS NOTE
+MONITORING DAN EVALUASI
+1. Teknik Pengumpulan Data
+Untuk memperoleh data yang valid dan reliabel, kegiatan Monitoring dan Evaluasi Internal
+(MONEVIN) menggunakan pendekatan triangulasi metode, yaitu:
+• Observasi: Dilakukan terhadap pelaksanaan kegiatan di lapangan, termasuk proses
+pembelajaran, layanan mahasiswa, serta implementasi tata pamong dan tata kelola.
+• Wawancara: Dilaksanakan dengan pimpinan unit, dosen, tenaga kependidikan, serta
+perwakilan mahasiswa guna menggali informasi kualitatif tentang pelaksanaan program dan
+kendala yang dihadapi.
+• Studi Dokumen: Menelaah dokumen perencanaan, pelaksanaan, serta laporan kegiatan terkait
+lima fokus audit mutu internal (AMI), seperti Rencana Pembelajaran Semester (RPS), SK
+penugasan, notulensi rapat, laporan evaluasi pembelajaran, dan dokumen kepegawaian.
+•
+2. Instrumen yang Digunakan
+Instrumen yang digunakan dalam pelaksanaan MONEVIN disusun berdasarkan standar dan
+indikator mutu yang telah ditetapkan dalam dokumen SPMI Universitas Tulungagung, mencakup:
+• Lembar observasi
+• Panduan wawancara terstruktur
+• Daftar tilik (checklist) kesesuaian dokumen
+• Format laporan capaian standar
+Instrumen disesuaikan dengan masing-masing aspek audit, yaitu visi misi, tata pamong dan tata
+kelola, proses pembelajaran semester ganjil, layanan kemahasiswaan semester ganjil, serta
+sumber daya manusia.
+3. Jadwal Pelaksanaan MONEVIN
+Kegiatan MONEVIN dilaksanakan dalam kurun waktu bulan Maret hingga Agustus, dengan rincian
+tahapan sebagai berikut:
+BULAN KEGIATAN
+Maret Sosialisasi jadwal dan instrumen MONEVIN ke seluruh unit
+April Pengumpulan data dokumen dan observasi awal
+Mei Wawancara dan klarifikasi dengan unit terkait
+Juni Analisis data awal dan penyusunan temuan sementara
+Juli Finalisasi hasil MONEVIN dan penyusunan rekomendasi
+Agustus Penyusunan dan distribusi Rencana Tindak Lanjut (RTL) ke setiap unit
+4. Tim Pelaksana dan Peran Masing-Masing
+Pelaksanaan MONEVIN dikoordinasikan oleh Gugus Penjaminan Mutu (GPM) Universitas dan
+melibatkan:
+TIM/UNIT PERAN
+Ketua PPM Universitas Koordinator pelaksanaan, validasi hasil MONEVIN
+Anggota GPM Pelaksana observasi, wawancara, dan studi dokumen
+Perwakilan Fakultas/Unit Narasumber dan penyedia dokumen, klarifikasi pelaksanaan
+kegiatan
+Sekretariat Monevin Administrasi dokumen, penjadwalan, dan pelaporan hasil
+Tim Evaluator Internal Analisis hasil, penyusunan rekomendasi, dan verifikasi RTL
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+IDENTIFIKASI HASIL AMI
+20 SEPTEMBER 2024
+RESULTS NOTE
+RENCANA TINDAK LANJUT
+1. Tabel identifikasi temuan dan rencana tindak lanjut untuk AMI MBKM
+Penanggung
+No Temuan / Isu Rencana Tindak Lanjut Waktu
+Jawab
+1 Sistem penilaian & Kembangkan dashboard real-time LPPM, BAAK, Semester
+monitoring kurang untuk magang, independen, asistensi; Dosen Koordinator Ganjil
+transparan tetapkan standar evaluasi konsisten MBKM 2024/2025
+2 Kemitraan industri & Jalin kerjasama baru dengan sektor WR III, LPPM, Semester
+pemerintah belum luas digital, e-commerce, kreatif, serta Humas Ganjil
+instansi pemerintah dan mitra 2024/2025
+internasional
+3 Skema pengalaman Tambah modul kewirausahaan, inovasi LPPM, Pusat Karir, Semester
+MBKM kurang sosial, pengabdian & proyek BEM/UKM Ganjil
+terdiversifikasi keberlanjutan 2024/2025
+4 Kewirausahaan Sediakan dana hibah startup, ruang Inkubator, LPPM, Semester
+mahasiswa belum inkubasi, mentoring berkelanjutan oleh WR III Ganjil
+difasilitasi optimal alumni & praktisi 2024/2025
+5 Keterlibatan alumni dalam Bentuk forum mentor alumni, undang Pusat Alumni, Semester
+MBKM masih rendah alumni sebagai pembicara & fasilitator LPPM Ganjil
+peluang magang 2024/2025
+6 Infrastruktur & platform Kembangkan platform kolaborasi SI, Inkubator, WR II Semester
+pendukung MBKM kurang online, buka pusat inkubasi ide & Ganjil
+memadai sediakan akses alat digital 2024/2025
+2. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Kerjasama
+No Temuan Utama Rekomendasi Tindak Lanjut
+1 Tujuan kerjasama kurang dipahami Buat dokumen MoU/LoI yang lebih terperinci; adakan kick-off
+mitra meeting untuk penyamaan ekspektasi
+2 Koordinasi dan komunikasi antar Tetapkan jadwal koordinasi rutin (quarterly review) dan platform
+pihak kurang intens komunikasi bersama (misal: Slack/Teams)
+3 Sumber daya terlibat belum optimal Alokasikan person-in-charge di kedua belah pihak; sediakan
+pelatihan bersama untuk tim pelaksana
+4 Evaluasi kemitraan belum Kembangkan KPI kemitraan dan dashboard pemantauan bersama;
+sistematis lakukan evaluasi setengah tahunan
+5 Harapan mitra dan universitas Selenggarakan workshop bersama untuk merumuskan ulang tujuan
+kadang tidak selaras dan deliverable kerjasama
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+3. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Kesejahteraan
+Analisis Penanggung Waktu
+No Temuan / Isu Rencana Tindak Lanjut
+Penyebab Jawab Pelaksanaan
+1 Sosialisasi dokumen Hanya lewat Tambah sesi webinar & UPM, Humas, Semester
+standar kurang pertemuan tatap e-learning; buat video BAAK Ganjil
+merata muka, belum tutorial dan infografis 2024/2025
+optimal pakai SOP untuk mahasiswa &
+digital dosen
+2 Responsiveness dan Belum ada Adakan pelatihan WR III, BAAK, Semester
+assurance layanan pelatihan khusus customer service untuk UPT SI Ganjil
+belum konsisten dan sistem dosen/tendik; 2024/2025
+keluhan implementasi helpdesk
+terintegrasi berbasis tiket & SLA
+jelas
+3 Sarana & prasarana Anggaran & Susun jadwal WR II, Biro Semester
+akademik (kelas, lab, pemeliharaan pemeliharaan preventif; Sarpras Ganjil
+e-resources) masih kurang terjadwal alokasikan dana 2024/2025
+di bawah ekspektasi upgrade; buat sistem
+pelaporan kerusakan
+online
+4 Distribusi dana sosial Prosedur alokasi Review mekanisme BAK, SPI, Semester
+dan prestasi kurang belum distribusi; publikasikan UPM Ganjil
+optimal transparan kriteria & realisasi di 2024/2025
+SIAKAD; adakan audit
+dana triwulanan
+5 Empathy (kepedulian Pelatihan soft- Gelar workshop WR I, BAAK, Semester
+dosen/tendik) skill belum rutin pendampingan mental; UPM Ganjil
+terhadap mahasiswa modul bimbingan 2024/2025
+perlu ditingkatkan akademik; sertifikasi
+“Dosen Peduli”
+6 Kebijakan (dana Sosialisasi Buat portal kebijakan WR II, BAAK, Semester
+sosial, cuti) kurang kebijakan minim online; terbitkan Humas Ganjil
+jelas handbook digital; sesi 2024/2025
+Q&A berkala
+7 Evaluasi program Monitoring hanya Jadwalkan Monev GPM, UPM, Semester
+kesejahteraan belum setahun sekali kesejahteraan tiap WR I Ganjil
+berkelanjutan semester; kumpulkan 2024/2025
+feedback
+multistakeholder; susun
+RTL SMART tiap akhir
+semester
+4. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Keuangan
+No Temuan / Isu Analisis Rencana Tindak Lanjut Penanggung Waktu
+Penyebab Jawab Pelaksanaan
+1 Ketergantungan Sumber • Dorong LPPM/dosen akses WR II, LPPM, Semester
+pendanaan pendanaan lain hibah eksternal (Kemdikbud, BAK, Ganjil
+utamanya dari belum optimal BRIN, donor) • Bangun Inkubator 2024/2025
+mahasiswa diakses kemitraan CSR & industri •
+Dirikan unit bisnis kampus
+(inkubator) • Buka pusat
+pelatihan bersertifikat publik
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+2 Program dengan Evaluasi kinerja • Evaluasi tahunan program • SPI, WR II Semester
+output rendah program belum Realokasi anggaran ke unit Ganjil
+menyedot rutin berdampak tinggi (karir, 2024/2025
+anggaran kemahasiswaan, mutu)
+3 Biaya operasional Layanan belum • Digitalisasi/otomatisasi BAK, UPT SI Semester
+manual tinggi terdigitalisasi proses keuangan & layanan Ganjil
+sepenuhnya biro • Terapkan e-billing, e- 2024/2025
+procurement
+4 Transparansi Laporan tidak • Publikasikan laporan WR II, Semester
+anggaran kurang dipublikasikan keuangan di situs resmi • Humas, SPI Ganjil
+rutin Gelar forum anggaran civitas 2024/2025
+setiap semester
+5 Partisipasi sivitas Mekanisme • Libatkan dosen & mahasiswa BAAK, WR II, Semester
+dalam RKA masukan dalam workshop penyusunan Senat Ganjil
+rendah belum adanya RKA • Sediakan saluran Akademik 2024/2025
+masukan daring untuk usulan
+anggaran
+5. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Sumber Daya Manusia
+No Temuan / Isu Analisis Penyebab Rencana Tindak Lanjut Penanggung Waktu
+Jawab Pelaksanaan
+1 20% dosen Proses pengajuan • Sosialisasi prosedur Biro SDM, Semester
+belum memiliki kepangkatan kurang kepangkatan • Gelar UPM Ganjil
+kepangkatan sosialisasi dan pelatihan penulisan 2024/2025
+pendampingan portofolio kepangkatan •
+Fasilitasi bimbingan
+individu
+2 >40% dosen Program sertifikasi • Prioritaskan dosen non- Biro SDM, Semester
+belum belum terstruktur sertifikasi dalam program LPPM Ganjil
+bersertifikasi sertifikasi • Siapkan 2024/2025
+modul pelatihan terjadwal
+3 Kompetensi Pelatihan TI jarang • Adakan workshop e- UPT Perpus, Semester
+pustakawan diadakan resources & manajemen Biro SDM Ganjil
+perlu digital library • Beri akses 2024/2025
+peningkatan TI kursus online TI
+4 Laboran kurang Pelatihan teknis tidak • Selenggarakan UPT Lab, Biro Semester
+keterampilan rutin pelatihan alat SDM Ganjil
+teknis laboratorium berkala • 2024/2025
+MoU dengan vendor
+peralatan untuk training
+onsite
+5 Tenaga IT butuh Kurikulum • Gelar pelatihan UPT TI, Biro Semester
+update pengembangan SDM cybersecurity & cloud SDM Ganjil
+keamanan & TI belum up-to-date computing • Ikuti 2024/2025
+tech baru sertifikasi TI profesional
+6 Administrasi Manajemen waktu & • Workshop time BAAK, Biro Semester
+kurang efisien proses belum management & lean SDM Ganjil
+distandarisasi admin processes • Buat 2024/2025
+SOP efisiensi alur kerja
+administrasi
+6. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Pelayanan Kepada Mahasiswa
+No Indikator Masalah yang Rekomendasi Penanggung Waktu
+Pelayanan Ditemukan Jawab Pelaksanaan
+1 P7 – Kejelasan Rata-rata skor 3, • Buat dan sebar luaskan Biro Semester
+Informasi Biaya kurangnya brosur digital & fisik mengenai Keuangan, IT Ganjil
+Kuliah dan transparansi biaya kuliah dan skema 2024/2025
+Pembayaran biaya dan sistem pembayaran • Sediakan pusat
+pembayaran informasi keuangan (online &
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+offline) yang responsif •
+Sosialisasi rutin setiap
+semester • Integrasikan
+informasi keuangan di
+SIAKAD
+2 P2 – Kemudahan Rata-rata skor • Optimalkan server & UI/UX BAAK, IT Semester
+dalam Proses 3.1, kurangnya SIAKAD, terutama saat Ganjil
+Pendaftaran kenyamanan pengisian KRS • Buat tutorial 2024/2025
+Mata Kuliah atau pada sistem pengisian KRS melalui video
+Pengisian KRS KRS & infografis • Aktifkan layanan
+bantuan real-time (chat/WA) •
+Dosen wali melakukan
+asistensi langsung terkait
+KRS mahasiswa
+3 P13 – Rata-rata skor • Terapkan sistem BAAK, IT Semester
+Kemudahan 3.1, sistem permohonan surat secara Ganjil
+Pengurusan pengajuan online (paperless) • Tetapkan 2024/2025
+Surat Keterangan dokumen masih standar pelayanan 3 hari
+Mahasiswa dan manual kerja • Tambahkan fitur
+Dokumen pelacakan permohonan surat
+Lainnya • Publikasikan daftar jenis
+surat dan syaratnya di
+website kampus
+7. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Proses Pembelajaran Genap
+No Temuan / Isu Analisis Rencana Tindak Penanggung Waktu
+Penyebab Lanjut Jawab Pelaksanaan
+1 Intensitas Kurang interaksi Kurangi sesi daring, WR I, Kaprodi, Semester
+pembelajaran tatap muka tambahkan pertemuan Dosen Ganjil
+daring masih tinggi luring untuk diskusi 2024/2025
+aktif
+2 Mahasiswa Tidak ada jadwal Jadwalkan sesi diskusi Dosen, Semester
+kesulitan berdiskusi diskusi resmi terstruktur sesuai jam Kaprodi Ganjil
+di luar jam kuliah aktif perkuliahan 2024/2025
+3 Ritme penyampaian Kurang umpan Lakukan survei mini Dosen, GKM Semester
+materi kurang balik langsung tiap modul untuk Ganjil
+sesuai bagi verifikasi ritme materi 2024/2025
+sebagian
+mahasiswa
+4 Materi kurang Bahan ajar belum Sisipkan contoh case- Dosen, Semester
+aplikatif, minim di-update dengan by-case dalam RPS Koordinator Ganjil
+contoh nyata studi kasus dan bahan ajar MK 2024/2025
+5 Buku referensi RPS Kurangnya review Tambah dan perbarui Tim Semester
+kurang mutakhir kurikulum daftar referensi terkini Kurikulum, Ganjil
+dalam RPS Dosen 2024/2025
+6 Integrasi hasil Dosen kurang Minta setiap dosen Kaprodi, Semester
+penelitian dan PkM memanfaatkan memasukkan minimal Dosen Ganjil
+belum optimal hasil tridarma satu hasil 2024/2025
+penelitian/PkM ke
+materi ajar
+7 Mahasiswa tidak Proses penilaian Berikan umpan balik Dosen Semester
+mendapat umpan kurang transparan tertulis untuk setiap Ganjil
+balik detail atas nilai tugas/quiz 2024/2025
+quiz/tugas
+8 Presentasi Dosen belum rutin Wajibkan dosen Dosen Semester
+mahasiswa kurang menguatkan memberikan ringkasan Ganjil
+diperdalam oleh penjelasan dan klarifikasi setelah 2024/2025
+dosen mahasiswa presentasi mahasiswa
+9 Mahasiswa kurang Minim motivasi dan Dosen memberi Dosen Semester
+percaya diri dalam dukungan motivasi personal dan Ganjil
+diskusi kelas pujian konstruktif 2024/2025
+10 Waktu mengajar Pengelolaan jadwal Pastikan durasi Kaprodi, Semester
+tidak selalu sesuai kurang ketat perkuliahan sesuai Dosen Ganjil
+jatah SKS SKS, monitor 2024/2025
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+No Temuan / Isu Analisis Rencana Tindak Penanggung Waktu
+Penyebab Lanjut Jawab Pelaksanaan
+kehadiran dan durasi
+via Sisformik
+11 Akses ke Open Belum ada Tambahkan link OCW UPT SI, Semester
+Course Ware integrasi platform (EdLink, YouTube, Dosen Ganjil
+(OCW) terbatas eksternal dsb.) di RPS dan LMS 2024/2025
+8. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Pendidikan
+No Fokus Area Rekomendasi Penanggung Waktu
+Jawab Pelaksanaan
+1 Peningkatan - Mengadakan pelatihan kewirausahaan Direktur Semester
+Keterlibatan dalam dan inkubasi bisnis untuk mahasiswa. - Kemahasiswaan, Ganjil
+Kewirausahaan Membangun kemitraan dengan industri Kaprodi 2024/2025
+untuk magang dan proyek
+kewirausahaan. - Menyediakan dana
+dan fasilitas untuk startup mahasiswa.
+2 Pengoptimalan - Memperluas penerapan blended WR I, UPT SI, Semester
+Pembelajaran learning di lebih banyak mata kuliah. - Kaprodi Ganjil
+Blended Learning Menyediakan pelatihan teknologi bagi 2024/2025
+dosen. - Meningkatkan penggunaan
+platform e-learning interaktif.
+3 Meningkatkan - Menambah kuota pelatihan sertifikasi WR II, UPT Semester
+Jumlah Tenaga bagi tenaga kependidikan. - Pengembangan Ganjil
+Kependidikan Menyediakan program pengembangan Sumber Daya 2024/2025
+Berkompetensi karir terstruktur. Manusia
+4 Peningkatan - Meningkatkan hibah penelitian dan Direktur Penelitian Semester
+Penelitian dan PkM. - Mendorong kerjasama antar dan PkM, Kaprodi Ganjil
+Pengabdian fakultas untuk riset multidisiplin. - 2024/2025
+Masyarakat (PkM) Memberikan insentif untuk penelitian
+yang menghasilkan inovasi dan
+publikasi internasional.
+5 Meningkatkan - Investasi dalam fasilitas IT (komputer, WR III, UPT SI, Semester
+Kualitas Sarana dan perangkat lunak, dan konektivitas). - Kaprodi Ganjil
+Prasarana Memperbarui peralatan laboratorium 2024/2025
+dan ruang kelas. - Menambah koleksi
+buku dan jurnal ilmiah terbaru.
+6 Penguatan Sistem - Mengembangkan fitur tambahan pada UPT SI, Kaprodi, Semester
+Pengelolaan Sisformik. - Menyediakan pelatihan WR II Ganjil
+Akademik dan lanjutan bagi dosen dan tenaga 2024/2025
+Administrasi administrasi.
+7 Peningkatan - Menyelenggarakan workshop/seminar WR I, Lembaga Semester
+Program nasional/internasional untuk dosen. - Pengembangan Ganjil
+Pengembangan Menambah kuota beasiswa S3 untuk Dosen 2024/2025
+Dosen dan Tenaga dosen. - Membuat kebijakan penelitian
+Kependidikan dan pengembangan karir dosen.
+8 Peningkatan - Memperkenalkan evaluasi peer-to- Kaprodi, UPT SI, Semester
+Kualitas Penilaian peer untuk transparansi penilaian. - Dosen Ganjil
+Akademik Menyediakan pelatihan teknik penilaian 2024/2025
+inovatif. - Meningkatkan penggunaan
+teknologi dalam penilaian (rubrik
+otomatis).
+9 Peningkatan - Meningkatkan program magang Direktur Semester
+Kolaborasi dengan dengan perusahaan internasional. - Kemahasiswaan, Ganjil
+Industri dan Dunia Mengundang profesional industri untuk Kaprodi, UPT SI 2024/2025
+Kerja kuliah tamu dan workshop. - Membuka
+peluang kemitraan dalam penelitian dan
+pengembangan produk.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+9. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Penelitian
+No Temuan / Isu Analisis Penyebab Rencana Tindak Lanjut Penanggung Waktu
+Jawab Pelaksanaan
+1 95% penelitian Kebijakan asisten • Perluas program LPPM, Kaprodi Semester
+melibatkan riset dan kredit asisten riset wajib • Ganjil
+mahasiswa penelitian belum Integrasi kredit penelitian 2024/2025
+(belum 100%) memadai dalam kurikulum
+2 92% publikasi Insentif dan • Sediakan dana insentif LPPM, Semester
+internasional pendampingan publikasi internasional • Perpustakaan Ganjil
+(belum 100%) penulisan kurang Mentoring penulisan oleh 2024/2025
+terstruktur editor/reviewer
+bereputasi
+3 <100% penelitian Roadmap belum • Update roadmap riset LPPM, SPI Semester
+sesuai roadmap diperbarui berkala tiap tahun sesuai tren Ganjil
+LPPM IPTEKS • Libatkan 2024/2025
+pemangku kepentingan
+dalam revisi roadmap
+4 Evaluasi mid- Monitoring hanya • Tambah monitoring LPPM, Semester
+term belum rutin akhir periode mid-term setiap proyek • Pembimbing Ganjil
+(90% evaluasi Laporan kemajuan wajib Riset 2024/2025
+akhir) tiap semester
+5 Transparansi Proposal & • Publikasikan ringkasan LPPM, Biro Semester
+proposal <100% anggaran tidak proposal & anggaran di Hukum Ganjil
+dipublikasikan portal LPPM sebelum 2024/2025
+penuh mulai penelitian
+6 <100% dosen Program pelatihan • Wajibkan pelatihan Biro SDM, Semester
+pelatihan kurang frekuen metodologi mutakhir (AI, LPPM Ganjil
+metodologi big data) tahunan • 2024/2025
+lanjutan Fasilitasi workshop
+eksternal
+7 90% pendanaan Unit kemitraan • Bentuk unit kemitraan WR III, LPPM Semester
+eksternal (belum belum terstruktur industri & riset • Ganjil
+100%) Identifikasi dan ajukan 2024/2025
+peluang hibah eksternal
+8 <100% sarana Audit & • Audit peralatan UPT Lab, BAK Semester
+riset mutakhir pemeliharaan alat laboratorium tiap Ganjil
+belum rutin semester • Anggarkan 2024/2025
+peremajaan alat berkala
+9 SOP Monev SOP lama, • Review & perbarui SOP LPPM, SPI Semester
+penelitian belum indikator berubah Monev penelitian tiap Ganjil
+update tahunan tahun • Sertakan 2024/2025
+indikator baru &
+mekanisme umpan balik
+peneliti
+10. Tabel Identifikasi Temuan dan Rencana Tindak Lanjut – AMI Pengabdian kepada Masyarakat
+No Temuan / Isu Analisis Rencana Tindak Lanjut Penanggung Waktu
+Penyebab Jawab Pelaksanaan
+1 Capaian Belum ada 1. Pemetaan kebutuhan LPPM, Semester
+Teknologi Tepat pemetaan masyarakat spesifik2. Kaprodi, Biro Ganjil
+Guna (TTG) kebutuhan riil & Kolaborasi lintas bidang SDM 2024/2025
+hanya 20% kolaborasi (teknik, sains, pertanian,
+kesehatan)3. Pelatihan &
+insentif inovasi TTG4.
+Alokasi dana khusus TTG
+2 12 dari 13 standar Praktik baik 1. Kumpulkan & sebarkan GPM, UPM, Semester
+PkM telah belum best practice PkM2. UPT SI Ganjil
+100%—perlu terdokumentasi Tetapkan monitoring 2024/2025
+dipertahankan sistemik berkala (semesteran)3.
+Dorong publikasi hasil PkM
+sebagai modul dan bahan
+ajar
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+No Temuan / Isu Analisis Rencana Tindak Lanjut Penanggung Waktu
+Penyebab Jawab Pelaksanaan
+3 Data PkM belum Tidak ada modul Integrasi data PkM ke UPT SI, LPPM Semester
+terintegrasi dalam Sisformik untuk Sisformik: pelacakan Ganjil
+sistem digital PkM capaian, laporan otomatis, 2024/2025
+kampus notifikasi progres
+4 Kemitraan Jaringan mitra Perluas kemitraan dengan LPPM, WR III Semester
+eksternal PkM terbatas desa & institusi baru: Ganjil
+kurang luas lakukan roadshow, jalin 2024/2025
+MoU dengan pemerintah
+daerah dan LSM
+5 Pedoman & Fokus terlalu Revisi pedoman PkM: GPM, SPI Semester
+indikator kinerja kuantitatif tambahkan indikator Ganjil
+PkM kurang kualitas (dampak sosial, 2024/2025
+menekankan sustainability) Sosialisasi
+kualitas pedoman baru
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+REKOMENDASI
+20 SEPTEMBER 2024
+RESULTS NOTE
+PELAKSANAAN RENCANA TINDAK LANJUT
+A. Perencanaan & Koordinasi
+• Bentuk Tim Pelaksana RTL (Rencana Tindak Lanjut) di tiap unit yang bertanggung jawab,
+dengan jobdesk dan timeline terdefinisi.
+• Gunakan tools manajemen proyek seperti Trello, Notion, atau Microsoft Planner untuk
+memantau progres secara terstruktur.
+• Lakukan kick-off meeting lintas unit untuk menyamakan persepsi, menjabarkan tugas, serta
+menghindari silo kerja.
+B. Monitoring & Evaluasi Berkala
+• Tetapkan indikator kinerja utama (KPI) untuk setiap RTL (misalnya: jumlah MoU baru, jumlah
+pelatihan yang dilakukan, tingkat partisipasi mahasiswa).
+• Lakukan review bulanan/kuartalan untuk setiap bidang (MBKM, kerjasama, keuangan,
+kesejahteraan, dll).
+• Gunakan dashboard digital (misal Google Data Studio atau platform internal) untuk
+pelaporan real-time antar pimpinan dan pelaksana.
+C. Sosialisasi & Dokumentasi
+• Publikasikan setiap progres dan kebijakan baru melalui media internal kampus: website,
+email blast, grup WA/Telegram resmi, dan TV kampus.
+• Dokumentasikan setiap langkah (MoM, foto kegiatan, e-modul, video tutorial, laporan
+pelaksanaan) sebagai bukti keterlaksanaan AMI.
+D. Pendekatan Kolaboratif
+• Libatkan mahasiswa, alumni, dan mitra eksternal sebagai mitra dalam implementasi (bukan
+hanya objek).
+• Adakan forum refleksi partisipatif setelah setiap pelaksanaan RTL untuk memperbaiki
+langkah selanjutnya.
+2. Tips Spesifik Berdasarkan Area AMI
+MBKM
+• Gunakan platform digital MBKM untuk update kegiatan, evaluasi, dan progres mitra secara
+real-time.
+• Buat peta mitra MBKM interaktif untuk transparansi dan promosi eksternal.
+• Integrasikan kegiatan MBKM ke SKPI dan transkrip akademik.
+Kerjasama
+• Gunakan template MoU/LoI baku yang fleksibel untuk setiap mitra.
+• Siapkan PIC dari masing-masing lembaga mitra dan grup komunikasi bersama (WA/Slack).
+• Gunakan Google Calendar publik bersama untuk memantau jadwal koordinasi rutin.
+Kesejahteraan
+• Sediakan QR code poster di setiap titik layanan kampus yang mengarahkan ke SOP, formulir
+keluhan, dan video tutorial.
+• Aktifkan ticketing system dengan SLA seperti Freshdesk atau HelpNinja.
+• Adakan kampanye kesehatan mental dan beasiswa secara digital dan tatap muka.
+Keuangan
+• Gunakan format laporan keuangan yang mudah dipahami mahasiswa.
+• Buat fitur simulasi anggaran untuk dosen/mahasiswa dalam pengajuan usulan kegiatan.
+• Terapkan sistem e-procurement terintegrasi untuk efisiensi dan audit.
+Sumber Daya Manusia
+• Bangun sistem tracking pengembangan SDM berbasis dashboard (misal dengan Google
+Sheet atau Moodle).
+• Berikan reward digital badge atau sertifikat kepada peserta pelatihan yang aktif.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+• Jadwalkan pendampingan mingguan atau konsultasi portofolio untuk dosen pemula.
+Pelayanan Mahasiswa
+• Gunakan chatbot layanan 24/7 untuk informasi keuangan, KRS, dan surat menyurat.
+• Pasang notifikasi pengingat di SIAKAD untuk pengisian KRS atau pelunasan biaya.
+• Terapkan fitur tracking dokumen mahasiswa (seperti resi) yang bisa dipantau mandiri.
+3. Saran Tambahan
+• Lakukan pelaporan progres ke pimpinan setiap triwulan secara visual (dashboard atau
+infografis).
+• Kembangkan sistem reward dan insentif internal bagi unit atau individu yang aktif
+menjalankan RTL.
+• Susun laporan pelaksanaan RTL akhir semester dalam format portofolio mutu sebagai dasar
+evaluasi berkelanjutan.
+UNIVERSITAS TULUNGAGUNG PPM UNITA

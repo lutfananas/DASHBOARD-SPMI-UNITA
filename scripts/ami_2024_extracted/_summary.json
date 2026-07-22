@@ -1,0 +1,102 @@
+{
+  "KERJASAMA.pdf": {
+    "pages": 8,
+    "chars": 13030,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/KERJASAMA.txt"
+  },
+  "KESEJAHTERAAN.pdf": {
+    "pages": 7,
+    "chars": 14113,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/KESEJAHTERAAN.txt"
+  },
+  "KEUANGAN.pdf": {
+    "pages": 7,
+    "chars": 11089,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/KEUANGAN.txt"
+  },
+  "MBKM.pdf": {
+    "pages": 9,
+    "chars": 18608,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/MBKM.txt"
+  },
+  "NOTULENSI_RAPAT_RTL_1.pdf": {
+    "pages": 4,
+    "chars": 2626,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/NOTULENSI_RAPAT_RTL_1.txt"
+  },
+  "NOTULENSI_RAPAT_RTL_2.pdf": {
+    "pages": 4,
+    "chars": 2525,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/NOTULENSI_RAPAT_RTL_2.txt"
+  },
+  "PELAYANAN_KEPADA_MAHASISWA_GANJIL_2031_UNITA.pdf": {
+    "pages": 8,
+    "chars": 14729,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PELAYANAN_KEPADA_MAHASISWA_GANJIL_2031_UNITA.txt"
+  },
+  "PELAYANAN_KEPADA_MAHASISWA_GENAP_2032_UNITA.pdf": {
+    "pages": 8,
+    "chars": 11745,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PELAYANAN_KEPADA_MAHASISWA_GENAP_2032_UNITA.txt"
+  },
+  "PENDIDIKAN.pdf": {
+    "pages": 13,
+    "chars": 19325,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PENDIDIKAN.txt"
+  },
+  "PKM.pdf": {
+    "pages": 8,
+    "chars": 13458,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PKM.txt"
+  },
+  "PROSES_PEMBELAJARAN_GASAL.pdf": {
+    "pages": 15,
+    "chars": 35755,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PROSES_PEMBELAJARAN_GASAL.txt"
+  },
+  "PROSES_PEMBELAJARAN_UNITA_20232.pdf": {
+    "pages": 15,
+    "chars": 35738,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/PROSES_PEMBELAJARAN_UNITA_20232.txt"
+  },
+  "RENCANA_TINDAK_LANJUT_GANJIL.pdf": {
+    "pages": 10,
+    "chars": 16912,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/RENCANA_TINDAK_LANJUT_GANJIL.txt"
+  },
+  "RENCANA_TINDAK_LANJUT_GENAP.pdf": {
+    "pages": 13,
+    "chars": 27273,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/RENCANA_TINDAK_LANJUT_GENAP.txt"
+  },
+  "SARANA_DAN_PRASARANA.pdf": {
+    "pages": 9,
+    "chars": 12421,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/SARANA_DAN_PRASARANA.txt"
+  },
+  "SDM.pdf": {
+    "pages": 7,
+    "chars": 11791,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/SDM.txt"
+  },
+  "TATA_PAMONG_DAN_TATA_KELOLA.pdf": {
+    "pages": 8,
+    "chars": 14073,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/TATA_PAMONG_DAN_TATA_KELOLA.txt"
+  },
+  "mahasiswa.pdf": {
+    "pages": 9,
+    "chars": 14662,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/mahasiswa.txt"
+  },
+  "penelitian.pdf": {
+    "pages": 9,
+    "chars": 14829,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/penelitian.txt"
+  },
+  "vmts.pdf": {
+    "pages": 8,
+    "chars": 11821,
+    "out": "/home/z/my-project/scripts/ami_2024_extracted/vmts.txt"
+  }
+}

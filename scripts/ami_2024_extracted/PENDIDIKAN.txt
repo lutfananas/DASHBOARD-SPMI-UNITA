@@ -1,0 +1,454 @@
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+LEMBAR PENGESAHAN
+8 JULI 2024
+RESULTS NOTE
+PUSAT PENJAMINAN MUTU
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Kode Dokumen : SPMI/PPM/MONEV/PEND/2023
+UNIVERSITAS
+TULUNGAGUNG
+Tanggal : 8 JULI 2024
+Revisi : -
+PENDIDIKAN
+Halaman : 8
+MONITORING DAN EVALUASI
+PENDIDIKAN
+Penanggungjawab
+Proses
+Tanda
+Nama Jabatan
+Tangan
+Ka. Bag.
+Perumus Dra. Dwi Iriani Margayaningsih, M.AP
+Pengembangan SPMI
+Kabag. Audit dan
+Pemeriksa Eni Minarni, SE., M.Ak.
+Monev-in
+Ketua
+Persetujuan Dr. Anang Sugeng Cahoyono, S.AP., S.H., M.Si.
+Pusat Penjaminan Mutu
+Penetapan Dr. Muharsono., M.Si. Rektor
+Pengendalian Dr. Ir. Bambang Tri Kurnianto, Dipl.Inv., M.MA Wakil Rektor I
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+PENDIDIKAN
+8 JULI 2024
+RESULTS NOTE
+RASIONAL
+Pelaksanaan Audit Mutu Internal (AMI) bidang Pendidikan merupakan bagian integral dari
+implementasi Sistem Penjaminan Mutu Internal (SPMI) sebagaimana diamanatkan dalam
+Permendikbudristek No. 53 Tahun 2023. Regulasi ini menegaskan pentingnya pelaksanaan siklus
+mutu PPEPP (Penetapan, Pelaksanaan, Evaluasi, Pengendalian, dan Peningkatan) terhadap seluruh
+Standar Pendidikan Tinggi, khususnya dalam proses pembelajaran yang menjadi inti dari tridarma
+perguruan tinggi. Melalui AMI Pendidikan, Universitas Tulungagung dapat melakukan verifikasi
+sistematis terhadap keterlaksanaan standar pendidikan yang meliputi: relevansi kurikulum terhadap
+capaian pembelajaran, efektivitas proses pembelajaran dan interaksi dosen-mahasiswa, implementasi
+pembelajaran berbasis OBE (Outcome-Based Education), serta kecukupan dan keberfungsian fasilitas
+pembelajaran. Audit ini juga akan mencakup evaluasi terhadap beban belajar, mekanisme tugas akhir,
+dan sistem asesmen sebagaimana diatur pada Pasal 27–30 dalam regulasi yang sama.
+Hasil audit ini akan menjadi landasan strategis dalam penyusunan kebijakan akademik, pembaruan
+kurikulum, peningkatan kapasitas dosen, dan pengembangan fasilitas pembelajaran, sehingga
+mendukung pencapaian visi, misi, dan sasaran mutu Universitas Tulungagung secara berkelanjutan
+dan adaptif terhadap tuntutan zaman.
+ILUSTRASI PENDIDIKAN DI UNITA
+DASAR HUKUM
+Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi;
+Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 3 Tahun 2020
+tentang Standar Nasional Pendidikan Tinggi;
+Permendikbud 53 tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi;
+SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring &
+Evaluasi Internal (Monev-In) Tri Dharma Perguruan Tinggi dan Unit Kerja Universitas
+Tulungagung
+SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+Penjaminan Mutu Universitas Tulungagung
+Renstra Universitas Tulungagung Tahun 2023 – 2027
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+PENGUMPULAN DATA
+8 JULI 2024
+RESULTS NOTE
+FORMULIR MUTU AMI
+Pengumpulan data Audit Mutu Internal (AMI) untuk seluruh Standar Pendidikan (A–H) di Universitas
+Tulungagung dilaksanakan dengan pendekatan terintegrasi. Untuk Standar Kompetensi Lulusan,
+digunakan kuesioner alumni dan mitra industri (skala 1–4) untuk mengukur penyerapan kerja,
+kewirausahaan, IPK, lama studi, dan masa tunggu kerja. Pada Standar Isi, tim melakukan pemeriksaan
+dokumen kurikulum, silabus, dan matriks kompetensi melalui checklist serta wawancara singkat
+dengan kepala program studi dan dosen mengenai tinjauan kurikulum dan mekanisme penunjukan
+pembimbing. Standar Proses dievaluasi melalui observasi langsung perkuliahan dan praktikum serta
+rekap absensi dosen dan mahasiswa dari sistem akademik. Untuk Standar Penilaian Hasil Pendidikan,
+dilakukan analisis rekaman penilaian di Sisformik dan audit dokumen feedback dosen, disertai survei
+dosen tentang prosedur dan teknik penilaian (skala 1–4). Standar Dosen & Tenaga Kependidikan dinilai
+dengan verifikasi kualifikasi dan sertifikat melalui dokumen HR serta wawancara HR dan dosen
+mengenai beban kerja (BKD) dan pelatihan. Standar Sarana & Prasarana diukur melalui inspeksi
+lapangan ruang kelas, laboratorium, dan perpustakaan serta survei kepuasan sivitas akademika
+terhadap fasilitas (skala 1–4). Pada Standar Pengelolaan, tim mengaudit dokumen Rencana
+Pembelajaran Semester (RPS), laporan evaluasi pembelajaran, dan input nilai online di Sisformik,
+sekaligus mewawancarai pihak program studi tentang pelaksanaan siklus PPEPP. Terakhir, Standar
+Pembiayaan dianalisis melalui telaah RKAT dan laporan realisasi anggaran serta wawancara dengan
+bendahara dan dosen penerima dana penelitian dan PkM. Semua instrumen—kuesioner, checklist,
+lembar observasi, dan panduan wawancara—dijalankan secara online dan luring dengan jaminan
+anonimitas untuk menjaga objektivitas. Data yang terkumpul kemudian diverifikasi, divalidasi, dan
+dianalisis secara deskriptif untuk setiap standar, lalu divisualisasikan sebagai dasar rekomendasi
+perbaikan mutu pendidikan secara menyeluruh.
+ILUSTRASI PENGUMPULAN DATA
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+PELAKSANAAN AMI
+4 MARET 2024
+RESULTS NOTE
+Pengumpulan dan pengolahan data untuk Monitoring dan Evaluasi (Monev) bidang Pendidikan
+Universitas Tulungagung dilaksanakan pada tanggal 4 Maret 2024. Pada periode ini, seluruh program
+studi dan unit pendukung akademik dievaluasi oleh Tim Monev untuk menilai pemenuhan Standar
+Pendidikan (A sampai H), termasuk konsistensi kurikulum, efektivitas proses pembelajaran, kualitas
+penilaian, kualifikasi dosen dan tenaga kependidikan, ketersediaan sarana-prasarana, mekanisme
+pengelolaan, serta kecukupan pembiayaan. Evaluasi mencakup verifikasi dokumen RPS, silabus,
+laporan evaluasi semester, data beban belajar dan penilaian di Sisformik, serta laporan realisasi
+anggaran dan dokumen keuangan program studi.
+Kegiatan ini dikoordinasikan oleh Unit Penjaminan Mutu Universitas Tulungagung, yang memfasilitasi
+pengumpulan, verifikasi, dan validasi dokumen mulai dari kurikulum, rencana pembelajaran, laporan
+kinerja dosen, hingga laporan keuangan—sebagai bukti penerapan standar mutu pendidikan.
+Pelaksanaan Monev mengikuti siklus Sistem Penjaminan Mutu Internal (PPEPP) dan telah disetujui
+oleh Anang Sugeng Cahoyono, S.AP., S.H., M.Si., selaku Kepala Pusat Penjaminan Mutu. Hasil Monev
+ini menjadi dasar untuk memastikan bahwa penyelenggaraan pendidikan di Universitas Tulungagung
+telah terlaksana secara efektif, transparan, dan berkelanjutan, serta mendukung peningkatan mutu
+akademik dan kesiapan lulusan menghadapi tantangan global.
+PENGOLAHAN DATA
+Setelah seluruh data pelaksanaan Standar Pendidikan Universitas Tulungagung tahun anggaran
+2023/2024 terkumpul melalui laporan kegiatan akademik, dokumen kurikulum, hasil penilaian, serta
+dokumen pendukung lainnya Tim Monev melakukan pengolahan data secara sistematis. Pertama, data
+diverifikasi dan divalidasi untuk memastikan kesesuaian antara penerapan Standar Pendidikan (A–H)
+dengan praktik yang dijalankan di setiap program studi dan unit pendukung pendidikan, termasuk
+pemeriksaan dokumen kurikulum, rencana pembelajaran semester, laporan hasil penilaian, dan
+catatan aktivitas yang mencerminkan kualitas proses pembelajaran.
+Selanjutnya, data diklasifikasikan menurut kaitannya dengan masing-masing standar pendidikan dan
+dikelompokkan per program studi atau unit akademik untuk memudahkan analisis. Analisis difokuskan
+pada identifikasi kesenjangan antara standar pendidikan yang telah ditetapkan dan realisasinya di
+lapangan, sehingga efektivitas dan konsistensi implementasi standar pendidikan dapat dinilai. Dengan
+menggunakan pivot table, grafik, dan visualisasi lainnya, Tim Monev menyoroti tingkat pencapaian
+standar pendidikan, mengungkap area yang perlu perbaikan, serta mengevaluasi pencapaian target-
+target yang telah ditetapkan.
+Temuan dari proses ini kemudian diolah menjadi laporan evaluasi yang deskriptif dan strategis, yang
+disampaikan kepada pimpinan universitas. Laporan ini menjadi dasar bagi perbaikan kebijakan,
+penguatan pengelolaan pendidikan, serta peningkatan kualitas pendidikan Universitas Tulungagung
+secara berkelanjutan.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+DATA OVERVIEW
+MAHASISWA
+PERIODE 2023/2024
+Tabel Formulir Evaluasi Tata Pamong dan Tata Kelola (500 Sample)
+Ringkasan Rata-rata Nilai per Pertanyaan:
+No Aspek Indikator Target Standar Hasil Simulasi Status
+A Standar Mahasiswa ≥ 70% 80% Mencapai (> standar)
+Kompetensi terserap dalam
+Lulusan dunia kerja
+Mahasiswa ≥ 10% 15% Mencapai (> standar)
+menjadi
+usahawan
+Rata-rata IPK ≥ 3,00 (ditetapkan) 3,42 Mencapai (> standar)
+lulusan
+Rata-rata < 4,5 tahun 4,0 tahun Mencapai (> standar)
+masa studi <
+4,5 tahun
+Rata-rata < 6 bulan 4 bulan Mencapai (> standar)
+masa tunggu
+lulusan kerja <
+6 bulan
+B Standar Isi Dokumen 1 dokumen Tersedia 1+ Mencapai
+kompetensi minimal
+lulusan
+lengkap
+Matriks/peta 1 dokumen Tersedia Mencapai
+kurikulum minimal
+Silabus 1 dokumen 100% Mencapai
+mutakhir minimal
+Tinjauan ≥ 1/tahun 2 kali/tahun Mencapai (> standar)
+kurikulum
+(min. 1
+kali/tahun)
+Rasio ≤ 20 18 Mencapai
+mahasiswa mahasiswa/dosen
+per dosen
+pembimbing
+akademik
+Rasio ≤ 10 12 Mencapai (> standar)
+mahasiswa mahasiswa/dosen/
+per dosen semester
+pembimbing
+tugas akhir
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+No Aspek Indikator Target Standar Hasil Simulasi Status
+Pertemuan ≥ 3 kali/semester 4 kali Mencapai (> standar)
+bimbingan
+akademik per
+semester
+Pertemuan ≥ 10 kali/semester 12 kali Mencapai (> standar)
+bimbingan
+tugas akhir per
+semester
+C Standar Bahan ajar & 100% mata kuliah 100% Mencapai
+Proses referensi
+mutakhir
+RPS ditinjau ≥ 1/tahun 2x/tahun Mencapai (> standar)
+berkala (min.
+1x/tahun)
+Jumlah ≤ 40 orang 35 Mencapai
+mahasiswa
+per kelas
+Mata kuliah ≥ 20% 25% Mencapai (> standar)
+blended (≥
+20%)
+Monitoring 1x/semester 2x/semester Mencapai (> standar)
+kehadiran &
+kesesuaian
+materi
+Penjaminan 1x/semester 1x/semester Mencapai
+mutu soal
+ujian
+Pertemuan 100% 100% Mencapai
+kuliah &
+praktikum
+(16x/semester)
+D Standar Dosen 100% 100% Mencapai
+Penilaian menggunakan
+Hasil berbagai
+Pendidikan teknik
+penilaian
+Dosen 100% 100% Mencapai
+memberi
+umpan balik &
+kesempatan
+tanya
+Prosedur 100% 100% Mencapai
+penilaian
+lengkap
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+No Aspek Indikator Target Standar Hasil Simulasi Status
+Input nilai ≤ 10 100% 100% Mencapai
+hari kerja
+pasca ujian
+E Standar Dosen 100% 100% Mencapai
+Dosen & berkualifikasi
+Tendik S2/S3 sesuai
+bidang
+BKD ≥ 40 100% 100% Mencapai
+jam/minggu /
+12–16 SKS
+Dosen ≥ 75% 80% Mencapai (> standar)
+bersertifikat
+keahlian
+sesuai prodi
+Tenaga ≥ 75% 80% Mencapai (> standar)
+kependidikan
+S1 sesuai
+tugas
+Tenaga ≥ 50% 60% Mencapai (> standar)
+kependidikan
+bersertifikat
+keahlian
+F Standar Ruang kelas ≥ 100% 100% Mencapai
+Sarana & 42 m²,
+Prasarana ventilasi &
+penerangan
+baik, rasio
+1:30
+Fasilitas 100% 100% Mencapai
+interaktif
+sesuai
+kebutuhan
+Buku teks ≥ 50 judul 55 judul Mencapai (> standar)
+minimal 50
+judul
+G Standar Dokumen Tersedia Tersedia Mencapai
+Pengelolaan RPS, laporan
+evaluasi, input
+nilai online
+(Sisformik)
+Wawancara Dilakukan Dilakukan Mencapai
+Prodi tentang
+siklus PPEPP
+H Standar Dokumen Tersedia Tersedia Mencapai
+Pembiayaan RKAT,
+realisasi
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+No Aspek Indikator Target Standar Hasil Simulasi Status
+anggaran,
+alokasi dana
+riset/PkM
+Wawancara Dilakukan Dilakukan Mencapai
+bendahara &
+dosen
+penerima dana
+Berdasarkan grafik hasil di atas, dapat ditarik beberapa kesimpulan kunci terkait pencapaian
+mutu pendidikan di Universitas Tulungagung:
+1. Standar Kompetensi Lulusan (A)
+o Tingkat penyerapan kerja (80 %) dan kewirausahaan (15 %) jauh di atas
+target minimal masing-masing 70 % dan 10 %, menandakan lulusan cepat
+terserap di pasar kerja dan ada dorongan wirausaha yang baik.
+o Rata-rata IPK 3,42 melebihi batas minimal 3,00, menunjukkan kualitas
+akademik lulusan sangat memuaskan.
+o Rata-rata masa studi (4,0 tahun) dan masa tunggu kerja (4 bulan) juga
+berada di bawah ambang maksimal, mengindikasikan efisiensi penyelesaian
+studi dan kelancaran transisi ke dunia kerja.
+2. Standar Isi (B)
+o Seluruh dokumen kurikulum, silabus, dan peta kompetensi tersedia dan rutin
+diperbarui (100 % ketersediaan, 2 kali tinjauan per tahun).
+o Rasio bimbingan akademik (18 mhs/dosen) dan bimbingan skripsi (12
+mhs/dosen) sudah di bawah batas maksimum, serta frekuensi pertemuan
+bimbingan melebihi target—menjamin dukungan dosen terhadap mahasiswa.
+3. Standar Proses (C)
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+o 100 % mata kuliah dilengkapi bahan ajar mutakhir dan RPS ditinjau minimal
+dua kali setahun.
+o Rata-rata 35 mahasiswa per kelas (di bawah batas 40), dan 25 % mata kuliah
+sudah blended learning (mengungguli target 20 %).
+o Monitoring kehadiran dan penjaminan mutu soal dilakukan dua kali setiap
+semester, melampaui frekuensi minimal sekali.
+4. Standar Penilaian (D)
+o Semua dosen (100 %) menerapkan berbagai teknik penilaian, memberikan
+umpan balik, mengikuti prosedur lengkap, dan memasukkan nilai tepat
+waktu—menunjukkan konsistensi dan transparansi penilaian.
+5. Standar Dosen & Tenaga Kependidikan (E)
+o 100 % dosen berkualifikasi S2/S3 dengan beban kerja terpenuhi, 80 % dosen
+bersertifikat, dan tenaga kependidikan juga memenuhi kualifikasi, sertifikasi,
+dan pelatihan sesuai target.
+o Ini mengindikasikan ketersediaan sumber daya manusia yang kompeten dan
+terus dikembangkan.
+6. Standar Sarana & Prasarana (F)
+o Fasilitas ruang kelas, laboratorium, dan jumlah buku teks (55 judul) melebihi
+standar, menciptakan lingkungan belajar yang kondusif.
+7. Standar Pengelolaan (G)
+o Dokumen RPS, laporan evaluasi, dan input nilai di Sisformik 100 % tersedia
+dan diverifikasi. Wawancara Prodi menunjukkan siklus PPEPP berjalan
+sesuai rencana.
+8. Standar Pembiayaan (H)
+o RKAT, realisasi anggaran, alokasi dana riset/PkM, serta wawancara
+bendahara dan dosen penerima dana mengonfirmasi bahwa pembiayaan
+tridharma terjamin dan terealisasi sesuai kebutuhan.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+REKOMENDASI
+4 MARET 2024
+RESULTS NOTE
+Berdasarkan hasil evaluasi dan interpretasi data yang telah dianalisis, berikut adalah rekomendasi
+untuk peningkatan mutu pendidikan di Universitas Tulungagung:
+1. Peningkatan Keterlibatan dalam Kewirausahaan
+Meskipun angka kewirausahaan (15%) sudah memenuhi standar (10%), masih ada peluang
+untuk meningkatkan keterlibatan mahasiswa dalam dunia usaha.
+Rekomendasi:
+• Mengadakan lebih banyak pelatihan kewirausahaan dan inkubasi bisnis bagi mahasiswa.
+• Membentuk kemitraan dengan sektor industri untuk memberikan peluang magang dan proyek
+kewirausahaan.
+• Menyediakan lebih banyak dana dan fasilitas untuk startup mahasiswa.
+2. Pengoptimalan Pembelajaran Blended Learning
+Pembelajaran berbasis teknologi atau blended learning sudah mencapai 25%, melebihi target
+20%. Namun, masih ada ruang untuk memperluas penerapan teknologi dalam proses
+pembelajaran.
+Rekomendasi:
+• Memperluas penerapan blended learning di lebih banyak mata kuliah, terutama dalam disiplin
+ilmu yang memiliki potensi besar untuk pembelajaran daring.
+• Menyediakan pelatihan teknologi bagi dosen untuk meningkatkan kualitas pembelajaran
+daring dan hybrid.
+• Meningkatkan penggunaan platform e-learning yang interaktif.
+3. Meningkatkan Jumlah Tenaga Kependidikan Berkompetensi
+Sebagian besar tenaga kependidikan sudah memiliki kualifikasi S1 dan mengikuti pelatihan,
+tetapi hanya 50% tenaga kependidikan yang memiliki sertifikat keahlian.
+Rekomendasi:
+• Menambah kuota pelatihan bagi tenaga kependidikan agar lebih banyak yang memiliki
+sertifikasi kompetensi.
+• Menyediakan program pengembangan karir yang lebih terstruktur bagi tenaga kependidikan.
+4. Peningkatan Penelitian dan Pengabdian Masyarakat (PkM)
+Walaupun pengelolaan dana penelitian dan PkM sudah baik, akan lebih baik jika melibatkan lebih
+banyak dosen dalam penelitian dan pengabdian masyarakat.
+Rekomendasi:
+• Meningkatkan jumlah hibah penelitian dan pengabdian masyarakat untuk dosen dan
+mahasiswa.
+• Mendorong kerjasama antar fakultas dan lembaga riset untuk mendukung pengembangan
+riset multidisiplin.
+• Memberikan insentif tambahan untuk penelitian yang menghasilkan inovasi atau publikasi
+internasional.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+5. Meningkatkan Kualitas Sarana dan Prasarana
+Walaupun fasilitas ruang kelas dan laboratorium sudah memenuhi standar, untuk mendukung
+pembelajaran berbasis teknologi dan riset, lebih banyak alat dan fasilitas yang dibutuhkan.
+Rekomendasi:
+• Meningkatkan investasi dalam fasilitas IT, seperti komputer, perangkat lunak pendidikan, dan
+konektivitas internet.
+• Memperbarui peralatan laboratorium yang sudah usang, serta memastikan ruang kelas lebih
+modern dan nyaman.
+• Menambah koleksi buku teks terbaru dan jurnal penelitian sesuai dengan perkembangan ilmu
+pengetahuan.
+6. Penguatan Sistem Pengelolaan Akademik dan Administrati
+Sistem informasi akademik (Sisformik) dan pengelolaan nilai sudah berjalan baik, namun masih
+ada ruang untuk meningkatkan efisiensi dan kenyamanan pengguna.
+Rekomendasi:
+• Mengembangkan fitur tambahan pada Sisformik untuk mempermudah mahasiswa dan dosen
+dalam mengakses materi, pengumuman, dan evaluasi pembelajaran.
+• Menyediakan pelatihan lanjutan bagi dosen dan tenaga administrasi untuk memaksimalkan
+pemanfaatan sistem informasi.
+7. Peningkatan Program Pengembangan Dosen dan Tenaga Kependidikan
+Program pengembangan dosen sudah baik, tetapi pengembangan lebih lanjut perlu diperkuat
+untuk memastikan dosen dan tenaga kependidikan selalu terbarui dengan ilmu pengetahuan
+terbaru.
+Rekomendasi:
+• Menyelenggarakan lebih banyak workshop atau seminar nasional/internasional bagi dosen
+untuk memperluas wawasan dan pengetahuan mereka.
+• Menambah kuota beasiswa untuk dosen yang ingin melanjutkan pendidikan ke jenjang yang
+lebih tinggi, terutama S3.
+• Membuat kebijakan yang lebih fleksibel dalam hal penelitian dan pengembangan karir bagi
+dosen agar mereka dapat fokus pada penelitian berkualitas.
+8. Peningkatan Kualitas Penilaian Akademik
+Sistem penilaian sudah mengikuti prosedur yang baik, namun terus meningkatkan kualitas umpan
+balik untuk mendukung pembelajaran.
+Rekomendasi:
+• Memperkenalkan evaluasi peer-to-peer antara mahasiswa dan dosen untuk meningkatkan
+transparansi penilaian.
+• Menyediakan pelatihan bagi dosen tentang teknik-teknik penilaian yang inovatif dan berbasis
+pada peningkatan keterampilan kritis dan kreatif mahasiswa.
+• Meningkatkan penggunaan teknologi untuk penilaian, seperti penggunaan rubrik otomatis
+untuk tugas dan ujian daring.
+9. Peningkatan Kolaborasi dengan Industri dan Dunia Kerja
+Meskipun tingkat penyerapan kerja lulusan sudah tinggi, memperkuat hubungan dengan industri
+masih perlu dilakukan untuk mendukung pengembangan keahlian mahasiswa yang lebih relevan.
+Rekomendasi:
+• Meningkatkan program magang yang melibatkan lebih banyak perusahaan dan organisasi
+internasional.
+UNIVERSITAS TULUNGAGUNG PPM UNITA
+
+=== PAGE BREAK ===
+
+• Mengundang profesional industri untuk memberikan kuliah tamu dan workshop bagi
+mahasiswa.
+• Membuka lebih banyak peluang untuk program kemitraan dengan perusahaan dalam
+penelitian dan pengembangan produk.
+UNIVERSITAS TULUNGAGUNG PPM UNITA

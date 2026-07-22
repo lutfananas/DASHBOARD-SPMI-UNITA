@@ -81,6 +81,8 @@ import {
   IKU_LIST,
   DOKUMEN_MUTU,
   TAHUN_LIST,
+  REGULASI_PER_TAHUN,
+  DOKUMEN_AMI_PER_TAHUN,
   getStandarByKategori,
   getRataRataSkorAMI,
   getRataRataSkorByKategori,
@@ -90,6 +92,7 @@ import {
   type KategoriStandar,
   type StandarSPMI,
 } from "@/lib/spmi-data";
+import { DOKUMEN_AMI_2024_DETAIL } from "@/lib/ami-2024-detail-data";
 import {
   ArkhamCard,
   KpiCard,
@@ -216,8 +219,12 @@ export default function DashboardSPMI() {
                   SPMI UNITA
                 </h1>
                 <p className="text-xs text-muted-foreground font-mono tracking-wider uppercase">
-                  Sistem Penjaminan Mutu Internal • Universitas Tulungagung • Permen 39/2025
+                  Sistem Penjaminan Mutu Internal • Universitas Tulungagung • Multi-Tahun
                 </p>
+                <div className="flex flex-wrap items-center gap-1.5 mt-1.5">
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-amber-500/10 border border-amber-500/30 text-amber-300">2024: Permendikbudristek 53/2023</span>
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 border border-emerald-500/30 text-emerald-300">2025: Permen 39/2025</span>
+                </div>
               </div>
             </div>
 
@@ -277,8 +284,32 @@ export default function DashboardSPMI() {
                   Data AMI Tahun {selectedYear} Belum Tersedia
                 </p>
                 <p className="text-xs text-muted-foreground mt-0.5">
-                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Pilih tahun 2025 untuk melihat data AMI, atau unggah dokumen hasil AMI untuk tahun ini.
+                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Pilih tahun 2024 atau 2025 untuk melihat data AMI. Tahun 2024 menggunakan Permendikbudristek 53/2023, tahun 2025 menggunakan Permen 39/2025.
                 </p>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Regulation Info Banner for selected year */}
+        {hasData && REGULASI_PER_TAHUN[selectedYear] && (
+          <div className="mb-6 p-3 rounded-lg border border-sky-500/20 bg-sky-500/5">
+            <div className="flex flex-wrap items-center gap-4">
+              <div className="flex items-center gap-2">
+                <ShieldCheck className="w-4 h-4 text-sky-300" />
+                <span className="text-xs font-mono uppercase tracking-wider text-sky-300">Regulasi:</span>
+                <span className="text-sm font-semibold text-foreground">{REGULASI_PER_TAHUN[selectedYear].permen}</span>
+                <span className="text-xs text-muted-foreground">— {REGULASI_PER_TAHUN[selectedYear].judulPermen}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <Calendar className="w-4 h-4 text-emerald-300" />
+                <span className="text-xs font-mono uppercase tracking-wider text-emerald-300">Audit:</span>
+                <span className="text-xs text-foreground">{REGULASI_PER_TAHUN[selectedYear].tanggalAudit}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <Database className="w-4 h-4 text-amber-300" />
+                <span className="text-xs font-mono uppercase tracking-wider text-amber-300">Dokumen:</span>
+                <span className="text-xs text-foreground">{REGULASI_PER_TAHUN[selectedYear].totalDokumenAMI} AMI</span>
               </div>
             </div>
           </div>
@@ -779,7 +810,7 @@ export default function DashboardSPMI() {
             </ArkhamCard>
 
             {/* Detail AMI per Dokumen - di bawah tabel 33 Standar */}
-            <DetailAMISection />
+            <DetailAMISection tahun={selectedYear} />
           </TabsContent>
 
           {/* Tab: 8 IKU */}
@@ -948,8 +979,9 @@ export default function DashboardSPMI() {
                   </h4>
                   <p className="text-xs text-muted-foreground mb-3">
                     Keempat dokumen mutu telah disinkronisasi dengan prinsip triangulasi data
-                    berbasis Pangkalan Data Pendidikan Tinggi (PD Dikti). Data AMI yang
-                    ditampilkan dalam dashboard ini bersumber dari triangulasi 3 sumber:
+                    berbasis Pangkalan Data Pendidikan Tinggi (PD Dikti). Dashboard ini
+                    mendukung multi-regulasi: tahun 2024 (Permendikbudristek 53/2023, 20 dokumen AMI)
+                    dan tahun 2025 (Permen 39/2025, 15 dokumen AMI). Data bersumber dari triangulasi 3 sumber:
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-2 mt-3">
                     <div className="p-2.5 rounded border border-sky-500/20 bg-sky-500/5">
@@ -996,7 +1028,7 @@ export default function DashboardSPMI() {
             <div className="flex items-center gap-3">
               <span>SK A/002.I/KEP/UNITA/I/2025</span>
               <span className="text-muted-foreground/50">|</span>
-              <span>Permen 39/2025</span>
+              <span>Multi-Regulasi: Permen 53/2023 + 39/2025</span>
               <span className="text-muted-foreground/50">|</span>
               <span className="text-sky-300 flex items-center gap-1">
                 <Zap className="w-3 h-3" />
