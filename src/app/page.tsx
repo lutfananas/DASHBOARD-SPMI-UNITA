@@ -29,6 +29,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import {
   ShieldCheck,
   TrendingUp,
@@ -40,7 +41,6 @@ import {
   Database,
   Files,
   Target,
-  Award,
   Building2,
   GraduationCap,
   FlaskConical,
@@ -49,6 +49,8 @@ import {
   ChevronRight,
   Cpu,
   Zap,
+  Calendar,
+  BarChart3,
 } from "lucide-react";
 import {
   LineChart,
@@ -71,6 +73,8 @@ import {
   PieChart,
   Pie,
   Legend,
+  RadialBarChart,
+  RadialBar,
 } from "recharts";
 import {
   STANDAR_SPMI,
@@ -84,6 +88,7 @@ import {
   getTotalPTK,
   getRataTindakLanjut,
   type KategoriStandar,
+  type StandarSPMI,
 } from "@/lib/spmi-data";
 import {
   ArkhamCard,
@@ -93,6 +98,7 @@ import {
   LiveIndicator,
   DataStatus,
 } from "@/components/spmi/blockchain-card";
+import { StandarDetailDialog } from "@/components/spmi/standar-detail-dialog";
 
 const NAVY = "#386EE6";
 const NAVY_LIGHT = "#5BA8FF";
@@ -104,6 +110,9 @@ const PURPLE = "#A78BFA";
 
 export default function DashboardSPMI() {
   const [selectedYear, setSelectedYear] = React.useState<number>(2025);
+  const [chartMode, setChartMode] = React.useState<"summary" | "year">("summary");
+  const [selectedStandar, setSelectedStandar] = React.useState<StandarSPMI | null>(null);
+  const [dialogOpen, setDialogOpen] = React.useState(false);
 
   // Computed values
   const rataSkor = getRataRataSkorAMI(selectedYear);
@@ -112,20 +121,22 @@ export default function DashboardSPMI() {
   const rataTindakLanjut = getRataTindakLanjut(selectedYear);
   const hasData = rataSkor !== null;
 
-  // Trend data untuk chart AMI 5 tahun (hanya tampilkan tahun dengan data)
+  // Trend data untuk chart AMI 5 tahun (summary mode)
   const trendDataAMI = TAHUN_LIST.map((tahun) => {
     const skor = getRataRataSkorAMI(tahun);
     const tl = getRataTindakLanjut(tahun);
-    const temuan = getTotalTemuan(tahun);
-    const ptk = getTotalPTK(tahun);
     return {
       tahun: tahun.toString(),
       "Skor AMI": skor,
       "Tindak Lanjut (%)": tl,
-      Temuan: temuan,
-      PTK: ptk,
     };
   });
+
+  // Data untuk year mode (hanya tahun terpilih)
+  const yearModeData = hasData ? [
+    { name: "Skor AMI", value: rataSkor, fill: NAVY },
+    { name: "Tindak Lanjut", value: rataTindakLanjut, fill: EMERALD },
+  ] : [];
 
   // Data per kategori untuk tahun terpilih
   const kategoriData: KategoriStandar[] = ["Pendidikan", "Penelitian", "PkM", "Tambahan"];
@@ -151,7 +162,7 @@ export default function DashboardSPMI() {
     ].filter((d) => d.value > 0);
   }, [selectedYear, hasData]);
 
-  // Trend kategori 5 tahun untuk bar chart (hanya tahun dengan data)
+  // Trend kategori 5 tahun untuk bar chart
   const kategoriTrend = TAHUN_LIST.map((tahun) => ({
     tahun: tahun.toString(),
     Pendidikan: getRataRataSkorByKategori(tahun, "Pendidikan"),
@@ -183,6 +194,12 @@ export default function DashboardSPMI() {
   const tindakLanjutTrend = (prevYear !== selectedYear && prevTindakLanjut !== null && rataTindakLanjut !== null)
     ? ((rataTindakLanjut - prevTindakLanjut) / prevTindakLanjut) * 100 : null;
 
+  // Handler untuk klik standar
+  const handleStandarClick = (standar: StandarSPMI) => {
+    setSelectedStandar(standar);
+    setDialogOpen(true);
+  };
+
   return (
     <div className="min-h-screen arkham-bg text-foreground">
       <div className="container mx-auto px-4 py-6 max-w-[1600px]">
@@ -195,10 +212,10 @@ export default function DashboardSPMI() {
               </div>
               <div>
                 <h1 className="text-2xl lg:text-3xl font-bold gradient-text-blue tracking-tight">
-                  ARKHAM SPMI
+                  SPMI UNITA
                 </h1>
                 <p className="text-xs text-muted-foreground font-mono tracking-wider uppercase">
-                  Sistem Penjaminan Mutu Internal • UNITA • Permen 39/2025
+                  Sistem Penjaminan Mutu Internal • Universitas Tulungagung • Permen 39/2025
                 </p>
               </div>
             </div>
@@ -259,7 +276,7 @@ export default function DashboardSPMI() {
                   Data AMI Tahun {selectedYear} Belum Tersedia
                 </p>
                 <p className="text-xs text-muted-foreground mt-0.5">
-                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Silakan pilih tahun 2025 untuk melihat data AMI terbaru, atau lakukan audit untuk tahun ini.
+                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Pilih tahun 2025 untuk melihat data AMI, atau unggah dokumen hasil AMI untuk tahun ini.
                 </p>
               </div>
             </div>
@@ -313,74 +330,128 @@ export default function DashboardSPMI() {
 
         {/* Charts Row 1: AMI Trend + Status Distribution */}
         <section className="grid grid-cols-1 lg:grid-cols-3 gap-3 mb-6">
-          {/* AMI Trend 5 Tahun */}
+          {/* AMI Trend - with toggle Summary/Year */}
           <ArkhamCard variant="primary" withTerminalBorder className="lg:col-span-2">
-            <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center justify-between mb-4 flex-wrap gap-2">
               <div>
                 <h3 className="text-base font-semibold text-sky-300 font-mono uppercase tracking-wide">
                   Tren Skor AMI & Tindak Lanjut
                 </h3>
                 <p className="text-[10px] text-muted-foreground font-mono uppercase tracking-wider">
-                  Periode 2021-2025 • 33 Standar SPMI
+                  {chartMode === "summary" ? "Periode 2021-2025 • 33 Standar SPMI" : `Tahun ${selectedYear} • 33 Standar SPMI`}
                 </p>
               </div>
-              <div className="flex items-center gap-3 text-[10px] font-mono">
-                <span className="flex items-center gap-1">
-                  <span className="w-3 h-3 rounded-sm bg-sky-400" /> Skor AMI
-                </span>
-                <span className="flex items-center gap-1">
-                  <span className="w-3 h-3 rounded-sm bg-emerald-400" /> Tindak Lanjut
-                </span>
+              <div className="flex items-center gap-3">
+                {/* Toggle Summary / Year */}
+                <ToggleGroup
+                  type="single"
+                  value={chartMode}
+                  onValueChange={(v) => v && setChartMode(v as "summary" | "year")}
+                  className="rounded border border-sky-500/20 bg-card/50"
+                >
+                  <ToggleGroupItem
+                    value="summary"
+                    className="text-[10px] font-mono uppercase tracking-wider px-2.5 py-1 data-[state=on]:bg-sky-500/20 data-[state=on]:text-sky-300"
+                  >
+                    <Calendar className="w-3 h-3 mr-1" />
+                    Summary
+                  </ToggleGroupItem>
+                  <ToggleGroupItem
+                    value="year"
+                    className="text-[10px] font-mono uppercase tracking-wider px-2.5 py-1 data-[state=on]:bg-sky-500/20 data-[state=on]:text-sky-300"
+                  >
+                    <BarChart3 className="w-3 h-3 mr-1" />
+                    Tahun {selectedYear}
+                  </ToggleGroupItem>
+                </ToggleGroup>
+
+                {chartMode === "summary" && (
+                  <div className="flex items-center gap-3 text-[10px] font-mono">
+                    <span className="flex items-center gap-1">
+                      <span className="w-3 h-3 rounded-sm bg-sky-400" /> Skor
+                    </span>
+                    <span className="flex items-center gap-1">
+                      <span className="w-3 h-3 rounded-sm bg-emerald-400" /> TL
+                    </span>
+                  </div>
+                )}
               </div>
             </div>
-            <ResponsiveContainer width="100%" height={280}>
-              <AreaChart data={trendDataAMI}>
-                <defs>
-                  <linearGradient id="colorSkor" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor={NAVY} stopOpacity={0.5} />
-                    <stop offset="95%" stopColor={NAVY} stopOpacity={0} />
-                  </linearGradient>
-                  <linearGradient id="colorTL" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor={EMERALD} stopOpacity={0.5} />
-                    <stop offset="95%" stopColor={EMERALD} stopOpacity={0} />
-                  </linearGradient>
-                </defs>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(56, 110, 230, 0.08)" />
-                <XAxis dataKey="tahun" stroke="#5a6478" fontSize={11} tickLine={false} axisLine={{ stroke: "rgba(56, 110, 230, 0.2)" }} />
-                <YAxis stroke="#5a6478" fontSize={11} domain={[0, 100]} tickLine={false} axisLine={false} />
-                <RTooltip
-                  contentStyle={{
-                    backgroundColor: "rgba(10, 14, 26, 0.95)",
-                    border: "1px solid rgba(56, 110, 230, 0.4)",
-                    borderRadius: "6px",
-                    color: "#fff",
-                    fontSize: "12px",
-                    fontFamily: "monospace",
-                  }}
-                />
-                <Area
-                  type="monotone"
-                  dataKey="Skor AMI"
-                  stroke={NAVY}
-                  strokeWidth={2}
-                  fill="url(#colorSkor)"
-                  name="Skor AMI"
-                  connectNulls
-                  dot={{ r: 3, fill: NAVY }}
-                  activeDot={{ r: 5, fill: NAVY_LIGHT }}
-                />
-                <Area
-                  type="monotone"
-                  dataKey="Tindak Lanjut (%)"
-                  stroke={EMERALD}
-                  strokeWidth={2}
-                  fill="url(#colorTL)"
-                  name="Tindak Lanjut (%)"
-                  connectNulls
-                  dot={{ r: 3, fill: EMERALD }}
-                />
-              </AreaChart>
-            </ResponsiveContainer>
+
+            {chartMode === "summary" ? (
+              <ResponsiveContainer width="100%" height={280}>
+                <AreaChart data={trendDataAMI}>
+                  <defs>
+                    <linearGradient id="colorSkor" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="5%" stopColor={NAVY} stopOpacity={0.5} />
+                      <stop offset="95%" stopColor={NAVY} stopOpacity={0} />
+                    </linearGradient>
+                    <linearGradient id="colorTL" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="5%" stopColor={EMERALD} stopOpacity={0.5} />
+                      <stop offset="95%" stopColor={EMERALD} stopOpacity={0} />
+                    </linearGradient>
+                  </defs>
+                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(56, 110, 230, 0.08)" />
+                  <XAxis dataKey="tahun" stroke="#5a6478" fontSize={11} tickLine={false} axisLine={{ stroke: "rgba(56, 110, 230, 0.2)" }} />
+                  <YAxis stroke="#5a6478" fontSize={11} domain={[0, 100]} tickLine={false} axisLine={false} />
+                  <RTooltip
+                    contentStyle={{
+                      backgroundColor: "rgba(10, 14, 26, 0.95)",
+                      border: "1px solid rgba(56, 110, 230, 0.4)",
+                      borderRadius: "6px",
+                      color: "#fff",
+                      fontSize: "12px",
+                      fontFamily: "monospace",
+                    }}
+                  />
+                  <Area
+                    type="monotone"
+                    dataKey="Skor AMI"
+                    stroke={NAVY}
+                    strokeWidth={2}
+                    fill="url(#colorSkor)"
+                    name="Skor AMI"
+                    connectNulls
+                    dot={{ r: 3, fill: NAVY }}
+                    activeDot={{ r: 5, fill: NAVY_LIGHT }}
+                  />
+                  <Area
+                    type="monotone"
+                    dataKey="Tindak Lanjut (%)"
+                    stroke={EMERALD}
+                    strokeWidth={2}
+                    fill="url(#colorTL)"
+                    name="Tindak Lanjut (%)"
+                    connectNulls
+                    dot={{ r: 3, fill: EMERALD }}
+                  />
+                </AreaChart>
+              </ResponsiveContainer>
+            ) : (
+              <ResponsiveContainer width="100%" height={280}>
+                <BarChart data={yearModeData} layout="vertical" margin={{ left: 20, right: 40 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(56, 110, 230, 0.08)" horizontal={false} />
+                  <XAxis type="number" domain={[0, 100]} stroke="#5a6478" fontSize={11} tickLine={false} axisLine={{ stroke: "rgba(56, 110, 230, 0.2)" }} />
+                  <YAxis type="category" dataKey="name" stroke="#5a6478" fontSize={11} tickLine={false} axisLine={false} width={100} />
+                  <RTooltip
+                    contentStyle={{
+                      backgroundColor: "rgba(10, 14, 26, 0.95)",
+                      border: "1px solid rgba(56, 110, 230, 0.4)",
+                      borderRadius: "6px",
+                      color: "#fff",
+                      fontSize: "12px",
+                      fontFamily: "monospace",
+                    }}
+                  />
+                  <Bar dataKey="value" radius={[0, 4, 4, 0]} barSize={40}>
+                    {yearModeData.map((entry, index) => (
+                      <Cell key={`cell-${index}`} fill={entry.fill} />
+                    ))}
+                  </Bar>
+                  <XAxis type="number" domain={[0, 100]} hide />
+                </BarChart>
+              </ResponsiveContainer>
+            )}
           </ArkhamCard>
 
           {/* Status Distribution */}
@@ -546,7 +617,7 @@ export default function DashboardSPMI() {
             </TabsTrigger>
           </TabsList>
 
-          {/* Tab: 33 Standar Detail */}
+          {/* Tab: 33 Standar Detail - dengan klik untuk dialog */}
           <TabsContent value="standar">
             <ArkhamCard className="p-0 overflow-hidden" withTerminalBorder>
               <div className="p-4 border-b border-sky-500/15 flex items-center justify-between flex-wrap gap-2">
@@ -555,7 +626,7 @@ export default function DashboardSPMI() {
                     Detail Hasil AMI 33 Standar SPMI
                   </h3>
                   <p className="text-[10px] text-muted-foreground font-mono uppercase tracking-wider">
-                    Tahun {selectedYear} • Skor, Status, Temuan, PTK, Tindak Lanjut
+                    Tahun {selectedYear} • Klik baris untuk detail riwayat AMI per standar
                   </p>
                 </div>
                 <div className="flex items-center gap-1.5 text-[10px] font-mono">
@@ -604,7 +675,8 @@ export default function DashboardSPMI() {
                       return (
                         <TableRow
                           key={standar.no}
-                          className="border-sky-500/8 hover:bg-sky-500/[0.03]"
+                          className="border-sky-500/8 hover:bg-sky-500/[0.05] cursor-pointer transition-colors"
+                          onClick={() => handleStandarClick(standar)}
                         >
                           <TableCell className="font-mono text-xs text-muted-foreground tabular-nums">
                             {String(standar.no).padStart(2, "0")}
@@ -615,7 +687,8 @@ export default function DashboardSPMI() {
                               {standar.kategori === "Penelitian" && <FlaskConical className="w-3.5 h-3.5 text-cyan-400 shrink-0" />}
                               {standar.kategori === "PkM" && <HandHeart className="w-3.5 h-3.5 text-emerald-400 shrink-0" />}
                               {standar.kategori === "Tambahan" && <Building2 className="w-3.5 h-3.5 text-amber-400 shrink-0" />}
-                              <span>{standar.nama}</span>
+                              <span className="hover:text-sky-300 transition-colors">{standar.nama}</span>
+                              <ChevronRight className="w-3 h-3 text-muted-foreground/30 shrink-0" />
                             </div>
                           </TableCell>
                           <TableCell>
@@ -890,13 +963,20 @@ export default function DashboardSPMI() {
           </TabsContent>
         </Tabs>
 
+        {/* Standar Detail Dialog */}
+        <StandarDetailDialog
+          standar={selectedStandar}
+          open={dialogOpen}
+          onOpenChange={setDialogOpen}
+        />
+
         {/* Footer */}
         <footer className="mt-auto pt-6 pb-4 border-t border-sky-500/10">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 text-[10px] text-muted-foreground font-mono uppercase tracking-wider">
             <div className="flex items-center gap-2">
               <Cpu className="w-3.5 h-3.5 text-sky-400" />
               <span>
-                ARKHAM SPMI • Pusat Penjaminan Mutu • Universitas Tulungagung
+                SPMI UNITA • Pusat Penjaminan Mutu • Universitas Tulungagung
               </span>
             </div>
             <div className="flex items-center gap-3">
