@@ -1,0 +1,409 @@
+    50→ 11   Ketersediaan sistem pelaporan keuangan         100%        100%        Tercapai
+    51→ 12   Ketersediaan dokumen Rencana Operasional       100%        100%        Tercapai
+    52→ 13   Efisiensi penyerapan anggaran secara          95,30%      ≥ 90%        Tercapai
+    53→ 14   Kepatuhan terhadap Kebijakan Umum             96,40%      ≥ 95%        Tercapai
+    54→     1. Memperkuat implementasi Renstra dan RENOP pengelolaan keuangan melalui pemantauan
+    55→     2. Meningkatkan diversifikasi sumber pendapatan melalui perluasan kerjasama dengan lembaga
+    56→     3. Mendorong peningkatan pendapatan dari kegiatan profesional dan sumber lainnya di luar SPP
+    57→     4. Mengoptimalkan efisiensi penyerapan anggaran pada bidang investasi SDM, sarana, dan
+    58→     5. Meningkatkan alokasi dana penelitian dan PkM secara bertahap sesuai target RENOP untuk
+    59→     6. Memperkuat implementasi Dashboard SPMI terintegrasi IKU PT sebagai instrumen monitoring
+    60→     7. Memastikan seluruh temuan audit keuangan ditindaklanjuti melalui RTM dan dimonitor hingga
+    61→     8. Melakukan evaluasi dan penyempurnaan SOP pengelolaan keuangan dan pelaporan secara
+    62→     9. Mengoptimalkan pemanfaatan hasil AMI Keuangan sebagai dasar penyusunan Kebijakan
+    63→---
+    64→========== AMI MAHASISWA 2024-2025.pdf ==========
+    65→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+    66→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+    67→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+    68→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+    69→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+    70→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+    71→ 1     Angka Efisiensi Edukasi (AEE PT)                     92,50%     ≥ 90%    Tercapai
+    72→ 9     Pengukuran capaian standar kompetensi lulusan        91,80%     ≥ 90%    Tercapai
+    73→ 14    Kontribusi mahasiswa dalam pencapaian SDGs           76,20%     ≥ 70%    Tercapai
+    74→   1. Mempertahankan capaian indikator yang telah memenuhi target, khususnya pada aspek
+    75→   2. Meningkatkan partisipasi mahasiswa dalam kegiatan di luar program studi, baik pada bidang
+    76→   3. Memperkuat kerja sama dengan dunia usaha, dunia industri, dunia kerja, dan institusi mitra
+    77→   4. Mengoptimalkan program tracer study dan pemantauan lulusan guna memperoleh data yang
+    78→   5. Meningkatkan keterlibatan mahasiswa dalam kegiatan yang mendukung Sustainable
+    79→   6. Melaksanakan monitoring dan evaluasi secara berkala terhadap seluruh indikator
+    80→   7. Memanfaatkan hasil AMI sebagai dasar penyusunan program kerja dan peningkatan mutu
+    81→---
+    82→========== AMI MBKM 2024-2025.pdf ==========
+    83→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+    84→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan Pendidikan
+    85→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang Penjaminan Mutu
+    86→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan Evaluasi
+    87→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat Penjaminan Mutu
+    88→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+    89→   7. Dokumen Standar Mutu Universitas Tulungagung
+    90→  1.1   Dokumen Standar MBKM         Tersedianya dokumen formal Standar Merdeka            100       Sangat Baik
+    91→  1.2   Buku Panduan MBKM            Ketersediaan buku panduan teknis pelaksanaan          100       Sangat Baik
+    92→  1.3   Pemetaan Mitra               Adanya dokumen pemetaan calon mitra                  94.20      Sangat Baik
+    93→  2.1   Jumlah Kerjasama dengan      Target jumlah kerjasama dengan mitra luar            92.40      Sangat Baik
+    94→  2.2   Dokumen Nota                 Ketersediaan dokumen MoU atau perjanjian             97.30      Sangat Baik
+    95→  2.3   Kesesuaian dengan Regulasi Implementasi program MBKM harus sesuai                 98.10      Sangat Baik
+    96→  3.1   Keikutsertaan Mahasiswa      Persentase mahasiswa yang mengikuti program          91.50      Sangat Baik
+    97→  3.2   Capaian Pembelajaran (CPL) Persentase ketercapaian kompetensi mahasiswa           93.80      Sangat Baik
+    98→  3.3   Rekognisi dan Konversi Nilai Tersedianya mekanisme dan dokumen                    96.90      Sangat Baik
+    99→  3.4   Surat Keterangan             Dokumen SKPI yang mencantumkan keterangan            95.40      Sangat Baik
+   100→  4.1     Dosen Pembimbing MBKM          Adanya Surat Keputusan (SK) penunjukan dosen        94.60             Sangat Baik
+   101→  4.2     Laporan Capaian Mahasiswa Ketersediaan laporan berkala dari mahasiswa              93.20             Sangat Baik
+   102→  4.3     Audit Mutu Berkala             Pelaksanaan audit internal secara periodik          97.50             Sangat Baik
+   103→  4.4     Survei Kepuasan                Tersedianya instrumen dan hasil survey              92.80             Sangat Baik
+   104→   1      Ketersediaan Standar dan Panduan                              3                    95.50               Sangat Baik
+   105→   2      Kerjasama dan Implementasi                                    3                    95.93               Sangat Baik
+   106→   3      Partisipasi dan Capaian Mahasiswa                             4                    94.40               Sangat Baik
+   107→   4      Monitoring dan Evaluasi (Monev)                               4                    94.53               Sangat Baik
+   108→   1      Ketersediaan Standar dan Panduan              92.30               95.50                  +3.20             Naik
+   109→   2      Kerjasama dan Implementasi                    91.50               95.93                  +4.43             Naik
+   110→   3      Partisipasi dan Capaian Mahasiswa             89.70               94.40                  +4.70             Naik
+   111→   4      Monitoring dan Evaluasi (Monev)               91.20               94.53                  +3.33             Naik
+   112→   1    Studi/Proyek Independen                               35                    42                     +20.0
+   113→---
+   114→========== AMI PELAYANAN KEPADA MAHASISWA GANJIL 2024-2025.pdf ==========
+   115→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   116→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan
+   117→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang Penjaminan Mutu
+   118→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan Evaluasi Internal
+   119→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat Penjaminan Mutu
+   120→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   121→   7. Dokumen Standar Mutu Universitas Tulungagung
+   122→1 mengalami peningkatan dibandingkan periode sebelumnya. Indikator dengan skor tertinggi adalah P4 - Akses
+   123→1. Layanan Akademik & Pembimbingan                     3.51            3.57          +0.06      Sangat Baik
+   124→2. Pengembangan Bakat & Minat                          3.43            3.49          +0.06          Baik
+   125→3. Layanan Karir & Luaran                              3.40            3.46          +0.06          Baik
+   126→4. Fasilitas & Aksesibilitas                           3.33            3.40          +0.07     Perlu Perbaikan
+   127→5. Evaluasi Kepuasan Mahasiswa                         3.43            3.49          +0.06          Baik
+   128→ 1.    Melakukan peremajaan dan pemeliharaan rutin terhadap meja, kursi, papan tulis, serta perangkat elektronik
+   129→ 2.    Menyediakan jumlah meja dan kursi yang sesuai dengan kapasitas kelas agar tidak terjadi kekurangan tempat
+   130→ 3.    Memastikan seluruh fasilitas kelas dalam kondisi layak pakai, termasuk pencahayaan yang cukup dan sistem
+   131→ 4.    Mengalokasikan anggaran yang memadai untuk perbaikan serta pengadaan fasilitas kelas agar tidak mengalami
+   132→ 5.    Membuat sistem laporan keluhan mahasiswa terkait kondisi ruang kelas berbasis SIAKAD agar masalah segera
+   133→ 1.    Melengkapi laboratorium dan ruang praktik dengan peralatan terbaru sesuai dengan kebutuhan mahasiswa dan
+   134→ 2.    Memastikan fasilitas laboratorium berfungsi dengan baik dan tersedia dalam jumlah yang cukup untuk
+   135→ 3.    Membuat jadwal penggunaan laboratorium yang lebih fleksibel agar mahasiswa dapat menggunakannya sesuai
+   136→ 4.    Menyediakan tenaga teknis atau asisten laboratorium untuk membantu mahasiswa dalam penggunaan alat dan
+   137→ 5.    Menyusun pedoman pemakaian laboratorium agar mahasiswa mengetahui prosedur dan aturan yang berlaku.
+   138→ 1.    Memperbarui koleksi buku dan jurnal secara berkala sesuai perkembangan dan disiplin ilmu terkait.
+   139→ 2.    Menambah akses ke jurnal ilmiah digital dan database akademik yang dapat digunakan mahasiswa untuk
+   140→ 3.    Mengembangkan layanan peminjaman online agar mahasiswa dapat melihat ketersediaan buku dan melakukan
+   141→ 4.    Melakukan survei kebutuhan mahasiswa dan dosen untuk memastikan koleksi perpustakaan sesuai dengan
+   142→ 5.    Mengoptimalkan ruang baca yang nyaman dengan pencahayaan dan fasilitas pendukung lainnya.
+   143→19 - Fasilitas Kebersihan (Toilet, Tempat Sampah) - Skor: 3.44
+   144→ 1.    Menambah tenaga kebersihan dan meningkatkan frekuensi pembersihan, terutama di area yang sering
+   145→---
+   146→========== AMI PELAYANAN KEPADA MAHASISWA GENAP 2024-2025.pdf ==========
+   147→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   148→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   149→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   150→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   151→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   152→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   153→   7. Dokumen Standar Mutu Universitas Tulungagung
+   154→1. Layanan Akademik & Pembimbingan              3.57             3.63            +0.06         Sangat Baik
+   155→2. Pengembangan Bakat & Minat                   3.49             3.55            +0.06         Sangat Baik
+   156→3. Layanan Karir & Luaran                       3.46             3.53            +0.07         Sangat Baik
+   157→4. Fasilitas & Aksesibilitas                    3.40             3.49            +0.09          Baik (Tren
+   158→5. Evaluasi Kepuasan Mahasiswa                   3.49             3.55           +0.06         Sangat Baik
+   159→   1. Melanjutkan program peremajaan fasilitas kelas yang telah berjalan, dengan fokus pada
+   160→   2. Menerapkan sistem pemeliharaan preventif berbasis Internet of Things (IoT) untuk monitoring
+   161→   3. Membentuk tim teknis responsif dengan SLA (Service Level Agreement) maksimal 24 jam
+   162→   4. Mengembangkan aplikasi mobile "Lapor Fasilitas" yang terintegrasi dengan SIAKAD untuk
+   163→   5. Menyusun standar minimum fasilitas kelas (Standard Operating Environment) yang harus
+   164→   1. Membuka akses laboratorium di luar jam perkuliahan (open lab hours) pada sore dan akhir
+   165→   2. Mengimplementasikan sistem booking online laboratorium yang terintegrasi dengan SIAKAD
+   166→   3. Menyediakan program asisten laboratorium mahasiswa (student lab assistant) sebagai
+   167→   4. Mengembangkan laboratorium virtual (virtual lab) untuk eksperimen yang dapat dilakukan
+   168→   5. Menyusun road map pengadaan peralatan laboratorium 5 tahun dengan prioritas berbasis
+   169→   1. Mempublikasikan laporan tahunan pengelolaan dana kampus dalam format infografis yang
+   170→   2. Mengadakan forum tahunan "Open Budget" di mana mahasiswa dapat memberikan masukan
+   171→   3. Menyediakan dashboard transparansi keuangan yang dapat diakses mahasiswa melalui
+   172→   4. Membentuk Dewan Pengawas Keuangan yang melibatkan perwakilan mahasiswa untuk
+   173→   5. Melakukan sosialisasi berkala mengenai penggunaan dana melalui kanal media sosial
+   174→   1. Memperluas kerja sama dengan industri melalui program MoU kampus-industri untuk
+   175→   2. Mengembangkan inkubator bisnis kampus dengan pendampingan dosen dan mentor industri
+   176→   3. Mengintegrasikan program magang ke dalam kurikulum sebagai mata kuliah wajib dengan
+   177→---
+   178→========== AMI PENDIDIKAN 2024-2025.pdf ==========
+   179→30 Permendikbudristek No. 53 Tahun 2023.
+   180→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   181→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   182→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   183→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   184→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   185→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   186→ 1        A      Persentase lulusan terserap di dunia kerja     86,50%           ≥ 70%       Tercapai
+   187→ 2        A      Persentase lulusan menjadi                     18,20%           ≥ 10%       Tercapai
+   188→ 3        A      Rata-rata IPK lulusan                           3,48            ≥ 3,00      Tercapai
+   189→ 4        A      Rata-rata masa studi lulusan                  3,8 tahun       ≤ 4,5 tahun   Tercapai
+   190→ 5        A      Rata-rata masa tunggu lulusan kerja           3,2 bulan       ≤ 6 bulan     Tercapai
+   191→ 6        B      Ketersediaan dan kelengkapan dokumen            100%            100%        Tercapai
+   192→ 7        B      Frekuensi tinjauan kurikulum per tahun       2 kali/tahun     ≥ 1/tahun     Tercapai
+   193→ 8        B      Rasio mahasiswa per dosen pembimbing            16               ≤ 20       Tercapai
+   194→ 9        B      Rasio mahasiswa per dosen pembimbing         8 mhs/dosen         ≤ 10       Tercapai
+   195→ 10       C      Persentase bahan ajar dan referensi             100%            100%        Tercapai
+   196→ 11       C      Persentase mata kuliah blended learning         32%             ≥ 20%       Tercapai
+   197→ 12       C      Rata-rata jumlah mahasiswa per kelas             32              ≤ 40       Tercapai
+   198→ 13       C      Frekuensi monitoring kehadiran dan           2x/semester          ≥         Tercapai
+   199→ 14       D      Persentase dosen menerapkan berbagai            100%            100%        Tercapai
+   200→ 15       D      Ketepatan waktu input nilai pasca ujian (≤      100%            100%        Tercapai
+   201→                 10 hari kerja)
+   202→ 16       E      Persentase dosen berkualifikasi S2/S3           100%            100%        Tercapai
+   203→ 17       E      Persentase dosen dan tendik bersertifikat      88,50%           ≥ 75%       Tercapai
+   204→ 18       F      Ketersediaan fasilitas pembelajaran             100%            100%        Tercapai
+   205→ 19       G      Ketersediaan dokumen RPS, laporan               100%            100%        Tercapai
+   206→ 20       H      Ketersediaan dan realisasi RKAT serta          95,40%           ≥ 90%       Tercapai
+   207→                                                   2023           2024/2025
+   208→                                                   2023           2024/2025
+   209→---
+   210→========== AMI PENELITIAN 2024-2025.pdf ==========
+   211→53 Tahun 2023. Regulasi ini menegaskan pentingnya siklus mutu PPEPP (Penetapan, Pelaksanaan,
+   212→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   213→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   214→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   215→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   216→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   217→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   218→   7. Dokumen Standar Mutu Universitas Tulungagung
+   219→  1     Ketersediaan panduan penelitian yang             100%           Tersedia            Tercapai
+   220→  2     Terlaksananya sosialisasi panduan penelitian     100%          Terlaksana           Tercapai
+   221→  3     Persentase laporan akhir dari penelitian yang   96,80%         90% - 100%           Tercapai
+   222→  4     Integrasi hasil penelitian ke dalam RPS atau    93,50%        ≥ 10% - 15%           Tercapai
+   223→  5     Kesesuaian penelitian dengan roadmap visi       97,20%         75% - 85%            Tercapai
+   224→  6     Jumlah publikasi ilmiah dosen tetap per tahun   95,60%      10 dokumen/prodi        Tercapai
+   225→  7     Perolehan HKI (Paten, Hak Cipta, Desain         93,40%    Meningkat setiap tahun    Tercapai
+   226→  8     Jumlah sitasi karya ilmiah dan jumlah buku      90,80%    Meningkat setiap tahun    Tercapai
+   227→  9     Adopsi industri atau pemuatan hasil             88,50%       Ada setiap tahun       Tercapai
+   228→ 10     Pelaksanaan sosialisasi dan pelatihan terkait    100%          Terlaksana           Tercapai
+   229→ 11     Proporsi skema penelitian (Dasar dan            96,80%     Dasar 25%, Terapan       Tercapai
+   230→ 12     Jumlah penelitian yang sesuai dengan            93,40%     Progresif hingga 120     Tercapai
+   231→ 13   Jumlah proposal yang diajukan sesuai           95,20%    Sesuai roadmap      Tercapai
+   232→ 14   Jumlah laporan kemajuan penelitian yang        97,80%     100% tersedia      Tercapai
+   233→ 15   Persentase keterpenuhan laporan akhir          96,50%      90% - 100%        Tercapai
+   234→ 16   Ketersediaan panduan penilaian proposal,        100%         Tersedia        Tercapai
+   235→ 17   Tersedianya laporan penilaian pelaksanaan       100%         Tersedia        Tercapai
+   236→ 18   Tersedianya laporan Monitoring dan Evaluasi     100%         Tersedia        Tercapai
+   237→ 19   Tersedianya laporan Rencana Tindak Lanjut      93,80%        Tersedia        Tercapai
+   238→ 20   Jumlah dosen yang memenuhi kriteria            91,76%       Meningkat        Tercapai
+   239→ 21   Persentase keikutsertaan dosen dalam           94,20%         ≥ 85%          Tercapai
+   240→ 22   Kesesuaian jumlah penelitian yang dilakukan    95,60%    Sesuai peta jalan   Tercapai
+   241→---
+   242→========== AMI PENGABDIAN 2024-2025.pdf ==========
+   243→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   244→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   245→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   246→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   247→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   248→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   249→   7. Dokumen Standar Mutu Universitas Tulungagung
+   250→  1     Ketersediaan panduan PkM yang memuat             100%           Tersedia            Tercapai
+   251→  2     Terlaksananya sosialisasi panduan PkM            100%          Terlaksana           Tercapai
+   252→  3     Persentase laporan akhir dari kegiatan PkM      96,20%         90% - 100%           Tercapai
+   253→  4     Integrasi hasil PkM ke dalam RPS atau mata      92,80%        ≥ 10% - 15%           Tercapai
+   254→  5     Kesesuaian PkM dengan roadmap visi              95,40%         75% - 85%            Tercapai
+   255→  6     Jumlah publikasi ilmiah dosen dari hasil PkM    94,50%    Meningkat setiap tahun    Tercapai
+   256→  7     Perolehan HKI, Teknologi Tepat Guna (TTG),      93,80%    Meningkat setiap tahun    Tercapai
+   257→  8     Penyelesaian masalah oleh mitra/desa            96,80%            Aktif             Tercapai
+   258→  9     Adopsi hasil PkM oleh masyarakat atau           91,20%       Ada setiap tahun       Tercapai
+   259→ 10     Pelaksanaan sosialisasi dan pelatihan terkait    100%          Terlaksana           Tercapai
+   260→ 11     Proporsi skema PkM (Pengembangan,               95,60%       Sesuai proporsi        Tercapai
+   261→ 12     Jumlah kegiatan PkM yang sesuai dengan          94,20%          Progresif           Tercapai
+   262→ 13   Jumlah proposal PkM yang diajukan sesuai      95,80%     Sesuai roadmap      Tercapai
+   263→ 14   Jumlah laporan kemajuan kegiatan PkM yang     97,60%      100% tersedia      Tercapai
+   264→ 15   Persentase keterpenuhan laporan akhir         96,20%       90% - 100%        Tercapai
+   265→ 16   Ketersediaan panduan penilaian proposal,       100%          Tersedia        Tercapai
+   266→ 17   Tersedianya laporan penilaian pelaksanaan      100%          Tersedia        Tercapai
+   267→ 18   Tersedianya laporan Monitoring dan Evaluasi    100%          Tersedia        Tercapai
+   268→ 19   Tersedianya laporan Rencana Tindak Lanjut     93,50%         Tersedia        Tercapai
+   269→ 20   Jumlah dosen yang memenuhi kriteria           92,40%        Meningkat        Tercapai
+   270→ 21   Persentase keikutsertaan dosen dalam          93,80%          ≥ 85%          Tercapai
+   271→ 22   Kesesuaian kegiatan PkM yang dilakukan        95,20%     Sesuai peta jalan   Tercapai
+   272→ 23   Ketersediaan sarana dan prasarana yang         100%         Memadai          Tercapai
+   273→---
+   274→========== AMI PROSES PEMBELAJARAN GANJIL 2024-2025.pdf ==========
+   275→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   276→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   277→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   278→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   279→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   280→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   281→   7. Dokumen Standar Mutu Universitas Tulungagung
+   282→2. Analisa ini dilakukan dengan menggunakan 25 indikator penilaian, dan hasilnya memperlihatkan
+   283→3 mahasiswa, hasil kuesioner tetap memberikan gambaran mengenai persepsi mahasiswa
+   284→  1. Mengurangi intensitas pembelajaran daring dan mengoptimalkan metode hybrid learning yang
+   285→  2. Memberikan waktu ruang diskusi pada setiap mahasiswa sesuai jam kerja / jam aktif perkuliahan.
+   286→  3. Melakukan verifikasi kepada mahasiswa atas ritme penyampaian materi agar lebih mudah
+   287→  4. Memberikan contoh implementasi case by case pada setiap bahan ajar yang memungkinkan.
+   288→  5. Menambahkan buku referensi yang dijadikan tolak ukur dalam RPS (Rencana Pembelajaran
+   289→  6. Melakukan integrasi hasil Penelitian dan PkM (Pengabdian kepada Masyarakat) pada materi
+   290→  7. Memberikan umpan balik atas nilai Quiz dan Tugas agar mahasiswa mengetahui letak
+   291→  8. Pada kelas diskusi atau presentasi sesama mahasiswa sering kali mahasiswa kurang mengerti
+   292→  9. Memberikan motivasi kepada mahasiswa ketika tidak percaya diri di dalam kelas.
+   293→  10. Optimalitas waktu mengajar sesuai dengan SKS yang ditetapkan.
+   294→  11. Menambahkan Open Course Ware melalui platform aplikasi (EdLink, Youtube, dsb).
+   295→  12. Meningkatkan pelatihan dosen pada tahapan perkuliahan (pendahuluan, isi, penutup) secara
+   296→  13. Mendorong dosen untuk lebih responsif terhadap pertanyaan mahasiswa dan menciptakan
+   297→  14. Melakukan monitoring berkala oleh GKM terhadap implementasi RPS dan konsistensi metode
+   298→---
+   299→========== AMI PROSES PEMBELAJARAN GENAP 2024-2025.pdf ==========
+   300→30 AGUSTUS 2025
+   301→  1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   302→  2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi
+   303→  3. Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 3 Tahun 2020 tentang Standar
+   304→  4. Permendikbud 5 tahun 2020 tentang Akreditasi Program Studi dan Perguruan Tinggi;
+   305→  5. Permendikbudristek Nomor 53 Tahun 2023 tentang Penjaminan Mutu Pendidikan Tinggi;
+   306→  6. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring & Evaluasi
+   307→  7. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat Penjaminan Mutu
+   308→  8. Renstra Universitas Tulungagung Tahun 2023 – 2027;
+   309→  9. Rencana Tindak Lanjut (RTL) Hasil Monev-in Proses Pembelajaran Gasal 2024/2025-1.
+   310→30 AGUSTUS 2025
+   311→  1. Efektifitas perkuliahan dilaksanakan dengan metode Hybrid Learning
+   312→  2. Efektifitas perkuliahan dilaksanakan dengan metode Luring
+   313→30 AGUSTUS 2025
+   314→30 AGUSTUS 2025
+   315→30 AGUSTUS 2025
+   316→30 AGUSTUS 2025
+   317→30 AGUSTUS 2025
+   318→30 AGUSTUS 2025
+   319→30 AGUSTUS 2025
+   320→    1. Mempertahankan dan mengoptimalkan metode hybrid learning yang lebih interaktif, dengan
+   321→    2. Memberikan waktu ruang diskusi pada setiap mahasiswa sesuai jam kerja / jam aktif perkuliahan.
+   322→    3. Melakukan verifikasi kepada mahasiswa atas ritme penyampaian materi agar lebih mudah diterima.
+   323→    4. Memberikan contoh implementasi case by case pada setiap bahan ajar yang memungkinkan.
+   324→    5. Menambahkan buku referensi yang dijadikan tolak ukur dalam RPS (Rencana Pembelajaran
+   325→    6. Melakukan integrasi hasil Penelitian dan PkM pada materi yang disampaikan, khususnya untuk fakultas
+   326→    7. Memberikan umpan balik atas nilai Quiz dan Tugas agar mahasiswa mengetahui letak kekurangannya.
+   327→    8. Pada kelas diskusi atau presentasi sesama mahasiswa sering kali mahasiswa kurang mengerti atas
+   328→    9. Memberikan motivasi kepada mahasiswa ketika tidak percaya diri di dalam kelas.
+   329→    10. Optimalitas waktu mengajar sesuai dengan SKS yang ditetapkan.
+   330→---
+   331→========== AMI SARANA DAN PRASARANA 2024-2025.pdf ==========
+   332→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   333→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   334→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   335→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   336→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   337→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   338→  1    Persentase sarana dalam kondisi baik/terawat      95,20%         ≥ 90%        Tercapai
+   339→  2    Persentase prasarana dalam kondisi                95,80%         ≥ 90%        Tercapai
+   340→  3    Ketersediaan ruang kelas sesuai standar rasio     94,50%         ≥ 90%        Tercapai
+   341→  4    Ketersediaan laboratorium dan studio sesuai       96,30%         ≥ 90%        Tercapai
+   342→  5    Ketersediaan ruang dosen sesuai standar           95,70%         ≥ 90%        Tercapai
+   343→  6    Ketersediaan perpustakaan dan sumber              97,20%         ≥ 90%        Tercapai
+   344→  7    Ketersediaan fasilitas ICT, jaringan internet,    95,40%         ≥ 90%        Tercapai
+   345→  8    Ketersediaan fasilitas kemahasiswaan dan          94,80%         ≥ 90%        Tercapai
+   346→  9    Realisasi pemeliharaan sarana terhadap            95,60%         ≥ 90%        Tercapai
+   347→  10   Realisasi pemeliharaan prasarana terhadap         94,90%         ≥ 90%        Tercapai
+   348→  11   Ketersediaan kebijakan dan pedoman                100%           100%         Tercapai
+   349→  12   Ketersediaan sistem inventarisasi                 100%           100%         Tercapai
+   350→  13   Efektivitas pelaksanaan pemeliharaan berkala      95,10%         ≥ 90%        Tercapai
+   351→  14   Kepatuhan terhadap standar sarana prasarana       96,40%         ≥ 90%        Tercapai
+   352→1    Gedung Rektorat                                    Baik/Terawat              1
+   353→2    Ruang Biro Administrasi Akademik                   Baik/Terawat              1
+   354→3    Ruang Biro Administrasi Umum                       Baik/Terawat              1
+   355→4    Ruang Biro Administrasi Keuangan                   Baik/Terawat              1
+   356→5    Ruang Biro Administrasi Kemahasiswaan              Baik/Terawat              1
+   357→6    Ruang Lembaga Penelitian dan Pengabdian            Baik/Terawat              1
+   358→7    Ruang Pusat Penjaminan Mutu                        Baik/Terawat              1
+   359→8    Gedung Program Studi Teknik Sipil                  Baik/Terawat              1
+   360→9    Ruang Inkubator Bisnis                             Baik/Terawat              1
+   361→10   Laboratorium Bahasa                                Baik/Terawat              1
+   362→---
+   363→========== AMI SDM 2024-2025.pdf ==========
+   364→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   365→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   366→   3. tentang Standar Nasional Pendidikan Tinggi; Permendikbud 53 Tahun 2023 tentang
+   367→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   368→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   369→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   370→1      1    Kualifikasi akademik minimal S2 bagi dosen         100%          100%    Tercapai
+   371→2      1    Persentase dosen tetap yang memiliki jabatan      52,40%        ≥ 75%     Belum
+   372→3      1    Kepemilikan sertifikat pendidik atau sertifikat    94,60%        100%     Belum
+   373→4      1    Persentase dosen tidak tetap yang memiliki         100%         < 20%    Tercapai
+   374→5      2    Kualifikasi akademik minimal D3 untuk tenaga       100%          100%    Tercapai
+   375→6      2    Keanggotaan tenaga perpustakaan                    100%          100%    Tercapai
+   376→7      2    Pelaksanaan uji kompetensi keahlian dalam          100%          100%    Tercapai
+   377→8      3    Ketersediaan laporan monev kinerja dosen           100%          100%    Tercapai
+   378→9      3    Ketersediaan laporan monev kinerja tenaga          100%          100%    Tercapai
+   379→10     3    Ketersediaan dokumen Laporan DP3 sebagai           100%          100%    Tercapai
+   380→11     4    Ketersediaan dokumen Renstra/Renop                 100%          100%    Tercapai
+   381→12     4    Terpenuhinya biaya pengembangan SDM dari           88,70%      85%–95%   Tercapai
+   382→13     4    Ketersediaan Pedoman Kesejahteraan                 100%          100%    Tercapai
+   383→14     4    Pelaksanaan survei kepuasan terhadap               100%          100%    Tercapai
+   384→15     4    Adanya bukti penyempurnaan pedoman                 100%          100%    Tercapai
+   385→16     5    Efektivitas kebijakan dan sistem rekrutmen,        95,20%       ≥ 90%    Tercapai
+   386→17     5    Ketersediaan lembaga atau fungsi yang              100%          100%    Tercapai
+   387→ 18    5     Ketersediaan dokumen struktur organisasi,          100%          100%         Tercapai
+   388→    1. Mempercepat pencapaian target 100% sertifikat pendidik bagi seluruh dosen melalui program
+   389→    2. Meningkatkan kualifikasi akademik tenaga kependidikan ke jenjang D3 melalui program
+   390→    3. Memperkuat implementasi Renstra dan Renop Pengelolaan SDM melalui pemantauan capaian
+   391→    4. Meningkatkan jumlah dosen berkualifikasi S3 dan dosen dengan jabatan fungsional Lektor
+   392→    5. Memperluas program pengembangan kompetensi bagi dosen dan tenaga kependidikan secara
+   393→    6. Meningkatkan realisasi anggaran pengembangan SDM menuju target atas 95% sesuai RENOP
+   394→---
+   395→========== AMI TPTK 2024-2025.pdf ==========
+   396→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   397→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   398→   3. Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 3 Tahun 2020
+   399→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   400→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   401→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   402→ 1     Saya memahami struktur tata pamong dan tata kelola
+   403→ 2     Kebijakan akademik disusun melalui mekanisme yang jelas dan
+   404→ 3     Dosen dilibatkan dalam penyusunan dan evaluasi kebijakan
+   405→ 4     Pimpinan memberikan arahan yang jelas dalam pelaksanaan
+   406→ 5     Pengambilan keputusan akademik dilakukan secara objektif dan
+   407→ 6     Informasi kebijakan akademik mudah diakses oleh dosen.              3,65       0,53
+   408→ 7     Koordinasi antara pimpinan, fakultas, dan program studi berjalan
+   409→ 8     Tata kelola mendukung pelaksanaan pendidikan, penelitian, dan
+   410→ 9     Evaluasi terhadap pelaksanaan kebijakan akademik dilakukan
+   411→ 10    Hasil evaluasi ditindaklanjuti untuk perbaikan berkelanjutan.       3,52       0,63
+   412→ 11    Pimpinan bersikap terbuka terhadap masukan dari dosen.              3,49       0,66
+   413→ 12    Sistem tata kelola mendukung pencapaian VMTS universitas.           3,71       0,50
+   414→ 13    Pembagian tugas dan kewenangan antarunit telah berjalan
+   415→ 14    Tata kelola universitas menerapkan prinsip transparansi dan
+   416→ 15    Secara keseluruhan tata pamong universitas berjalan efektif.        3,66       0,54
+   417→ 1     Saya memahami struktur organisasi dan tata kerja universitas.    3,50        0,53
+   418→ 2     Pembagian tugas dan tanggung jawab di unit kerja telah jelas.    3,60        0,52
+   419→ 3     SOP menjadi pedoman dalam pelaksanaan pekerjaan sehari-
+   420→ 4     Pimpinan memberikan arahan yang jelas terkait pelaksanaan
+   421→ 5     Koordinasi antarunit kerja berjalan dengan baik.                  3,50       0,53
+   422→ 6     Informasi kebijakan dan keputusan pimpinan mudah diperoleh.       3,60       0,52
+   423→ 7     Pengelolaan administrasi dilakukan secara efektif dan efisien.    3,50       0,53
+   424→ 8     Sistem tata kelola mendukung peningkatan kualitas layanan
+   425→ 9     Tenaga kependidikan diberikan kesempatan menyampaikan
+   426→---
+   427→========== AMI VMTS 2024-2025.pdf ==========
+   428→   1. Undang-Undang Republik Indonesia Nomor 12 Tahun 2012 tentang Pendidikan Tinggi;
+   429→   2. Peraturan Pemerintah Republik Indonesia No. 4 Tahun 2014 tentang Penyelenggaraan
+   430→   3. Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 3 Tahun 2020
+   431→   4. SK Rektor Unita Nomor A/039.A/KEP/UNITA/VIII/2020 Tentang Manual Mutu Monitoring dan
+   432→   5. SK Rektor Unita Nomor A/026/KEP/UNITA/VI/2022 Tentang Pengangkatan Pejabat
+   433→   6. Renstra Universitas Tulungagung Tahun 2023 – 2027
+   434→2024. Proses evaluasi ini mencakup seluruh fakultas dan unit kerja di lingkungan Universitas
+   435→ 1     Saya memahami Visi, Misi, Tujuan, dan Sasaran
+   436→ 2     Saya memahami keterkaitan VMTS Universitas
+   437→ 3     VMTS disosialisasikan secara berkala kepada dosen.              3,42         0,66
+   438→ 4     Media dan metode sosialisasi VMTS mudah dipahami.               3,38         0,69
+   439→ 5     VMTS menjadi acuan dalam pelaksanaan
+   440→ 6     VMTS menjadi acuan dalam pelaksanaan penelitian.                3,56         0,58
+   441→ 7     VMTS menjadi acuan dalam pelaksanaan pengabdian
+   442→ 8     VMTS telah terintegrasi dalam kurikulum dan proses
+   443→ 9     Pimpinan menunjukkan komitmen yang kuat dalam
+   444→ 10    Kebijakan yang ditetapkan pimpinan selaras dengan
+   445→ 11    Dosen dilibatkan dalam penyusunan atau
+   446→ 12    Dosen dilibatkan dalam evaluasi ketercapaian VMTS.              3,36         0,75
+   447→ 13    VMTS relevan dengan perkembangan ilmu
+   448→ 14    VMTS relevan dengan kebutuhan dunia kerja dan
+   449→ 15    Program yang dilaksanakan universitas mendukung
+   450→ 1     Saya memahami VMTS Universitas Tulungagung.                   3,40         0,70
+   451→ 2     Saya memahami peran unit kerja dalam mendukung
+   452→ 3     VMTS telah disosialisasikan dengan baik kepada
+   453→ 4     Informasi mengenai VMTS mudah diperoleh.                       3,40         0,70
+   454→ 5     Pelayanan administrasi yang saya lakukan
+   455→ 6     Program kerja unit saya selaras dengan VMTS
+   456→ 7     VMTS menjadi pedoman dalam pelaksanaan tugas
+   457→ 8     Pimpinan memberikan arahan yang konsisten sesuai
+   458→---

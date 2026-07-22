@@ -99,6 +99,7 @@ import {
   DataStatus,
 } from "@/components/spmi/blockchain-card";
 import { StandarDetailDialog } from "@/components/spmi/standar-detail-dialog";
+import { DetailAMISection } from "@/components/spmi/detail-ami-section";
 
 const NAVY = "#386EE6";
 const NAVY_LIGHT = "#5BA8FF";
@@ -776,6 +777,9 @@ export default function DashboardSPMI() {
                 </Table>
               </ScrollArea>
             </ArkhamCard>
+
+            {/* Detail AMI per Dokumen - di bawah tabel 33 Standar */}
+            <DetailAMISection />
           </TabsContent>
 
           {/* Tab: 8 IKU */}
