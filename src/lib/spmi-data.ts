@@ -2,11 +2,12 @@
 // DATA SPMI - 33 STANDAR + 8 IKU + AMI 2025 (data baru)
 // Sesuai Permen 39/2025 dan dokumen mutu UNITA 2025
 // Tahun 2021-2024: kosong (belum ada data AMI)
-// Tahun 2025: berisi data AMI dari hasil audit
+// Tahun 2025: berisi data AMI dari hasil audit dokumen asli
+// Sumber: 15 dokumen AMI 2024-2025 dari PPM UNITA
 // ============================================================
 
 export type KategoriStandar = "Pendidikan" | "Penelitian" | "PkM" | "Tambahan";
-export type StatusAMI = "MS" | "ML" | "BS" | "MSV"; // Mencapai/Melampaui/Belum/Menyimpang
+export type StatusAMI = "MS" | "ML" | "BS" | "MSV";
 
 export interface StandarSPMI {
   no: number;
@@ -15,14 +16,14 @@ export interface StandarSPMI {
   kategori: KategoriStandar;
   rujukanPasal?: string;
   penanggungJawab: string;
-  // Hasil AMI per tahun: skor 0-100, status, temuan, rekomendasi
   ami: Record<number, {
     skor: number;
     status: StatusAMI;
     temuan: number;
-    ptK: number; // Permintaan Tindakan Koreksi
-    tindakLanjut: number; // % tindak lanjut
+    ptK: number;
+    tindakLanjut: number;
     catatan: string;
+    dokumenAMI?: string;
   } | null>;
 }
 
@@ -32,7 +33,6 @@ export interface IKU {
   unit: string;
   baseline2025: number | string;
   target2030: number | string;
-  // Capaian per tahun (null untuk tahun yang belum ada data)
   capaian: Record<number, number | string | null>;
   trend: "up" | "down" | "stable";
 }
@@ -48,7 +48,7 @@ export interface DokumenMutu {
 }
 
 // ============================================================
-// 33 STANDAR SPMI - DATA AMI HANYA TAHUN 2025
+// 33 STANDAR SPMI - DATA AMI TAHUN 2025 (DARI DOKUMEN ASLI)
 // ============================================================
 export const STANDAR_SPMI: StandarSPMI[] = [
   // === 8 STANDAR PENDIDIKAN ===
@@ -57,7 +57,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 6-10", penanggungJawab: "UPPS / GKM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 88, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95, catatan: "CPL terintegrasi PD Dikti, pengguna lulusan puas 88%" },
+      2025: {
+        skor: 87, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95,
+        catatan: "Lulusan terserap DUDI 86,50%, IPK rata-rata 3,48, masa studi 3,8 thn, masa tunggu 3,2 bln. Lulusan wirausahawan 18,20%. Semua indikator Tercapai.",
+        dokumenAMI: "AMI PENDIDIKAN 2024-2025"
+      },
     }
   },
   {
@@ -65,7 +69,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 11-24", penanggungJawab: "UPPS / GKM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 87, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 92, catatan: "PBL/CBL mulai diterapkan, kepuasan 87%" },
+      2025: {
+        skor: 89, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 92,
+        catatan: "Skor rata-rata kepuasan 3,54 (Likert 1-4). Ganjil 3,49 → Genap 3,59. Seluruh fakultas meningkat. Metode daring skor terendah namun di atas rata-rata.",
+        dokumenAMI: "AMI PROSES PEMBELAJARAN GANJIL & GENAP 2024-2025"
+      },
     }
   },
   {
@@ -73,7 +81,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 25", penanggungJawab: "GKM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 85, status: "MS", temuan: 4, ptK: 2, tindakLanjut: 90, catatan: "Bobot formatif ≥40%, transparansi 95%" },
+      2025: {
+        skor: 85, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 88,
+        catatan: "Penilaian di SIAKAD tervalidasi. Feedback dosen terdokumentasi. Rubrik penilaian berbasis OBE mulai diterapkan. Beberapa prodi belum konsisten rubrik.",
+        dokumenAMI: "AMI PENDIDIKAN 2024-2025"
+      },
     }
   },
   {
@@ -81,7 +93,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 26-30", penanggungJawab: "UPPS",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 84, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 88, catatan: "Benchmarking tahunan, evaluasi diri 100%" },
+      2025: {
+        skor: 84, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 88,
+        catatan: "Rasio mahasiswa per dosen pembimbing 16:1 (target ≤20:1). Dashboard SPMI mulai berfungsi. Mekanisme PPEPP terintegrasi.",
+        dokumenAMI: "AMI PENDIDIKAN 2024-2025"
+      },
     }
   },
   {
@@ -89,7 +105,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 31-39", penanggungJawab: "UPPS / GKM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 83, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 88, catatan: "MBKM di 40 prodi, 350 mahasiswa MBKM" },
+      2025: {
+        skor: 83, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 86,
+        catatan: "Ketersediaan dokumen kurikulum 100%. Frekuensi tinjauan kurikulum 2x/tahun. Rasio dosen pembimbing TA 8:1 (dari 12:1). OBE mulai diterapkan.",
+        dokumenAMI: "AMI PENDIDIKAN 2024-2025"
+      },
     }
   },
   {
@@ -97,7 +117,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 40-45", penanggungJawab: "BAKU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 82, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 86, catatan: "Serdos 40% (target 52% 2026), 15 Lektor Kepala" },
+      2025: {
+        skor: 89, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 88,
+        catatan: "Total SDM 93 orang. Sertifikasi pendidik 94,60% (target 100%, BELUM TERCAPAI). Dosen Lektor+ 78,40%. Tendik kualifikasi S2 96,40% (BELUM TERCAPAI). Realisasi anggaran SDM 88,70%. 16/18 indikator Tercapai, 2 Belum Tercapai.",
+        dokumenAMI: "AMI SDM 2024-2025"
+      },
     }
   },
   {
@@ -105,7 +129,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 46-47", penanggungJawab: "BAU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 81, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 86, catatan: "Akses disabilitas 40%, koleksi 15.000" },
+      2025: {
+        skor: 95, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95,
+        catatan: "Sarana baik 95,20% (dari 83% di 2023). Prasarana baik 95,80% (dari 84%). Peningkatan signifikan. Beberapa scanner, stand LCD, diesel perlu perbaikan.",
+        dokumenAMI: "AMI SARANA DAN PRASARANA 2024-2025"
+      },
     }
   },
   {
@@ -113,7 +141,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     rujukanPasal: "Pasal 48-51", penanggungJawab: "BAKU / SPI",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 80, status: "MS", temuan: 7, ptK: 5, tindakLanjut: 84, catatan: "BOP Rp 8 juta/mhs, target WTP 2026" },
+      2025: {
+        skor: 95, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95,
+        catatan: "Realisasi pendapatan 95,20% dari target RENOP. Belanja operasional 94,80%. Belanja kemahasiswaan 95,60%. Belanja penelitian 96,10%. Total pendapatan target Rp28.400 juta. Semua indikator Tercapai.",
+        dokumenAMI: "AMI KEUANGAN 2024-2025"
+      },
     }
   },
 
@@ -123,7 +155,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 80, status: "MS", temuan: 8, ptK: 5, tindakLanjut: 84, catatan: "Publikasi 150, Scopus 20, sitasi 200" },
+      2025: {
+        skor: 94, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95,
+        catatan: "Publikasi ilmiah 95,60% (10 dokumen/prodi). HKI 93,40% (meningkat/tahun). Sitasi 90,80%. Adopsi industri 88,50%. Semua Tercapai.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -131,7 +167,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 80, status: "MS", temuan: 7, ptK: 5, tindakLanjut: 84, catatan: "Laporan tepat waktu 80%, etika 85%" },
+      2025: {
+        skor: 95, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 96,
+        catatan: "Panduan penelitian tersedia 100%. Sosialisasi terlaksana 100%. Laporan akhir 96,80%. Integrasi ke RPS 93,50%. Kesesuaian roadmap 97,20%.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -139,7 +179,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM / BAKU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 75, status: "BS", temuan: 10, ptK: 7, tindakLanjut: 80, catatan: "Peneliti aktif 80, lab dengan peralatan 70%" },
+      2025: {
+        skor: 91, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 90,
+        catatan: "Pendanaan penelitian dari RENOP. Fasilitas dan infrastruktur penelitian memadai. SDM peneliti tersertifikasi. Sistem informasi terintegrasi.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -147,7 +191,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 73, status: "BS", temuan: 11, ptK: 7, tindakLanjut: 78, catatan: "TTG 10, komersialisasi 2, sitasi 200, RBL 25" },
+      2025: {
+        skor: 92, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 93,
+        catatan: "Adopsi industri 88,50%. Sitasi 90,80%. Integrasi RPS 93,50%. Hasil penelitian diadopsi untuk pembelajaran dan masyarakat.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -155,7 +203,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 76, status: "MS", temuan: 9, ptK: 6, tindakLanjut: 80, catatan: "SINTA 1-3: 30, Scopus: 15, open access 25" },
+      2025: {
+        skor: 94, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 94,
+        catatan: "Publikasi 95,60% (10 dokumen/prodi/tahun). Sitasi 90,80%. Buku ilmiah meningkat. Semua indikator Tercapai.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -163,7 +215,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 65, status: "BS", temuan: 14, ptK: 9, tindakLanjut: 68, catatan: "Paten 3 (1 granted), HKI 10, komersialisasi 2" },
+      2025: {
+        skor: 93, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 90,
+        catatan: "HKI (Paten, Hak Cipta, Desain) 93,40% (meningkat/tahun). Adopsi industri 88,50%. Semua Tercapai.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -171,7 +227,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 72, status: "BS", temuan: 12, ptK: 8, tindakLanjut: 78, catatan: "Seminar 5, repository 5000 akses, media 15" },
+      2025: {
+        skor: 90, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 88,
+        catatan: "Sosialisasi dan pelatihan terkait penelitian terlaksana 100%. Diseminasi melalui seminar dan forum ilmiah. Perlu peningkatan forum internasional.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
   {
@@ -179,7 +239,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 67, status: "BS", temuan: 12, ptK: 8, tindakLanjut: 72, catatan: "MoU 20, internasional 5, joint 5, visiting 3" },
+      2025: {
+        skor: 89, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 86,
+        catatan: "Proporsi skema penelitian 96,80%. Kerjasama dengan mitra industri perlu peningkatan. Kolaborasi antar-prodi mulai berkembang.",
+        dokumenAMI: "AMI PENELITIAN 2024-2025"
+      },
     }
   },
 
@@ -189,7 +253,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 73, status: "BS", temuan: 11, ptK: 7, tindakLanjut: 78, catatan: "Luaran 80, produk 15, publikasi 30" },
+      2025: {
+        skor: 95, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 96,
+        catatan: "Publikasi PkM 94,50%. HKI/TTG 93,80%. Adopsi masyarakat 91,20%. Penyelesaian masalah mitra 96,80%. Semua Tercapai.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -197,7 +265,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 76, status: "MS", temuan: 8, ptK: 5, tindakLanjut: 82, catatan: "Reviewer 10 orang, etika 85%, laporan tepat waktu 70%" },
+      2025: {
+        skor: 96, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 97,
+        catatan: "Panduan PkM tersedia 100%. Sosialisasi 100%. Laporan akhir 96,20%. Integrasi ke RPS 92,80%. Kesesuaian roadmap 95,40%.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -205,7 +277,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM / BAKU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 70, status: "BS", temuan: 10, ptK: 7, tindakLanjut: 76, catatan: "Dana internal Rp 250 juta, eksternal Rp 150 juta, pelaksana 60" },
+      2025: {
+        skor: 92, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 92,
+        catatan: "Pendanaan PkM dari RENOP. SDM pengabdi tersertifikasi. Fasilitas penunjang PkM memadai. Sistem informasi PkM mulai berfungsi.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -213,7 +289,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 66, status: "BS", temuan: 11, ptK: 7, tindakLanjut: 74, catatan: "Dampak terukur 20, replikasi 5, berkelanjutan 15" },
+      2025: {
+        skor: 94, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 95,
+        catatan: "Adopsi hasil PkM oleh masyarakat 91,20%. Penyelesaian masalah mitra 96,80%. TTG meningkat dari 20% (2023). Semua Tercapai.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -221,7 +301,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 64, status: "BS", temuan: 12, ptK: 8, tindakLanjut: 72, catatan: "Publikasi 30, SINTA 15, best practice 10" },
+      2025: {
+        skor: 93, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 92,
+        catatan: "Publikasi ilmiah dari PkM 94,50% (meningkat/tahun). Diseminasi melalui forum dan media. Perlu peningkatan publikasi internasional.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -229,7 +313,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 60, status: "BS", temuan: 14, ptK: 9, tindakLanjut: 66, catatan: "Produk 20, adopsi 10, komersialisasi 2" },
+      2025: {
+        skor: 92, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 90,
+        catatan: "HKI/TTG 93,80% (meningkat/tahun). Produk PkM diadopsi masyarakat. TTG masih perlu peningkatan dari 20% (2023).",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -237,7 +325,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 62, status: "BS", temuan: 14, ptK: 9, tindakLanjut: 68, catatan: "Seminar 3, pameran 1, media 10, repository 2000 akses" },
+      2025: {
+        skor: 91, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 89,
+        catatan: "Sosialisasi dan pelatihan PkM 100%. Diseminasi melalui seminar dan media. Perlu peningkatan forum diseminasi tingkat nasional.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -245,17 +337,25 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "LPPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 60, status: "BS", temuan: 12, ptK: 8, tindakLanjut: 66, catatan: "MoU 15, pemerintah 5, DUDI 8, internasional 2" },
+      2025: {
+        skor: 89, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 86,
+        catatan: "Proporsi skema PkM 95,60%. Jumlah kegiatan PkM progresif 94,20%. Kerjasama dengan mitra luar perlu peningkatan.",
+        dokumenAMI: "AMI PENGABDIAN 2024-2025"
+      },
     }
   },
 
-  // === 9 STANDAR TAMBAHAN PELAMPAUAN SN DIKTI ===
+  // === 9 STANDAR TAMBAHAN ===
   {
     no: 25, nama: "Standar VMTS", kode: "VMTS", kategori: "Tambahan",
     penanggungJawab: "Senat Universitas",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 85, status: "MS", temuan: 4, ptK: 2, tindakLanjut: 90, catatan: "Pemahaman 75%, integrasi VMTS 80%, dashboard 40%" },
+      2025: {
+        skor: 89, status: "MS", temuan: 4, ptK: 2, tindakLanjut: 90,
+        catatan: "Rata-rata keseluruhan 3,54 (Likert 1-4, Sangat Baik). Dosen 3,54, Tendik 3,48. Sosialisasi VMTS berjalan. Pemahaman civitas akademika baik. Perlu peningkatan metode sosialisasi (skor 3,38).",
+        dokumenAMI: "AMI VMTS 2024-2025"
+      },
     }
   },
   {
@@ -263,7 +363,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "Senat / SPI",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 80, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 84, catatan: "SOTK 85%, SPI 5 audit, Senat 4 rapat" },
+      2025: {
+        skor: 90, status: "MS", temuan: 4, ptK: 2, tindakLanjut: 92,
+        catatan: "Rata-rata keseluruhan 3,59 (Likert 1-4, Sangat Baik). SD 0,58. Tata pamong berjalan baik. Koordinasi antar-unit 3,50. Pelayanan administrasi akademik 3,45 (terendah). Evaluasi ditindaklanjuti 3,52.",
+        dokumenAMI: "AMI TPTK 2024-2025"
+      },
     }
   },
   {
@@ -271,7 +375,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "Wakil Rektor III",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 80, status: "MS", temuan: 7, ptK: 5, tindakLanjut: 84, catatan: "Mahasiswa 8000, beasiswa 15%, UKM 25, serap <6bln 60%" },
+      2025: {
+        skor: 93, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 94,
+        catatan: "AEE PT 92,50% (≥90%). Lulusan bekerja/wirausaha 84,30% (≥80%). Mahasiswa berkegiatan MBKM 68,40% (≥60%). Program integritas akademik 95,00%. Capaian kompetensi lulusan 91,80%. Semua Tercapai.",
+        dokumenAMI: "AMI MAHASISWA 2024-2025"
+      },
     }
   },
   {
@@ -279,7 +387,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "BAKU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 77, status: "MS", temuan: 8, ptK: 5, tindakLanjut: 82, catatan: "SDM 350, pelatihan 15, retensi 80%" },
+      2025: {
+        skor: 89, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 88,
+        catatan: "Total SDM 93 orang. Sertifikasi pendidik 94,60% (BELUM TERCAPAI, target 100%). Dosen Lektor+ 78,40%. Tendik S2 96,40% (BELUM TERCAPAI). Realisasi anggaran SDM 88,70%. 16/18 indikator Tercapai, 2 Belum Tercapai. AMI Kesejahteraan: rata-rata 96,32% (Sangat Baik).",
+        dokumenAMI: "AMI SDM 2024-2025 & AMI KESEJAHTERAAN 2024-2025"
+      },
     }
   },
   {
@@ -287,7 +399,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "BAKU / BAU / SPI",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 76, status: "MS", temuan: 9, ptK: 6, tindakLanjut: 82, catatan: "Anggaran Rp 80 m, opini WDP, smart campus 5, inventaris 85%" },
+      2025: {
+        skor: 95, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 95,
+        catatan: "Keuangan: realisasi pendapatan 95,20%, belanja operasional 94,80%, kemahasiswaan 95,60%, penelitian 96,10%. Sarana: 95,20% baik (dari 83%). Prasarana: 95,80% baik (dari 84%). Target pendapatan Rp28.400 juta. Semua Tercapai.",
+        dokumenAMI: "AMI KEUANGAN 2024-2025 & AMI SARANA DAN PRASARANA 2024-2025"
+      },
     }
   },
   {
@@ -295,7 +411,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "BAU",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 75, status: "BS", temuan: 8, ptK: 5, tindakLanjut: 80, catatan: "MoU 40, MoA 60, internasional 10, implementasi 60%" },
+      2025: {
+        skor: 80, status: "BS", temuan: 8, ptK: 5, tindakLanjut: 80,
+        catatan: "Tidak ada AMI khusus Kerjasama. Data dari AMI MBKM: kerjasama mitra 92,40%. MoU/MoA aktif namun implementasi perlu peningkatan. Perlu AMI khusus untuk Kerjasama.",
+        dokumenAMI: "Tidak ada AMI khusus (estimasi dari AMI MBKM)"
+      },
     }
   },
   {
@@ -303,7 +423,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "UPPS",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 68, status: "BS", temuan: 12, ptK: 8, tindakLanjut: 72, catatan: "MBKM di 25 prodi, 200 mahasiswa, mitra 30" },
+      2025: {
+        skor: 96, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 96,
+        catatan: "Dokumen Standar MBKM 100. Buku Panduan MBKM 100. Pemetaan Mitra 94,20. Kerjasama mitra 92,40. Rata-rata capaian 95,50 (Sangat Baik). Rekognisi & konversi nilai 96,90. SKPI 95,40. Semua indikator Sangat Baik.",
+        dokumenAMI: "AMI MBKM 2024-2025"
+      },
     }
   },
   {
@@ -311,7 +435,11 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "PPM",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 75, status: "BS", temuan: 8, ptK: 5, tindakLanjut: 80, catatan: "Lulusan 1500, publikasi 200, paten 15, IKU 65%" },
+      2025: {
+        skor: 88, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 88,
+        catatan: "Lulusan terserap 86,50%. IPK 3,48. Publikasi penelitian 95,60%. Publikasi PkM 94,50%. HKI penelitian 93,40%. HKI/TTG PkM 93,80%. Berdasarkan AMI Pendidikan, Penelitian, dan PkM.",
+        dokumenAMI: "AMI PENDIDIKAN + PENELITIAN + PENGABDIAN 2024-2025"
+      },
     }
   },
   {
@@ -319,25 +447,29 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     penanggungJawab: "BAA",
     ami: {
       2021: null, 2022: null, 2023: null, 2024: null,
-      2025: { skor: 78, status: "MS", temuan: 6, ptK: 4, tindakLanjut: 82, catatan: "Kepuasan 70%, OSS 3 unit, layanan digital 50%" },
+      2025: {
+        skor: 88, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 88,
+        catatan: "Ganjil 3,48 → Genap 3,58 (Likert 1-4, Sangat Baik). 17/20 indikator Sangat Baik (Genap). Tren: 3,42 (2023-1) → 3,48 (2024-1) → 3,58 (2024-2). Info akademik SIAKAD 3,70. Prioritas perbaikan: beasiswa, pendampingan magang.",
+        dokumenAMI: "AMI PELAYANAN KEPADA MAHASISWA GANJIL & GENAP 2024-2025"
+      },
     }
   },
 ];
 
 // ============================================================
-// 8 INDIKATOR KINERJA UTAMA (IKU) - Capaian hanya 2025
+// 8 IKU - Capaian 2025 dari AMI Pendidikan
 // ============================================================
 export const IKU_LIST: IKU[] = [
   {
     no: 1, nama: "Lulusan terserap DUDI <6 bulan", unit: "Wakil Rektor III",
     baseline2025: 60, target2030: 92,
-    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 60 },
+    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 87 },
     trend: "up"
   },
   {
     no: 2, nama: "Mahasiswa mendapat pengalaman luar kampus", unit: "UPPS",
     baseline2025: 20, target2030: 40,
-    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 20 },
+    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 68 },
     trend: "up"
   },
   {
@@ -355,7 +487,7 @@ export const IKU_LIST: IKU[] = [
   {
     no: 5, nama: "Hasil kerja dosen digunakan masyarakat", unit: "LPPM",
     baseline2025: 15, target2030: 35,
-    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 15 },
+    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 18 },
     trend: "up"
   },
   {
@@ -367,7 +499,7 @@ export const IKU_LIST: IKU[] = [
   {
     no: 7, nama: "Mata kuliah metode praktik (%)", unit: "UPPS",
     baseline2025: 40, target2030: 60,
-    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 40 },
+    capaian: { 2021: null, 2022: null, 2023: null, 2024: null, 2025: 45 },
     trend: "up"
   },
   {
@@ -379,43 +511,27 @@ export const IKU_LIST: IKU[] = [
 ];
 
 // ============================================================
-// 4 DOKUMEN MUTU - SINKRONISASI
+// 4 DOKUMEN MUTU
 // ============================================================
 export const DOKUMEN_MUTU: DokumenMutu[] = [
   {
-    kode: "SPMI/PPM/DM/KBJ/2025",
-    nama: "Kebijakan Mutu SPMI",
-    halaman: 65,
-    revisi: "01",
-    tanggalPenetapan: "1 September 2025",
-    status: "Baru",
+    kode: "SPMI/PPM/DM/KBJ/2025", nama: "Kebijakan Mutu SPMI", halaman: 65,
+    revisi: "01", tanggalPenetapan: "1 September 2025", status: "Baru",
     matchStandar: "Payung strategis untuk seluruh 33 standar SPMI"
   },
   {
-    kode: "SPMI/PPM/DM/MNL/2025",
-    nama: "Manual Mutu SPMI",
-    halaman: 55,
-    revisi: "01",
-    tanggalPenetapan: "1 September 2025",
-    status: "Baru",
+    kode: "SPMI/PPM/DM/MNL/2025", nama: "Manual Mutu SPMI", halaman: 55,
+    revisi: "01", tanggalPenetapan: "1 September 2025", status: "Baru",
     matchStandar: "Panduan operasional PPEPP untuk 33 standar"
   },
   {
-    kode: "SPMI/PPM/DM/STD/2025",
-    nama: "Standar Mutu SPMI",
-    halaman: 312,
-    revisi: "01",
-    tanggalPenetapan: "1 September 2025",
-    status: "Baru",
+    kode: "SPMI/PPM/DM/STD/2025", nama: "Standar Mutu SPMI", halaman: 312,
+    revisi: "01", tanggalPenetapan: "1 September 2025", status: "Baru",
     matchStandar: "33 standar (8 Pendidikan + 8 Penelitian + 8 PkM + 9 Tambahan)"
   },
   {
-    kode: "SPMI/PPM/DM/FORM/2025",
-    nama: "Formulir Mutu SPMI",
-    halaman: 132,
-    revisi: "01",
-    tanggalPenetapan: "1 September 2025",
-    status: "Baru",
+    kode: "SPMI/PPM/DM/FORM/2025", nama: "Formulir Mutu SPMI", halaman: 132,
+    revisi: "01", tanggalPenetapan: "1 September 2025", status: "Baru",
     matchStandar: "38 formulir pendukung PPEPP untuk 33 standar"
   },
 ];
@@ -481,20 +597,4 @@ export function getStatusLabel(status: StatusAMI): string {
     case "MSV": return "Menyimpang dari Standar";
     default: return "-";
   }
-}
-
-export function getSkorColor(skor: number): string {
-  if (skor >= 85) return "text-emerald-400";
-  if (skor >= 75) return "text-cyan-400";
-  if (skor >= 65) return "text-amber-400";
-  if (skor >= 50) return "text-orange-400";
-  return "text-rose-400";
-}
-
-export function getSkorBgColor(skor: number): string {
-  if (skor >= 85) return "bg-emerald-500";
-  if (skor >= 75) return "bg-cyan-500";
-  if (skor >= 65) return "bg-amber-500";
-  if (skor >= 50) return "bg-orange-500";
-  return "bg-rose-500";
 }

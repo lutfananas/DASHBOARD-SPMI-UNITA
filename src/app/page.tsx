@@ -667,6 +667,7 @@ export default function DashboardSPMI() {
                       <TableHead className="w-16 font-mono text-[10px] uppercase tracking-wider text-muted-foreground">PTK</TableHead>
                       <TableHead className="w-28 font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Tindak Lanjut</TableHead>
                       <TableHead className="min-w-[280px] font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Catatan AMI</TableHead>
+                      <TableHead className="min-w-[160px] font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Dokumen AMI</TableHead>
                     </TableRow>
                   </TableHeader>
                   <TableBody>
@@ -758,6 +759,15 @@ export default function DashboardSPMI() {
                           </TableCell>
                           <TableCell className="text-xs text-muted-foreground">
                             {ami ? ami.catatan : <span className="font-mono text-muted-foreground/40">Belum ada data AMI</span>}
+                          </TableCell>
+                          <TableCell>
+                            {ami?.dokumenAMI ? (
+                              <span className="text-[10px] font-mono text-sky-300/80 px-1.5 py-0.5 rounded bg-sky-500/5 border border-sky-500/10 inline-block">
+                                {ami.dokumenAMI}
+                              </span>
+                            ) : (
+                              <span className="text-muted-foreground/40 font-mono text-[10px]">—</span>
+                            )}
                           </TableCell>
                         </TableRow>
                       );

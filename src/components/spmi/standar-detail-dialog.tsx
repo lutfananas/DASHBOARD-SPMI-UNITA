@@ -292,11 +292,19 @@ export function StandarDetailDialog({
             </Table>
           </ArkhamCard>
 
+          {/* Sumber Dokumen AMI */}
+          {ami2025?.dokumenAMI && (
+            <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Sumber Dokumen AMI</p>
+              <p className="text-xs text-sky-300 font-mono">{ami2025.dokumenAMI}</p>
+            </div>
+          )}
+
           {/* Info */}
           <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5 text-xs text-muted-foreground">
             <p className="font-mono">
               <span className="text-sky-300 font-bold">Catatan:</span> Data AMI tahun 2021-2024 belum tersedia.
-              Tahun 2025 menampilkan hasil AMI terbaru sesuai dokumen mutu SPMI UNITA 2025.
+              Tahun 2025 menampilkan hasil AMI terbaru dari 15 dokumen AMI 2024-2025 yang diaudit oleh PPM UNITA.
               Untuk mengisi data tahun sebelumnya, unggah dokumen hasil AMI historis.
             </p>
           </div>
