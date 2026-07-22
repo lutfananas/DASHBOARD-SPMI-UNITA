@@ -19,7 +19,8 @@ export const metadata: Metadata = {
   keywords: ["SPMI", "AMI", "Penjaminan Mutu", "Permen 39/2025", "Universitas Tulungagung", "Audit Mutu Internal"],
   authors: [{ name: "Pusat Penjaminan Mutu UNITA" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/unita-logo.png",
+    apple: "/unita-logo.png",
   },
   openGraph: {
     title: "Dashboard SPMI UNITA",

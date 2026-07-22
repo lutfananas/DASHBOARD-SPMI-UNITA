@@ -208,8 +208,8 @@ export default function DashboardSPMI() {
         <header className="mb-6 relative">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             <div className="flex items-center gap-4">
-              <div className="w-14 h-14 rounded-lg bg-gradient-to-br from-sky-500 to-blue-800 flex items-center justify-center glow-blue-strong border border-sky-400/30">
-                <ShieldCheck className="w-8 h-8 text-white" />
+              <div className="w-14 h-14 rounded-lg overflow-hidden flex items-center justify-center glow-blue-strong border border-sky-400/30 bg-white/5">
+                <img src="/unita-logo.png" alt="UNITA Logo" className="w-full h-full object-contain" />
               </div>
               <div>
                 <h1 className="text-2xl lg:text-3xl font-bold gradient-text-blue tracking-tight">
@@ -988,7 +988,7 @@ export default function DashboardSPMI() {
         <footer className="mt-auto pt-6 pb-4 border-t border-sky-500/10">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 text-[10px] text-muted-foreground font-mono uppercase tracking-wider">
             <div className="flex items-center gap-2">
-              <Cpu className="w-3.5 h-3.5 text-sky-400" />
+              <img src="/unita-logo.png" alt="UNITA" className="w-5 h-5 object-contain" />
               <span>
                 SPMI UNITA • Pusat Penjaminan Mutu • Universitas Tulungagung
               </span>
