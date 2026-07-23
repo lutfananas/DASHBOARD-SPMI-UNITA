@@ -1,0 +1,218 @@
+250
+200
+L A P O R A N
+150
+A U D I T
+100
+M O N E V I N
+50
+MERDEKA BELAJAR KAMPUS MERDEKA
+2021-2022
+0
+0 10 20 30
+
+=== PAGE BREAK ===
+
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Kode Dok. : Monev-in – MBKM
+Universitas Tulungagung
+Tanggal : 3 Agustus 2022
+Laporan Audit Dan Monitoring Revisi :
+Evaluasi Internal ( Monevin ) Halaman :
+MBKM
+LAPORAN AUDIT DAN MONITORING
+EVALUASI INTERNAL ( MONEVIN )
+MERDEKA BELAJAR KAMPUS
+MERDEKA
+Proses Penanggungjawab Tgl.
+Nama Jabatan Paraf
+1. Perumus Desi Rahmawati, SE.,M.M Angg.Audit & Monev-in 1-08-2022
+2. Pemeriksa Eni Minarni, SE.Ak.,M.Ak Kabag. Audit & Monev-in 1-08-2022
+3. Persetujuan Anang Sugeng C., S.AP., M.Si. Ketua PPM 1-08-2022
+4. Penetapan Drs. Muharsono, M.Si Rektor 1-08-2022
+5. Pengendalian Dra. Dwi Iriani, M.AP. Kabag. Adm. Akademik 1-08-2022
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Maha Esa, Monitoring dan
+Evaluasi Implementasi Merdeka Belajar Kampus Merdeka (MBKM) telah dapat
+diselesaikan dan dilaporkan. Kami mengucapkan terima kasih kepada berbagai pihak
+yang telah banyak membantu dalam pelaksanaan kegiatan ini, dari mulai awal
+pelaksanaan sampai akhir pelaksanaan kegiatan sehingga dapat tersusun dalam bentuk
+laporan untuk periode Tahun Akademik 2021/ 2022.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materiil kepada Pusat Penjaminan Mutu.
+2. Biro Administasi Akademik Universitas Tulungagung sebagai unit
+pengelolan dan pelaporan kegiatan mahasiswa\
+3. LPPM Universitas Tulungagung yang telah berpartisipasi aktif dalam
+penjaringan koneksi kerjasama dengan pihak eksternal
+4. Sistem informasi Universitas Tulungagung sebagai memfasilitas portal
+penunjang kelancaran proses MBKM
+5. Dekan Universitas Tulungagung, yang telah memberikan dukungan dan
+motivasi kepada seluruh dosen dan tenaga kependidikan dalam
+meningkatkan memfasilitasi mahasiswa pada program MBKM
+6. Ketua Program Studi Universitas Tulungagung, yang telah memberikan
+dukungan dan motivasi kepada seluruh dosen dan tenaga kependidikan
+dalam memfasilitasi mahasiswa pada program MBKM
+7. Seluruh dosen yang berpartisipasi aktif dalam mmonitoring pelaksanaan
+MBKM serta pembimbing
+Audit dan Monev Implementasi MBKM ini merupakan acuan perbaikan kualitas
+dan peningkatan mutu proses MBKM di Universitas Tulungagung. Dengan
+terlaksananya monev ini kami berharap bisa memberikan masukan pada perbaikan
+kualitas implementasi MBKM pada tahun periode selanjutnya.
+Tulungagung, 3 Agustus 2022
+Ketua,
+Anang Sugeng Cahyono, S.AP., M.Si.
+NIDN. 0708088201
+
+=== PAGE BREAK ===
+
+1. PENDAHULUAN
+Kebijakan MBKM, merupakan kebijakan Menteri Pendidikan dan
+Kebudayaan, untuk mengakomodir amanah yang disebutkan oleh Permendikbud No.3
+Tahun 2020 atau SN Dikti. Merdeka Belajar - Kampus Merdeka memberikan
+kesempatan bagi mahasiswa memiliki pengalaman belajar lain di luar program
+studinya. Kunci keberhasilan perguruan tinggi dalam mengimplementasikan kebijakan
+ini adalah adanya kurikulum yang adaptif dan kerja sama antara program studi dengan
+pihak lain yang dapat mendukung keberhasilan proses pembelajaran mahasiswa. Untuk
+itu, diharapkan program studi dapat melakukan pengembangan kurikulumnya sesuai
+dengan kebijakan MBKM, guna menghasilkan mahasiswa berkompeten dan sejalan
+dengan kebutuhan dunia kerja di masa depan. Berkaitan dengan hal tersebut maka
+disusunlah laporan Monitoring dan Evaluasi impelementasi Merdeka Belajar Kampus
+Merdeka.
+Monitoring impelementasi MBKM bertujuan untuk memperoleh informasi
+yang dieprlukan untuk perbaikan pelaksanaan MBKM pada periode sebelumnya pada
+periode mendatang. Sedangkan Evaluasi impelementasi MBKM dilakukan untuk
+melakukan penilaian terhadap proses pelaksanaan MBKM secara menyeluruh. Baik
+monitoring maupun evaluasi dilakukan terhadap rancangan, implementasi, dan hasil-
+hasil yang dicapai. Monitoring terhadap implementasi MBKM tertuang dalam buku
+pedoman pelaksanaan MBKM oleh Biro Akademik menjadi dasar acuan struktur
+kurikulum, deskripsi mata kuliah, dan konversi pada implementasi MBKM yang
+menjadi standar oleh setiap Program Studi. Sedangkan Monitoring impelmentasi jenis
+MBKM yang di lakukan meliputi kinerja dosen sebagai pembimbing dan pemanfaatan
+sarana dukung yang tersedia dari Universitas. Sementara itu, monitoring terhadap hasil
+dilakukan melalui kinerja mahasiswa dalam mengikuti proses MBKM dan di control
+aktivitasnya melalui portal MBKM.
+Dalam rangka menyiapkan lulusan yang tangguh dalam menghadapi perubahan
+sosial, budaya, dunia kerja, dan teknologi yang semakin berkembang dengan pesat di
+era revolusi industri 4.0, kompetensi mahasiswa harus semakin diperkuat sesuai dengan
+perkembangan yang ada. Diperlukan adanya link and match antara lulusan pendidikan
+tinggi bukan hanya dengan dunia usaha dan dunia industri saja tetapi juga dengan masa
+depan yang semakin cepat mengalami perubahan. Berdasarkan hal tersebut Menteri
+Pendidikan dan Kebudayaan telah memberlakukan kebijakan baru di bidang
+
+=== PAGE BREAK ===
+
+pendidikan tinggi melalui program “Merdeka Belajar – Kampus Merdeka (MBKM)”
+yang saat ini mulai diterapkan oleh perguruan tinggi. Kebijakan Mendikbud tersebut
+berkaitan dengan pemberian kebebasan bagi mahasiswa untuk mengikuti kegiatan
+pembelajaran selama maksimum tiga semester belajar di luar program studi dan
+kampusnya.
+Pemenuhan masa dan beban belajar bagi mahasiswa program sarjana atau
+sarjana terapan dapat dilaksanakan:
+1. Mengikuti seluruh proses pembelajaran dalam program studi pada perguruan
+tinggi sesuai masa dan beban belajar; dan
+2. Mengikuti proses pembelajaran di dalam program studi untuk memenuhi
+sebagian masa dan beban belajar dan sisanya mengikuti proses pembelajaran di
+luar program studi.
+Terdapat 9 Kebijakan MBKM memberikan kesempatan kepada mahasiswa
+untuk mendapatkan pengalaman belajar yang lebih luas dan kompetensi baru melalui
+beberapa kegiatan pembelajaran di antaranya pertukaran pelajar, magang/praktik kerja,
+riset, proyek independen, kegiatan wirausaha, proyek kemanusiaan, asistensi mengajar
+di satuan pendidikan, dan proyek di desa/Kuliah Kerja Nyata Tematik. Selain itu,
+mahasiswa juga diberikan kebebasan untuk mengikuti kegiatan belajar di luar program
+studinya di dalam perguruan tinggi yang sama dengan bobot sks tertentu. Semua
+kegiatan tersebut dapat dilakukan oleh mahasiswa dengan dibimbing dosen dan
+diperlukan adanya perjanjian kerja sama jika dilakukan bersama pihak di luar program
+studi.
+2. TUJUAN
+Tujuan Monitoring dan Evaluasi Impelementasi proses Merdeka Belajar
+Kampus Merdeka sebagai berikut:
+1. Memastikan bahwa semua proses implementasi kurikulum berjalan sesuai
+dengan rencana.
+2. Mengetahui kendala-kendala yang terjadi yang membutuhkan penanganan
+segera.
+3. Mengetahui hasil dari semua proses kurikulum, meliputi pengadaan buku,
+pelatihan, proses pembelajaran dan pendampingan.
+4. Mengetahui hasil penerapan kurikulum baru terhadap mahasiswa, dosen dan
+pengelolaan akademik
+
+=== PAGE BREAK ===
+
+5. Pelaksanaan pembelajaran sesuai dengan standar yang telahditetapkan sehingga
+dapat menghasilkan lulusan yang sesuai dengan kompetensinya serta memenuhi
+harapan berbagai pemangku kepentingan.
+3. MANFAAT MONITORING DAN EVALUASI
+1. Hasil monev merupakan data yang sangat penting untuk dijadikan sebagai
+dasar perbaikan proses implementasi Merdeka Belajar Kampus Merdeka.
+2. Hasil monev digunakan sebagai dasar pengambilan keputusan maupun
+kebijakan berikutnya untuk menjamin kesinambungan implementasi Merdeka
+Belajar Kampus Merdeka.
+4. RUANG LINGKUP
+Ruang lingkup monitoring dan evaluasi internal pemahaman Visi, Misi, tujuan dan
+Sasaran Universitas Tulungagung ditujukan kepada seluruh civitas akademik
+Dosen, Tenaga Kependidikan, dan Mahasiswa
+5. PROSEDUR
+a. PPM mengidentifikasi standar Implementasi MBKM Universitas Tulungagung
+b. PPM membuat instrument kuesioner melalui Formulir Mutu Implementasi
+MBKM dan selanjutnya di gunakan Tim Audit Internal
+c. Tim Audit Evaluasi melakukan Evaluasi melalui audit implementasi MBKM
+kepada seluruh Universitas Tulungagung yang dilakukan satu tahun sekali
+d. Tim Audit menyerahkan laporan hasil evaluasi kepada PPM untuk di Analisa
+dan mengukur tingkat capaian implemengtasi MBKM berdasarkan instrument
+yang telah didapatkan dari data hasil Formulir Mutu Kuesioner Implementasi
+MBKM serta di olah dan di tentukan prosentasi indikator yang perlu di tindak
+lanjuti dalam bentuk RTL
+e. Hasil Evaluasi dalam bentuk Rencana Tindak Lanjut kemudian dilaporkan
+kepada Rektor untuk dijadikan bahan Rapat tinjauan Manajemen dan Rapat
+Akademik.
+f. Universitas Tulungagung dalam hal ini Rektor mengadakan Rapat Tinjauan
+Manajemen dan Rapat Akademik untuk merumuskan tindak lanjut hasil
+evaluasi dan melalakukan perumusan strategi peningkatan Implementasi
+MBKM di Universitas Tulungagung.
+6. PELAKSANAAN IMPLEMENTASI MBKM
+
+=== PAGE BREAK ===
+
+Implementasi merdeka Belajar Kampus Merdeka oleh seluruh Program Studi di
+Universitas Tulungagung terprogram pada semester 5 s/d 7. Seluruh mahasiswa
+yang mengikuti programa MBKMs harus menyiapkan beberapa syarat sebagai
+berikut:
+1. Mahasiswa memastikan data diri (nama, tempat tanggal lahir, NIM dan
+NIK) sesuai dengan data di PDDIKTI (https://pddikti.kemdikbud.go.id)
+2. Surat rekomendasi dari Perguruan Tinggi (Program Studi/Dekan/ Wakil
+Dekan bidang Kemahasiswaan)
+3. Surat keterangan sehat dari puskesmas/rumah sakit
+4. Sertifikat prestasi minimal tingkat provinsi selama menjadi mahasiswa
+(ini dilampirkan khusus untuk mahasiswa yang memiliki IPK di bawah
+2,75
+5. Surat persetujuan orang tua/wali
+6. Surat pakta integritas
+7. Mahasiswa memiliki akun dan terdaftar pada portal MBKM
+Seluruh mahasiswa jenjang S1 Universitas Tulungagung berhak mengikuti
+program MBKM, Mahasiswa akan menerima bantuan potongan UKT sebesar
+maksimal Rp 2.400.000 dengan syarat bukan penerima bantuan UKT dari
+beasiswa pemerintah lainnya, apabila UKT lebih kecil daripada UKT maka akan
+di bayarkan sesuai dengan at cost (Sesuai besaran UKT mahasiswa).
+7. HASIL MONEVIN
+Hasil daripada Impelementasi pelaksanaan MBKM pada tahun ajaran
+2021/2022 masih terbatas terdapat 3 mahasiswa Fakultas Ekonomi yang lolo
+dalam pelaksanan MBKM. Skema yang yang diikuti meliputi Kegiatan
+Kewirausahaan dan Studi Proyek Indepen.
+8. KESIMPULAN
+Hasil evaluasi menunjukan pelaksanaan MBKM di lingkungan Universitas
+Tulungagung masih sangat kurang. Minat antusias mahasiswa sebenarnya sudah
+sangat tinggi untuk mengikuti program MBKM namun tingkat seleksi pada portal
+MBKM juga memiliki kualifikasi tertentu.
+
+=== PAGE BREAK ===
+
+9. REKOMENDASI
+Dengan melihat melihat hasil monitoring dan evaluasi pelaksanaan MBKM maka
+dapat direkomendasikan sebagai berikut:
+a. Sosilasisasi Tata Cara Pendaftaran MBKM secara intens
+b. Pelatihan tes seleksi MBKM
+c. Berkejasama dengan Mitra untuk mendaftar menjadi anggota MBKM
+d. Penambahan pejabat penanggungjawab khusus pelaporan MBKM

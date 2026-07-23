@@ -341,6 +341,7 @@ export function StandarDetailDialog({
           <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5 text-xs text-muted-foreground">
             <p className="font-mono">
               <span className="text-sky-300 font-bold">Catatan:</span> Data AMI multi-tahun.
+              Tahun 2022: Permendikbud 3/2020 & 5/2020 (11 dokumen AMI).
               Tahun 2023: Permendikbud 3/2020 & 5/2020 (14 dokumen AMI).
               Tahun 2024: Permendikbudristek 53/2023 (20 dokumen AMI).
               Tahun 2025: Permen 39/2025 (15 dokumen AMI).

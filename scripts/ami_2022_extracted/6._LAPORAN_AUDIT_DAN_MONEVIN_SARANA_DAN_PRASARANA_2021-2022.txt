@@ -1,0 +1,258 @@
+250
+200
+L A P O R A N
+150
+A U D I T
+100
+M O N E V I N
+50
+SARANA DAN PRASARANA
+2021-2022
+0
+0 10 20 30
+
+=== PAGE BREAK ===
+
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Universitas Kode Dok. : Monev-in - SARPRAS
+Tulungagung Tanggal : 3 Agustus 2022
+Laporan Audit Dan Monitoring Revisi :
+Evaluasi Internal ( Monevin ) Halaman :
+Sarana Dan Prasarana
+LAPORAN MONITORING EVALUASI
+INTERNAL ( MONEVIN )
+SARANA DAN PRASARANA
+Proses Penanggungjawab Tgl.
+Nama Jabatan Paraf
+1. Perumus Desi Rahmawati, SE.,M.M Angg.Audit & Monev-in 3-08-2022
+2. Pemeriksa Eni Minarni, SE.Ak.,M.Ak Kabag. Audit & Monev-in 3-08-2022
+3. Persetujuan Anang Sugeng C., S.AP., M.Si. Ketua PPM 3-08-2022
+4. Penetapan Drs. Muharsono, M.Si Rektor 3-08-2022
+5. Pengendalian Dr. Wenni Wahyuandari, SE.,M.Ak. Wakil Rektor II 3-08-2022
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Maha Esa, aporan
+audit dan monitoring evaluasi sarana dan prasarana telah dapat diselesaikan dan
+dilaporkan. Kami mengucapkan terima kasih kepada berbagai pihak yang telah
+banyak membantu dalam pelaksanaan kegiatan ini, dari mulai awal pelaksanaan
+sampai akhir pelaksanaan kegiatan sehingga dapat tersusun dalam bentuk laporan
+untuk periode Tahun Akademik 2021/2022.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materil kepada Pusat Penjaminan Mutu.
+2. Wakil Rektor II sebagai penanggungjawab pengelolaan angagran
+Universitas Tulungagung
+3. Ketua Biro Administrasi Umum sebagai pengelola dan pelaksana
+pengembangan Sarana dan Prasarana Universitas Tulungagung
+4. Dekan Universitas Tulungagung yang telah memberikan dukungan
+dalam pengembangan Sarana dan Prasarana
+5. Ketua Program Studi Universitas Tulungagung yang telah memberikan
+dukungan dalam pengembangan Sarana dan Prasarana
+6. Seluruh Dosen dan Tenaga Kependidikan di lingkungan Universitas
+Tulungagung yang berpartisipasi dalam pemeliharaan sarana dan
+prasarana
+7. Seluruh pihak yang membantu menyelesaikan monitoring dan evaluasi
+sarana dan prasarana di lingkungan Universitas Tulungagung
+Audit dan Moniev Sarana dan Prasarana terhadap beberapa aspek praktek
+pengelolaan dan kondisi sarana dan prasarana. Pada bagian akhir laporan monev
+disampaikan rekomendasi untuk beberapa aspek pengelolaan sarana dan prasarana
+yang harus ditindak lanjuti dalam Rencana Tindak Lanjut unit penyelenggara
+layanan terkait. Tindak lanjut dari rekomendasi yang disampaikan akan menjadi
+acuan dalam Rapat Tinjauan Manajemen Universitas Tulungagung
+Tulungagung, 3 Agustus 2022
+Rektor,
+Dr. Muharsono, M.Si.
+NIDN: 0714046001
+SPMI - UNITA i
+
+=== PAGE BREAK ===
+
+1. Pendahuluan
+Kesuksesan proses pelayanan institusi tidak lepas dari kelengkapan dan
+kondisi sarana dan prasarana pendukung dalam menunjang proses
+akademik dan non akademik. Universitas di tuntut untuk terus
+mengembangkan dan mengupdate sarana dan prasarana sesuai dengan
+perkembangan dan kebutuhan stakeholders dalam pemenuhan pelayanan
+yan terbaik. Analisa kebutuhan peningkatan dan pengembangan dapat
+dilakukan salah satunya melalui survey dan Audit Mutu Internal Institusi.
+Audit dan Monev Internal sarana dan Prasana dilaksanakan secara
+berkala dengan tujuan untuk mengetahui pengelolaan dan kondisi sarana
+dan prasarana Institusi. Dengan adanya evaluasi ini untuk mendapatkan
+umpan balik terkait upaya perbaikan secara berkelanjutan dalam
+memberikan pelayanan kepada sivitas akademika dan menentukan
+komponen atau aspek kinerja institusi yang perlu segera ditindaklanjuti
+2. Tujuan
+Audit Monitoring dan Evaluasi Sarana dan Prasarana ini bertujuan
+untuk menilai kinerja tentang kualitas Sarana dan Prasarana di Universitas
+Tulungagung. Disamping hal tersebut pelaksanaan monitoring dan
+evaluasi Sarana Prasana adalah untuk :
+a. Memberikan arahan dan informasi tentang sarana dan prasarana di
+lingkungan Universitas Tulungagung dan memberikan ruang dalam
+pengambilan kebijakan.
+b. Untuk menentukan sarana dan prasarana yang terbaik, sehingga
+dihasilkan optimalisasi pemanfaatan sarana dan prasarana yang
+ada, serta kemungkinan penambahan sarana dan prasarana yang
+baru.
+SPMI - UNITA 1
+
+=== PAGE BREAK ===
+
+c. Penyusunan evaluasi standar sarana dan prasarana juga bertujuan
+sebagai pedoman yang baku yang dapat digunakan dalam
+menunjang pelaksanaan kegiatan penyelenggaraan pendidikan
+sesuai dengan standar sarana dan prasarana di lingkungan
+Universitas Tulungagung.
+3. Sasaran
+a. Menilai kinerja tentang penyediaan sarana dan prasarana di
+lingkungan Universitas Tulungagung
+b. Mengidentifikasi kondisi dan kualitas sarana dan prasarana yang
+tersedia
+c. Mengembangkan / mengupgrade sarana dan prasarana yang
+tersedia
+d. Mengidentifikasi sarana dan prasarana yang tersedia yang perlu
+diperbaiki, dan strategi-strategi perbaikannya
+e. Menginventarisir sarana dan prasarana yang tersedia
+f. Meningkatkan performansi Universitas Tulungagung secara
+keseluruhan.
+4. Ruang Lingkup
+Ruang lingkup Monitoring dan Evaluasi Mahasiswa dalam pedoman
+ini adalah meliputi sarana dan prasrana yang digunakan dalam pelayanan
+dan pengelolaan di universitas meliputi : Ruang pimpinan, Ruang dosen,
+Ruang pimpinan, Laboratorium komputer Laboratorium Bahasa,
+Kendaraan operasional universitas, Ruang administrasi , Ruang
+Laboratorium, dll.
+5. Prosedur
+a. PPM mengidentifikasi Dokumen Standar Mutu Sarana dan
+Prasarana Universitas Tulungagung
+SPMI - UNITA 2
+
+=== PAGE BREAK ===
+
+b. PPM membuat instrument kuesioner Formulir Mutu dengan Tim
+Audit dan selanjutnya di gunakan Tim Audit Internal utnuk proses
+evaluasi berkolaborasi dengan Biro Administrasi Umum untuk data
+dan rekap inventarisasi.
+c. Tim Audit Evaluasi melakukan Evaluasi pelaksanaan standar sarana
+dan sarana prasarana Universitas Tulungagung yang dilakukan satu
+tahun sekali
+d. Tim Audit menyerahkan hasil evaluasi kepada PPM untuk
+mengukur tingkat pelaksnaan standar Sarana dan Prasarana
+berdasarkan instrument yang telah didapatkan dari data hasil
+Formulir Mutu Kuesioner serta di olah dan di tentukan prosentasi
+indikator yang perlu di tindak lanjuti melalalui dokumen Rencana
+Tindak Lanjut (RTL)
+e. Hasil Evaluasi dokumen RTL di laporkan kepada Rektor dijadikan
+acuan Rapat Tinjauan Manajemen (RTM) dan sebagai dasar Rencana
+Tindak Lanjut
+f. Pimpinan Universitas dalam hal ini Rektor mengadakan RTM untuk
+merumuskan tindak lanjut hasil evaluasi dan melalakukan
+perumusan strategi peningkatan pelaksanaan standar Sarana dan
+Prasarana
+6. Pelaksanaan
+Monevin dilaksanakan oleh PPM melalui proses Auditi Mutu Internal
+(AMI) yang dilaksanakan bersamaan dengan jadwal AMI minimal
+setiap satu tahun sekali.
+SPMI - UNITA 3
+
+=== PAGE BREAK ===
+
+6. Hasil Monevin
+Dari data Analisa dan evaluasi didapatkan data sebagaimana di
+tunjukan pada Tabel 1 sebagai berikut:
+Tabel 1. Kondisi dan Jumlah Sarana dan Prasarana di Universitas
+Tulungagung Tahun Akademik 2021/2022
+Kondisi
+No Sarana Jumlah
+Baik/terawat Kurang Baik/Tidak
+Terawat
+1 Gedung Rektorat ✓ 1
+2 Ruang Biro Administasi Akademik ✓ 1
+3 Ruang Biro Administari Umum ✓ 1
+4 Ruang Biro Administasi Keuangan ✓ 1
+5 Ruang Biro Administasi ✓ 1
+6 KRuemanagh Laseimswbaaagna Penelitian dan ✓ 1
+Pengabdian Masyarakat
+7 Ruang Pusat Penjaminan Mutu ✓ 1
+8 Gedung Fakultas Ekonomi ✓ 1
+9 Gedung Fakultas Ilmu dan Ilmu Politik ✓ 1
+10 Gedung Fakultas Hukum ✓ 1
+11 Gedung Fakultas Pertanian ✓ 1
+12 Ruang Program Studi Teknik Sipil ✓ 1
+13 Ruang Program Studi Teknik Elektro ✓ 1
+14 Ruang Inkubator Bisnis ✓ 1
+15 Laboratorium Bahasa ✓ 1
+16 Laboratorium Komputer ✓ 1
+Laboratorium Teknik Sipil (Aspal, Besi,
+17 ✓ 1
+Baja, dan Beton)
+18 Ruang Pertemuan/ Meeting ✓ 1
+19 Ruang Dosen ✓ 65
+20 Ruang Kelas ✓ 19
+21 Ruang UKM Silat ✓ 1
+22 Ruang BEM Mahasiswa ✓ 1
+23 Ruang PMB ✓ 1
+11 Gedung Perpustakaan Universitas ✓ 1
+12 Gedung Auditorium ✓ 1
+13 Musholla ✓ 1
+18 Ruang UKM MAPALA ✓ 1
+19 Gedung IT Mart ✓ 1
+SPMI - UNITA 4
+
+=== PAGE BREAK ===
+
+21 Toilet Dosen dan Mahasiswa ✓ 7
+22 Lapangan Bola Basket ✓ 1
+23 Lapangan Tenis ✓ 1
+24 Lapangan Untuk Pencak Silat ✓ 1
+25 Studio Radio ✓ 1
+26 Studi Musik ✓ 1
+Prasarana
+27 CCTV ✓ 8
+28 Laptop ✓ 15
+29 Media Banner Gedung Graha ✓ 1
+30 Papan tulis ✓ 19
+31 Komputer lengkap ✓ 40
+32 Printer ✓ 25
+33 Sound System ✓ 1 set
+34 LCD Proyektor ✓ 25
+35 Lemari dokumen ✓ 28
+36 Scanner ✓ 8
+37 Stand LCD ✓ 22
+38 AC ✓ 18
+39 Kursi ✓ 760
+40 Meja ✓ 760
+41 Madding ✓ 5
+42 Protokol Kesehatan ✓ 16 set
+43 Diesel ✓ 1
+44 Mobil ✓ 1
+45 Bus ✓ 1
+Dari data tabel tersebut menunjukkan bahwa kondisi sarana dan prasarana
+Universitas Tulungagung 2021/2022 rata-rata menunjukan kondisi Baik.
+Namun secara detail beberapa perangkat perlu peningkatan kualitas /
+upgrade secara system ataupun jenisnya yang lebih up to date.
+7. Kesimpulan
+Sistem pengelolaan dan inventarisasi di Universitas Tulungagung telah
+berjalan dengan baik. Pemeliharaan juga dilakukan oleh institusi secara
+berkala dan dimplementasikan setiap tahunannya yang relah di anggarkan
+pada Anggaran Penerimaan dan Belanja dalam poin Pemeliharaan Sarana
+dan Prasarana. Kondisi Sarana dan Prasarana menunjukan kondisi yang
+SPMI - UNITA 5
+
+=== PAGE BREAK ===
+
+rata-rata baik, namun secara detail ada beberapa sarana yang perlu
+perbaikan ekstra melihat kondisimnya yan kurang baik.
+8. Rekomendasi
+Dengan melihat hasil monitoring dan evaluasi Sarana dan Prasarana, maka
+dapat direkomendasikan sebagai berikut:
+a) Maintenance Sarana dan Prasarana yang memiliki kondisi kurang dan
+rusak
+b) Penambahan sarana dan prasarana (upgrade) sesuai perkembangan
+teknologi
+c) Membangun system inventarisasi sarana dan prasarana berbasis
+aplikasi
+d) Menambah Laboratorium Teknik Elektro untuk menunjang proses
+Pembelajaran
+SPMI - UNITA 6

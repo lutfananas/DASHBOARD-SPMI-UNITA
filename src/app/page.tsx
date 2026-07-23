@@ -222,6 +222,8 @@ export default function DashboardSPMI() {
                   Sistem Penjaminan Mutu Internal • Universitas Tulungagung • Multi-Tahun
                 </p>
                 <div className="flex flex-wrap items-center gap-1.5 mt-1.5">
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-purple-500/10 border border-purple-500/30 text-purple-300">2022: Permendikbud 3/2020 & 5/2020</span>
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-rose-500/10 border border-rose-500/30 text-rose-300">2023: Permendikbud 3/2020 & 5/2020</span>
                   <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-amber-500/10 border border-amber-500/30 text-amber-300">2024: Permendikbudristek 53/2023</span>
                   <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 border border-emerald-500/30 text-emerald-300">2025: Permen 39/2025</span>
                 </div>
@@ -284,7 +286,7 @@ export default function DashboardSPMI() {
                   Data AMI Tahun {selectedYear} Belum Tersedia
                 </p>
                 <p className="text-xs text-muted-foreground mt-0.5">
-                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Pilih tahun 2024 atau 2025 untuk melihat data AMI. Tahun 2024 menggunakan Permendikbudristek 53/2023, tahun 2025 menggunakan Permen 39/2025.
+                  Belum ada hasil Audit Mutu Internal untuk tahun {selectedYear}. Pilih tahun 2022, 2023, 2024, atau 2025 untuk melihat data AMI. Tahun 2022 & 2023 (Permendikbud 3/2020 & 5/2020), tahun 2024 (Permendikbudristek 53/2023), tahun 2025 (Permen 39/2025).
                 </p>
               </div>
             </div>

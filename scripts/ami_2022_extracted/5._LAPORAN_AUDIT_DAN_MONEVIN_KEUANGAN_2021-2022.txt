@@ -1,0 +1,168 @@
+250
+200
+L A P O R A N
+150
+A U D I T
+100
+M O N E V I N
+50
+KEUANGAN
+2021-2022
+0
+0 10 20 30
+
+=== PAGE BREAK ===
+
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+` Kode Dok. : Monev-in - KEU
+Universitas Tulungagung
+Tanggal : 3 Agustus 2022
+Laporan Audit Dan Monitoring Revisi :
+Evaluasi Internal ( Monevin ) Halaman :
+Keuangan
+LAPORAN AUDIT DAN MONITORING
+EVALUASI INTERNAL ( MONEVIN )
+KEUANGAN
+Proses Penanggungjawab Tgl.
+Nama Jabatan Paraf
+1. Perumus Desi Rahmawati, SE.,M.M Angg.Audit & Monev-in 3-08-2022
+2. Pemeriksa Eni Minarni, SE.Ak.,M.Ak Kabag. Audit & Monev-in 3-08-2022
+3. Persetujuan Anang Sugeng C., S.AP., M.Si. Ketua PPM 3-08-2022
+4. Penetapan Drs. Muharsono, M.Si Rektor 3-08-2022
+5. Pengendalian Dr. Wenni Wahyuandari, SE.,M.Ak. Wakil Rektor II 3-08-2022
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Maha Esa, Laporan
+Audit dan Monitoring Evaluasi Internal keuangan dapat diselesaikan dan
+dilaporkan. Kami mengucapkan terima kasih kepada berbagai pihak yang telah
+banyak membantu dalam pelaksanaan kegiatan ini, dari mulai awal pelaksanaan
+sampai akhir pelaksanaan kegiatan sehingga dapat tersusun dalam bentuk laporan
+untuk periode Tahun Akademik 2021/2022.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materil kepada Pusat Penjaminan Mutu
+dalam proses Audit dan Monitoring.
+2. Wakil Rektor II sebagai penanggung jawab pengelolaan keuangan
+3. Ketua Biro Administrasi Keuangan sebagai pelaksana pengelolaan
+Keuangan
+4. Dekan Universitas Tulungagung yang telah menyusun program kerja
+Renop Faklutas dan sebagai penanggungjawab keuangan Fakultas
+5. Wakil Dekan II sebagai pengelolaan anggaran Fakultas
+6. Ketua Program Studi Universitas Tulungagung, yang telah menyusun
+Renop tahunan dan melaksanakan kegiatan
+7. Seluruh Dosen dan Tenaga Kependidikan yang berpartisipasi aktif
+dalam pelaksanaan kegiatan Audit dan Monitoring Evaluasi Keuangan
+Audit dan Monev Internal Anggaran ini merupakan acuan perbaikan
+kualitas Pengelolaan Keuangan dan sebagai dasar pengembangan Institusi.
+Dengan terlaksananya Audit dan Monev ini kami berharap bisa memberikan
+masukan pada perbaikan kualitas mutu pada tahun selanjutnya.
+Tulungagung, 3 Agustus 2022
+Rektor,
+Dr. Muharsono, M.Si.
+NIDN: 0714046001
+SPMI - UNITA i
+
+=== PAGE BREAK ===
+
+1. Pendahuluan
+Audit dan Monev laporan keuangan sangat dibutuhkan dalam system
+pengelolaan keuangan di Institusi. Audit dan Monevl anggaran memeriksa
+apakah laporan keuangan yang diperiksa dinyatakan sesuai dengan criteria
+tertentu yang telah ditetapkan. Pengauditan adalah proses pengumpulan
+dan evaluasi bukti mengenai informasi untuk menentukan dan melaporkan
+derajat kesesuaian antara informas tersebut dengan kriteria yang yang telah
+ditetapkan.
+Pengauditan dilakukan untuk mengetahui apakah laporan keuangan
+yang dibuat telah sesuai dengan standar akuntansi keuangan. Selain itu,
+dengan mengaudit suatu laporan keuangan dapat terlihat jika terjadi
+ketidaksesuaian antara pelaksanaan dan perencanaan anggaran kegiatan
+sebelumnya.
+Sistem keuangan tersentral di Universitas Tulungaugung di tuntut untuk
+melakukan perbaikan berkelanjutan mutu penyelenggaraan pendidikannya
+secara berkelanjut. Hal ini merupakan konsekuensi logis dari
+keberadaan/keterlibatan Institusi dalam lingkungan dan persaingan
+pendidikan tinggi yang semakin kompleks dan dinamis. Perbaikan mutu
+secara berkelanjutan (continuous quality improvement) ini harus dilakukan
+secara sistematis dengan pendekatan atau model pengendalian mutu yang
+tepat.
+2. TUJUAN
+Monitoring dan evaluasi pengelolaan anggaran universitas Tulungagung
+dilaksanakan secara berkala dengan tujuan untuk mengetahui tingkat
+akuntabilitas dan transparansi pengelolaan dana keuangan dan pembiayaan
+di Universitas Tulungagung sebagai bahan untuk menetapkan kebijakan
+dalam rangka peningkatan kualitas pelayanan pada dosen dan mahasiswa
+selanjutnya.
+
+=== PAGE BREAK ===
+
+3. Sasaran
+Sebagai sasaran Monitoring dan Evaluasi penggunaan dana Universitas
+Tulungagung adalah bidang keuangan di lingkungan Universitas
+Tulungagung dengan melibatkan seluruh pimpinan dan staf yang terlibat.
+Ruang lingkup monitoring dan evaluasi keuangan meliputi pengumpulan,
+pengelompokan, pengolahan data pagu dan realisasi anggaran untuk tiap
+pelaksana kegiatan di lingkungan Universitas Tulungagung. Sumber data
+menggunakan data dari Biro Administrasi Keuangan. Pelaksanaan
+monitoring dan evaluasi keuangan dilaksanakan dengan cara penilaian
+terhadap realisasi anggaran selama proses kegiatan dilaksanakan dilakukan
+secara berkala dan diakhir tahun dilakukan penilaian realisasi penyerapan
+anggaran selama satu tahun.
+4. Ruang Lingkup
+Ruang lingkup monitoring dan evaluasi Keuangan (anggaran) Institusi
+ditujukan kepada seluruh Dosen, Tenaga Kependidikan, dan Mahasiswa
+Universitas Tulungagung.
+5. Prosedur
+a. PPM mengidentifikasi standar keuangan Universitas Tulungagung
+b. PPM membuat instrument kuesioner melalui Formulir Mutu
+pengelolaan keuangan dan selanjutnya di gunakan Tim Audit Internal
+c. Tim Audit Mutu Internal melakukan Evaluasi pengelolaan keuangan
+Universitas Tulungagung yang dilakukan satu tahun sekali
+d. Tim Audit menyerahkan hasil evluasi kepada PPM untuk mengukur
+tingkat pelaksanaan pengelolaan keuangan berdasarkan instrument
+yang telah didapatkan dari data hasil Formulir Mutu keuangan serta
+di olah dan di tentukan prosentasi indikator yang perlu di tindak
+lanjuti dalam bentuk dokumen Rencana Tindak Lanjut.
+
+=== PAGE BREAK ===
+
+e. Hasil Evaluasi Kemudian dilaporkan kepada rector untuk dijadikan
+bahan Rapat Tinjauan Manajemen dan sebagai dasar Rencana Tidak
+Lanjut untuk penyusunan Renstra dan Renop periode selanjutnya.
+f. Universitas Tulungagung dalam hal ini Rektor mengadakan Rapat
+Tinjauan Manajemen untuk Menyusun dan menetapkan Rencana
+Tindak Lanjut perbaikan dan strategi peningkatan dalam pengelolaan
+keuangan di Universitas Tulungagung.
+6. Pelaksanaan
+Monevin dilaksanakan oleh PPM melalui proses Audit Mutu Internal
+(AMI) yang melibatkan Tim Audit di PPM yang dilaksanakan bersamaan
+dengan jadwal AMI setiap periode di Universitas Tulungagung.
+7. Hasil Monevin
+Laporan monitoring dan evaluasi pengelolaan keuangan disusun setiap
+satu tahun sekali meliputi:
+1. Rekap Rencana Anggaran dan Penerimaan serta Pembelanjaan
+2. Rincian Pembelanjaan / Pengeluaran Universitas Tulungagung
+Penggunaan dan ketentuan pengelolaan anggaran kerja telah di tetapkan
+melalui rapat anggaran dan disahkan melalui rencana anggaran belanja setiap
+masing-masing unit kerja oleh Pusat Universitas Tulungagung. Rincian
+rencana anggaran belanja terlampir.
+8. Kesimpulan
+Setelah dilaksanakan audit mutu interal pada pengelolaan anggaran
+Universitas Tulungagung didapatkan hasil bahwa Anggaran Penerimaan
+dan Belanja (APB) Universitas Tulungagung sebesar Rp. 886,782,164,-.
+Penggunaan dana yang telah digunakan adalah sebesar Rp. 956.222.164.
+sehingga perlu di ambilkan pos anggaran lain dari Universitas sebesar Rp.
+69.440.000,-
+
+=== PAGE BREAK ===
+
+9. Rekomendasi
+Dengan melihat hasil monitoring dan evaluasi pengelolaan keuangan dari
+hasil evaluasi, maka dapat direkomendasikan sebagai berikut:
+a. Menyusun Renstra dan Renop yang di sinkronisasikan sesuai dengan
+APB Tahunan
+
+=== PAGE BREAK ===
+
+LAMPIRAN

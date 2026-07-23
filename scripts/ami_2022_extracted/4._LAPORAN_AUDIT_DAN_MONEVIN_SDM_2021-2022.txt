@@ -1,0 +1,259 @@
+250
+200
+L A P O R A N
+150
+A U D I T
+100
+M O N E V I N
+50
+SUMBER DAYA MANUSIA
+2021-2022
+0
+0 10 20 30
+
+=== PAGE BREAK ===
+
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Kode Dok. : Monev-in - SDM
+Universitas Tulungagung
+Tanggal : 3 Agustus 2022
+Laporan Audit Dan Monitoring Revisi :
+Evaluasi Internal ( Monevin ) Halaman :
+Sumber Daya Manusia
+LAPORAN AUDIT DAN MONITORING
+EVALUASI INTERNAL ( MONEVIN )
+SUMBER DAYA MANUSIA
+Proses Penanggungjawab Tgl.
+Nama Jabatan Paraf
+1. Perumus Desi Rahmawati, SE.,M.M Angg.Audit & Monev-in 3-08-2022
+2. Pemeriksa Eni Minarni, SE.Ak.,M.Ak Kabag. Audit & Monev-in 3-08-2022
+3. Persetujuan Anang Sugeng C., S.AP., M.Si. Ketua PPM 3-08-2022
+4. Penetapan Drs. Muharsono, M.Si Rektor 3-08-2022
+5. Pengendalian Dr. Wenni Wahyuandari, SE.,M.Ak. Wakil Rektor II 3-08-2022
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Maha Esa, Laporan
+Audit dan Monitoring Evaluasi Internal Sumber Daya Manusia dapat diselesaikan
+dan dilaporkan. Kami mengucapkan terima kasih kepada berbagai pihak yang
+telah banyak membantu dalam pelaksanaan kegiatan ini, dari mulai awal
+pelaksanaan sampai akhir pelaksanaan kegiatan sehingga dapat tersusun dalam
+bentuk laporan untuk periode Tahun Akademik 2021/2022.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materil kepada Pusat Penjaminan Mutu
+dalam proses Audit dan Monitoring.
+2. Wakil Rektor II sebagai penanggung jawab pengelolaan Sumber Daya
+Manusia
+3. Ketua Biro Administrasi Umum sebagai pelaksana pengelolaan Sumber
+Daya Manusia
+4. Dekan Universitas Tulungagung, yang telah memberikan dukungan dan
+motivasi kepada seluruh dosen dalam pengembangan Sumber Daya
+Manusia
+5. Ketua Program Studi Universitas Tulungagung, yang telah memberikan
+dukungan dan motivasi kepada seluruh dosen dan tenaga kependidikan
+dalam mensupport setiap program studi dalam pengembangan Sumber
+Daya Manusia
+6. Seluruh Dosen dan Tenaga Kependidikan yang berpartisipasi aktif
+dalam pelaksanaan kegiatan Audit dan Monitoring Evaluasi Sumber
+Daya Manusia
+Audit dan Monev Internal Sumber Daya Manusia ini merupakan acuan
+perbaikan kualitas Sumber Daya Manusia dan sebagai dasar pengembangan
+Institusi. Dengan terlaksananya monev ini kami berharap bisa memberikan
+masukan pada perbaikan kualitas mutu pada tahun selanjutnya.
+Tulungagung, 3 Agustus 2022
+Rektor,
+Dr. Muharsono, M.Si.
+NIDN: 0714046001
+SPMI - UNITA i
+
+=== PAGE BREAK ===
+
+1. Pendahuluan
+Audit Sumber Daya Manusia (SDM) merupakan penilaian dan
+analisis yang komprehensif terhadap perilaku dan kinerja SDM. Audit
+SDM menekankan penilaian (evaluasi) terhadap berbagai aktivitas
+pelayanan dan kinerja SDM pada lingkungan Universitas Tulungagung.
+Salah satu upaya yang dapat dilakukan untuk perbaikan pelayanan dan
+kinerja Sumber Daya Manusia (SDM) adalah melakukan peningkatan mutu
+kualitas tenaga pendidikan dan tenaga kependidikan melalui
+kepengurusan jabatan fungsional dan sertifkat keahlian untuk dosen dan
+tenaga kependidikan. Penilaian kinerja sangat diperlukan secara berkala /
+kontinu setiap periode untuk memonitoring aktivitas dan capaian yang di
+targetkan. Salah satu hal yang sangat penting selain Tri Dharma, dosen juga
+memiliki kewajiban mengurus Kepangkatan/Jabatan Fungsional dan
+Sertifikasi. Secara umum penilaian kinerja dosen ini akan dimanfaatkan
+Universitas Tulungagung untuk upaya meningkatkan kinerja dosen dalam
+Kegiatan Belajar Mengajar (KBM) dikelas. Bagi mahasiswa selaku
+Stakeholder utama, merupakan salah satu sarana penyampaian aspirasi
+dan keluhan atas mutu layanan, bagi dosen selaku penyelenggara layanan
+pendidikan akan menjadi dasar pijakan untuk terus melakukan perbaikan
+dalam pelaksanaan tugasnya. Hasil evaluasi kinerja dosen dan tenaga
+kependidikan ini untuk tujuan merumuskan kebijakan sebagai upaya
+meningkatkan mutu pembelajaran dan pelayanan pendidikan sesuai
+dengan kebutuhan seluruh pemangku kepentingan.
+2. Tujuan
+Monitoring dan Evaluasi Sumber daya Manusia ini bertujuan untuk:
+a. Memastikan pelaporan kinerja dosen dan tenaga pendidik telah
+sesuai
+SPMI - UNITA 1
+
+=== PAGE BREAK ===
+
+b. Pemetaan percepatan jabatan fungsional
+c. Pemetaan pengikutsertaan sertifikat kompetensi kepada dosen
+dan Mahasiswa
+3. Sasaran
+Sasaran utama monitoring dan evaluasi Sumber Daya Manusia adalah
+menilai kinerja, kompetensi, dan jabatan fungsional dosen dan tenaga
+kependidikan Universitas Tulungagung. Selain itu evaluasi guna
+untuk mengidentifikasi apakah tatanan internal Institusi berkaitan
+dengan kebutuhan Sumber Daya Manusia sesuai dengan standar.
+4. Ruang Lingkup
+Ruang lingkup monitoring dan evaluasi Sumber Daya Manusia
+Universitas Tulungagung kepada seluruh Dosen dan Tenaga
+Kependidikan Universitas Tulungagung
+5. Prosedur
+a. PPM mengidentifikasi Standar Sumber Daya Manusia Fakultas
+Ekonomi
+b. PPM dan Biro Administrasi Umum membuat instrument
+kuesioner melalui Formulir Mutu evaluasi Sumber Daya
+Manusia dan selanjutnya di gunakan Tim Audit Internal
+c. Tim Audit Evaluasi melakukan Evaluasi melalui Formulir
+Evaluasi Sumber Daya Manusia Universitas Tulungagung yang
+dilakukan satu tahun sekali melalui DP3
+d. Tim Audit menyerahkan hasil evluasi kepada PPM untuk
+mengukur tingkat capaian Sumber Daya Manusia berdasarkan
+instrument yang telah didapatkan dari data hasil Formulir Mutu
+Kuesioner dan DP3 tingkat capaian Sumber Daya Manusia serta
+SPMI - UNITA 2
+
+=== PAGE BREAK ===
+
+di olah dan di tentukan prosentasi indikator yang perlu di tindak
+lanjuti
+e. Hasil Evaluasi Kemudian disusun dianalisa melalui Rencana
+Tingkat Lanjut dan dilaporkan kepada Rektor Universitas
+Tulungagung untuk dijadikan bahan Rapat Tinjauan Manajemen
+dan sebagai dasar Renca Tindak Lanjut
+f. Pimpinan Institusi dalam hal ini Rektor mengadakan
+Pengendalian hasil temuan dan rekomendasi melalui Rapat
+Tinjauan Manajemen untuk menetapkan strategi tindak lanjut
+hasil evaluasi sebagai peningkatan kinerja Sumber Daya Manusia
+di lingkup Universitas Tulungagung.
+6. Pelaksanaan
+Monevin dilaksanakan oleh PPM melalui proses Audit Mutu Internal
+(AMI) dan Biro Administrasi Umum yang melibatkan Tim Audit di
+GPM yang dilaksanakan bersamaan dengan jadwal AMI setiap
+periode di Universitas Tulungagung.
+7. Hasil Monitoring Evaluasi Kinerja Sumber Daya Manusia
+Monitoring dan Evaluasi Kinerja Dosen dan tenaga pendidik
+dilakukan dengan menggunakan formulir DP3 sebagai penlianan
+pada setiap masing-masing unit. Selain hal tersebut dilakukan analisa
+proses kepangkatan melalui track record jabatan fungsional masing-
+masing dosen yang berfungsi untuk kepangkatan/jabatan fungsional
+dan sertifikasi. Berikut kesimpulan hasil monitoring dan evaluasi
+kinerja dosen tetap Universitas Tulungagung periode 2021/2022:
+SPMI - UNITA 3
+
+=== PAGE BREAK ===
+
+Tabel 1. Hasil Monitoring dan Evaluasi Universitas Tulungagung Dosen
+No Aspek penilaian Hasil Monitoring dan Evaluasi
+-
+1 Evaluasi Kinerja Dosen telah melibatkan diri dalam
+penunjang mengikuti kegiatan
+seminar/workshop nasional dan
+internasional.
+-
+Dosen aktif mengikuti kepanitiaan
+internal maupun eksternal
+-
+Dosen juga sudah terdaftar
+diorganisasi dan Asosiasi sesuai
+dengan Program Studi masing-
+masing
+-
+2 Evaluasi Kinerja Sebagian besar dosen telah
+Kepangkatan Dosen mengusulkan kenaikan jabatan
+fungsional dibantu oleh tim
+percepatan
+Berdasarkan tabel evaluasi kinerja dosen di atas, dapat disimpulkan
+bahwa aspek kinerja yang perlu di tingkatkan lagi adalah terkait bidang
+perluasan kerjasama untuk memberikan kinerja penunjang kepada seluruh
+dosen, selain itu pengefektifan tim percepatan lebih di tingkatkan
+khususnya untuk dosen baru.
+Proses pengelolaan institusi dinilai baik tidak hanya dari proses dosen
+namun juga dari sudut pandang tenaga kependidikan. Monitoring dan
+Evaluasi penilaian tenaga kependidikan terdiri dari dua jenis perilaku
+kerja, yaitu: Kinerja Kompetensi dan Kinerja Perilaku. Berikut kesimpulan
+SPMI - UNITA 4
+
+=== PAGE BREAK ===
+
+hasil monitoring dan evaluasi kinerja dosen dan tenaga kependidikan
+Universitas Tulungagung periode 2021/2022.
+Tabel 2. Hasil Monitoring dan Evaluasi SDM Tenaga Kependidikan
+No Aspek Penilaian Hasil Monitoring dan Evaluasi
+Tenaga Pustakawan
+-
+1 Evaluasi Kompetensi Perpustkaan telah memiliki SDM
+sesuai dengan bidangnya (S1
+Perpustakaan)
+-
+Tenaga kependidikan belum
+mengikuti kegiatan
+seminar/workshop terkait
+perpustakaan pasca pandemi
+covid-19 berakhir
+Tenaga Laboran
+-
+2 Evaluasi Kompetensi Laboran telah sesuai dengan
+bidang keahlian
+-
+Laboran masih kurang
+dilibatkan dalam mengikuti
+kegiatan seminar/workshop
+-
+Belum semua laboran
+memiliki sertifikasi
+Tenaga IT
+-
+3 Evaluasi Kompetensi Tenaga IT telah dilibatkan
+dalam mengikuti kegiatan
+seminar/ workshop
+-
+Tenaga IT telah mengikuti
+kegiatan seminar dan workshop
+SPMI - UNITA 5
+
+=== PAGE BREAK ===
+
+rutin yang diadakan oleh pihak
+eksternal
+Tenaga Administrasi
+-
+4 Evaluasi Kompetensi Tenaga adminsitrasi masih jarang
+dilibatkan dalam mengikuti
+kegiatan seminar/ workshop
+terkait tugas pokoknya
+-
+Terdapat 2 Tenaga pendidik yang
+melakukan studi lanjut
+8. Kesimpulan
+Berdasarkan tabel evaluasi kinerja tenaga kependidikan di atas, dapat
+disimpulkan bahwa terkait kinerja kompetensi beberapa tenaga
+kependidikan masih kurang diikutsertakan dalam kegiatan
+seminar/workshop yang mendukung untuk peningkatan kinerja nya dalam
+unit kerja dan juga belum memiliki sertifikasi.
+9. Rekomendasi
+Dengan melihat hasil monitoring dan evaluasi Sumber Daya Manusia dari
+hasil evaluasi, maka dapat direkomendasikan sebagai berikut:
+a. Memeratakan dosen sebagai narasumber di beberbagai seminar/
+workshop internal dan eksternal
+b. Memperluas kerjasama Tri Dharma dengan asosiasi dan pihak eksternal
+c. Meningkatkan efektifitas tim percepatan khususnya untuk dosen baru
+d. Mengikutsertakan tenaga kependidikan dalam uji sertifikasi
+kompetensi sesuai dengan bidangnya
+SPMI - UNITA 6

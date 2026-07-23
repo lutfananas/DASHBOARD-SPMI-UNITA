@@ -1,0 +1,824 @@
+250
+200
+L A P O R A N
+150
+A U D I T
+100
+M O N E V I N
+50
+PENELITIAN DAN PKM
+2021-2022
+0
+0 10 20 30
+
+=== PAGE BREAK ===
+
+SISTEM PENJAMINAN MUTU INTERNAL – UNIVERSITAS TULUNGAGUNG
+Universitas Kode Dok. : Monev-in - PPKM
+Tulungagung Tanggal : 3 Agustus 2022
+Laporan Audit Dan Monitoring Revisi :
+Evaluasi Internal ( Monevin ) Halaman :
+Penelitan dan PkM
+LAPORAN AUDIT MONITORING DAN
+EVALUASI INTERNAL ( MONEVIN )
+PENELITIAN DAN PKM
+Proses Penanggungjawab Tgl.
+Nama Jabatan Paraf
+1. Perumus Desi Rahmawati, SE.,M.M Angg.Audit & Monev-in 3-08-2022
+2. Pemeriksa Eni Minarni, SE.Ak.,M.Ak Kabag. Audit & Monev-in 3-08-2022
+3. Persetujuan Anang Sugeng C., S.AP., M.Si. Ketua PPM 3-08-2022
+4. Penetapan Drs. Muharsono, M.Si Rektor 3-08-2022
+5. Pengendalian Rachmad Gesah M.P., SE., Ak, MM Ketua LPPM 3-08-2022
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Maha Esa,
+Laporan dan Audit dan Monitoring Penelitian dan PkM telah dapat
+diselesaikan dan dilaporkan. Kami mengucapkan terima kasih kepada
+berbagai pihak yang telah banyak membantu dalam pelaksanaan kegiatan
+ini, dari mulai awal pelaksanaan sampai akhir pelaksanaan kegiatan
+sehingga dapat tersusun dalam bentuk laporan untuk periode Tahun
+Akademik 2021/ 2022.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materiil kepada Pusat Penjaminan
+Mutu.
+2. Lembaga Penelitian dan Pengabdian Masyarakat (LPPM)
+Universitas Tulungagung sebagai pengelolan, pelaporan dan
+penerbit jurnal Penelitian dan PkM baik Intenal maupun Eksternal
+3. Dekan Universitas Tulungagung, yang telah memberikan
+dukungan dan motivasi kepada seluruh dosen pelaksana
+Penelitian dan Pengabdian kepada masyarakat
+4. Ketua Program Studi Universitas Tulungagung, yang telah
+memberikan dukungan dan motivasi kepada seluruh dosen
+pelaksana Penelitian dan Pengabdian kepada masyarakat
+5. Seluruh dosen yang berpartisipasi aktif dalam pelaksanaan
+penelitian dan Pengabdian masyarakat secara rutin
+Audit dan Monitoring Penelitian dan PkM ini tentunya masih ada
+kekurangan, oleh karenanya kami sangat berharap banyak masukan dari
+segenap civitas akademika sebagai umpan balik untuk dijadikan perbaikan
+dalam pelaksanaan pengukuran dan evaluasi periode yang akan datang.
+Tulungagung, 3 Agustus 2022
+Rektor,
+Dr. Muharsono, M.Si.
+NIDN: 0714046001
+SPMI - UNITA 1
+
+=== PAGE BREAK ===
+
+BAB I
+PENDAHULUAN
+1. Pendahuluan
+Peningkatan kualitas mutu institusi sangat dipengaruhi oleh
+keterlaksanaan Tri Dharma khususnya Penelitian dan PkM. Penelitian dan
+pengabdian masyarakat merupakan bagian dari tri dharma perguruan tinggi
+yang merupakan kewajiban yang harus dipenuhi oleh setiap dosen. Dosen
+dintuntut melakukan penelitian dan pengabdian masyarakat sesuai dengan
+background keilmuwan masing-masing dan sekaligus kolaborasi lintas
+bidang keilmuwan. Hal tersebut sesuai dengan misi ke 1 yaitu Membina dan
+mengembangkan Tri Dharma perguruan tinggi yang diarahkan kepada
+peningkatan penyelenggaraan pendidikan, penelitian, dan PkM
+2. Tujuan
+Tujuan pelaksanaan monitoring dan evaluasi proses Penelitian dan PkM
+di Universitas Tulungagung adalah untuk :
+a. Melakukan monitoring dan evaluasi hasil, isi, pelaksanaan,
+pembiayaan, pengelolaan, dan penilian penelitian serta
+pengabdian masyarakat.
+b. Menjadi dasar salam pelaksanaan pengendalian dan perumusan
+standar
+c. Menajdi dasar dilaksanakannya perbaikan berkelanjutan
+3. Sasaran
+a. Mendorong partisipasi dosen dan mahasiswa guna meningkatkan
+proses penelitian dan pengabdian yang bermutu
+SPMI - UNITA 2
+
+=== PAGE BREAK ===
+
+b. Mendorong penyelenggara unti kerja Lembaga penelitian dan
+Pengabdian Masyarakat untuk meningkatkan kualitas proses
+penelitian dan pengabdian.
+c. Mendorong dosen dan mahasiswa menjadi lebih inovatif
+dalam melaksanakan penelitian dan pengabdiaan.
+4. Ruang Lingkup
+Ruang lingkup monitoring dan evaluasi internal prosespenelitian dan
+pengabdian kepada masyarakat ini dilaksankan dosen dan dilaksankan
+setiap tahun.
+5. Prosedur
+a. PPM mengdidentifikasi standar Penelitian dan PkM disusun oleh
+LPPM
+b. PPM membuat instrument kuesioner Formulir Mutu dengan Tim
+Audit dan selanjutnya di gunakan Tim Audit Internal utnuk proses
+evaluasi berkolaborasi dengan LPPM.
+c. Tim Audit Evaluasi melakukan Evaluasi pelaksanaan standar
+Penelitian dan PkM Universitas Tulungagung yang dilakukan satu
+tahun sekali
+d. Tim Audit menyerahkan hasil evaluasi kepada PPM untuk
+mengukur tingkat pelaksnaan standar Penelitian dan PkM
+berdasarkan instrument yang telah didapatkan dari data hasil
+Formulir Mutu Kuesioner serta di olah dan di tentukan prosentasi
+indikator yang perlu di tindak lanjuti melalalui dokumen Rencana
+Tindak Lanjut (RTL)
+e. Hasil Evaluasi dokumen RTL di laporkan kepada Rektor dijadikan
+acuan Rapat Tinjauan Manajemen (RTM) dan sebagai dasar
+Rencana Tindak Lanjut
+SPMI - UNITA 3
+
+=== PAGE BREAK ===
+
+f. Pimpinan Universitas dalam hal ini Rektor mengadakan RTM
+untuk merumuskan tindak lanjut hasil evaluasi dan melalakukan
+perumusan strategi peningkatan pelaksanaan standar Penelitian
+dan PkM
+5. Pelaksanaan
+Monevin dilaksanakan oleh PPM melalui proses Evaluasi Monitoring
+Internal (AMI) yang melibatkan Tim Monevin di PPM yang
+dilaksanakan bersamaan dengan jadwal AMI setiap periode di
+Universitas Tulungagung
+6. Hasil Monevin
+a. Kualitas, produktivitas, relevansi sasaran dan efisiensi
+pemanfaatan dana penelitian dan PkM
+Kegiatan penelitian bagi dosen disesuaikan dengan Roadmap
+penelitian dan kelompok keilmuan yang memiliki oleh setiap dosen.
+Skim penelitian yang dibiayai oleh Universitas Tulungagung melalui
+LPPM ada 2 skim yaitu Regular dan Institusi. Penelitian Reguler
+dibuka untuk dosen dan dapat melibatkan mahasiswa, semstara untuk
+skim Institusi diselenggarakan untuk membuka jaringan kerjasama
+penelitian yang dilakukan oleh dosen dengan mahasiswa dan atara
+dosen dengan penelitian perguruan tinggi lain.
+Pendanaan penelitian internal seluruh skim didapatkan dari
+universitas Tulungagung, sedangkan untuk dana penelitian eksternal
+didapatkan dari hibah DIKTI/KOPERTIS/LLDIKTI, dan kegiatan
+penelitian ditunjang dengan kegiatan desimenasi jurnal hasil-hasil
+penelitian melalui jurnal Pendidikan dan kegiatan pertemuan ilmiah
+dosen.
+Kegiatan pengabdian masyarakat dilaksankan bersadakan
+roadmap pengabdian masyarakat. Kegiatan pengabdian masyarakat
+SPMI - UNITA 4
+
+=== PAGE BREAK ===
+
+yang dilaksankan oleh dosen Universitas Tulungagung disesuaikan
+dengan bidang keilmuan dosen dan kebutuhan masyarakat yang
+dilaksanakan secara terjadwal. Pengabdian masyarakat yang
+dilaksanakan di Universitas Tulungagung terdiri dari 2 skim yaitu
+kegiatan regular skim IbM (Ipteks bagi Masyarakat). Untuk kegiatan
+regular dilaksanakan secara rutin dan terjadwal dan juga
+mengakomodir permohonan PkM yang masuk melalui LPPM. Untuk
+skim IbM merupakan hibah kompetisi yan gdilaksanakan oleh dosen
+setiap semester.
+b. Agenda keberlanjutan, disemenasi hasil penelitian dan
+pengabdian kepada masyarakat
+Agenda penelitian dan pelayanan/pengabdian kepada masyarakat
+menjadi agenda rutin yang diselenggarakan Universitas Tulungagung.
+Keberlanjutan kegiatan penelitian dilaksanakan berdasarkan roadmap
+penelitian yang diusulkan dan mengambangkan keunggulan dari
+Universitas Tulungagung. Hasil penelitian di deseminasikan di
+Universitas Tulungagung dengan menghadirkan seluruh dosen serta
+di publikasikan melalui jurnal Proram Studi, Jurnal PkM Insitusi,
+Jurnal terakreditasi nasional / Internasional eksternal. Keberlanjutan
+kegiatan pengabdian sesuai roadmap, yaitu hasil daripada penelitian
+diterapkan pada objek PkM secara terstruktur dan sistematis.
+c. Kegiatan penelitian dan pengabdian kepada masyarakat
+bersama dosen dan mahasiswa
+Kegiatan penelitian tidak hanya dilakukan oleh dosen tetapi
+juga melibatkan mahasiswa. Kegiatan penelitian antar dosen dan
+mahasiswa bertujuan untuk meningkatkan minat dan motivasi
+mahasiswa terhadap penelitian. LPPM mewadahi kegiatan
+penelitian antara dosen dan mahasiswa melalui skim penelitian
+SPMI - UNITA 5
+
+=== PAGE BREAK ===
+
+regular dosen dan mahasiswa. Keterlibatan mahasiswa dalam
+pelaksanaan kegiatan penelitian dan PkM bertujuan untuk
+memeberikan pengalaman kepada seluruh mahasiswa dalam
+mengaplikasikan keilmuaannya langsung kepada masyarakat
+sekaligus sebagai arena pembelajaran untuk memeberikan
+gambaran tentang tugas / pekerjaan yang akan diembannya setelah
+lulus.
+d. Banyak dan kualitas kegiatan penelitian dan pengabdian
+kepada masyarakat yang dilakukan oleh mahasiswa
+Sasaran kegiatan penelitian oleh mahasiswa adalah 1 (minimal)
+oleh setiap mahasiswa. Penelitian mahasiswa dilaksanakan bersamaan
+dengan pelaksanaan tugas akhir skripsi atau penelitian regular dengan
+dosen. Hasil penelitian mahasiswa yang dinilai bagus akan di
+terbitkan dalam jurnal yang dimiliki Program Studi atau Institusi
+untuk memberikan motivasi kepada mahasiswa serta meningkatkan
+kualitas hasil penelitian mahasiswa. Sasaran kegiatan kegiatan PkM
+oleh mahasiswa adalah melalui kegiatan Magang (MBKM), Praktek
+Kerja Lapang, dan KKN yang telah bekerjasama dengan Universitas
+Tulungagung.
+e. Hubungan antar pengajaran, penelitian, dan PkM
+Hasil – hasil penelitian yang telah dilaksanakan oleh dosen
+Universitas Tulungagung dipergunakan oleh dosen sebagai bahan ajar
+dalam rangka pembelajran di dalam kegiatan perkuliahaan di kelas
+sebagai bahan ajar pendukung mata kuliah. Topik – topik penelitian
+dan pengabdian kepada masyarakayt (PkM) dirancang sesuai dengan
+bidang keilmuan yang diselarakan sebagai kurikulum dan keunggulan
+masing-masing Program Studi di Universitas Tulungagung.
+Kurikulum dirancang sedemikan rupa sehingga para lulusan benar –
+SPMI - UNITA 6
+
+=== PAGE BREAK ===
+
+benar siap berkompetisi di dunia usah dan sunia insdustri dalam
+memperoleh waawasan serta pengalaman yang akan diterapkan dalam
+kehidupan bermasyarakat.
+7. Kesimpulan
+Berdasarkan hasil Audit dan Monevin setiap Fakultas dan
+Program Studi telah melaksanakan penelitian dan PkM dan telah
+terpublikasi dalam jurnal internal Program Studi. Selain hal tersebut
+ada program studi yang telah memiliki jurnal khusus mahasiswa
+dan di publikasikan oleh Program Studi Terkait. Dosen juga telah
+mempublikasikan hasil riset penelitian di jurnal eksternal yang
+terakreditasi nasional dan internasional
+Proses PkM juga telah dilaksanakan dan dilaporkan sesuai
+dengan roadmap penelitian, namun skala PkM masih bersifat lokal
+/ Daerah belum menyentuh Nasional ataupun Internasional
+sehingga erlu peningkatkan merupakan penelitian dan PkM
+mencangkup : jenis dan rekam jejak penelitian unggulan, pola
+kerjasama dengan pihak luar, penanganan plagiasi, memiliki
+roadmap Penelitian dan PkM, Penelitian terpublikasi dan
+terindeks, kepemilikan Haki.
+g. Rekomendasi
+1. Melakukan sosialisasi kepada dosen tentang hibah-hibah yang
+tersedia dari lemabaga – lembaga nasional
+2. Memetakan dosen – dosen terkait persyaratan kepangkatan
+untuk konsisten dalam publikasi jurnal sesuai dengan
+kebutuhan pengajuan kepangkatan
+3. Memberikan workshop kepada seluruh dosen untuk mengikuti
+ToT dalam Menyusun proposal PkM dan perencanaan PkM
+4. Meningkatkan jumlah dana penelitian dan PkM
+SPMI - UNITA 7
+
+=== PAGE BREAK ===
+
+BAB II
+HASIL MONITORIN DAN EVALUASI
+2.1 Hasil Aduit dan Monevin Penelitian dan PkM
+Hasil Monev penelitian dan Pengabdian yang sudah dilakukan oleh
+Universitas Tulungagung pada periode 2021/2022 dapat dilihat pada tabel berikut.
+DAFTAR PENELITI, PENGABDIAN DAN PUBLIKASI
+JURNAL EKONOMI “BENEFIT” UNIVERSITAS TULUNGAGUNG
+Publikasi 23 Februari 2022
+No. Nama Judul Jurnal
+1 Krisan Sisdiyantoro, Kualitas Pelayanan Kesehatan Terhadap BENEFIT
+Kepuasan Pasien Masa Pandemi Covid-19
+Eni Minarni
+Berdasarkan Protokol Kesehatan
+2 Sawal Sartono Kewirausahaan Digital BENEFIT
+3 Eni Minarni, Krisan Perilaku Kecurangan Akademik BENEFIT
+Berdasarkan Dimensi Fraud Diamond
+Sisdiyantoro, Etik
+Flourensya S.
+4 Nurani Nurani, Desi Media Sosial Sebagai Sarana Promosi BENEFIT
+Efektif Dalam Peningkatan Penjualan
+Retno
+Jesse Factory Tulungagung
+5 Mokhamad Eldon, Harga Dan Kualitas Pelayanan Terhadap BENEFIT
+Kepuasan Pengguna Jasa Grabfood Di
+Marlena Marlena,
+Kecamatan Tulungagung
+Jihan Putri A.S.
+6 Marlena Marlena, Harga, Iklan Dan Citra Merk Terhadap BENEFIT
+Keputusan Pembelian Pada Bengkel Las
+Ratna Tri Susanti
+Kevin Putra Tulungagung
+SPMI - UNITA 8
+
+=== PAGE BREAK ===
+
+JURNAL EKONOMI “BENEFIT” UNIVERSITAS TULUNGAGUNG
+Publikasi 16 Desember 2022
+No. Nama Judul Jurnal
+1 Bondan Subagyo, Strategi Membangun Minat Pemuda BENEFIT
+Terhadap Usaha Mikro Kecil Menengah
+Riska Ayu Nanda
+(UMKM) Di Desa Keboireng Kecamatan
+Besuki Kabupaten Tulungagung
+Eni Minarni, Krisan Peran Pengendalian Internal Guna BENEFIT
+Peningkatan Kinerja Pada Koperasi
+Sisdiyantoro, Sri
+Dinkopta Bersemi Tulungagung
+Winda Hermiati
+Nurani Nurani, Bauran Promosi Dalam Pengambilan BENEFIT
+Keputusan Mahasiswa Memilih
+Marlena Marlena,
+Universitas Tulungagung
+Fahrul Tri
+Rachmanto
+Sri Sutrismi, Ela Analisis Nilai Tambah Ekonomis Bagi BENEFIT
+Pemegang Saham Dan Perusahaan
+Siviana
+Dengan Indikator Metode Economic
+Value Added (EVA)
+Tiwuk Puji Analisis Pengaruh Brand Image Dan Daya BENEFIT
+Saing Produk Layanan Terhadap Minat
+Hariyanti, Desi
+Berobat Pada Klinik Putra Waspada
+Kristiani Tulungagung
+Agustina Kristy CSR Dan Kinerja Keuangan Terhadap Nilai BENEFIT
+Perusahaan Manufaktur Di Bei 2017-2019
+Jayati, Diyah Santi
+Hariyani, Heidy
+Paramitha Devi
+SPMI - UNITA 9
+
+=== PAGE BREAK ===
+
+JURNAL PERTANIAN “AGRIBIS” UNIVERSITAS TULUNGAGUNG
+Publikasi 30 Juni 2022
+No. Nama Judul Jurnal
+1 Tiara Wulandari, Analisis Keputusan Konsumen Terhadap AGRIBIS
+Makanan Tradisional Lemang Tapai Di
+Putri Suci Asriani,
+Pekan Masat Desa Ulak Lebar Kecamatan
+Basuki Priyono Pino Kabupaten Bengkulu Selatan
+Vionita, Suwarto, Respons Petani Terhadap Program AGRIBIS
+Perluasan Areal Tanam Baru (Patb) Padi
+Eksa Rusdiana
+Di Kecamatan Polokarto Kabupaten
+Sukoharjo
+Bambang Tri Faktor-Faktor Yang Mempengaruhi AGRIBIS
+Dinamika Kelompok Tani Padi Sawah
+Kurnianto, Mufida
+(Oryza Sativa L)
+Diah Lestari
+Herry Nur Faisal Analisis Pendapatan Dan Tingkat AGRIBIS
+Keuntungan Pencari Cacing Sutra Tubifex
+Sp
+Muchammad Malik, Strategi Agribisnis Tanaman Blimbing AGRIBIS
+Sistim Sambung Pucuk
+Nurcholis
+SPMI - UNITA
+10
+
+=== PAGE BREAK ===
+
+JURNAL PERTANIAN “AGRIBIS” UNIVERSITAS TULUNGAGUNG
+Publikasi 30 Juni 2022
+No. Nama Judul Jurnal
+1 Yuniar Hajar Faktor Sosial Ekonomi Petani Jamur Tiram AGRIBIS
+Di Tulungagung
+Prasekti, bekti bayu
+nugroho
+2 Herry Nur Faisal Analisis Peningkatan Nilai Ekonomi Ikan AGRIBIS
+Laut Menjadi Olahan Nuget
+3 Bambang Tri Analisis Usaha Pembenihan Ikan Gurami AGRIBIS
+Kurnianto
+4 Mufida Diah Lestari Analisis Peran Kelompok Tani Dalam AGRIBIS
+Upaya Peningkatan Ekonomi Pertani Di
+Era Pandemi Covid-19
+5 Abdul Rochman Respon Kelompok Tani Terhadap Peran AGRIBIS
+Penyuluh Pertanian Lapangan Di
+Kecamatan Kalidawir, Kabupaten
+Tulungagung
+SPMI - UNITA
+11
+
+=== PAGE BREAK ===
+
+JURNAL HUKUM “YUSTITIABELEN” UNIVERSITAS TULUNGAGUNG
+Publikasi 30 Juni 2022
+No. Nama Judul Jurnal
+1 Mohammad Alvi Fondasi Ecological-Philosophy dengan YUSTITIABELEN
+Pratama, Virly Model Place-Based Education untuk
+Vidiasti Sabijanto, Clinical Legal Education
+Eva Laila Rizkiyah
+Jeremia Alexander Kesesuaian Perda Kabupaten Kupang YUSTITIABELEN
+Wewo Alexander Nomor 4 Tahun 2016 Dengan Asas-Asas
+Hukum, UU Nomor 6 Tahun 2014 Tentang
+Desa Dan Permendagri Nomor 112 Tahun
+2014 Tentang Pemilihan Kepala Desa
+Adji Suradji Implementasi Peraturan Daerah YUSTITIABELEN
+Muhammad, Ardian Kabupaten Bantul No 14 Tahun 2012,
+Sunarma Lambang Upaya Meminimalisir Korupsi oleh Partai
+Dewanta Politik
+Marzellina Optimalisasi Kebijakan Affirmative Action YUSTITIABELEN
+Hardiyanti bagi Keterlibatan Perempuan di Lembaga
+Legislatif dalam Mewujudkan Kebijakan
+Responsif Gender
+Ricky Santoso Penguatan Nilai Karakter Pendidikan YUSTITIABELEN
+Muharam, Antikorupsi Melalui Mata Kuliah
+Sudaryatie, Danang Pendidikan Kewarganegaraan
+Prasetyo
+Muhammad al Kebijakan Restrukturisasi Kredit YUSTITIABELEN
+ikhwan bintarto Perbankan di Indonesia: Antara
+ikhwan Pemulihan Ekonomi Dan Tantangan
+SPMI - UNITA
+12
+
+=== PAGE BREAK ===
+
+JURNAL HUKUM “YUSTITIABELEN” UNIVERSITAS TULUNGAGUNG
+Publikasi 17 Desember 2021
+No. Nama Judul Jurnal
+1 Reka Dewantara, Akibat Hukum Pada Pemisahan Simpanan YUSTITIABELEN
+Mahandhani Wahyu Dari Nasabah Bank Saat Likuidasi Untuk
+Ibrahim Memperoleh Jaminan Dari Lembaga
+Penjamin Simpanan
+Aidha Puteri BPJS Kesehatan Memberikan Jaminan YUSTITIABELEN
+Mustikasari Kesehatan Terhadap Pasien Atau
+Masyarakat
+Muh Rizki Anak Angkat Sebagai Penghalang Penetapan YUSTITIABELEN
+Ahli Warits Perspektif Maqasid Syariah
+(Analisis Terhadap Putusan Hakim
+Pengadilan Agama Pekanbaru Klas 1 No.
+181/PDT.P/2020/PA.PBR )
+M Sriastuti Agustina Peran Pemerintah Daerah Untuk YUSTITIABELEN
+Memberikan Izin Membangun Perumahan
+Diatas Tanah Pertanian Yang Subur
+Ferry Irawan Program Pemerintah Tentang Pendaftaran YUSTITIABELEN
+Febriansyah, Siwi Tanah Sistematis Lengkap Di Kenongomulyo
+Ellis Saidah, Saiful
+Anwar
+SPMI - UNITA
+13
+
+=== PAGE BREAK ===
+
+JURNAL ADMINISTRASI PUBLIK “PUBLICIANA” UNIVERSITAS
+TULUNGAGUNG
+Publikasi 18 Juli 2022
+No. Nama Judul Jurnal
+1 Nanda Erlambang Implementasi Kebijakan Pemasangan PUBLICIANA
+ISMIATI Reklame Di Kota Kediri
+2 Dewy Sri Meaning Of Cafe For Millennial Y Makna Kafe PUBLICIANA
+Widiyaningsih Bagi Remaja Milenial Sebagai Bentuk Citra
+Diri Di Media Sosial
+3 Ella Zuhrotin Nasyah Pemberdayaan Masyarakat Melalui PUBLICIANA
+Pengembangan Sektor Wisata
+4 Andri Wahyudi Kinerja Aparatur Pemerintah Desa Dalam PUBLICIANA
+Pelaksanaan Pelayanan Publik Kepada
+Masyarakat (Suatu Tinjauan Tingkat
+Pendidikan Aparatur Pemerintah Desa
+Ngadisuko Kecamatan Durenan Kabupaten
+Trenggalek)
+5 Nabilatum Masruroh Media Sosial Dalam Lanskap Masyarakat PUBLICIANA
+Nabila Industri Dan Kaitannya Dengan Budaya
+Populer
+SPMI - UNITA
+14
+
+=== PAGE BREAK ===
+
+JURNAL ADMINISTRASI PUBLIK “PUBLICIANA” UNIVERSITAS
+TULUNGAGUNG
+Publikasi 1 November 2021
+No. Nama Judul Jurnal
+1 Andri Wahyudi, Pengembangan Agrowisata Desa Mulyosari Di PUBLICIANA
+Khoirul Yahya Tengah Kehidupan Masyarakat Menuju Desa
+Mandiri
+2 Laily Purnawati Pembentukan Kelompok Sadar Wisata PUBLICIANA
+(Pokdarwis ) Dan Pengembangan Wisata Di
+Pantai Gemah
+3 Slamet Hariyanto; Evaluasi Kepuasan Masyarakat Pada Layanan PUBLICIANA
+Heru Dwi Susilo Publik Di Kantor Desa Tanggaran Kecamatan
+Pule Kabupaten Trenggalek
+4 Muharsono, Linda Efektivitas Aplikasi Sistem Keuangan Desa PUBLICIANA
+Asfiyah (Studi Tentang Aplikasi Pelaporan Keuangan
+Desa Di Desa Wajak Lor Kecamatan Boyolangu
+Kabupaten Tulungagung)
+5 Lu’Lu Ul Maknunah, Pengaruh Kualitas Pelayanan Terhadap PUBLICIANA
+Endang Astuningtyas Kepuasan Konsumen Lembaga Kursus Dan
+Pelatihan (LKP) Citra Jelita Desa Wonorejo
+Kecamatan Srengat Kabupaten Blitar
+SPMI - UNITA
+15
+
+=== PAGE BREAK ===
+
+JURNAL TEKNIK SIPIL “DAKTILITAS” UNIVERSITAS TULUNGAGUNG
+Publikasi 11 Januari 2022
+No. Nama Judul Jurnal
+1 Aditya Purnama Perencanaan Ulang Struktur Atas DAKTILITAS
+Menggunakan Konsep Tahan Gempa Dengan
+Sistem Strong Column Weak Beam Pada
+Bangunan Rusunawa Kota Kediri
+2 Lutfan Anas Zahir Algoritma Harmony Search Untuk DAKTILITAS
+Menyelesaikan Masalah Penjadwalan
+Konstruksi Rehabilitasi Puskesmas Besuki
+3 Yuris Permana Yoga Optimasi Jaringan Pipa Distribusi Air Bersih DAKTILITAS
+Utama Daerah Rawan Bencana Di Desa Krisik Kec.
+Gandusari, Kab.Biitar
+4 Danang Wijanarko Optimalisasi Dan Kombinasi Alat Berat Pada DAKTILITAS
+Pekerjaan Galian Tanah (Studi Kasus: Proyek
+Pembangunan Dealer Honda Pasific, Kab.
+Tulungagung)
+5 Mohammad Muhlis Aplikasi Value Engineering Pada Proyek DAKTILITAS
+Pembangunan Gedung Icu, Iccu, Niccu
+Rumah Sakit Umum Dr. Saiful Anwar Malang
+SPMI - UNITA
+16
+
+=== PAGE BREAK ===
+
+JURNAL TEKNIK SIPIL “DAKTILITAS” UNIVERSITAS TULUNGAGUNG
+Publikasi 11 Januari 2022
+No. Nama Judul Jurnal
+1 Aditya Purnama Analisis Bambu Sebagai Struktur Lantai DAKTILITAS
+Bangunan Rumah Tinggal Bertingkat
+2 Lutfan Anas Zahir Strategi Optimasi Waktu Dan Biaya DAKTILITAS
+Menggunakan Time Cost Trade Off (TCTO)
+Pada Pembangunan Gedung Ruang Kelas
+Smpn 1 Besuki
+3 Yuris Permana Yoga Studi Perencanaan Sarana Penyediaan Air DAKTILITAS
+Utama Bersih Perdesaaan Desa Sidorejo Kec. Doko,
+Kab.Blitar
+4 Danang Wijanarko Analisis Lalu Lintas Kendaraan Terhadap DAKTILITAS
+Kapasitas Jalan Di Kota Malang (Studi Kasus
+Jalan Veteran, Kota Malang)
+5 Andry Rusdiyanto Analisis Faktor-Faktor Yang Berpengaruh DAKTILITAS
+Terhadap Tidak Tercapainya Waktu
+Pelaksanaan Pekerjaan Proyek Pembangunan
+Jalur Ganda Kereta Api Lintas Selatan Jawa
+Km.64+200 S.D Km. 67+000 Antara
+Mojokerto-Jombang
+SPMI - UNITA
+17
+
+=== PAGE BREAK ===
+
+JURNAL MAHASISWA MANAJEMEN UNIVERSITAS TULUNGAGUNG
+Publikasi 6 Juni 2022
+No. Nama Judul Jurnal
+1 Muhammad Naja, Mengulik Rahasia Dibalik JIMBIEN
+Novita Amelia Produk Olahan Lokal Teh Tubruk
+Rahayu Mbah Djie Di Kecamatan
+Sendang Kabupaten
+Tulungagung
+2 Novita Amelia Optimalkan Penjualan Cv. Dlta JIMBIEN
+Rahayu; Muhammad Indonesia Selama Pandemi
+Farid Ahlu Naja Melalui Iklan Facebook
+3 Damayanti, shafa Pemantauan Pengendalian JIMBIEN
+aulia Persediaan Bahan Produksi Baju
+Koko Pada Konveksi Manfaat
+4 Enggita Rahmadhani Pengaruh Desain Produk JIMBIEN
+, Lilis Mufidatun Terhadap Minat Pembeli
+Na’imah Minuman Teh Poci
+5 Riki Dwi Saputro, Strategi Pemasaran Jasa Teknisi JIMBIEN
+Nyla Farida Ac Di Kabupaten Tulungagung
+Yulianingsih Dengan Berbasis Media Sosial
+SPMI - UNITA
+18
+
+=== PAGE BREAK ===
+
+JURNAL MAHASISWA AKUNTANSI UNIVERSITAS TULUNGAGUNG
+Publikasi 19 Januari 2022
+No. Nama Judul Jurnal
+1 Prayuga Kurniawan, Analisis Kepatuhan Pembayaran JAMANTA
+Dhanang Tias PPh Pasal 25 Toko Kelontong Di
+Anggoro Desa Pagersari
+2 Elsa Alfa Maharani Penerapan PPh Pasal 23 Atas JAMANTA
+Yhola, Rifki Firdaus Jasa Boga Oleh Puskesmas
+Sukma Gondang Serta Prosedur
+Pemindahbukuan Pajak Karena
+Kesalahan Saat Penyetoran
+3 Novita Anjarsari, Analisis Sistem Pengendalian JAMANTA
+Risky Nurfadila, Manajemen Dalam
+Iswatul Saldina Meningkatkan Daya Saing Pada
+Kedai Kopi Ledokan Di Binangun
+Blitar
+4 Nadillah Tiara Waty Analisis Sistem Informasi JAMANTA
+S., Thalita Elsa Manajemen Pada E-Commerce
+Pramudita, Indah Shopee
+Novita Sari
+5 Nevi Costari, Putri Pentingnya Implementasi JAMANTA
+Ariella Belinda Akuntansi Sektor Publik Dalam
+Suatu Instansi Pemerintahan
+6 Putri Ariella Belinda, Implementasi Aplikasi Sistem JAMANTA
+Prayuga Kurniawan Informasi Akuntansi Pada
+Bumdesa Lestari Jaya
+SPMI - UNITA
+19
+
+=== PAGE BREAK ===
+
+JURNAL MAHASISWA AKUNTANSI UNIVERSITAS TULUNGAGUNG
+Publikasi 30 Mei 2022
+No. Nama Judul Jurnal
+1 Angga Febrianto, Elsa Pengaruh Sistem Pengendalian JAMANTA
+Alfa Maharani Yhola, Manajemen Pada Indeks
+Rifki Firdaus Sukma Kepuasan Masyarakat Terhadap
+Pelayanan Kesehatan Oleh Rsud
+Dr. Iskak
+2 Alfani Damayanti, Analisis Ppn Pada Kontrak JAMANTA
+Enggita Rahmadhani, Pengadaan Bahan Bangunan CV
+Muhammad Okta Marga Jaya
+Nur Faisal
+3 Rika Mawarni, Tantri Analisis Variabel Pengaruh JAMANTA
+Kartika Sari, Yunita Penerimaan Ppn dan PPNBM
+Duwi Anggiyasari
+4 Ananada Galuh Realisasi Pendapatan Asli JAMANTA
+Puspita, Cindy Daerah Di Sektor Pariwisata
+Claudia Radha Avita Kabupatentulungagung
+5 Diodora Implementasi Sistem Informasi JAMANTA
+Yessayabella, Manajemen Kasir Berbasis
+Yohanna Adys Aplikasi Moka Pos (Point Of
+Sales) Pada Kafe X Tahun 2022
+6 Erika Rahma Setiyani, Implementasi Akuntansi Sektor JAMANTA
+Risky Nurfadila Publik Dalam Sistem Keuangan
+Pemerintahan Desa
+SPMI - UNITA
+20
+
+=== PAGE BREAK ===
+
+JURNAL PENGABDIAN UNIVERSITAS TULUNGAGUNG
+Publikasi 23 November 2021
+No. Nama Judul Jurnal
+1 Eni Widhajati, Efriza Strategi Pemulihan Ekonomi JANITA
+Pahlevi Wulandari melalui Sinergi Pemasaran
+Digital “LapakUMKM.Com”
+2 Laily Purnawati, Pendampingan Pembuatan JANITA
+Nunun Nurhajati Krupuk Berbahan Baku Susu
+Sapi Perah di Desa Samar
+Kecamatan Pagerwojo
+Kabupaten Tulungagung
+3 Marlena, Eni Pelatihan“Tehnik Demo Tool JANITA
+Widhajati SHOPEE Auto Follow-
+Exrush.com dan Teknik Iklan
+Berbayar”
+4 Dwi Ima Pemanfaatan “Pasar Minggu JANITA
+Herminingsih, Erna Pagi“ Sebagai Laboratorium
+Ifftanti Peningkatkan Kemampuan
+Berbahasa Inggris, Literasi
+Digital dan Pengembangan
+Usaha BUM Desa Winong,
+Kedungwaru,Tulungagung
+5 Siti Maryam, Stimulasi, Deteksi Dan JANITA
+Ernawati Tri Intervensi Dini Tumbuh
+Handayani, Lintang Kembang Anak Di Masa
+Kurnia Dewi, Yuni Pandemi Covid_19
+Khofifah Kurniawati
+6 Surjanti, Erly Sosialisasi Pencegahan JANITA
+Pangestuti Pungutan Liar
+SPMI - UNITA
+21
+
+=== PAGE BREAK ===
+
+2.2 Hasil Aduit dan Monevin Penelitian dan PkM
+Hasil Monev penelitian dan Pengabdian yang sudah dilakukan oleh Universitas Tulungagung pada periode
+2021/2022 dapat dilihat pada tabel berikut.
+DAFTAR KERJASAMA TRI DHARMA UNIVERSITAS TULUNGAGUNG
+KERJASAMA 2018-2019
+Lingkup Waktu Pelaksanaan
+No Nama Instansi Impelementasi Tindak Lanjut
+Kerjasama Mulai Berakhir
+1 Kementrian Pengembangan Maret 2018 Maret 2023 Pelaksanaan Guest Lecture Selesai Perpanjangan
+Koperasi dan Kewirausahaan dan memebrikan workshop dan mempertahankan
+Usaha Kecil di kalangan kepada mahasiswa hubungan Kerjasama
+Menengah Mahasiswa dan dan penjajakan
+dengan PT. Sarjana penelitian bersama
+Bali Ranadha
+Televisi
+2 Badan Pusat Program Tri Desember Desember Visiting Lecture dan Magang Penajajakan untuk
+Statistik Dharma 2019 2024 joint research dan
+Perguruaan seminar ilmiah
+Tinggi dan bersama
+Sosialisasi
+Program Kerja
+Bdan Pusat
+Statistik
+3 Dinas Tri Dharma Juli 2019 Juli 2024 1. Pendampingan Selesai Perpanjangan
+Lingkugan Pengabdian pengelolaan limbah dan mempertahankan
+Hidup kepada plastic dengan mesin 1. hubungan
+masyarakat press Kerjasama dan
+penjajakan
+penelitian dan
+
+=== PAGE BREAK ===
+
+pengabdian
+bersama
+4 Badan Pusat Program Tri Desember Desember Visiting Lecture dan Magang Penajajakan untuk joint
+Statistik Dharma 2019 2024 research dan seminar
+Perguruaan ilmiah bersama
+Tinggi dan
+Sosialisasi
+Program Kerja
+Bdan Pusat
+Statistik
+5 Dinas Tri Dharma Juli 2019 Juli 2024 Pendampingan pengelolaan Selesai Perpanjangan
+Lingkugan Pengabdian limbah plastic dengan mesin dan mempertahankan
+Hidup kepada press hubungan Kerjasama
+masyarakat dan penjajakan
+penelitian dan
+pengabdian bersama
+6 Universitas Pendidikan, September September 1. Penyelenggaraan Kerjasama
+Dinamika penelitian 2021 2026 Kerjasama Akademik akademik
+dan 2. Peningkatan kualitas pertukaraan
+pengabdian pendidikan dan mahasiswa dan kuliah
+kepada peningkatan kerjasama tamu.
+penelitian kegiatan
+masyarakat,
+ilmiah dan pengabdian
+serta
+kepada masyarakat
+peningkatan
+3. Pengembangan
+kualitas
+sumberdaya manusia
+sumber daya
+4. Kegiatan lain yang di
+manusia
+pandang perlu, saling
+menguntungkan dan
+bermanfaat.
+
+=== PAGE BREAK ===
+
+7 Dinas Program September September 1. Bidang Pendidikan Selesai diperpanjang
+Pemberdayaan tri Dharma 2021 2026 2. Bidang Penelitian dan mempertahankan
+dan Desa perguruaan 3. Bidang Pengabdian hubungan kerjasama
+tinggi dan 4. Bidang Tri Dharma
+Program Pemberdayaan serta pemberdayan
+pemberdayaan masyarakat Desa masyarakat
+Masyarakat 5. Bidang Kewirausahaan
+dan desa 6. BUMDes
+Kabupaten 7. MBKM
+Tulungagung
+8 Fakultas Tri Dharma November November 1. Publikasi Ilmiah Selesai Perpanjangan
+Ekonomi 2020 2023 2. Kerjasama MBKM dan mempertahankan
+Universitas hubungan Kerjasama
+Kadiri dan penjajakan
+penelitian dan
+pengabdian bersama
+9 Fakultas Tri Dharma November November 1. Publikasi Ilmiah Selesai Perpanjangan
+Hukum 2020 2023 2. Kerjasama MBKM dan mempertahankan
+Universitas hubungan Kerjasama
+Kadiri dan penjajakan
+penelitian dan
+pengabdian bersama
+10 Fakultas Tri Dharma November November 1. Publikasi Ilmiah Selesai Perpanjangan
+Ilmu 2020 2023 2. Kerjasama MBKM dan mempertahankan
+Sosial hubungan Kerjasama
+dan Ilmu dan penjajakan
+Politik penelitian dan
+Universitas pengabdian bersama
+Kadiri
+11 Universitas Tri Dharma November November 1. Publikasi Ilmiah Selesai Perpanjangan
+Kadiri 2020 2023 2. Kerjasama MBKM dan mempertahankan
+hubungan Kerjasama
+dan penjajakan
+
+=== PAGE BREAK ===
+
+penelitian dan
+pengabdian bersama
+12 BUMdes Laboratorium Juni 2021 Juni 2024 Pembentukan pengabdian Selesai Perpanjangan
+Kamardikan Pendidikan, kepada masyaarakat dengan dan mempertahankan
+Penelitian, membentuk laboratorium hubungan Kerjasama
+dan pendidikan dan bahasa dan penjajakan
+Pengabdian ingris penelitian dan
+kepada pengabdian bersama
+Masyarakat
+13 Desa Ngunut Kerjasama Desember Desember Pembuatan soal penjaringan Melaksanakan
+kerjasama 2021 2021 kasi pelayanan kerjasama dengan
+Penyusunan transparan guna
+Materi memberikan
+soal Ujian
+kepercayaan dan
+Perangkat
+terjalinnya hubungan
+baik dengan desa
+Desa
+berkelanjutan
+14 BUMDes Laboran Juni 2021 Juni 2024 Pembentukan pengabdian Selesai Perpanjangan
+Larasati pendidikan, kepada masyaarakat dengan dan mempertahankan
+penelitian, membentuk laboratorium hubungan Kerjasama
+dan pendidikan dan bahasa dan penjajakan
+pengabdian ingris penelitian dan
+kepada pengabdian bersama
+masyarakat
+15 BUMDes Akselearasi Juni 2021 Desember PkM oleh dosen dan Selesai Perpanjangan
+Kamardikan, Pengembangan 2021 melibatkan mahasiswa dan mempertahankan
+Winong Pengelolaan dalam membantu BUMDes hubungan Kerjasama
+Usaha dalam pengelolaan dan dan penjajakan
+Melalui digitalisasi marketing penelitian dan
+Digitalisasi pengabdian bersama
+16 Desa Kerjasama Februari Februari Pembuatan soal penjaringan Melaksanakan
+Puyung, kerjasama 2021 2021 kasi pelayanan kerjasama dengan
+Trenggalek Penyusunan transparan guna
+
+=== PAGE BREAK ===
+
+Materi memberikan
+soal Ujian kepercayaan dan
+Perangkat terjalinnya hubungan
+Desa baik dengan desa
+berkelanjutan
+17 Desa Kerjasama September September Pembuatan soal penjaringan Melaksanakan
+Karanggandu kerjasama 2021 2021 kasi pelayanan kerjasama dengan
+Penyusunan transparan guna
+Materi memberikan
+soal Ujian
+kepercayaan dan
+Perangkat
+terjalinnya hubungan
+baik dengan desa
+Desa
+berkelanjutan
