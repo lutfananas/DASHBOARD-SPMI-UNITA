@@ -76,10 +76,12 @@ export const REGULASI_PER_TAHUN: Record<number, RegulasiTahun> = {
     siklus: "PPEPP", tanggalAudit: "-", sumberData: "Tidak ada dokumen AMI", totalDokumenAMI: 0,
   },
   2023: {
-    tahun: 2023, permen: "Permendikbudristek 53/2023",
-    judulPermen: "Penjaminan Mutu Pendidikan Tinggi",
-    siklus: "PPEPP", tanggalAudit: "-",
-    sumberData: "Dokumen AMI TA 2022/2023 tidak tersedia di repositori", totalDokumenAMI: 0,
+    tahun: 2023, permen: "Permendikbud 3/2020 & 5/2020",
+    judulPermen: "SN-Dikti & Akreditasi Prodi/PT",
+    siklus: "PPEPP (Penetapan-Pelaksanaan-Evaluasi-Pengendalian-Peningkatan)",
+    tanggalAudit: "17 Januari 2023 s.d. 14 Agustus 2023",
+    sumberData: "14 dokumen AMI dari PPM UNITA (folder GDrive LAPORAN MONEV + PENDIDIKAN)",
+    totalDokumenAMI: 14,
   },
   2024: {
     tahun: 2024, permen: "Permendikbudristek 53/2023",
@@ -106,7 +108,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 1, nama: "Standar Kompetensi Lulusan", kode: "SKL", kategori: "Pendidikan",
     rujukanPasal: "Pasal 6-10", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 85, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 86,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 Ganjil & Genap (Bab III poin 3 - Standar Kompetensi Lulusan). Prodi review kebutuhan dunia kerja up-to-date, adaptif via Asosiasi/Ikatan Alumni. Skor institusi 3,475/4 (87%). Saran: benchmarking kurikulum rutin.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap (21 Feb 2023 & 14 Agustus 2023)",
+        tanggalAMI: "21 Februari 2023 & 14 Agustus 2023",
+      },
       2024: {
         skor: 88, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 90,
         catatan: "Lulusan terserap DUDI 80% (≥70%), wirausahawan 15% (≥10%), IPK 3,42 (≥3,00), masa studi 4,0 thn (≤4,5), masa tunggu 4 bln (≤6). Seluruh 5 indikator Mencapai Standar.",
@@ -124,7 +132,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 2, nama: "Standar Proses Pembelajaran", kode: "SPB", kategori: "Pendidikan",
     rujukanPasal: "Pasal 11-24", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 87, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 88,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 Ganjil & Genap, skala Likert 1-4. Ganjil: 7 Prodi skor range 3,20-3,60, avg 3,44 (Agribisnis 3,45; Adm Publik 3,56; Akuntansi 3,24; Hukum 3,60; Manajemen 3,20; Teknik Sipil 3,40; Teknik Elektro 3,60). Genap: range 3,30-3,70, avg 3,51 (Agribisnis 3,60; Adm Publik 3,70; Akuntansi 3,40; Hukum 3,30; Manajemen 3,50; Teknik Sipil 3,70; Teknik Elektro 3,40). Rata-rata institusi TA 2022/2023: 3,475/4 (87%) = Baik. Saran: dosen lebih kreatif/inovatif, metode interaktif bervariasi, tambah referensi.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap",
+        tanggalAMI: "21 Februari 2023 & 14 Agustus 2023",
+      },
       2024: {
         skor: 84, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 86,
         catatan: "Bahan ajar 100% mutakhir, RPS ditinjau 2x/thn, 35 mhs/kelas (≤40), blended 25% (≥20%), monitoring 2x/semester. Ganjil avg 3,45 (FISIP), Genap avg 3,30 (Univ). P7 (Biaya Kuliah) 3,0 dan P13 (Surat Mahasiswa) 3,1 menjadi area perbaikan.",
@@ -142,7 +156,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 3, nama: "Standar Penilaian", kode: "SPN", kategori: "Pendidikan",
     rujukanPasal: "Pasal 25", penanggungJawab: "GKM",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 84, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 85,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 8 - Standar Penilaian Hasil Pendidikan). Hasil penilaian ditampilkan di mading & diinput ke SIAKAD. Skor estimasi 84%. Saran: transparansi nilai ditingkatkan.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap",
+        tanggalAMI: "21 Februari 2023 & 14 Agustus 2023",
+      },
       2024: {
         skor: 88, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 90,
         catatan: "100% dosen menerapkan berbagai teknik penilaian, memberi umpan balik, prosedur lengkap, dan input nilai ≤10 hari kerja. Konsistensi penilaian sangat baik.",
@@ -160,7 +180,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 4, nama: "Standar Pengelolaan", kode: "SPP", kategori: "Pendidikan",
     rujukanPasal: "Pasal 26-30", penanggungJawab: "UPPS",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 83, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 84,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 6 - Standar Pengelolaan). Penyesuaian kalender akademik, dosen didorong studi lanjut, rekonstruksi kurikulum berkala. Skor estimasi 83%.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap",
+        tanggalAMI: "21 Februari 2023 & 14 Agustus 2023",
+      },
       2024: {
         skor: 86, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 88,
         catatan: "Dokumen RPS, laporan evaluasi, input nilai online (Sisformik) 100% tersedia. Wawancara Prodi tentang siklus PPEPP dilakukan. Pengelolaan pendidikan berjalan baik.",
@@ -178,7 +204,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 5, nama: "Standar Isi", kode: "SIS", kategori: "Pendidikan",
     rujukanPasal: "Pasal 31-39", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 85, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 86,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 1 - Standar Isi). Kurikulum disusun matang dengan memperhatikan faktor pasar kerja. Perlu updating rutin & benchmarking. 7 Prodi: Agribisnis, Adm Publik, Akuntansi, Hukum, Manajemen, Teknik Sipil, Teknik Elektro.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap",
+        tanggalAMI: "21 Februari 2023 & 14 Agustus 2023",
+      },
       2024: {
         skor: 87, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 89,
         catatan: "Dokumen kurikulum & silabus 100% tersedia. Matriks/peta kurikulum lengkap. Tinjauan kurikulum 2x/thn (≥1). Rasio mhs/dosen PA 18 (≤20). Rasio mhs/dosen TA 12 (≤10, perlu perhatian). Pertemuan bimbingan 4x/sem (≥3).",
@@ -196,7 +228,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 6, nama: "Standar Dosen & Tenaga Kependidikan", kode: "SDT", kategori: "Pendidikan",
     rujukanPasal: "Pasal 40-45", penanggungJawab: "BAKU",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 83, status: "MS", temuan: 4, ptK: 3, tindakLanjut: 85,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 4 - Standar Tenaga Pendidik) & AMI SDM 15 April 2023. Kualitas dosen baik, perlu pengembangan: kreativitas/inovasi mengajar, disiplin waktu, perbanyak latihan praktikum. Tambah teknisi lab, kembangkan tenaga pendukung. 9 dosen studi lanjut. Tendik: Pustakawan S1 sesuai bidang, Laboran sesuai keahlian (belum semua bersertifikasi), IT aktif seminar, Adm jarang dilibatkan seminar.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap & AMI SDM 2022-2023",
+        tanggalAMI: "21 Februari 2023, 14 Agustus 2023 & 15 April 2023",
+      },
       2024: {
         skor: 82, status: "MS", temuan: 5, ptK: 3, tindakLanjut: 84,
         catatan: "Dosen: 80% berkepangkatan (20% belum), 60%+ sertifikasi dosen. BKD 100% terpenuhi. Tendik: Pustakawan 75%, Laboran 80%, IT 85%, Administrasi 70% kompeten. Perlu pelatihan lebih lanjut.",
@@ -214,7 +252,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 7, nama: "Standar Sarana & Prasarana", kode: "SSP", kategori: "Pendidikan",
     rujukanPasal: "Pasal 46-47", penanggungJawab: "BAU",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 80, status: "BS", temuan: 5, ptK: 3, tindakLanjut: 82,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 5 - Standar Sarana & Prasarana) & AMI Sarpras 20 Maret 2023. Fasilitas perlu ditingkatkan: perpustakaan (referensi buku/jurnal/tesis), laboratorium, akses komputer & Wi-Fi, fasilitas kesehatan & keamanan. 46 item inventaris: rata-rata BAIK. Perangkat perlu upgrade: Laptop 15, Komputer 78, Printer 25, LCD 25, Scanner 8, Stand LCD 22, Diesel 1, Mobil 2, Bus 1. Rekomendasi: tambah Lab Teknik Elektro.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap & AMI Sarpras 2022-2023",
+        tanggalAMI: "21 Februari 2023, 14 Agustus 2023 & 20 Maret 2023",
+      },
       2024: {
         skor: 83, status: "BS", temuan: 8, ptK: 5, tindakLanjut: 80,
         catatan: "Sarana: 24/29 jenis (83%) baik, 5/29 (17%) kurang baik (Lap. Basket/Voli/Silat, Studio Musik, R. Kesehatan). Prasarana: 6/9 (84%) baik, 3/9 (16%) kurang (Scanner 8 unit, Stand LCD 22 unit, Diesel 1 unit). 47 item diperiksa.",
@@ -232,7 +276,13 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 8, nama: "Standar Pembiayaan", kode: "SPM", kategori: "Pendidikan",
     rujukanPasal: "Pasal 48-51", penanggungJawab: "BAKU / SPI",
     ami: {
-      2021: null, 2022: null, 2023: null,
+      2021: null, 2022: null,
+      2023: {
+        skor: 80, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 82,
+        catatan: "Berdasarkan AMI Proses Pembelajaran 2022 (Bab III poin 7 - Standar Pembiayaan) & AMI Keuangan 3 Mei 2023. Biaya pendidikan sesuai tuntutan mahasiswa & standar Pendidikan Tinggi. APB UNITA Rp 10.319.370.000, penggunaan Rp 10.941.870.000 → DEFISIT Rp 622.500. Sistem keuangan tersentral. Rekomendasi: sinkronisasi Renstra & Renop dengan APB tahunan.",
+        dokumenAMI: "AMI Proses Pembelajaran 2022 Ganjil & Genap & AMI Keuangan 2022-2023",
+        tanggalAMI: "21 Februari 2023, 14 Agustus 2023 & 3 Mei 2023",
+      },
       2024: {
         skor: 75, status: "BS", temuan: 6, ptK: 4, tindakLanjut: 78,
         catatan: "Biro Adm. Keuangan menyerap anggaran terbesar (Rp 9,2 M / 69%). Fokus pada layanan mahasiswa (kegiatan kemahasiswaan, wisuda, PMB). TERJADI DEFISIT hampir Rp 1,9 M (pengeluaran > pendapatan). Diversifikasi sumber pendanaan mendesak.",
@@ -863,6 +913,26 @@ export interface DokumenAMIList {
 }
 
 export const DOKUMEN_AMI_PER_TAHUN: Record<number, DokumenAMIList> = {
+  2023: {
+    tahun: 2023,
+    totalDokumen: 14,
+    dokumen: [
+      { no: 1, nama: "AMI Proses Pembelajaran 2022 Ganjil", kode: "Monev-in - SPB-Ganjil", tanggalAMI: "21 Februari 2023", kategori: "Pendidikan" },
+      { no: 2, nama: "AMI Proses Pembelajaran 2022 Genap", kode: "Monev-in - SPB-Genap", tanggalAMI: "14 Agustus 2023", kategori: "Pendidikan" },
+      { no: 3, nama: "AMI VMTS 2022-2023", kode: "Monev-in - VMTS", tanggalAMI: "7 Agustus 2023", kategori: "Tambahan" },
+      { no: 4, nama: "AMI Tata Pamong & Tata Kelola 2022-2023", kode: "Monev-in - TPTK", tanggalAMI: "14 Agustus 2023", kategori: "Tambahan" },
+      { no: 5, nama: "AMI Mahasiswa 2022-2023", kode: "Monev-in - Mahasiswa", tanggalAMI: "13 Maret 2023", kategori: "Tambahan" },
+      { no: 6, nama: "AMI SDM 2022-2023", kode: "Monev-in - SDM", tanggalAMI: "15 April 2023", kategori: "Tambahan" },
+      { no: 7, nama: "AMI Keuangan 2022-2023", kode: "Monev-in - Keuangan", tanggalAMI: "3 Mei 2023", kategori: "Tambahan" },
+      { no: 8, nama: "AMI Sarana dan Prasarana 2022-2023", kode: "Monev-in - SARPRAS", tanggalAMI: "20 Maret 2023", kategori: "Tambahan" },
+      { no: 9, nama: "AMI Penelitian dan PKM 2022-2023", kode: "Monev-in - PEN-PKM", tanggalAMI: "3 Agustus 2023", kategori: "Penelitian & PkM" },
+      { no: 10, nama: "AMI MBKM 2022-2023", kode: "Monev-in - MBKM", tanggalAMI: "10 April 2023", kategori: "Tambahan" },
+      { no: 11, nama: "AMI Kesejahteraan 2022-2023", kode: "Monev-in - KSJH", tanggalAMI: "15 Mei 2023", kategori: "Tambahan" },
+      { no: 12, nama: "AMI Pelayanan Mahasiswa 2022-2023 Ganjil", kode: "Monev-in - PLYN-Ganjil", tanggalAMI: "17 Januari 2023", kategori: "Tambahan" },
+      { no: 13, nama: "AMI Pelayanan Mahasiswa 2022-2023 Genap", kode: "Monev-in - PLYN-Genap", tanggalAMI: "Juli 2023", kategori: "Tambahan" },
+      { no: 14, nama: "Pernyataan dan Kebijakan Mutu", kode: "Kebijakan Mutu UNITA", tanggalAMI: "2023", kategori: "Kebijakan" },
+    ]
+  },
   2024: {
     tahun: 2024,
     totalDokumen: 20,
