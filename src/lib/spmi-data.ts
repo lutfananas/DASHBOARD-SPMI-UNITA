@@ -66,9 +66,12 @@ export interface RegulasiTahun {
 
 export const REGULASI_PER_TAHUN: Record<number, RegulasiTahun> = {
   2021: {
-    tahun: 2021, permen: "Permendikbud 3/2020",
-    judulPermen: "Standar Nasional Pendidikan Tinggi",
-    siklus: "PPEPP", tanggalAudit: "-", sumberData: "Tidak ada dokumen AMI", totalDokumenAMI: 0,
+    tahun: 2021, permen: "Permendikbud 3/2020 & 5/2020",
+    judulPermen: "SN-Dikti & Akreditasi Prodi/PT",
+    siklus: "PPEPP (Penetapan-Pelaksanaan-Evaluasi-Pengendalian-Peningkatan)",
+    tanggalAudit: "14 Maret 2021 s.d. 10 Agustus 2021",
+    sumberData: "11 dokumen AMI dari PPM UNITA (folder GDrive 3. LAPORAN AUDIT MONEV INSTITUSI)",
+    totalDokumenAMI: 11,
   },
   2022: {
     tahun: 2022, permen: "Permendikbud 3/2020 & 5/2020",
@@ -111,7 +114,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 1, nama: "Standar Kompetensi Lulusan", kode: "SKL", kategori: "Pendidikan",
     rujukanPasal: "Pasal 6-10", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Tidak ada AMI Pendidikan khusus di TA 2020/2021. Estimasi dari AMI Pelayanan Mahasiswa 2020 (6 Prodi skor 3,08-3,47 skala 1-5, rata-rata ~3,25 = 65%). Lulusan terserap DUDI belum dilaporkan terstruktur.",
+        dokumenAMI: "Tidak ada AMI khusus (estimasi dari AMI Pelayanan Mahasiswa 2020)",
+        tanggalAMI: "17 Januari 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Tidak ada AMI Pendidikan khusus di TA 2021/2022. Estimasi dari AMI Pelayanan Mahasiswa 2021-2022 (6 Prodi skor 3,2-3,8 skala 1-5, rata-rata 3,5). Belum ada data lulusan terserap DUDI yang terstruktur.",
@@ -141,7 +149,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 2, nama: "Standar Proses Pembelajaran", kode: "SPB", kategori: "Pendidikan",
     rujukanPasal: "Pasal 11-24", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 68, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Tidak ada AMI Proses Pembelajaran khusus di TA 2020/2021. Estimasi dari AMI Pelayanan Mahasiswa 2020. 6 Prodi: Ilmu Adm Negara 3,08; Ilmu Hukum 3,27; Agribisnis; Manajemen; Akuntansi; Teknik Sipil. BAAK 3,30; Biro Keuangan 3,47 (tertinggi); Biro Umum 3,21; Kemahasiswaan 3,28. Rata-rata institusi ~3,25/5 = 65%.",
+        dokumenAMI: "AMI Pelayanan Mahasiswa 2020 (estimasi)",
+        tanggalAMI: "17 Januari 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 5, ptK: 3, tindakLanjut: 76,
         catatan: "Berdasarkan AMI Pelayanan Mahasiswa 2021-2022. 6 Program Studi dievaluasi: Ilmu Adm Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi, Teknik Sipil. Skor Prodi 3,2-3,8 skala 1-5. BAAK 3,4; Biro Keuangan 3,5; Biro Umum 3,3; Kemahasiswaan 3,4; Perpustakaan 3,1; LPPM 3,3. Rata-rata institusi ~3,4/5 = 68%.",
@@ -171,7 +184,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 3, nama: "Standar Penilaian", kode: "SPN", kategori: "Pendidikan",
     rujukanPasal: "Pasal 25", penanggungJawab: "GKM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 75,
+        catatan: "Tidak ada AMI Penilaian khusus di TA 2020/2021. Sistem penilaian via SIAKAD sudah berjalan. Hasil nilai diinput ke SIAKAD. Rekomendasi: pemberitahuan nilai tepat waktu, KHS tepat waktu.",
+        dokumenAMI: "Tidak ada AMI khusus (estimasi)",
+        tanggalAMI: "2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 3, ptK: 2, tindakLanjut: 78,
         catatan: "Tidak ada AMI Penilaian khusus di TA 2021/2022. Sistem penilaian via SIAKAD sudah berjalan. Hasil nilai diinput ke SIAKAD.",
@@ -201,7 +219,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 4, nama: "Standar Pengelolaan", kode: "SPP", kategori: "Pendidikan",
     rujukanPasal: "Pasal 26-30", penanggungJawab: "UPPS",
     ami: {
-      2021: null,
+      2021: {
+        skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
+        catatan: "Tidak ada AMI Pengelolaan khusus di TA 2020/2021. Siklus PPEPP sudah berjalan. Sistem informasi akademik (SIAKAD) digunakan. Rekomendasi: peningkatan ketertiban administrasi pengajaran, lebih dekat ke mahasiswa.",
+        dokumenAMI: "Tidak ada AMI khusus (estimasi)",
+        tanggalAMI: "2021",
+      },
       2022: {
         skor: 78, status: "BS", temuan: 3, ptK: 2, tindakLanjut: 80,
         catatan: "Tidak ada AMI Pengelolaan khusus di TA 2021/2022. Siklus PPEPP sudah berjalan melalui RTM. Sistem informasi akademik (SIAKAD) digunakan untuk input nilai.",
@@ -231,7 +254,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 5, nama: "Standar Isi", kode: "SIS", kategori: "Pendidikan",
     rujukanPasal: "Pasal 31-39", penanggungJawab: "UPPS / GKM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
+        catatan: "Tidak ada AMI Isi khusus di TA 2020/2021. 6 Program Studi (Ilmu Adm Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi, Teknik Sipil). Kurikulum sesuai SN-Dikti Permendikbud 3/2020. Rekomendasi: penataan ruang Fakultas, peningkatan sistem informasi perkuliahan.",
+        dokumenAMI: "Tidak ada AMI khusus (estimasi)",
+        tanggalAMI: "2021",
+      },
       2022: {
         skor: 76, status: "BS", temuan: 3, ptK: 2, tindakLanjut: 78,
         catatan: "Tidak ada AMI Isi khusus di TA 2021/2022. 6 Program Studi (Ilmu Adm Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi, Teknik Sipil) + Teknik Elektro. Kurikulum sesuai SN-Dikti Permendikbud 3/2020.",
@@ -261,7 +289,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 6, nama: "Standar Dosen & Tenaga Kependidikan", kode: "SDT", kategori: "Pendidikan",
     rujukanPasal: "Pasal 40-45", penanggungJawab: "BAKU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI SDM 10 Agustus 2021 (26 halaman). Dosen: aktif mengikuti kepanitiaan, terdaftar di asosiasi, mengusulkan kenaikan jabatan via tim percepatan. Tendik: Pustakawan S1 sesuai bidang, Laboran sesuai keahlian (belum semua bersertifikasi), IT aktif seminar, Administrasi jarang dilibatkan seminar. Rekomendasi: sertifikasi tendik, perluas kerjasama Tri Dharma.",
+        dokumenAMI: "AMI SDM 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI SDM 3 Agustus 2022. Dosen: aktif mengikuti kepanitiaan, terdaftar di asosiasi. Sebagian besar sudah mengusulkan kenaikan jabatan fungsional dibantu tim percepatan. Tendik: Pustakawan S1 sesuai bidang, Laboran sesuai keahlian (belum semua bersertifikasi), IT aktif seminar, Administrasi jarang dilibatkan seminar.",
@@ -291,7 +324,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 7, nama: "Standar Sarana & Prasarana", kode: "SSP", kategori: "Pendidikan",
     rujukanPasal: "Pasal 46-47", penanggungJawab: "BAU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 80, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 82,
+        catatan: "Berdasarkan AMI Sarpras 10 Agustus 2021 (7 halaman). 46+ item sarana+prasarana diperiksa. Kondisi rata-rata BAIK. Gedung Rektorat, Gedung Perpustakaan, Pusat Bahasa, Pusat Komputer, Auditorium, 4 Gedung Fakultas, 19 Ruang Kelas, 65 Ruang Dosen. Beberapa perangkat perlu upgrade.",
+        dokumenAMI: "AMI Sarpras 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 82, status: "MS", temuan: 3, ptK: 2, tindakLanjut: 84,
         catatan: "Berdasarkan AMI Sarpras 3 Agustus 2022. 46 item sarana+prasarana diperiksa. Kondisi rata-rata BAIK. Gedung Rektorat, 5 Biro, Gedung 4 Fakultas, Lab Komputer, Lab Bahasa, Lab Teknik Sipil, Lab Teknik Elektro, 19 Ruang Kelas, 65 Ruang Dosen, Auditorium, Musholla, Perpustakaan. Beberapa perangkat perlu upgrade.",
@@ -321,7 +359,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 8, nama: "Standar Pembiayaan", kode: "SPM", kategori: "Pendidikan",
     rujukanPasal: "Pasal 48-51", penanggungJawab: "BAKU / SPI",
     ami: {
-      2021: null,
+      2021: {
+        skor: 68, status: "BS", temuan: 6, ptK: 5, tindakLanjut: 70,
+        catatan: "Berdasarkan AMI Anggaran 10 Agustus 2021 (40 halaman). Pendapatan Rp 9.514.300.000 (dari mahasiswa, persewaan gedung, IT mart, sewa lahan). Pembelanjaan Rp 10.876.300.000. SELISIH DEFISIT Rp 1.362.000.000. Koreksi: hapus pos pengadaan sarana Rp 331.000.000 + prasarana Rp 1.031.000.000. Renstra & Renop perlu disinkronkan dengan APB tahunan.",
+        dokumenAMI: "AMI Anggaran 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 72,
         catatan: "Berdasarkan AMI Keuangan 3 Agustus 2022. APB UNITA Rp 886.782.164, penggunaan Rp 956.222.164 → DEFISIT Rp 69.440.000. Sistem keuangan tersentral. Renstra & Renop perlu disinkronkan dengan APB tahunan.",
@@ -353,7 +396,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 9, nama: "Standar Luaran Penelitian", kode: "PEN-LRN", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 10 Agustus 2021 (21 halaman). Kegiatan disesuaikan Roadmap LPPM. 2 skim: Regular & Institusi. 29 artikel jurnal Internal + 1 jurnal eksternal tercatat. Kinerja dosen sudah rutin Tri Dharma namun Prodi baru belum terlapor. Perlu tindak lanjut pemenuhan standar SNPT.",
+        dokumenAMI: "AMI Penelitian & PkM 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022 (3 Agustus 2022). Kegiatan penelitian disesuaikan dengan Roadmap LPPM. 2 skim: Regular & Institusi. Pendanaan internal dari UNITA, eksternal dari DIKTI/LLDIKTI. Publikasi belum banyak tercatat.",
@@ -383,7 +431,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 10, nama: "Standar Proses Penelitian", kode: "PEN-PRS", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Skim Regular (dosen+mahasiswa) & Institusi (kerja sama antar-PT). Diseminasi via jurnal internal Prodi & pertemuan ilmiah. Hasil penelitian dipublikasi di jurnal internal & eksternal.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 76, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 80,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Skim Regular (dosen+mahasiswa) & Institusi (kerja sama antar-PT). Diseminasi via jurnal Pendidikan & pertemuan ilmiah dosen.",
@@ -413,7 +466,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 11, nama: "Standar Masukan Penelitian", kode: "PEN-MSK", kategori: "Penelitian",
     penanggungJawab: "LPPM / BAKU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Pendanaan internal dari UNITA + eksternal dari DIKTI/LLDIKTI. Fasilitas kampus mendukung. SDM peneliti sesuai bidang keilmuan.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Pendanaan internal dari UNITA + eksternal dari DIKTI/LLDIKTI. Fasilitas kampus mendukung. SDM peneliti sesuai bidang keilmuan.",
@@ -443,7 +501,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 12, nama: "Standar Hasil Penelitian", kode: "PEN-HSL", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. 29 artikel jurnal Internal + 1 jurnal eksternal tercatat. Hasil penelitian dipublikasi & dijadikan bahan ajar pendukung mata kuliah.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Hasil penelitian dipublikasi di jurnal internal Program Studi, jurnal institusi. Hasil juga dijadikan bahan ajar pendukung mata kuliah.",
@@ -473,7 +536,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 13, nama: "Standar Publikasi Ilmiah Penelitian", kode: "PEN-PUB", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. 29 artikel jurnal Internal + 1 jurnal eksternal tercatat (Fakultas Hukum, FISIP, Pertanian, Ekonomi, PkM UNITA). Prodi baru belum terlapor. Rekomendasi: tindak lanjut pemenuhan standar SNPT.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Publikasi belum banyak tercatat terstruktur. Diseminasi via jurnal internal Prodi & pertemuan ilmiah.",
@@ -503,7 +571,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 14, nama: "Standar Paten & HKI Penelitian", kode: "PEN-PTN", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 68, status: "BS", temuan: 6, ptK: 5, tindakLanjut: 70,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. HKI/Paten belum dilaporkan terstruktur. Rekomendasi: sosialisasi hibah nasional, pemetaan dosen untuk konsistensi publikasi jurnal terkait kepangkatan.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. HKI/Paten belum dilaporkan secara terstruktur. Rekomendasi: sosialisasi hibah nasional, pemetaan dosen untuk konsistensi publikasi jurnal.",
@@ -533,7 +606,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 15, nama: "Standar Diseminasi Penelitian", kode: "PEN-DSM", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Diseminasi via jurnal internal Fakultas & jurnal institusi. Pertemuan ilmiah dosen rutin dilaksanakan. 5 tabel publikasi: Fakultas Hukum, FISIP, Pertanian, Ekonomi, PkM UNITA.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Diseminasi via jurnal Program Studi, jurnal institusi. Pertemuan ilmiah dosen rutin dilaksanakan.",
@@ -563,7 +641,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 16, nama: "Standar Kolaborasi Penelitian", kode: "PEN-KLB", kategori: "Penelitian",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Skim Institusi membuka jaringan kerjasama penelitian antar-PT. Belum ada kolaborasi internasional. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Skim Institusi membuka jaringan kerjasama penelitian antar-PT. Belum ada kolaborasi internasional. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
@@ -595,7 +678,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 17, nama: "Standar Luaran PkM", kode: "PKM-LRN", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. PkM dilaksanakan sesuai roadmap. 2 skim: Regular & IbM. Publikasi PkM via Tabel 5 (PkM UNITA).",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. PkM dilaksanakan sesuai roadmap. 2 skim: Regular & IbM. Regular rutin terjadwal + accommodasi permohonan PkM via LPPM.",
@@ -625,7 +713,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 18, nama: "Standar Proses PkM", kode: "PKM-PRS", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. PkM dilaksanakan terjadwal sesuai bidang keilmuan & kebutuhan masyarakat. Pelibatan mahasiswa via MBKM, PKL, KKN.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 76, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 80,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. PkM dilaksanakan secara terjadwal sesuai bidang keilmuan dosen & kebutuhan masyarakat.",
@@ -655,7 +748,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 19, nama: "Standar Masukan PkM", kode: "PKM-MSK", kategori: "PkM",
     penanggungJawab: "LPPM / BAKU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Pendanaan PkM internal dari UNITA. Skim IbM sebagai hibah kompetisi. SDM pengabdi sesuai bidang.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Pendanaan PkM internal dari UNITA. Skim IbM sebagai hibah kompetisi. SDM pengabdi sesuai bidang.",
@@ -685,7 +783,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 20, nama: "Standar Hasil PkM", kode: "PKM-HSL", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Skala PkM masih LOKAL/DAERAH, belum menyentuh nasional/internasional. Hasil penelitian diterapkan pada objek PkM.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Skala PkM masih LOKAL/DAERAH, belum menyentuh nasional/internasional. Hasil penelitian diterapkan pada objek PkM secara terstruktur.",
@@ -715,7 +818,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 21, nama: "Standar Publikasi PkM", kode: "PKM-PUB", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Publikasi PkM di Tabel 5 (PkM UNITA). Belum ada target kuantitatif. Rekomendasi: workshop ToT penyusunan proposal PkM.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Publikasi PkM di jurnal Program Studi & jurnal institusi. Belum ada target kuantitatif.",
@@ -745,7 +853,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 22, nama: "Standar Produk & Jasa PkM", kode: "PKM-PRD", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 68, status: "BS", temuan: 6, ptK: 5, tindakLanjut: 70,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Produk/jasa PkM belum dilaporkan terstruktur. Rekomendasi: tingkatkan dana PkM, kembangkan inovasi.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Produk/jasa PkM belum dilaporkan secara terstruktur. Rekomendasi: tingkatkan dana PkM, kembangkan inovasi.",
@@ -775,7 +888,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 23, nama: "Standar Diseminasi PkM", kode: "PKM-DSM", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Diseminasi melalui jurnal internal & pertemuan ilmiah. Belum ada forum diseminasi nasional/internasional.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 76,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Diseminasi melalui jurnal internal & pertemuan ilmiah. Belum ada forum diseminasi nasional/internasional.",
@@ -805,7 +923,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 24, nama: "Standar Kolaborasi PkM", kode: "PKM-KLB", kategori: "PkM",
     penanggungJawab: "LPPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 68, status: "BS", temuan: 6, ptK: 5, tindakLanjut: 70,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. Kolaborasi PkM masih lokal. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Kolaborasi PkM masih lokal. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
@@ -837,7 +960,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 25, nama: "Standar VMTS", kode: "VMTS", kategori: "Tambahan",
     penanggungJawab: "Senat Universitas",
     ami: {
-      2021: null,
+      2021: {
+        skor: 87, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 88,
+        catatan: "Berdasarkan AMI VMTS 10 Agustus 2021 (10 halaman, 397 responden: 19 Pimpinan Dekan/Kaprodi, 42 Dosen, 36 Tendik, 300 Mahasiswa). Skor rata-rata 3,475/4 (87% = Baik). Pimpinan 3,8 (tertinggi), Dosen 3,5 (terendah!), Tendik 3,6, Mahasiswa 3,6. Perlu peningkatan sosialisasi ke dosen karena skor terendah.",
+        dokumenAMI: "AMI VMTS 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 84, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 86,
         catatan: "Berdasarkan AMI VMTS 1 Agustus 2022 (411 responden: 65 Pimpinan/Dosen, 36 Tendik, 300 Mahasiswa, 10 Stakeholders). Skor rata-rata 3,375/4 (84% = Baik). Pimpinan&Dosen 3,8 (tertinggi), Tendik 3,4, Mahasiswa 3,2, Stakeholders 3,1 (terendah). Perlu peningkatan sosialisasi ke tendik baru & mahasiswa.",
@@ -867,7 +995,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 26, nama: "Standar Tata Pamong & Tata Kelola", kode: "TPTK", kategori: "Tambahan",
     penanggungJawab: "Senat / SPI",
     ami: {
-      2021: null,
+      2021: {
+        skor: 83, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 85,
+        catatan: "Berdasarkan AMI TPTK 10 Agustus 2021 (7 halaman, 601 responden: 65 Dosen, 36 Tendik, 500 Mahasiswa). Skor rata-rata 3,3/4 (83% = Puas). Dosen 3,5 (tertinggi), Tendik 3,3, Mahasiswa 3,1 (terendah). Mengacu Permendikbud 3/2020 Pasal 24-29 tentang Tata Pamong. Perlu peningkatan kepuasan mahasiswa.",
+        dokumenAMI: "AMI TPTK 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 82, status: "MS", temuan: 2, ptK: 1, tindakLanjut: 84,
         catatan: "Berdasarkan AMI TPTK 2021-2022. Skor rata-rata 3,3/4 (82%). Tendik 3,4 (tertinggi), Pimpinan&Dosen 3,3, Mahasiswa 3,3, Stakeholders 3,2. Mengacu Permendikbud 3/2020 Pasal 24-29 tentang Tata Pamong.",
@@ -897,7 +1030,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 27, nama: "Standar Mahasiswa", kode: "MHS", kategori: "Tambahan",
     penanggungJawab: "Wakil Rektor III",
     ami: {
-      2021: null,
+      2021: {
+        skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
+        catatan: "Berdasarkan AMI Mahasiswa 14 Maret 2021 (7 halaman). Indikator: PMB, WKK, BEM/UKM, Tracer Study. PMB Prosedur = Cukup. Rata-rata Baik. INBIS & Tracer Study perlu peningkatan. Rekomendasi: tingkatkan implementasi program kerja BEM/UKM selaras Renstra, kembangkan strategi INBIS, sosialisasi tracer study.",
+        dokumenAMI: "AMI Mahasiswa 2020 (Monev 14 Maret 2021)",
+        tanggalAMI: "14 Maret 2021",
+      },
       2022: {
         skor: 78, status: "BS", temuan: 4, ptK: 2, tindakLanjut: 80,
         catatan: "Berdasarkan AMI Mahasiswa 14 Maret 2022. 12 indikator dalam 3 kategori: BEM/UKM, INBIS Inkubator Bisnis, Tracer Study. Rata-rata BAIK. INBIS 'Dampak dan manfaat' & Tracer 'Umpan balik responden' = Cukup.",
@@ -927,7 +1065,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 28, nama: "Standar Sumber Daya Manusia", kode: "SDM", kategori: "Tambahan",
     penanggungJawab: "BAKU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI SDM 10 Agustus 2021 (26 halaman). Dosen: aktif mengikuti kepanitiaan, terdaftar di asosiasi, mengusulkan kenaikan jabatan via tim percepatan. Tendik: Pustakawan S1 sesuai bidang, Laboran sesuai keahlian (belum semua bersertifikasi), IT aktif seminar, Administrasi jarang dilibatkan seminar.",
+        dokumenAMI: "AMI SDM 2020 (Monev 10 Agustus 2021) & AMI Kesejahteraan 10 Agustus 2021",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI SDM 3 Agustus 2022. Dosen: aktif mengikuti kepanitiaan, terdaftar di asosiasi, mengusulkan kenaikan jabatan via tim percepatan. Tendik: Pustakawan S1 sesuai bidang, Laboran sesuai keahlian (belum semua bersertifikasi), IT aktif seminar, Administrasi jarang dilibatkan seminar.",
@@ -957,7 +1100,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 29, nama: "Standar Keuangan, Sarana, Prasarana", kode: "KSP", kategori: "Tambahan",
     penanggungJawab: "BAKU / BAU / SPI",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 6, ptK: 5, tindakLanjut: 72,
+        catatan: "Anggaran (10 Agustus 2021): Pendapatan Rp 9.514.300.000, Pembelanjaan Rp 10.876.300.000, DEFISIT Rp 1.362.000.000. Koreksi: hapus pos sarana Rp 331.000.000 + prasarana Rp 1.031.000.000. Sarpras (10 Agustus 2021): kondisi rata-rata BAIK. Beberapa perangkat perlu upgrade.",
+        dokumenAMI: "AMI Anggaran 2020 & AMI Sarpras 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
         catatan: "Keuangan (3 Agustus 2022): APB Rp 886.782.164, penggunaan Rp 956.222.164, DEFISIT Rp 69.440.000. Sarpras (3 Agustus 2022): 46 item diperiksa, kondisi rata-rata BAIK. Beberapa perangkat perlu upgrade.",
@@ -987,7 +1135,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 30, nama: "Standar Kerjasama", kode: "KJS", kategori: "Tambahan",
     penanggungJawab: "BAU",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Kerjasama 10 Agustus 2021 (14 halaman). Tabel 1: Pelaksanaan Kerjasama. Tabel 2: Kepuasan Mitra Kerjasama. Mitra kerjasama tercatat di bidang pendidikan, penelitian, pengabdian. Skor estimasi 70%. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
+        dokumenAMI: "AMI Kerjasama 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 72, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 75,
         catatan: "Berdasarkan AMI Kerjasama 2021-2022 (3 Agustus 2022). Mitra kerjasama tercatat. Skor estimasi 72%. PkM masih lokal/daerah. Rekomendasi: perluas kerjasama dengan mitra eksternal.",
@@ -1017,7 +1170,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 31, nama: "Standar MBKM", kode: "MBKM", kategori: "Tambahan",
     penanggungJawab: "UPPS",
     ami: {
-      2021: null,
+      2021: {
+        skor: 25, status: "BS", temuan: 8, ptK: 6, tindakLanjut: 35,
+        catatan: "Berdasarkan AMI MBKM 10 Agustus 2021 (12 halaman). Implementasi MBKM masih SANGAT KURANG. Jumlah mahasiswa lolos sangat terbatas. Minat mahasiswa tinggi namun seleksi portal MBKM ketat. 9 skema MBKM: Pertukaran Pelajar, Magang, Riset, Proyek Independen, Wirausaha, Kemanusiaan, Asistensi Mengajar, KKN Tematik, Bela Negara. Rekomendasi: sosialisasi intensif, pelatihan tes seleksi, kerjasama mitra.",
+        dokumenAMI: "AMI MBKM 2020 (Monev 10 Agustus 2021)",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 30, status: "BS", temuan: 8, ptK: 6, tindakLanjut: 40,
         catatan: "Berdasarkan AMI MBKM 3 Agustus 2022. Implementasi MBKM masih SANGAT KURANG. Jumlah mahasiswa lolos sangat terbatas. Minat mahasiswa tinggi namun seleksi portal MBKM ketat. Bantuan potongan UKT tersedia. 9 skema MBKM. Rekomendasi: sosialisasi intensif, pelatihan tes seleksi, kerjasama mitra.",
@@ -1047,7 +1205,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 32, nama: "Standar Luaran & Capaian Tridharma", kode: "LCT", kategori: "Tambahan",
     penanggungJawab: "PPM",
     ami: {
-      2021: null,
+      2021: {
+        skor: 72, status: "BS", temuan: 5, ptK: 4, tindakLanjut: 75,
+        catatan: "Berdasarkan AMI Penelitian & PkM 2020. 29 artikel jurnal Internal + 1 jurnal eksternal tercatat. PkM lokal/daerah. Belum ada target kuantitatif capaian Tridharma. Prodi baru belum terlapor.",
+        dokumenAMI: "AMI Penelitian & PkM 2020",
+        tanggalAMI: "10 Agustus 2021",
+      },
       2022: {
         skor: 75, status: "BS", temuan: 4, ptK: 3, tindakLanjut: 78,
         catatan: "Berdasarkan AMI Penelitian & PkM 2021-2022. Publikasi belum banyak tercatat terstruktur. PkM lokal/daerah. Belum ada target kuantitatif capaian Tridharma.",
@@ -1077,7 +1240,12 @@ export const STANDAR_SPMI: StandarSPMI[] = [
     no: 33, nama: "Standar Pelayanan Kepada Mahasiswa", kode: "PKM-MHS", kategori: "Tambahan",
     penanggungJawab: "BAA",
     ami: {
-      2021: null,
+      2021: {
+        skor: 70, status: "BS", temuan: 6, ptK: 4, tindakLanjut: 73,
+        catatan: "Berdasarkan AMI Pelayanan Mahasiswa 17 Januari 2021 (25 halaman), skala 1-5. 6 Program Studi: Ilmu Adm Negara 3,08; Ilmu Hukum 3,27; Agribisnis, Manajemen, Akuntansi, Teknik Sipil. BAAK 3,30; Biro Keuangan 3,47 (tertinggi); Biro Umum 3,21; Kemahasiswaan 3,28. Rata-rata institusi ~3,25/5 = 65%. Rekomendasi: peningkatan kedisiplinan, ketepatan, kecepatan, keramahan; sistem informasi perkuliahan; penataan ruang.",
+        dokumenAMI: "AMI Pelayanan Mahasiswa 2020 (Monev 17 Januari 2021)",
+        tanggalAMI: "17 Januari 2021",
+      },
       2022: {
         skor: 73, status: "BS", temuan: 5, ptK: 3, tindakLanjut: 75,
         catatan: "Berdasarkan AMI Pelayanan Mahasiswa 2021-2022 (17 Januari 2022), skala 1-5. 6 Program Studi dievaluasi: Ilmu Adm Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi, Teknik Sipil. Skor Prodi 3,2-3,8 skala 1-5. BAAK 3,4; Biro Keuangan 3,5; Biro Umum 3,3; Kemahasiswaan 3,4; Perpustakaan 3,1; LPPM 3,3. Rata-rata institusi ~3,4/5 = 68%.",
@@ -1264,6 +1432,23 @@ export interface DokumenAMIList {
 }
 
 export const DOKUMEN_AMI_PER_TAHUN: Record<number, DokumenAMIList> = {
+  2021: {
+    tahun: 2021,
+    totalDokumen: 11,
+    dokumen: [
+      { no: 1, nama: "Monev VMTS Institusi 2020", kode: "Monev-in - VMTS", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 2, nama: "Monev Tata Pamong Tata Kelola Institusi 2020", kode: "Monev-in - TPTK", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 3, nama: "Monev Mahasiswa Institusi 2020", kode: "Monev-in - Mahasiswa", tanggalAMI: "14 Maret 2021", kategori: "Tambahan" },
+      { no: 4, nama: "Monev SDM Institusi 2020", kode: "Monev-in - SDM", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 5, nama: "Monev Anggaran Institusi 2020", kode: "Monev-in - Anggaran", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 6, nama: "Monev Sarpras Institusi 2020", kode: "Monev-in - SARPRAS", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 7, nama: "Monev Pelayanan Mahasiswa Institusi 2020", kode: "Monev-in - PLYN", tanggalAMI: "17 Januari 2021", kategori: "Tambahan" },
+      { no: 8, nama: "Monev Penelitian dan PKM 2020", kode: "Monev-in - PEN-PKM", tanggalAMI: "10 Agustus 2021", kategori: "Penelitian & PkM" },
+      { no: 9, nama: "Monev Kerjasama Institusi 2020", kode: "Monev-in - KJSM", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 10, nama: "Monev MBKM Institusi 2020", kode: "Monev-in - MBKM", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+      { no: 11, nama: "Monev Kesejahteraan Institusi 2020", kode: "Monev-in - KSJH", tanggalAMI: "10 Agustus 2021", kategori: "Tambahan" },
+    ]
+  },
   2022: {
     tahun: 2022,
     totalDokumen: 11,

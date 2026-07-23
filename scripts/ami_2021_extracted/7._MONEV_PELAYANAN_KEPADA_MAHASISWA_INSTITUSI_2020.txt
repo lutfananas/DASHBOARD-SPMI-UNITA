@@ -1,0 +1,1020 @@
+
+
+=== PAGE BREAK ===
+
+
+
+=== PAGE BREAK ===
+
+KATA PENGANTAR
+Dengan memanjatkan puji syukur kepada Tuhan Yang Mahas Esa, Kuesioner
+Monitoring dan Evaluasi Pelayanan kepada mahasiswa telah dapat diselesaikan dan
+dilaporkan. Kami mengucapkan terima kasih kepada berbagai pihak yang telah
+banyak membantu dalam pelaksanaan kegiatan ini, dari mulai awal pelaksanaan
+sampai akhir pelaksanaan kegiatan sehingga dapat tersusun dalam bentuk laporan
+untuk periode tahun akademik 2020 / 2021.
+Ucapan terima kasih ini kami apresiasikan setinggi-tingginya kepada :
+1. Rektor Universitas Tulungagung yang telah banyak memberikan
+dukungan baik moril maupun materiil kepada Pusat Penjaminan Mutu.
+2. Ketua Program Studi Ilmu Administrasi Negara, Ilmu Hukum,
+Agribisnis, Manajemen, Akuntansi dan Teknik Sipil yang telah
+memberikan kesempatan dalam melakukan penyebaran kuesioner
+terhadap mahasiswa.
+3. Unit Penjaminan Mutu semua Program Studi, yang telah membantu
+penyebaran kuesioner untuk mahasiswa.
+4. Para responden yaitu mahasiswa Program Studi Ilmu Administrasi
+Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi dan Teknik
+Sipil Universitas Tulungagung yang telah berkenan menyempatkan dan
+meluangkan waktunya untuk mengisi instrument keusioner mahasiswa
+terhadap semua unit kerja di lingkup Universitas Tulungagung.
+Pelaksanaan dan penyajian hasil penilaian ini tentunya masih ada kekurangan,
+oleh karenanya kami sangat berharap banyak masukan dari segenap civitas
+akademika sebagai umpan balik untuk dijadikan perbaikan dalam pelaksanaan
+pengukuran dan evaluasi periode yang akan datang.
+Tulungagung, 10 Agustus 2021
+Ketua
+Pusat Penjaminan Mutu,
+Anang Sugeng C, S.AP., M.Si.
+NIDN: 0708088201
+SPMI - UNITA i
+
+=== PAGE BREAK ===
+
+EXECUTIV SUMMARY
+Pada periode 2020/2021 ini Kuesioner Monitoring dan Evaluasi Pelayanan kepada
+Mahasiswa yang diisi oleh mahasiswa terhadap semua unit kerja, hal ini dilakukan
+untuk mengetahui secara umum kualitas pelayanan kepada mahasiswa di masing-
+masing unit kerja yang ada di lingkup Universitas Tulungagung.
+Total instrument kuesioner yang disebarkan kepada Program Studi Ilmu
+Administrasi Negara, Ilmu Hukum, Agribisnis, Manajemen, Akuntansi dan Teknik
+Sipil adalah dengan mengambil sampel 50% - 100% dari jumlah mahasiswa.
+Dengan rincian sebagai berikur :
+1. Prodi Ilmu Administrasi Negara : 90 responden (dari 161 mahasiswa)
+2. Prodi Ilmu Hukum : 120 responden (dari 295 mahasiswa)
+3. Prodi Agribisnis : 75 responden (dari 96 mahasiswa)
+4. Prodi Manajemen : 160 responden (dari 483 mahasiswa)
+5. Prodi Akuntansi : 60 responden (dari 159 mahasiswa)
+6. Prodi Teknik Sipil : 25 responden (dari 36 mahasiswa)
+Dari semua kuesioner yang telah disebarkan, kuesioner yang masuk/kembali
+adalah 84%. Hasil rekapitulasi kuesioner yang telah diisi menunjukan nilai sebagai
+berikut :
+Penilaian terhadap Monitoring dan Evaluasi Pelayanan Unit Kerja di Universitas
+Tulungagung yang diisi mahasiswa, sampel responden yang ada memberikan hasil
+skor > 3,41 s/d < 4,10 dengan kategori klasifikasi adalah Biasa/Cukup dan
+baik/tinggi. Artinya adalah bahwa rata-rata mahasiswa menilai biasa/cukup dan
+menilai baik/tinggi terhadap kualitas pelayanan yang diberikan oleh Program Studi,
+Biro Administrasi Akademik, Biro Keuangan, Biro Umum, Biro Kemahasiswaan,
+UPT. Perpustakaan dan Lembaga Penelitian dan Pengabdian Masyarakat yang ada
+di lingkup Universitas Tulungagung
+SPMI - UNITA iv
+
+=== PAGE BREAK ===
+
+BAB I
+PENDAHULUAN
+1.1 Tujuan
+Kuesioner Monitoring dan Evaluasi Pelayanan Universitas
+Tulungagung ini bertujuan untuk : menilai kinerja tentang kualitas pelayanan
+kepada mahasiswa dari masing-masing unit kerja.
+Tujuan pelaksanaan monitoring dan evaluasi pelayanan di Universitas
+Tulungagung adalah untuk :
+a. Menilai kinerja tentang kualitas pelayanan kepada mahasiswa dari
+masing-masing unit kerja di lingkup Universitas Tulungagung;
+b. Meningkatkan penyelenggaraan pelayanan untuk mahasiswa bagi semua
+unit kerja di lingkup Universitas;
+c. Mengidentifikasi area yang perlu diperbaiki, dan strategi-strategi
+perbaikannya;
+d. Meningkatkan performansi universitas secara keseluruhan.
+1.2 Sasaran
+a. Mendorong partisipasi mahasiswa sebagai pengguna layanan dalam
+menilai kinerja penyelenggara pelayanan;
+b. Mendorong penyelenggara pelayanan untuk meningkatkan kualitas
+pelayanan;
+c. Mendorong penyelenggara pelayanan menjadi lebih inovatif dalam
+menyelenggarakan pelayanan mahasiswa.
+1.3 Ruang Lingkup
+Ruang lingkup Monitoring dan Evaluasi Pelayanan dalam pedoman ini
+adalah meliputi pelayanan yang dilaksanakan Program Studi, Biro
+Administrasi Akademik, Biro Keuangan, Biro Umum, Kemahasiswaan, UPT.
+Perpustakaan dan Lembaga Penelitian dan Pengabdian Kepada Masyarakat.
+SPMI - UNITA 1
+
+=== PAGE BREAK ===
+
+1.4 Pelaksanaan dan Tehnik Survey
+1.4.1 Pelaksanaan
+Pelaksanaan Monitoring dan Evaluasi Pelayanan dilaksanakan melalui
+tahapan perencanaan, persiapan, pelaksanaan, pengolahan data dan penyajian
+hasil / laporan, yang mencakup langkah-langkah, sebagai berikut:
+a. Menyusun instrumen kuesioner;
+b. Menentukan besaran dan teknik penarikan sampel;
+c. Menentukan responden;
+d. Melaksanakan monitoring dan evaluasi;
+e. Mengolah hasil / rekapitulasi kuesioner monitoring dan evaluasi;
+f. Menyajikan dan melaporkan hasil.
+1.4.2 Teknik Monitoring dan Evaluasi
+Untuk melakukan Monitoring dan Evaluasi Pelayanan menggunakan
+teknik penyebaran kuesioner kepada seluruh mahasiswa semua program
+studi.
+1.4.3 Tujuan Hasil Monitoring dan Evaluasi:
+a. Mengetahui kelemahan atau kekuatan masing-masing unit kerja
+pelayanan;
+b. Mengukur secara berkala penyelenggaraan pelayanan yang telah
+dilaksanakan oleh unit kerja pelayanan;
+c. Sebagai bahan penetapan kebijakan yang perlu diambil dan langkah
+perbaikan pelayanan;
+e. Sebagai umpan balik dalam memperbaiki layanan.
+1.5 Instrumen Pengukuran dan Nilai Skor
+Instrument pengukuran Monitoring dan Evaluasi Pelayanan adalah
+kuesioner penilaian kinerja tentang kualitas pelayanan biro / bagian.
+Instrument tersebut terdiri dari 18 pernyataan untuk pelayanan di Program
+Studi, 21 pernyataan untuk pelayanan di Biro Administrasi Akademik, 11
+pernyataan untuk pelayanan di Biro Keuangan, 22 pernyataan untuk
+SPMI - UNITA 2
+
+=== PAGE BREAK ===
+
+pelayanan di Biro Umum, 16 pernyataan untuk pelayanan di Kemahasiswaan,
+13 pernyataan untuk pelayanan di UPT. Perpustakaan, 12 pernyataan untuk
+pelayanan di LPPM.
+Nilai pernyataan dalam instrument kuesioner ini terdiri atas pernyataan
+dalam skala 1-5.
+1 = Sangat tidak baik/sangat rendah/tidak pernah;
+2 = Tidak baik/rendah/jarang; .
+3 = Biasa/cukup/kadang-kadang;
+4 = Baik/tinggi/sering;
+5 = Sangat baik/sangat tinggi/selalu.
+Keterangan:
+ Nilai skala 1 adalah nilai terendah dalam rentang nilai, artinya
+responden menilai pernyataan yang diberikan didalam kuesioner
+tersebut sangat tidak baik/sangat rendah/tidak pernah.
+ Nilai skala 2 adalah tidak baik/rendah/jarang, artinya responden menilai
+pernyataan yang diberikan didalam kuesioner tersebut tidak
+baik/rendah/jarang.
+ Nilai skala 3 adalah biasa/cukup/kadang-kadang, artinya responden
+menilai pernyataan yang diberikan didalam kuesioner tersebut baik/
+cukup/kadang-kadang.
+ Nilai skala 4 adalah baik/tinggi/sering, artinya responden menilai
+pernyataan yang diberikan didalam kuesioner tersebut baik/
+tinggi/sering.
+ Nilai tertinggi adalah 5 adalah sangat baik/sangat tinggi/selalu, artinya
+responden menilai pernyataan yang diberikan didalam kuesioner
+tersebut sangat baik/sangat tinggi/selalu.
+1.6 Metode Analisis Data
+Hasil penilaian kinerja tentang kualitas pelayanan kepada mahasiswa
+dari masing-masing unit kerja tersebut dengan skala 1 – 5. Hasil rekapitulasi
+tersebut diperoleh dengan menggunakan pengolahan data secara excell.
+SPMI - UNITA 3
+
+=== PAGE BREAK ===
+
+Sedangkan data yang berupa deskripsi analisisnya dilakukan secara kualitatif.
+Selanjutnya melakukan penyusunan tabel klasifikasi untuk menentukan nilai
+rata-rata tiap aspek yang didapatkan, sehingga dapat disimpulkan kepuasan
+pelayanan mahasiswa terhadap aspek yang dinilai. Berdasarkan nilai rata-rata
+tersebut dapat disusun tabel klasifikasi skor pelayanan. Adapun tabelnya
+adalah sebagai berikut :
+Tabel 1
+Skor Pelayanan
+RATA-RATA SKOR
+KETERANGAN
+PELAYANAN
+Sangat tidak baik/sangat rendah/tidak
+> 1,00 - 1,99
+pernah
+> 2,00 - 2,99 Tidak baik/rendah/jarang
+Biasa/cukup/kadang-kadang
+> 3,00 - 3, 99
+Baik/tinggi/sering
+> 4,00 – 4,99
+Sangat baik/sangat tinggi/selalu
+5,00
+SPMI - UNITA 4
+
+=== PAGE BREAK ===
+
+BAB II
+HASIL MONITORING DAN EVALUASI-INTERNAL PELAYANAN
+UNIT KERJA DI LINGKUP UNIVERSITAS TULUNGAGUNG
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+semua Unit Kerja di lingkup Universitas Tulungagung dengan responden semua
+Mahasiswa di masing-masing Program Studi ( Ilmu Adm Negara, Ilmu Hukum,
+Agribisnis, Manajemen, Akuntansi dan Teknik Sipil ) sebagaimana berikut ini:
+Tabel 2
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Kepada Mahasiswa di Universitas Tulungagung
+NO UNIT KERJA SKOR KETERANGAN
+1 Bahwa rata-
+PROGRAM STUDI ILMU
+3,08 rata mahasiswa menilai biasa/cukup pelayanan
+ADMINISTRASI NEGARA
+yang diberikan Program Studi.
+PROGRAM STUDI ILMU Bahwa rata-
+HUKUM 3,27 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Program Studi.
+Bahwa rata-
+PROGRAM STUDI AGRIBISNIS 3,26
+rata mahasiswa menilai baik/tinggi pelayanan
+yang diberikan Program Studi.
+PROGRAM STUDI Bahwa rata-
+MANAJEMEN 3,41 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Program Studi.
+Bahwa rata-
+PROGRAM STUDI AKUNTANSI
+3,24 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Program Studi.
+PROGRAM STUDI TEKNIK Bahwa rata-
+SIPIL 3,41 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Program Studi.
+BIRO ADMINISTRASI Bahwa rata-
+2 AKADEMIK DAN 3,30 rata mahasiswa menilai biasa/cukup pelayanan
+KEMAHASISWAAN yang diberikan BAA.
+Bahwa rata-
+3 BIRO KEUANGAN 3,47 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Biro Keuangan.
+Bahwa rata-
+4 BIRO UMUM 3,21 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Biro Umum.
+Bahwa rata-
+5 BIRO KEMAHASISWAAN 3,28 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Biro Kemahasiswaan.
+Bahwa rata-
+6 UPT PERPUSTAKAAN 3,23 rata mahasiswa menilai biasa/cukup pelayanan
+yang diberikan Perpustakaan.
+Bahwa rata-
+LEMBAGA PENELITIAN DAN
+7 3,23 rata mahasiswa menilai biasa/cukup pelayanan
+PENGABDIAN MASYARAKAT
+yang diberikan LPPM.
+SPMI - UNITA 5
+
+=== PAGE BREAK ===
+
+Adapun hasil rekapitulasi masing-masing Unit Kerja sebagai berikut :
+Tabel 3
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Ilmu Administrasi Negara
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,11 Cukup
+Keramahan dalam memberikan
+2. 3,14 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,18 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,18 Cukup
+Kedisiplinan dalam memberikan
+5. 3,07 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,04 Cukup
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+7. prosedur alur kegiatan akademik (KRS, 3,11 Cukup
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika
+8. 3,11 Cukup
+menjadi mahasiswa baru
+Memberikan informasi sistem
+9. perkuliahan dalam bentuk buku 3,04 Cukup
+panduan perkuliahan
+Memberikan informasi akademik dan
+10. pelayanan non akademik dalam bentuk 3,04 Cukup
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,04 Cukup
+dan bernomor ujian)
+Kemudahan mahasiswa dalam
+12. 3,04 Cukup
+mengakses nilai
+Kemudahan pelayanan akademik
+13. 3,04 Cukup
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi
+14. 3,04 Cukup
+(surat-surat dll)
+15. Kemudahan pelayanan keuangan 3,04 Cukup
+Pelaksanaan bimbingan kemahasiswaan
+16. 3,11 Cukup
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan
+17. 3,04 Cukup
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan
+18. 3,11 Cukup
+bersih
+Jumlah Skor 55,43
+RATA-RATA SKOR 3,08
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Ilmu Administrasi Negara.
+SPMI - UNITA 6
+
+=== PAGE BREAK ===
+
+Tabel 4
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Ilmu Hukum
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,26 Cukup
+Keramahan dalam memberikan Cukup
+2. 3,37
+pelayanan
+Kesopanan dalam memberikan Cukup
+3. 3,41
+pelayanan
+Cukup
+4. Kecepatan memberikan pelayanan 3,15
+Kedisiplinan dalam memberikan Cukup
+5. 3,33
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan Cukup
+6. 3,22
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+Cukup
+7. prosedur alur kegiatan akademik (KRS, 3,26
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika Cukup
+8. 3,44
+menjadi mahasiswa baru
+Memberikan informasi sistem
+Cukup
+9. perkuliahan dalam bentuk buku 3,26
+panduan perkuliahan
+Memberikan informasi akademik dan
+Cukup
+10. pelayanan non akademik dalam bentuk 3,07
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+Cukup
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,26
+dan bernomor ujian)
+Kemudahan mahasiswa dalam Cukup
+12. 3,11
+mengakses nilai
+Kemudahan pelayanan akademik Cukup
+13. 3,33
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi Cukup
+14. 3,11
+(surat-surat dll)
+Cukup
+15. Kemudahan pelayanan keuangan 3,37
+Pelaksanaan bimbingan kemahasiswaan Cukup
+16. 3,33
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan Cukup
+17. 3,30
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan Cukup
+18. 3,22
+bersih
+Jumlah Skor 58,81
+RATA-RATA SKOR 3,27
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Ilmu Hukum.
+SPMI - UNITA 7
+
+=== PAGE BREAK ===
+
+Tabel 5
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Agribisnis
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,00 Cukup
+Keramahan dalam memberikan
+2. 3,26 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,58 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,16 Cukup
+Kedisiplinan dalam memberikan
+5. 3,11 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,26 Cukup
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+7. prosedur alur kegiatan akademik (KRS, 3,16 Cukup
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika
+8. 3,26 Cukup
+menjadi mahasiswa baru
+Memberikan informasi sistem
+9. perkuliahan dalam bentuk buku 3,00 Cukup
+panduan perkuliahan
+Memberikan informasi akademik dan
+10. pelayanan non akademik dalam bentuk 3,05 Cukup
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,42 Cukup
+dan bernomor ujian)
+Kemudahan mahasiswa dalam
+12. 3,26 Cukup
+mengakses nilai
+Kemudahan pelayanan akademik
+13. 3,47 Cukup
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi
+14. 3,47 Cukup
+(surat-surat dll)
+15. Kemudahan pelayanan keuangan 3,37 Cukup
+Pelaksanaan bimbingan kemahasiswaan
+16. 3,32 Cukup
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan
+17. 3,21 Cukup
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan
+18. 3,37 Cukup
+bersih
+Jumlah Skor 58,74
+RATA-RATA SKOR 3,26
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Agribisnis.
+SPMI - UNITA 8
+
+=== PAGE BREAK ===
+
+Tabel 6
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Manajemen
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,49 Cukup
+Keramahan dalam memberikan
+2. 3,20 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,71 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,31 Cukup
+Kedisiplinan dalam memberikan
+5. 3,46 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,43 Cukup
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+7. prosedur alur kegiatan akademik (KRS, 3,26 Cukup
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika
+8. 3,63 Cukup
+menjadi mahasiswa baru
+Memberikan informasi sistem
+9. perkuliahan dalam bentuk buku 3,58 Cukup
+panduan perkuliahan
+Memberikan informasi akademik dan
+10. pelayanan non akademik dalam bentuk 3,04 Cukup
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,61 Cukup
+dan bernomor ujian)
+Kemudahan mahasiswa dalam
+12. 3,35 Cukup
+mengakses nilai
+Kemudahan pelayanan akademik
+13. 3,50 Cukup
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi
+14. 3,52 Cukup
+(surat-surat dll)
+15. Kemudahan pelayanan keuangan 3,54 Cukup
+Pelaksanaan bimbingan kemahasiswaan
+16. 3,28 Cukup
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan
+17. 3,36 Cukup
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan
+18. 3,17 Cukup
+bersih
+Jumlah Skor 61,43
+RATA-RATA SKOR 3,41
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Menejemen.
+SPMI - UNITA 9
+
+=== PAGE BREAK ===
+
+Tabel 7
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Akuntansi
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,23 Cukup
+Keramahan dalam memberikan
+2. 3,38 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,38 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,15 Cukup
+Kedisiplinan dalam memberikan
+5. 3,08 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,08 Cukup
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+7. prosedur alur kegiatan akademik (KRS, 3,50 Cukup
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika
+8. 3,46 Cukup
+menjadi mahasiswa baru
+Memberikan informasi sistem
+9. perkuliahan dalam bentuk buku 3,15 Cukup
+panduan perkuliahan
+Memberikan informasi akademik dan
+10. pelayanan non akademik dalam bentuk 3,12 Cukup
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,38 Cukup
+dan bernomor ujian)
+Kemudahan mahasiswa dalam
+12. 3,15 Cukup
+mengakses nilai
+Kemudahan pelayanan akademik
+13. 3,19 Cukup
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi
+14. 3,08 Cukup
+(surat-surat dll)
+15. Kemudahan pelayanan keuangan 3,19 Cukup
+Pelaksanaan bimbingan kemahasiswaan
+16. 3,23 Cukup
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan
+17. 3,23 Cukup
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan
+18. 3,31 Cukup
+bersih
+Jumlah Skor 58,31
+RATA-RATA SKOR 3,24
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Akuntansi.
+SPMI - UNITA 10
+
+=== PAGE BREAK ===
+
+Tabel 8
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Program Studi Teknik Sipil
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,21 Cukup
+Keramahan dalam memberikan
+2. 3,47 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,68 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,26 Cukup
+Kedisiplinan dalam memberikan
+5. 3,26 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,37 Cukup
+pelayanan pada mahasiswa
+Fakultas / Prodi memiliki bagan alur
+7. prosedur alur kegiatan akademik (KRS, 3,42 Cukup
+Skripsi/LTA dll.)
+Kemudahan proses registrasi ketika
+8. 3,47 Cukup
+menjadi mahasiswa baru
+Memberikan informasi sistem
+9. perkuliahan dalam bentuk buku 3,21 Cukup
+panduan perkuliahan
+Memberikan informasi akademik dan
+10. pelayanan non akademik dalam bentuk 3,32 Cukup
+website (online)
+Kenyamanan dalam pelaksanaan Ujian
+11. (UTS&UAS) (Kursi sudah tertata rapi 3,53 Cukup
+dan bernomor ujian)
+Kemudahan mahasiswa dalam
+12. 3,32 Cukup
+mengakses nilai
+Kemudahan pelayanan akademik
+13. 3,63 Cukup
+(KRS, Skripsi/LTA dll.)
+Kemudahan pelayanan administrasi
+14. 3,63 Cukup
+(surat-surat dll)
+15. Kemudahan pelayanan keuangan 3,47 Cukup
+Pelaksanaan bimbingan kemahasiswaan
+16. 3,37 Cukup
+selama semester ini bagi mahasiswa
+Kenyamanan ruang pelayanan
+17. 3,32 Cukup
+Fakultas/Prodi
+Kantor Fakultas / Prodi tertata rapi dan
+18. 3,42 Cukup
+bersih
+Jumlah Skor 61,37
+RATA-RATA SKOR 3,41
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup terhadap pelayanan
+yang diberikan Program Studi Akuntansi.
+SPMI - UNITA 11
+
+=== PAGE BREAK ===
+
+Tabel 9
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Biro Administrasi Akademik
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,16 Cukup
+Keramahan dalam memberikan
+3,28 Cukup
+2. pelayanan
+Kesopanan dalam memberikan
+3,39 Cukup
+3. pelayanan
+4. Kecepatan memberikan pelayanan 3,25 Cukup
+Kedisiplinan dalam memberikan
+3,26 Cukup
+5. pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+3,32 Cukup
+6. pelayanan pada mahasiswa
+BAA memiliki bagan alur prosedur
+3,33 Cukup
+7. pelayanan
+Kemudahan Prosedur pelayanan di
+3,35 Cukup
+8. BAA
+Respon dalam memberikan tanggapan
+yang cepat dan baik terhadap saran atau 3,22 Cukup
+9. kritik
+Prosedur penyampaian informasi jelas
+3,29 Cukup
+10. dan mudah dimengerti
+11. BAA memberikan perlakuan yang adil 3,28 Cukup
+kepada setiap pengguna layanan
+Sistem Informasi yang ada di BAA
+3,26 Cukup
+12. bekerja dengan handal
+Kemudahan prosedur pendaftaran
+3,40 Cukup
+13. mahasiswa baru
+Pelayanan dalam pelaksanaan seleksi
+mahasiswa baru (Pelaksanaan ujian 3,38 Cukup
+14. tulis, pengumuman hasil)
+Kesesuaian pelaksanaan kegiatan
+3,43 Cukup
+15. akademik dengan kalender akademik
+16. Pelayanan penerbitan KTM 3,22 Cukup
+17. Pelayanan Jaket Almamater 3,41 Cukup
+Kemudahan akses Sistem Informasi
+3,08 Cukup
+18. Akademik (SIAKAD)
+Pelayanan pelaporan data mahasiswa /
+19 3,34 Cukup
+PDDikti
+20 Kenyamanan ruang pelayanan BAA 3,28 Cukup
+21 Kantor BAA tertata rapi dan bersih 3,27 Cukup
+Jumlah Skor 69,21
+RATA-RATA SKOR 3,30
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan Biro Administrasi Akademik.
+SPMI - UNITA 12
+
+=== PAGE BREAK ===
+
+Tabel 10
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Biro Keuangan
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kesiapan memberikan pelayanan 3,46 Cukup
+Keramahan dalam memberikan
+2. 3,42 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3. 3,49 Cukup
+pelayanan
+4. Kecepatan memberikan pelayanan 3,45 Cukup
+Kedisiplinan dalam memberikan
+5. 3,48 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6. 3,41 Cukup
+pelayanan pada mahasiswa
+Biro Keuangan memiliki bagan alur
+7. 3,51 Cukup
+prosedur pembayaran SPP dll.
+8. Kemudahan dalam pembayaran SPP dll 3,52 Cukup
+Prosedur penyampaian informasi jelas
+9. 3,52 Cukup
+dan mudah dimengerti
+Kenyamanan ruang pelayanan
+10. 3,44 Cukup
+keuangan
+Kantor Keuangam tertata rapi dan
+11. 3,52 Cukup
+bersih
+Jumlah Skor 38,22
+RATA-RATA SKOR 3,47
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan Biro Keuangan.
+SPMI - UNITA 13
+
+=== PAGE BREAK ===
+
+Tabel 11
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Biro Umum
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1. Kondisi ruang perkuliahan 3,13 Cukup
+Fasilitas pendingin/penyejuk ruangan
+3,11 Cukup
+2. (AC)
+Ketersediaan alat pendukung (LCD,
+3. 3,20 Cukup
+Komputer, papan tulis, dll.)
+4. Kebersihan ruang kuliah 3,28 Cukup
+5. Ruang Laboratorium Komputer 3,07 Cukup
+Kecanggihan/keterbaruan laboratorium
+3,14 Cukup
+6. komputer
+7. Fasilitas Wifi Gratis/Hot Spot 3,26 Cukup
+8. Fasilitas UKM Seni Tari 3,23 Cukup
+9. Fasilitas UKM Olah raga 3,22 Cukup
+10. Fasilitas UKM Broadcash Radio 3,25 Cukup
+11. Fasilitas UKM Mapala 3,26 Cukup
+12. Fasilitas UKM Paduan Suara 3,29 Cukup
+13. Fasilitas UKM Kewirausahaan 3,36 Cukup
+14. Kelengkapan barang di IT Mart 3,13 Cukup
+15. Fasilitas Ibadah 3,26 Cukup
+16. Taman/ Hall/ Ruang publik 3,20 Cukup
+Tempat tunggu mahasiswa di
+3,12 Cukup
+17. lingkungan kampus
+18. Penyediaan Area parkir 3,21 Cukup
+19. Ruang/gedung dan fasilitas kantin 3,18 Cukup
+20. Kebersihan kantin 3,29 Cukup
+Gedung/ruang dan fasilitas kamar
+21. 3,19 Cukup
+mandi/Toilet
+22. Kebersihan kamar madi/Toilet 3,20 Cukup
+Jumlah Skor 70,56
+RATA-RATA SKOR 3,21
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan Biro Umum
+SPMI - UNITA 14
+
+=== PAGE BREAK ===
+
+Tabel 12
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Biro Kemahasiswaan
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1 Kesiapan memberikan pelayanan 3,22 Cukup
+Keramahan dalam memberikan
+2 3,29 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3 3,40 Cukup
+pelayanan
+4 Kecepatan memberikan pelayanan 3,30 Cukup
+Kedisiplinan dalam memberikan
+5 3,36 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6 3,35 Cukup
+pelayanan pada mahasiswa
+Bidang kemahasiswaan memiliki bagan
+7 3,31 Cukup
+alur pelayanan kepada mahasiswa
+8 Penyelenggaraan WKK 3,36 Cukup
+9 Kejelasan informasi beasiswa 3,23 Cukup
+Kemudahan dalam mendapatkan
+10 3,21 Cukup
+beasiswa
+Kejelasan informasi tentang kegiatan
+11 3,12 Cukup
+ilmiah
+12 Kejelasan informasi tentang UKM 3,23 Cukup
+Kemudahan ikut menjadi anggota UKM
+(Seni tari, Olah raga, Mapala, Paduan
+13 3,24 Cukup
+Suara, Kewirausahaan, Broadcash
+radio)
+Kejelasan informasi tentang lowongan
+14 3,17 Cukup
+kerja/magang, dll
+Kenyamanan ruang pelayanan
+15 3,27 Cukup
+kemahasiswaan
+Kantor Bidang Kemahasiswaan tertata
+16 3,36 Cukup
+rapid an bersih
+Jumlah skor 52,41
+RATA-RATA SKOR 3,28
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan Biro Kemahasiswaan.
+SPMI - UNITA 15
+
+=== PAGE BREAK ===
+
+Tabel 13
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+UPT. Perpustakaan
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1 Kesiapan memberikan pelayanan 3,19 Cukup
+Keramahan dalam memberikan
+2 3,24 Cukup
+pelayanan
+Kesopanan dalam memberikan
+3 3,20 Cukup
+pelayanan
+4 Kecepatan memberikan pelayanan 3,26 Cukup
+Kedisiplinan dalam memberikan
+5 3,31 Cukup
+pelayanan pada mahasiswa
+Ketepatan dalam memberikan
+6 3,24 Cukup
+pelayanan pada mahasiswa
+Perpustakaan memiliki bagan alur
+7 prosedur pelayanan perpustakaan 3,22 Cukup
+(peminjaman dll)
+Prosedur peminjaman dan
+pengembalian di bagian pelayanan
+8 3,22 Cukup
+perpustakaan mudah dipahami oleh
+pemakai perpustakaan
+Koleksi yang ada di perpustakaan
+Universitas Tulungagung cukup aktual
+9 3,16 Cukup
+dan sesuai dengan cakupan program
+studi yang ada
+Informasi atau pencarian buku dapat
+10 3,22 Cukup
+dilakukan dengan mudah dan cepat
+11 Tempat pelayanan buku cukup efektif 3,29 Cukup
+12 Kenyamanan ruang baca perpustakaan 3,20 Cukup
+13 Ruang perpustakaan bersih dan rapi 3,24 Cukup
+Jumlah skor 42,00
+RATA-RATA SKOR 3,23
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan Biro Kemahasiswaan.
+SPMI - UNITA 16
+
+=== PAGE BREAK ===
+
+Tabel 14
+Rekapitulasi Hasil Monev-in Kuesioner Monitoring dan Evaluasi Pelayanan
+Lembaga Penelitian dan Pengabdian Masyarakat
+NO ASPEK YANG DINILAI SKOR KETERANGAN
+1 Kesiapan memberikan pelayanan 3,14 Cukup
+Keramahan dalam memberikan 3,21
+2 Cukup
+pelayanan
+Kesopanan dalam memberikan 3,24
+3 Cukup
+pelayanan
+4 Kecepatan memberikan pelayanan 3,17 Cukup
+Kedisiplinan dalam memberikan 3,31
+5 Cukup
+pelayanan pada mahasiswa
+Kesesuaian dalam memberikan 3,23
+6 Cukup
+pelayanan pada mahasiswa
+LPPM memiliki bagan alur prosedur 3,21
+7 pengurusan penelitian, pengabdian Cukup
+kepada masyarakat, dll.
+Kemudahan Prosedur pelayanan di 3,46
+8 Cukup
+LPPM
+3,23
+9 Kemudahan proses pengurusan KKN Cukup
+Prosedur penyampaian informasi jelas 3,18
+10 Cukup
+dan mudah dimengerti
+11 Kenyamanan ruang pelayanan LPPM 3,20 Cukup
+12 Kantor LPPM tertata rapi dan bersih 3,17 Cukup
+Jumlah skor 38,27
+RATA-RATA SKOR 3,23
+Keterangan :
+Bahwa rata-rata mahasiswa menilai biasa/cukup pelayanan yang
+diberikan LPPM.
+SPMI - UNITA 17
+
+=== PAGE BREAK ===
+
+BAB III
+REKOMENDASI HASIL MONEV-IN PELAYANAN DI
+UNIVERSITAS TULUNGAGUNG
+3.1 Program Studi Ilmu Administrasi Negara
+1. Peningkatan ketertiban administrasi pengajaran (Daftar hadir dosen dan
+mahasiswa);
+2. Lebih dekat ke mahasiswa;
+3. Penataan ruang Fakultas lebih diperhatikan, agar pelayanan ke
+mahasiswa lebih nyaman.
+3.2 Program Studi Ilmu Hukum
+1. Peningkatan pelayanan kepada mahasiswa: kedisiplinan, ketepatan dan
+kenyamanan;
+2. Pemberitahuan nilai kepada mahasiswa tepat waktu;
+3. Pembagian KHS tepat waktu;
+4. Bimbingan kepada mahasiswa lebih ditingkatkan.
+3.3 Program Studi Agribisnis
+1. Peningkatan pelayanan kepada mahasiswa: kedisiplinan, ketepatan dan
+kenyamanan;
+2. Pemberitahuan nilai kepada mahasiswa tepat waktu;
+3. Meningkatkan kegiatan dan bimbingan PKL;
+4. Perlu diadakannya seminar;
+5. Pemberian materi perkuliahan kepada mahasiswa (dalam bentuk
+buku)
+6. Penambahan perlengkapan perkuliahan seperti LCD dan spidol;
+7. Adanya petugas dari fakultas saat jam perkuliahan;
+8. Perlu meningkatkan informasi-informasi kepada mahasiswa.
+SPMI - UNITA 18
+
+=== PAGE BREAK ===
+
+3.4 Program Studi Manajemen
+1. Peningkatan pelayanan kepada mahasiswa: ketepatan, kecepatan dan
+keramahan;
+2. Perlu meningkatkan informasi-informasi kepada mahasiswa;
+3. Penataan ruang pelayanan kepada mahasiswa lebih diperhatikan (luas
+ruangan dan kerapian).
+3.5 Program Studi Akuntansi
+1. Peningkatan pelayanan kepada mahasiswa: ketepatan, kecepatan dan
+keramahan;
+2. Peningkatan sistem informasi perkuliahan;
+3. Penataan ruang pelayanan kepada mahasiswa lebih diperhatikan (luas
+ruangan dan kerapian).
+3.6 Program Studi Teknik Sipil
+1. Peningkatan pelayanan kepada mahasiswa: ketepatan, kecepatan dan
+keramahan;
+2. Peningkatan sistem informasi perkuliahan;
+3. Bimbingan kepada mahasiswa lebih ditingkatkan.
+3.7 Biro Administrasi Akademik
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: disiplin, kecepatan,
+ketepatan, keramahan dan kenyamanan;
+2. Peningkatkan informasi-informasi akademik kepada mahasiswa dan
+lebih up to date;
+3. Kartu Tanda Mahasiswa (KTM) dibuat yang lebih baik;
+4. Adanya kesesuaian kegiatan akademik dengan kalender akademik;
+5. Penambahan kapasitas Wifi sehingga mahasiswa bisa menggunakan;
+6. Kemudahan dalam mengakses SIAKAD perlu ditingkatkan.
+SPMI - UNITA 19
+
+=== PAGE BREAK ===
+
+3.8 Biro Keuangan
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: disiplin, kecepatan,
+ketepatan, ketelitian, keramahan, kesopanan dan kenyamanan;
+2. Peningkatan ruang pelayanan kepada mahasiswa;
+3. Adanya pelayanan keuangan sore hari;
+4. Adanya tenggang waktu antara pemberitahuan dan saat pembayaran;
+5. Dalam pemberitahuan pembayaran termuat rincian pembayarannya
+(spp, her registrasi, dll);
+6. Peningkatkan informasi-informasi kepada mahasiswa serta kejelasan
+prosedur pembayaran dll.
+3.9 Biro Umum
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: disiplin, kecepatan,
+ketepatan, keramahan, kesopanan dan kenyamanan;
+2. Peningkatan perawatan: Gedung, ruang kuliah, LCD, AC, dll;
+3. Peningkatan kebersihan: Gedung, ruangan-ruangan, kantin, mushola,
+kamar mandi;
+4. Pemisahan toilet pria dan wanita;
+5. Penambahan ruang UKM;
+6. Peningkatan ruang Laboratorium komputer serta fasilitasnya;
+7. Perlu adanya tempat parkir sehingga bisa tertata rapi dan nyaman;
+3.10 Biro Kemahasiswaan
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: disiplin, kecepatan,
+ketepatan, keramahan, kesopanan dan kenyamanan;
+2. Perlu penjelasan kepada mahasiswa tentang prosedur beasiswa
+mahasiswa;
+3. Pemberian informasi kepada mahasiswa lebih diperjelas dan selalu di
+upload di website unita, antara lain tentang UKM, Karya Ilmiah,
+Beasiswa, Lowongan pekerjaan dll.
+4. Tempat pelayanan kurang nyaman;
+SPMI - UNITA 20
+
+=== PAGE BREAK ===
+
+3.11 UPT. Perpustakaan
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: kedisiplinan,
+kecepatan, ketelitian (data peminjaman), keramahan dan kenyamanan;
+2. Perlu penambahan referensi, terutama koleksi terbaru;
+3. Ruang perpustakaan kurang nyaman (kurang luas);
+4. Penataan buku lebih rapi agar mahasiswa mudah mencari koleksi buku.
+3.12 Lembaga Penelitian dan Pengabdian kepada Masyarakat
+1. Pelayanan kepada mahasiswa lebih ditingkatkan: kedisiplinan,
+keramahan, ketepatan, kecepatan dan kenyamanan;
+2. Pemberian informasi-informasi kepada mahasiswa lebih diperjelas
+(disertai bagan alur prosedur);
+3. Penyerahan perlengkapan KKN lebih awal;
+4. Penataan ruang pelayanan lebih diperhatikan (luas ruangan dan
+kerapian).
+SPMI - UNITA 21
