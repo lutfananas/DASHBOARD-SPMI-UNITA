@@ -45,6 +45,7 @@ import {
 } from "recharts";
 import {
   TAHUN_LIST,
+  REGULASI_PER_TAHUN,
   type StandarSPMI,
 } from "@/lib/spmi-data";
 import {
@@ -64,26 +65,30 @@ interface StandarDetailDialogProps {
   standar: StandarSPMI | null;
   open: boolean;
   onOpenChange: (open: boolean) => void;
+  tahun?: number;
 }
 
 export function StandarDetailDialog({
   standar,
   open,
   onOpenChange,
+  tahun = 2025,
 }: StandarDetailDialogProps) {
   if (!standar) return null;
 
   // Build trend data for this standar
-  const trendData = TAHUN_LIST.map((tahun) => {
-    const ami = standar.ami[tahun];
+  const trendData = TAHUN_LIST.map((t) => {
+    const ami = standar.ami[t];
     return {
-      tahun: tahun.toString(),
+      tahun: t.toString(),
       skor: ami?.skor ?? null,
       tindakLanjut: ami?.tindakLanjut ?? null,
     };
   });
 
-  const ami2025 = standar.ami[2025];
+  // Ambil data AMI sesuai tahun yang dipilih
+  const amiSelected = standar.ami[tahun];
+  const regulasi = REGULASI_PER_TAHUN[tahun];
 
   // Kategori icon
   const KategoriIcon = standar.kategori === "Pendidikan" ? GraduationCap :
@@ -114,42 +119,55 @@ export function StandarDetailDialog({
                   Penanggung Jawab: {standar.penanggungJawab}
                   {standar.rujukanPasal && ` • Rujukan: ${standar.rujukanPasal}`}
                 </p>
+                {regulasi && (
+                  <p className="text-[10px] text-sky-300 font-mono mt-1">
+                    Tahun {tahun} • {regulasi.permen} • {regulasi.judulPermen}
+                  </p>
+                )}
               </div>
             </div>
           </div>
         </DialogHeader>
 
-        <div className="overflow-y-auto scrollbar-thin max-h-[calc(90vh-120px)] p-5 space-y-4">
-          {/* Summary KPI for this standar */}
+        <div className="overflow-y-auto scrollbar-thin max-h-[calc(90vh-140px)] p-5 space-y-4">
+          {/* Summary KPI for this standar - sesuai tahun dipilih */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
-              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Skor AMI 2025</p>
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">
+                Skor AMI {tahun}
+              </p>
               <p className={`text-2xl font-bold tabular-nums font-mono ${
-                ami2025 ? (ami2025.skor >= 85 ? "text-emerald-400" :
-                ami2025.skor >= 75 ? "text-cyan-400" :
-                ami2025.skor >= 65 ? "text-amber-400" :
-                ami2025.skor >= 50 ? "text-orange-400" : "text-rose-400") : "text-muted-foreground/40"
+                amiSelected ? (amiSelected.skor >= 85 ? "text-emerald-400" :
+                amiSelected.skor >= 75 ? "text-cyan-400" :
+                amiSelected.skor >= 65 ? "text-amber-400" :
+                amiSelected.skor >= 50 ? "text-orange-400" : "text-rose-400") : "text-muted-foreground/40"
               }`}>
-                {ami2025?.skor ?? "—"}
+                {amiSelected?.skor ?? "—"}
                 <span className="text-sm text-muted-foreground">/100</span>
               </p>
             </div>
             <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
-              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Status 2025</p>
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">
+                Status {tahun}
+              </p>
               <div className="mt-1">
-                {ami2025 ? <StatusBadge status={ami2025.status} /> : <span className="text-muted-foreground/40 text-xs font-mono">N/A</span>}
+                {amiSelected ? <StatusBadge status={amiSelected.status} /> : <span className="text-muted-foreground/40 text-xs font-mono">N/A</span>}
               </div>
             </div>
             <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
-              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Temuan 2025</p>
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">
+                Temuan {tahun}
+              </p>
               <p className="text-2xl font-bold tabular-nums font-mono text-amber-400">
-                {ami2025?.temuan ?? "—"}
+                {amiSelected?.temuan ?? "—"}
               </p>
             </div>
             <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
-              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Tindak Lanjut</p>
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">
+                Tindak Lanjut {tahun}
+              </p>
               <p className="text-2xl font-bold tabular-nums font-mono text-emerald-400">
-                {ami2025 ? `${ami2025.tindakLanjut}%` : "—"}
+                {amiSelected ? `${amiSelected.tindakLanjut}%` : "—"}
               </p>
             </div>
           </div>
@@ -214,6 +232,7 @@ export function StandarDetailDialog({
               <TableHeader>
                 <TableRow className="border-sky-500/15 hover:bg-transparent">
                   <TableHead className="font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Tahun</TableHead>
+                  <TableHead className="font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Regulasi</TableHead>
                   <TableHead className="font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Skor</TableHead>
                   <TableHead className="font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Status</TableHead>
                   <TableHead className="font-mono text-[10px] uppercase tracking-wider text-muted-foreground">Temuan</TableHead>
@@ -223,12 +242,23 @@ export function StandarDetailDialog({
                 </TableRow>
               </TableHeader>
               <TableBody>
-                {TAHUN_LIST.slice().reverse().map((tahun) => {
-                  const ami = standar.ami[tahun];
+                {TAHUN_LIST.slice().reverse().map((t) => {
+                  const ami = standar.ami[t];
+                  const reg = REGULASI_PER_TAHUN[t];
+                  const isCurrentYear = t === tahun;
                   return (
-                    <TableRow key={tahun} className="border-sky-500/8 hover:bg-sky-500/[0.03]">
+                    <TableRow
+                      key={t}
+                      className={`border-sky-500/8 ${isCurrentYear ? "bg-sky-500/[0.07]" : "hover:bg-sky-500/[0.03]"}`}
+                    >
                       <TableCell className="font-mono text-sm font-bold tabular-nums">
-                        {tahun}
+                        {t}
+                        {isCurrentYear && (
+                          <span className="ml-1 text-[9px] text-sky-300 font-bold">●</span>
+                        )}
+                      </TableCell>
+                      <TableCell className="font-mono text-[10px] text-muted-foreground">
+                        {reg ? reg.permen.replace("Permendikbud ", "PM ").replace("Permendikbudristek ", "PM ").replace("& ", "") : "—"}
                       </TableCell>
                       <TableCell>
                         {ami ? (
@@ -293,19 +323,28 @@ export function StandarDetailDialog({
           </ArkhamCard>
 
           {/* Sumber Dokumen AMI */}
-          {ami2025?.dokumenAMI && (
+          {amiSelected?.dokumenAMI && (
             <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5">
-              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">Sumber Dokumen AMI</p>
-              <p className="text-xs text-sky-300 font-mono">{ami2025.dokumenAMI}</p>
+              <p className="text-[10px] font-mono uppercase tracking-wider text-muted-foreground mb-1">
+                Sumber Dokumen AMI Tahun {tahun}
+              </p>
+              <p className="text-xs text-sky-300 font-mono">{amiSelected.dokumenAMI}</p>
+              {amiSelected.tanggalAMI && (
+                <p className="text-[10px] text-muted-foreground font-mono mt-1">
+                  Tanggal Audit: {amiSelected.tanggalAMI}
+                </p>
+              )}
             </div>
           )}
 
           {/* Info */}
           <div className="p-3 rounded border border-sky-500/15 bg-sky-500/5 text-xs text-muted-foreground">
             <p className="font-mono">
-              <span className="text-sky-300 font-bold">Catatan:</span> Data AMI tahun 2021-2024 belum tersedia.
-              Tahun 2025 menampilkan hasil AMI terbaru dari 15 dokumen AMI 2024-2025 yang diaudit oleh PPM UNITA.
-              Untuk mengisi data tahun sebelumnya, unggah dokumen hasil AMI historis.
+              <span className="text-sky-300 font-bold">Catatan:</span> Data AMI multi-tahun.
+              Tahun 2023: Permendikbud 3/2020 & 5/2020 (14 dokumen AMI).
+              Tahun 2024: Permendikbudristek 53/2023 (20 dokumen AMI).
+              Tahun 2025: Permen 39/2025 (15 dokumen AMI).
+              Baris yang disorot biru menunjukkan tahun yang sedang dipilih ({tahun}).
             </p>
           </div>
         </div>

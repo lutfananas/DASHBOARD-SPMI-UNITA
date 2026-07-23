@@ -1014,6 +1014,7 @@ export default function DashboardSPMI() {
           standar={selectedStandar}
           open={dialogOpen}
           onOpenChange={setDialogOpen}
+          tahun={selectedYear}
         />
 
         {/* Footer */}
